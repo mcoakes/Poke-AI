@@ -1,0 +1,96 @@
+{
+  "name": "random_3_039",
+  "party": [
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Barrage",
+        "Hi Jump Kick",
+        "Flamethrower",
+        "Haze"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 12,
+        "atk": 1,
+        "def": 21,
+        "spa": 11,
+        "spd": 11,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wurmple",
+      "moves": [
+        "Powder Snow",
+        "Extrasensory",
+        "Bone Club",
+        "Bonemerang"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 11,
+        "atk": 25,
+        "def": 31,
+        "spa": 27,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 4,
+        "spa": 28,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Will O Wisp",
+        "Fake Tears",
+        "Spikes",
+        "Wrap"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 17,
+        "atk": 29,
+        "def": 27,
+        "spa": 10,
+        "spd": 23,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 32,
+        "spa": 12,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

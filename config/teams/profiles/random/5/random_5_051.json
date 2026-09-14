@@ -1,0 +1,152 @@
+{
+  "name": "random_5_051",
+  "party": [
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Wrap",
+        "Acid Armor",
+        "Solar Beam",
+        "Knock Off"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 19,
+        "atk": 20,
+        "def": 8,
+        "spa": 5,
+        "spd": 23,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 52,
+        "spa": 36,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Pin Missile",
+        "Cross Chop",
+        "Blizzard",
+        "Fake Out"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 22,
+        "atk": 3,
+        "def": 12,
+        "spa": 12,
+        "spd": 3,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 56,
+        "spa": 60,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Spearow",
+      "moves": [
+        "Bullet Seed",
+        "Jump Kick",
+        "Faint Attack",
+        "Taunt"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 19,
+        "atk": 3,
+        "def": 12,
+        "spa": 22,
+        "spd": 29,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 80,
+        "def": 80,
+        "spa": 76,
+        "spd": 92,
+        "spe": 96
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Triple Kick",
+        "Dive",
+        "Lock On",
+        "Confuse Ray"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 31,
+        "def": 21,
+        "spa": 5,
+        "spd": 16,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 12,
+        "spa": 20,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Staryu",
+      "moves": [
+        "Bind",
+        "Sweet Scent",
+        "Mega Drain",
+        "Octazooka"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 9,
+        "def": 8,
+        "spa": 14,
+        "spd": 22,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 76,
+        "def": 64,
+        "spa": 80,
+        "spd": 80,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

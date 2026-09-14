@@ -1,0 +1,152 @@
+{
+  "name": "competitive_5_012",
+  "party": [
+    {
+      "species": "Celebi",
+      "moves": [
+        "Giga Drain",
+        "Psychic",
+        "Recover",
+        "Leech Seed"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Earthquake",
+        "Cross Chop",
+        "Facade",
+        "Rock Slide"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Will O Wisp",
+        "Haze",
+        "Flamethrower",
+        "Sludge Bomb"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Thunder Wave",
+        "Ice Beam",
+        "Seismic Toss",
+        "Soft Boiled"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Thunderbolt",
+        "Thunder Wave",
+        "Baton Pass",
+        "Substitute"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 20265958,
+    "archetype": "bulky"
+  }
+}

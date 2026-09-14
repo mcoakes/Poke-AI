@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_083",
+  "party": [
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Thunder Shock",
+        "Double Team",
+        "Steel Wing",
+        "Drill Peck"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 14,
+        "spa": 30,
+        "spd": 16,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 32,
+        "spa": 36,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Earthquake",
+        "Horn Attack",
+        "Endure",
+        "Light Screen"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 2,
+        "atk": 29,
+        "def": 10,
+        "spa": 23,
+        "spd": 18,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 32,
+        "spa": 36,
+        "spd": 48,
+        "spe": 16
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

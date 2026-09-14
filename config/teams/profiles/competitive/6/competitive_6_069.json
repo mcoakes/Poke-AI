@@ -1,0 +1,180 @@
+{
+  "name": "competitive_6_069",
+  "party": [
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Psychic",
+        "Giga Drain",
+        "Sleep Powder",
+        "Explosion"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Ninetales",
+      "moves": [
+        "Flamethrower",
+        "Substitute",
+        "Confuse Ray",
+        "Will O Wisp"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Recover",
+        "Ice Beam",
+        "Surf",
+        "Thunderbolt"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Rest",
+        "Curse",
+        "Shadow Ball",
+        "Body Slam"
+      ],
+      "nature": "Careful",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "held_item": "Chesto Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Rest",
+        "Surf",
+        "Ice Beam",
+        "Calm Mind"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Chesto Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Dragon Dance",
+        "Earthquake",
+        "Rock Slide",
+        "Taunt"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 20266967,
+    "archetype": "bulky"
+  }
+}

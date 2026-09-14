@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_148",
+  "party": [
+    {
+      "species": "Persian",
+      "moves": [
+        "Rain Dance",
+        "Cut",
+        "Dream Eater",
+        "Flash"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 2,
+        "atk": 12,
+        "def": 14,
+        "spa": 2,
+        "spd": 7,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 32,
+        "spa": 36,
+        "spd": 16,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slowking",
+      "moves": [
+        "Dream Eater",
+        "Facade",
+        "Calm Mind",
+        "Water Gun"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 5,
+        "atk": 30,
+        "def": 16,
+        "spa": 18,
+        "spd": 27,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 8,
+        "def": 4,
+        "spa": 16,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Bite",
+        "Take Down",
+        "Curse",
+        "Sand Attack"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 18,
+        "atk": 27,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 40,
+        "spa": 36,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Ember",
+        "Howl",
+        "Quick Attack",
+        "Crush Claw"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 4,
+        "atk": 10,
+        "def": 20,
+        "spa": 28,
+        "spd": 6,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 48,
+        "spa": 24,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Facade",
+        "Sandstorm",
+        "Water Gun",
+        "Attract"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 18,
+        "atk": 29,
+        "def": 23,
+        "spa": 21,
+        "spd": 14,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 48,
+        "spa": 48,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

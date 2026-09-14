@@ -1,0 +1,68 @@
+{
+  "name": "random_2_124",
+  "party": [
+    {
+      "species": "Fearow",
+      "moves": [
+        "Destiny Bond",
+        "Strength",
+        "Outrage",
+        "Splash"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 16,
+        "atk": 21,
+        "def": 5,
+        "spa": 5,
+        "spd": 16,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 8,
+        "spa": 0,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Flatter",
+        "Karate Chop",
+        "Metal Claw",
+        "Signal Beam"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 14,
+        "atk": 12,
+        "def": 30,
+        "spa": 28,
+        "spd": 4,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 12,
+        "spa": 8,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

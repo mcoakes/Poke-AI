@@ -1,0 +1,114 @@
+{
+  "name": "Four Member Balance",
+  "party": [
+    {
+      "species": "Swampert",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Earthquake",
+        "Ice Beam",
+        "Protect"
+      ],
+      "nature": "Relaxed",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Metagross",
+      "level": 50,
+      "moves": [
+        "Meteor Mash",
+        "Earthquake",
+        "Rock Slide",
+        "Explosion"
+      ],
+      "nature": "Adamant",
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Zapdos",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Drill Peck",
+        "Thunder Wave",
+        "Rest"
+      ],
+      "nature": "Modest",
+      "held_item": "Chesto Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Snorlax",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Shadow Ball",
+        "Curse",
+        "Rest"
+      ],
+      "nature": "Careful",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    }
+  ]
+}

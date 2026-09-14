@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_146",
+  "party": [
+    {
+      "species": "Articuno",
+      "moves": [
+        "Ice Beam",
+        "Mimic",
+        "Fly",
+        "Secret Power"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 15,
+        "spa": 27,
+        "spd": 0,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 44,
+        "spa": 28,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Rest",
+        "Take Down",
+        "Rock Tomb",
+        "Secret Power"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 13,
+        "atk": 22,
+        "def": 8,
+        "spa": 24,
+        "spd": 21,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 32,
+        "spa": 20,
+        "spd": 8,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Quick Attack",
+        "Aurora Beam",
+        "Double Team",
+        "Return"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 14,
+        "atk": 15,
+        "def": 18,
+        "spa": 30,
+        "spd": 13,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 40,
+        "def": 4,
+        "spa": 24,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Light Screen",
+        "Shadow Ball",
+        "Tackle",
+        "Confusion"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 7,
+        "def": 6,
+        "spa": 2,
+        "spd": 6,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 20,
+        "spa": 28,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Foresight",
+        "Iron Tail",
+        "Refresh",
+        "Water Gun"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 10,
+        "atk": 30,
+        "def": 15,
+        "spa": 18,
+        "spd": 17,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 64,
+        "def": 80,
+        "spa": 64,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

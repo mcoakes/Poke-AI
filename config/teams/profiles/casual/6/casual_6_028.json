@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_028",
+  "party": [
+    {
+      "species": "Shroomish",
+      "moves": [
+        "False Swipe",
+        "Leech Seed",
+        "Hidden Power",
+        "Giga Drain"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 26,
+        "atk": 14,
+        "def": 24,
+        "spa": 26,
+        "spd": 2,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 60,
+        "spa": 64,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Sludge Bomb",
+        "Double Team",
+        "Facade",
+        "Destiny Bond"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 15,
+        "def": 21,
+        "spa": 5,
+        "spd": 23,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 20,
+        "spa": 4,
+        "spd": 4,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Quick Attack",
+        "Trick",
+        "Attract",
+        "Brick Break"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 30,
+        "spa": 5,
+        "spd": 8,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 56,
+        "spa": 40,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Rock Slide",
+        "Frustration",
+        "Protect",
+        "Thunderbolt"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 4,
+        "atk": 9,
+        "def": 31,
+        "spa": 3,
+        "spd": 27,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 24,
+        "def": 20,
+        "spa": 28,
+        "spd": 40,
+        "spe": 12
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Sludge Bomb",
+        "Frustration",
+        "Strength",
+        "Mimic"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 16,
+        "atk": 22,
+        "def": 22,
+        "spa": 7,
+        "spd": 20,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 20,
+        "def": 24,
+        "spa": 40,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Aurora Beam",
+        "Rock Tomb",
+        "Thief",
+        "Hail"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 1,
+        "atk": 28,
+        "def": 25,
+        "spa": 6,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 28,
+        "spa": 36,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_015",
+  "party": [
+    {
+      "species": "Tropius",
+      "moves": [
+        "Signal Beam",
+        "Feather Dance",
+        "Grass Whistle",
+        "Rock Throw"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 7,
+        "atk": 18,
+        "def": 24,
+        "spa": 14,
+        "spd": 4,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 72,
+        "def": 76,
+        "spa": 64,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Ice Punch",
+        "Doom Desire",
+        "Teleport",
+        "String Shot"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 23,
+        "atk": 19,
+        "def": 22,
+        "spa": 14,
+        "spd": 25,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 84,
+        "def": 68,
+        "spa": 80,
+        "spd": 48,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Bubble",
+        "Teleport",
+        "Glare",
+        "Mean Look"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 16,
+        "spa": 6,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

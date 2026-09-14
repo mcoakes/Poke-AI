@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_112",
+  "party": [
+    {
+      "species": "Electabuzz",
+      "moves": [
+        "Meditate",
+        "Cross Chop",
+        "Shock Wave",
+        "Leer"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 20,
+        "spa": 11,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

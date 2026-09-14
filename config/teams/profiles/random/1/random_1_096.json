@@ -1,0 +1,40 @@
+{
+  "name": "random_1_096",
+  "party": [
+    {
+      "species": "Porygon",
+      "moves": [
+        "Hi Jump Kick",
+        "Dynamic Punch",
+        "Leer",
+        "Hyper Beam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 6,
+        "atk": 2,
+        "def": 12,
+        "spa": 16,
+        "spd": 4,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 68,
+        "def": 52,
+        "spa": 80,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_048",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Future Sight",
+        "Torment",
+        "Rest",
+        "Facade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 22,
+        "def": 3,
+        "spa": 29,
+        "spd": 8,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 36,
+        "spa": 52,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Splash",
+        "Aerial Ace",
+        "Frustration",
+        "Giga Drain"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 24,
+        "atk": 6,
+        "def": 21,
+        "spa": 13,
+        "spd": 3,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 88,
+        "def": 60,
+        "spa": 64,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Rock Tomb",
+        "Iron Tail",
+        "Protect",
+        "Waterfall"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 19,
+        "atk": 21,
+        "def": 4,
+        "spa": 23,
+        "spd": 7,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 24,
+        "spa": 12,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

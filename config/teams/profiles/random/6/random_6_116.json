@@ -1,0 +1,180 @@
+{
+  "name": "random_6_116",
+  "party": [
+    {
+      "species": "Metagross",
+      "moves": [
+        "Sludge",
+        "Glare",
+        "Growth",
+        "Helping Hand"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 23,
+        "spa": 28,
+        "spd": 3,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 80,
+        "def": 92,
+        "spa": 100,
+        "spd": 96,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Flatter",
+        "Nightmare",
+        "Mud Sport",
+        "Tri Attack"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 3,
+        "atk": 12,
+        "def": 11,
+        "spa": 26,
+        "spd": 12,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 36,
+        "spa": 60,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Conversion",
+        "Thunder Shock",
+        "Assist",
+        "Refresh"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 23,
+        "atk": 10,
+        "def": 0,
+        "spa": 16,
+        "spd": 14,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 56,
+        "spa": 52,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Mirror Move",
+        "Flail",
+        "Rock Smash",
+        "Minimize"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 22,
+        "spa": 22,
+        "spd": 16,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 96,
+        "def": 84,
+        "spa": 72,
+        "spd": 76,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Skull Bash",
+        "Constrict",
+        "Bide",
+        "Egg Bomb"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 22,
+        "atk": 24,
+        "def": 14,
+        "spa": 27,
+        "spd": 10,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 60,
+        "spa": 52,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Articuno",
+      "moves": [
+        "Lick",
+        "Sand Attack",
+        "Air Cutter",
+        "Fury Cutter"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 26,
+        "atk": 2,
+        "def": 22,
+        "spa": 15,
+        "spd": 15,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 32,
+        "spa": 80,
+        "spd": 92,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

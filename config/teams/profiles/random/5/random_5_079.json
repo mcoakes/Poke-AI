@@ -1,0 +1,152 @@
+{
+  "name": "random_5_079",
+  "party": [
+    {
+      "species": "Togepi",
+      "moves": [
+        "Arm Thrust",
+        "Absorb",
+        "Comet Punch",
+        "Dig"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 3,
+        "spa": 8,
+        "spd": 27,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 60,
+        "spa": 92,
+        "spd": 80,
+        "spe": 84
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Aurora Beam",
+        "Whirlpool",
+        "Soft Boiled",
+        "Transform"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 23,
+        "spa": 26,
+        "spd": 17,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 84,
+        "def": 52,
+        "spa": 56,
+        "spd": 80,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Recover",
+        "Mist Ball",
+        "Pound",
+        "Mirror Coat"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 15,
+        "atk": 18,
+        "def": 17,
+        "spa": 14,
+        "spd": 31,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 64,
+        "def": 56,
+        "spa": 108,
+        "spd": 76,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Swift",
+        "Low Kick",
+        "Memento",
+        "Wing Attack"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 16,
+        "atk": 2,
+        "def": 9,
+        "spa": 20,
+        "spd": 9,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 12,
+        "def": 28,
+        "spa": 44,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Sleep Talk",
+        "Fissure",
+        "Petal Dance",
+        "Recycle"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 7,
+        "atk": 23,
+        "def": 28,
+        "spa": 29,
+        "spd": 17,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 24,
+        "def": 12,
+        "spa": 32,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

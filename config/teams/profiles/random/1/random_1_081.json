@@ -1,0 +1,40 @@
+{
+  "name": "random_1_081",
+  "party": [
+    {
+      "species": "Kingler",
+      "moves": [
+        "Sweet Kiss",
+        "Facade",
+        "Dynamic Punch",
+        "Teleport"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 1,
+        "def": 20,
+        "spa": 24,
+        "spd": 10,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 28,
+        "spa": 44,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

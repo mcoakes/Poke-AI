@@ -1,0 +1,40 @@
+{
+  "name": "random_1_085",
+  "party": [
+    {
+      "species": "Quilava",
+      "moves": [
+        "Sharpen",
+        "Knock Off",
+        "Horn Attack",
+        "Horn Drill"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 19,
+        "atk": 11,
+        "def": 2,
+        "spa": 29,
+        "spd": 11,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 16,
+        "spa": 68,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

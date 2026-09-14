@@ -1,0 +1,180 @@
+{
+  "name": "random_6_064",
+  "party": [
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Icy Wind",
+        "Double Slap",
+        "Smelling Salt",
+        "Trick"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 3,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 15,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 72,
+        "def": 56,
+        "spa": 40,
+        "spd": 92,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Megahorn",
+        "Pin Missile",
+        "Luster Purge",
+        "Cut"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 18,
+        "def": 5,
+        "spa": 6,
+        "spd": 3,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 52,
+        "spa": 64,
+        "spd": 68,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Sharpen",
+        "Thunderbolt",
+        "Mist Ball",
+        "Bounce"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 21,
+        "def": 16,
+        "spa": 0,
+        "spd": 1,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 40,
+        "spa": 52,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Sky Attack",
+        "Solar Beam",
+        "Covet",
+        "Jump Kick"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 8,
+        "atk": 21,
+        "def": 21,
+        "spa": 19,
+        "spd": 0,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 40,
+        "spa": 56,
+        "spd": 32,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Focus Energy",
+        "Aurora Beam",
+        "Screech",
+        "Foresight"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 4,
+        "atk": 28,
+        "def": 10,
+        "spa": 13,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 28,
+        "spa": 12,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Bonemerang",
+        "Conversion",
+        "Snatch",
+        "Poison Sting"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 6,
+        "atk": 11,
+        "def": 18,
+        "spa": 28,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 84,
+        "def": 44,
+        "spa": 64,
+        "spd": 88,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

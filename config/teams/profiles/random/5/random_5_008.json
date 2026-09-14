@@ -1,0 +1,152 @@
+{
+  "name": "random_5_008",
+  "party": [
+    {
+      "species": "Slaking",
+      "moves": [
+        "Bounce",
+        "Horn Attack",
+        "Giga Drain",
+        "Roar"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 30,
+        "atk": 16,
+        "def": 4,
+        "spa": 30,
+        "spd": 30,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 64,
+        "def": 80,
+        "spa": 48,
+        "spd": 112,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Spheal",
+      "moves": [
+        "Barrier",
+        "Cross Chop",
+        "Overheat",
+        "Fire Punch"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 26,
+        "atk": 27,
+        "def": 11,
+        "spa": 14,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 40,
+        "spa": 84,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Scary Face",
+        "Powder Snow",
+        "Rock Blast",
+        "Icicle Spear"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 4,
+        "atk": 26,
+        "def": 3,
+        "spa": 23,
+        "spd": 17,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 4,
+        "spa": 16,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Solar Beam",
+        "Giga Drain",
+        "Ancient Power",
+        "Fissure"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 19,
+        "atk": 29,
+        "def": 13,
+        "spa": 31,
+        "spd": 0,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 76,
+        "def": 76,
+        "spa": 76,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Arbok",
+      "moves": [
+        "Rolling Kick",
+        "Take Down",
+        "Thunderbolt",
+        "Spider Web"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 22,
+        "atk": 14,
+        "def": 5,
+        "spa": 2,
+        "spd": 6,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 44,
+        "spa": 44,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

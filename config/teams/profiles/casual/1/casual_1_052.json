@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_052",
+  "party": [
+    {
+      "species": "Flareon",
+      "moves": [
+        "Flamethrower",
+        "Double Edge",
+        "Bite",
+        "Rest"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 20,
+        "atk": 21,
+        "def": 25,
+        "spa": 15,
+        "spd": 9,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 72,
+        "spa": 68,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_024",
+  "party": [
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Teeter Dance",
+        "Revenge",
+        "Needle Arm",
+        "Giga Drain"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 19,
+        "def": 29,
+        "spa": 19,
+        "spd": 24,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 72,
+        "spa": 32,
+        "spd": 36,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Counter",
+        "Meteor Mash",
+        "Body Slam",
+        "Snatch"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 14,
+        "atk": 18,
+        "def": 19,
+        "spa": 17,
+        "spd": 10,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 44,
+        "spa": 24,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Rock Slide",
+        "Seismic Toss",
+        "Earthquake",
+        "Roar"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 21,
+        "spa": 11,
+        "spd": 21,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 44,
+        "spa": 80,
+        "spd": 84,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Fury Swipes",
+        "Yawn",
+        "Earthquake",
+        "Body Slam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 0,
+        "atk": 21,
+        "def": 5,
+        "spa": 20,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 40,
+        "spa": 24,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Body Slam",
+        "Future Sight",
+        "Substitute",
+        "Confusion"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 17,
+        "def": 9,
+        "spa": 10,
+        "spd": 5,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 40,
+        "spa": 52,
+        "spd": 96,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

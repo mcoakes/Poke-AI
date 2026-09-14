@@ -1,0 +1,152 @@
+{
+  "name": "competitive_5_145",
+  "party": [
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Ice Beam",
+        "Rapid Spin",
+        "Surf",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Return",
+        "Drill Peck",
+        "Steel Wing",
+        "Quick Attack"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Sky Uppercut",
+        "Fire Blast",
+        "Swords Dance",
+        "Rock Slide"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Will O Wisp",
+        "Haze",
+        "Flamethrower",
+        "Sludge Bomb"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Thunderbolt",
+        "Psychic",
+        "Calm Mind",
+        "Will O Wisp"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 20265958,
+    "archetype": "balanced"
+  }
+}

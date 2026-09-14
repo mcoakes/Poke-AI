@@ -1,0 +1,180 @@
+{
+  "name": "random_6_118",
+  "party": [
+    {
+      "species": "Xatu",
+      "moves": [
+        "Double Team",
+        "Thunderbolt",
+        "Meteor Mash",
+        "Water Gun"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 25,
+        "spa": 18,
+        "spd": 7,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 8,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Sky Attack",
+        "Mega Drain",
+        "Aerial Ace",
+        "Nature Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 15,
+        "atk": 21,
+        "def": 29,
+        "spa": 13,
+        "spd": 15,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 72,
+        "def": 76,
+        "spa": 72,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Granbull",
+      "moves": [
+        "Guillotine",
+        "Mega Kick",
+        "Hyper Voice",
+        "Slam"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 21,
+        "def": 4,
+        "spa": 22,
+        "spd": 17,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Spore",
+        "Hidden Power",
+        "Double Edge",
+        "Leaf Blade"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 29,
+        "spa": 2,
+        "spd": 2,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 92,
+        "def": 76,
+        "spa": 100,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Solrock",
+      "moves": [
+        "Rapid Spin",
+        "Light Screen",
+        "Blizzard",
+        "Hyper Beam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 18,
+        "def": 14,
+        "spa": 16,
+        "spd": 25,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 4,
+        "spa": 8,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Leech Seed",
+        "Blizzard",
+        "Thief",
+        "Bite"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 0,
+        "atk": 19,
+        "def": 10,
+        "spa": 5,
+        "spd": 12,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 100,
+        "def": 84,
+        "spa": 72,
+        "spd": 88,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

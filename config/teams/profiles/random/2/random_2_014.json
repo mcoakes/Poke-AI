@@ -1,0 +1,68 @@
+{
+  "name": "random_2_014",
+  "party": [
+    {
+      "species": "Barboach",
+      "moves": [
+        "Taunt",
+        "Present",
+        "Calm Mind",
+        "Hyper Voice"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 7,
+        "atk": 30,
+        "def": 12,
+        "spa": 5,
+        "spd": 7,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 36,
+        "def": 72,
+        "spa": 36,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Arm Thrust",
+        "Nature Power",
+        "Memento",
+        "Nightmare"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 24,
+        "atk": 27,
+        "def": 20,
+        "spa": 17,
+        "spd": 31,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 40,
+        "spa": 72,
+        "spd": 48,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_023",
+  "party": [
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Mist",
+        "Icicle Spear",
+        "Bone Rush",
+        "Swift"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 28,
+        "atk": 1,
+        "def": 10,
+        "spa": 17,
+        "spd": 15,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 28,
+        "def": 28,
+        "spa": 20,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ariados",
+      "moves": [
+        "Bullet Seed",
+        "Growl",
+        "Headbutt",
+        "Psywave"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 27,
+        "atk": 11,
+        "def": 30,
+        "spa": 9,
+        "spd": 9,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 68,
+        "spa": 76,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Signal Beam",
+        "Bide",
+        "Camouflage",
+        "Double Edge"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 4,
+        "atk": 10,
+        "def": 19,
+        "spa": 29,
+        "spd": 10,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 32,
+        "spa": 36,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Grimer",
+      "moves": [
+        "Hypnosis",
+        "Wing Attack",
+        "Double Kick",
+        "Surf"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 6,
+        "atk": 6,
+        "def": 23,
+        "spa": 28,
+        "spd": 15,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 52,
+        "def": 60,
+        "spa": 56,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_147",
+  "party": [
+    {
+      "species": "Deoxys",
+      "moves": [
+        "Fake Out",
+        "Spider Web",
+        "Razor Wind",
+        "Dream Eater"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 31,
+        "spa": 1,
+        "spd": 2,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 40,
+        "def": 84,
+        "spa": 60,
+        "spd": 68,
+        "spe": 84
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Fissure",
+        "Frenzy Plant",
+        "Metal Claw",
+        "Grudge"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 9,
+        "spa": 31,
+        "spd": 11,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 56,
+        "def": 40,
+        "spa": 28,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Calm Mind",
+        "Pain Split",
+        "Submission",
+        "Uproar"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 31,
+        "atk": 11,
+        "def": 26,
+        "spa": 15,
+        "spd": 11,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

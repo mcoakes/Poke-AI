@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_081",
+  "party": [
+    {
+      "species": "Charmander",
+      "moves": [
+        "Flamethrower",
+        "Metal Claw",
+        "Dragon Dance",
+        "Sunny Day"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 22,
+        "def": 3,
+        "spa": 17,
+        "spd": 19,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 56,
+        "spa": 40,
+        "spd": 36,
+        "spe": 80
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

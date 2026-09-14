@@ -1,0 +1,180 @@
+{
+  "name": "random_6_006",
+  "party": [
+    {
+      "species": "Electrode",
+      "moves": [
+        "Flame Wheel",
+        "Screech",
+        "Water Sport",
+        "Thunder Punch"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 15,
+        "def": 22,
+        "spa": 25,
+        "spd": 1,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 84,
+        "spa": 76,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swablu",
+      "moves": [
+        "Metal Sound",
+        "Sludge Bomb",
+        "Rock Tomb",
+        "Barrier"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 26,
+        "atk": 8,
+        "def": 18,
+        "spa": 0,
+        "spd": 11,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 64,
+        "def": 88,
+        "spa": 100,
+        "spd": 64,
+        "spe": 108
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Strength",
+        "Agility",
+        "Megahorn",
+        "Pin Missile"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 0,
+        "atk": 21,
+        "def": 21,
+        "spa": 17,
+        "spd": 17,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 32,
+        "spa": 4,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Future Sight",
+        "Nightmare",
+        "Iron Tail",
+        "Sand Tomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 29,
+        "def": 25,
+        "spa": 6,
+        "spd": 24,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 56,
+        "spa": 32,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bagon",
+      "moves": [
+        "String Shot",
+        "Conversion",
+        "Confusion",
+        "Hyper Voice"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 2,
+        "spa": 5,
+        "spd": 8,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 12,
+        "spa": 8,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Metal Sound",
+        "Tail Whip",
+        "Psychic",
+        "Confuse Ray"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 23,
+        "def": 11,
+        "spa": 23,
+        "spd": 2,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 16,
+        "spa": 4,
+        "spd": 16,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

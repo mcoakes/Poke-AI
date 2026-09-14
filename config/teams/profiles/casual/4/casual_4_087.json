@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_087",
+  "party": [
+    {
+      "species": "Mawile",
+      "moves": [
+        "Faint Attack",
+        "Mega Punch",
+        "Iron Defense",
+        "Toxic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 10,
+        "atk": 21,
+        "def": 20,
+        "spa": 6,
+        "spd": 31,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 28,
+        "spa": 24,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Double Team",
+        "Thunderbolt",
+        "Waterfall",
+        "Blizzard"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 17,
+        "atk": 18,
+        "def": 5,
+        "spa": 8,
+        "spd": 29,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 12,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Seismic Toss",
+        "Giga Drain",
+        "Crunch",
+        "Screech"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 6,
+        "spa": 25,
+        "spd": 18,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 40,
+        "spa": 44,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Water Pulse",
+        "Giga Drain",
+        "Mimic",
+        "Sweet Scent"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 19,
+        "atk": 4,
+        "def": 14,
+        "spa": 27,
+        "spd": 29,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 32,
+        "def": 56,
+        "spa": 36,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

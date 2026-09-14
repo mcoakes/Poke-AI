@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_050",
+  "party": [
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Dive",
+        "Facade",
+        "Screech",
+        "Safeguard"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 24,
+        "atk": 19,
+        "def": 16,
+        "spa": 22,
+        "spd": 7,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 52,
+        "spa": 40,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Facade",
+        "Light Screen",
+        "Rain Dance",
+        "Fly"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 8,
+        "atk": 15,
+        "def": 9,
+        "spa": 27,
+        "spd": 23,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 40,
+        "spa": 48,
+        "spd": 72,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

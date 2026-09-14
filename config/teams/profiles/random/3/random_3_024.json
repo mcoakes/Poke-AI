@@ -1,0 +1,96 @@
+{
+  "name": "random_3_024",
+  "party": [
+    {
+      "species": "Articuno",
+      "moves": [
+        "Thrash",
+        "Stockpile",
+        "Vine Whip",
+        "Pain Split"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 30,
+        "atk": 15,
+        "def": 10,
+        "spa": 20,
+        "spd": 11,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 80,
+        "spa": 88,
+        "spd": 64,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Feather Dance",
+        "Acid Armor",
+        "Rest",
+        "Sing"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 18,
+        "atk": 19,
+        "def": 29,
+        "spa": 24,
+        "spd": 23,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 84,
+        "def": 60,
+        "spa": 56,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hypno",
+      "moves": [
+        "Fake Tears",
+        "Sludge",
+        "Frenzy Plant",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 0,
+        "def": 6,
+        "spa": 5,
+        "spd": 7,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 76,
+        "def": 68,
+        "spa": 92,
+        "spd": 68,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

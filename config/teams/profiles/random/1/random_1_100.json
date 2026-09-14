@@ -1,0 +1,40 @@
+{
+  "name": "random_1_100",
+  "party": [
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Light Screen",
+        "Glare",
+        "Ice Punch",
+        "Twister"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 7,
+        "atk": 4,
+        "def": 12,
+        "spa": 14,
+        "spd": 26,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 40,
+        "def": 56,
+        "spa": 56,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

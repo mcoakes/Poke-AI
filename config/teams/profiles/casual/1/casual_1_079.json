@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_079",
+  "party": [
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Synthesis",
+        "Giga Drain",
+        "Cut",
+        "Sunny Day"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 30,
+        "atk": 20,
+        "def": 9,
+        "spa": 28,
+        "spd": 5,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 40,
+        "spa": 72,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

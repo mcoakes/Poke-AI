@@ -1,0 +1,96 @@
+{
+  "name": "random_3_104",
+  "party": [
+    {
+      "species": "Spearow",
+      "moves": [
+        "Conversion 2",
+        "Conversion",
+        "Hi Jump Kick",
+        "Weather Ball"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 6,
+        "atk": 16,
+        "def": 26,
+        "spa": 22,
+        "spd": 3,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 36,
+        "spa": 44,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Tail Whip",
+        "Mean Look",
+        "Destiny Bond",
+        "Camouflage"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 5,
+        "atk": 3,
+        "def": 5,
+        "spa": 23,
+        "spd": 18,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 44,
+        "spa": 16,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Slam",
+        "Imprison",
+        "Mud Slap",
+        "Double Slap"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 7,
+        "spa": 5,
+        "spd": 26,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 12,
+        "spa": 44,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

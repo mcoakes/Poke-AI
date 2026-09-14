@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_014",
+  "party": [
+    {
+      "species": "Mawile",
+      "moves": [
+        "Vice Grip",
+        "Mega Punch",
+        "Attract",
+        "Ancient Power"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 4,
+        "atk": 26,
+        "def": 4,
+        "spa": 29,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 68,
+        "spa": 68,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Water Pulse",
+        "Blizzard",
+        "Sweet Scent",
+        "Razor Leaf"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 21,
+        "atk": 18,
+        "def": 26,
+        "spa": 4,
+        "spd": 26,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 16,
+        "def": 40,
+        "spa": 56,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Uproar",
+        "Substitute",
+        "Shock Wave",
+        "Headbutt"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 16,
+        "atk": 7,
+        "def": 15,
+        "spa": 21,
+        "spd": 22,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 36,
+        "spa": 20,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Brick Break",
+        "Silver Wind",
+        "Tail Glow",
+        "Facade"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 29,
+        "atk": 7,
+        "def": 10,
+        "spa": 30,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Mega Punch",
+        "Foresight",
+        "Surf",
+        "Aerial Ace"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 26,
+        "atk": 6,
+        "def": 20,
+        "spa": 20,
+        "spd": 2,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 84,
+        "def": 68,
+        "spa": 60,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ledyba",
+      "moves": [
+        "Secret Power",
+        "Toxic",
+        "Aerial Ace",
+        "Silver Wind"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 12,
+        "atk": 22,
+        "def": 9,
+        "spa": 5,
+        "spd": 12,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 116,
+        "def": 52,
+        "spa": 64,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

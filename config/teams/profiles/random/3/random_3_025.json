@@ -1,0 +1,96 @@
+{
+  "name": "random_3_025",
+  "party": [
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Rapid Spin",
+        "Twister",
+        "Growth",
+        "Metal Sound"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 19,
+        "atk": 25,
+        "def": 15,
+        "spa": 22,
+        "spd": 13,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Venonat",
+      "moves": [
+        "Low Kick",
+        "Barrage",
+        "Fire Blast",
+        "Bulk Up"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 9,
+        "atk": 9,
+        "def": 10,
+        "spa": 18,
+        "spd": 7,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 72,
+        "def": 84,
+        "spa": 104,
+        "spd": 72,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Mist Ball",
+        "Magnitude",
+        "Sleep Talk",
+        "Blaze Kick"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 22,
+        "atk": 1,
+        "def": 17,
+        "spa": 25,
+        "spd": 9,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 16,
+        "spa": 12,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_095",
+  "party": [
+    {
+      "species": "Koffing",
+      "moves": [
+        "Protect",
+        "Secret Power",
+        "Double Team",
+        "Sludge"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 7,
+        "atk": 21,
+        "def": 19,
+        "spa": 13,
+        "spd": 22,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 52,
+        "spa": 52,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Secret Power",
+        "Facade",
+        "Dig",
+        "Substitute"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 22,
+        "def": 24,
+        "spa": 24,
+        "spd": 27,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 44,
+        "spa": 60,
+        "spd": 36,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Meditate",
+        "Hidden Power",
+        "Brick Break",
+        "Thief"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 5,
+        "atk": 29,
+        "def": 15,
+        "spa": 0,
+        "spd": 29,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 84,
+        "def": 60,
+        "spa": 60,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

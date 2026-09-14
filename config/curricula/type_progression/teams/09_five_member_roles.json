@@ -1,0 +1,142 @@
+{
+  "name": "Five Member Roles",
+  "party": [
+    {
+      "species": "Tyranitar",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Dragon Dance",
+        "Taunt"
+      ],
+      "nature": "Adamant",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Skarmory",
+      "level": 50,
+      "moves": [
+        "Drill Peck",
+        "Spikes",
+        "Roar",
+        "Protect"
+      ],
+      "nature": "Impish",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Recover",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Breloom",
+      "level": 50,
+      "moves": [
+        "Mach Punch",
+        "Sky Uppercut",
+        "Spore",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Gengar",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Giga Drain",
+        "Hypnosis",
+        "Explosion"
+      ],
+      "nature": "Timid",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

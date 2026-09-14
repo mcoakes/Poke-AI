@@ -1,0 +1,152 @@
+{
+  "name": "random_5_141",
+  "party": [
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Doom Desire",
+        "Nature Power",
+        "Magical Leaf",
+        "Charm"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 18,
+        "spa": 24,
+        "spd": 23,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 76,
+        "spa": 76,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Screech",
+        "Wrap",
+        "Volt Tackle",
+        "Lick"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 0,
+        "atk": 11,
+        "def": 4,
+        "spa": 15,
+        "spd": 8,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 8,
+        "spa": 8,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Grudge",
+        "Giga Drain",
+        "Mud Shot",
+        "Mirror Coat"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 1,
+        "atk": 13,
+        "def": 11,
+        "spa": 30,
+        "spd": 5,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 28,
+        "spa": 36,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Belly Drum",
+        "Revenge",
+        "Fire Punch",
+        "Self Destruct"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 29,
+        "atk": 30,
+        "def": 13,
+        "spa": 27,
+        "spd": 11,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 48,
+        "spa": 44,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Leech Seed",
+        "Powder Snow",
+        "Kinesis",
+        "Spider Web"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 31,
+        "def": 26,
+        "spa": 25,
+        "spd": 26,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 36,
+        "spa": 64,
+        "spd": 24,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

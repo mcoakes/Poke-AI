@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_048",
+  "party": [
+    {
+      "species": "Zubat",
+      "moves": [
+        "Mimic",
+        "Facade",
+        "Double Team",
+        "Aerial Ace"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 23,
+        "atk": 7,
+        "def": 31,
+        "spa": 9,
+        "spd": 8,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 32,
+        "spa": 52,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gulpin",
+      "moves": [
+        "Shock Wave",
+        "Sunny Day",
+        "Pain Split",
+        "Sludge"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 27,
+        "atk": 24,
+        "def": 17,
+        "spa": 24,
+        "spd": 15,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 64,
+        "spa": 40,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Headbutt",
+        "Pursuit",
+        "Charm",
+        "Rain Dance"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 11,
+        "atk": 7,
+        "def": 16,
+        "spa": 13,
+        "spd": 0,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Agility",
+        "Mega Drain",
+        "False Swipe",
+        "Strength"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 14,
+        "atk": 6,
+        "def": 31,
+        "spa": 31,
+        "spd": 14,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 60,
+        "spa": 36,
+        "spd": 40,
+        "spe": 76
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "Frustration",
+        "Dig",
+        "Giga Drain",
+        "Sweet Scent"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 18,
+        "atk": 9,
+        "def": 27,
+        "spa": 23,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 28,
+        "spa": 20,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Dive",
+        "Scary Face",
+        "Hydro Pump",
+        "Scratch"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 17,
+        "atk": 26,
+        "def": 8,
+        "spa": 0,
+        "spd": 21,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 60,
+        "spa": 56,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

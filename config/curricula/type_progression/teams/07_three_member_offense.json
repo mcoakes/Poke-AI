@@ -1,0 +1,89 @@
+{
+  "name": "Three Member Offense",
+  "party": [
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Dragon Claw",
+        "Brick Break",
+        "Substitute"
+      ],
+      "nature": "Mild",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Starmie",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Thunderbolt",
+        "Ice Beam",
+        "Recover"
+      ],
+      "nature": "Timid",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Heracross",
+      "level": 50,
+      "moves": [
+        "Megahorn",
+        "Brick Break",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "nature": "Jolly",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

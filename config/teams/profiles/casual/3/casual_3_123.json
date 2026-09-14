@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_123",
+  "party": [
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Screech",
+        "Torment",
+        "Shadow Ball",
+        "Body Slam"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 24,
+        "atk": 3,
+        "def": 18,
+        "spa": 9,
+        "spd": 17,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 24,
+        "def": 52,
+        "spa": 56,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Mega Punch",
+        "Rock Tomb",
+        "Stomp",
+        "Sunny Day"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 7,
+        "atk": 4,
+        "def": 26,
+        "spa": 28,
+        "spd": 6,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 84,
+        "spa": 56,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Meowth",
+      "moves": [
+        "Charm",
+        "Facade",
+        "Body Slam",
+        "Dream Eater"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 30,
+        "atk": 24,
+        "def": 1,
+        "spa": 4,
+        "spd": 11,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 60,
+        "def": 16,
+        "spa": 52,
+        "spd": 96,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

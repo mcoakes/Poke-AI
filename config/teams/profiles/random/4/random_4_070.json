@@ -1,0 +1,124 @@
+{
+  "name": "random_4_070",
+  "party": [
+    {
+      "species": "Slakoth",
+      "moves": [
+        "Aerial Ace",
+        "Seismic Toss",
+        "Fly",
+        "Grass Whistle"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 13,
+        "atk": 14,
+        "def": 29,
+        "spa": 4,
+        "spd": 6,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 60,
+        "def": 52,
+        "spa": 84,
+        "spd": 52,
+        "spe": 124
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seviper",
+      "moves": [
+        "Tackle",
+        "Crunch",
+        "Magnitude",
+        "Disable"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 14,
+        "atk": 4,
+        "def": 1,
+        "spa": 18,
+        "spd": 8,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 40,
+        "spa": 52,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Espeon",
+      "moves": [
+        "Absorb",
+        "Hyper Voice",
+        "Stun Spore",
+        "Seismic Toss"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 21,
+        "atk": 7,
+        "def": 15,
+        "spa": 7,
+        "spd": 29,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 80,
+        "def": 84,
+        "spa": 60,
+        "spd": 96,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Icicle Spear",
+        "Toxic",
+        "Psychic",
+        "Present"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 11,
+        "atk": 11,
+        "def": 18,
+        "spa": 0,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 84,
+        "def": 76,
+        "spa": 92,
+        "spd": 72,
+        "spe": 80
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

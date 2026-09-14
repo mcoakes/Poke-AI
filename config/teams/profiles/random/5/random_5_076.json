@@ -1,0 +1,152 @@
+{
+  "name": "random_5_076",
+  "party": [
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Nightmare",
+        "Blizzard",
+        "Covet",
+        "Double Slap"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 13,
+        "atk": 1,
+        "def": 6,
+        "spa": 15,
+        "spd": 23,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 64,
+        "spa": 48,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kyogre",
+      "moves": [
+        "Mirror Coat",
+        "Howl",
+        "Focus Energy",
+        "Shadow Punch"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 23,
+        "atk": 24,
+        "def": 18,
+        "spa": 12,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 64,
+        "spa": 44,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Thunder Wave",
+        "Flame Wheel",
+        "Hydro Cannon",
+        "Bonemerang"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 13,
+        "atk": 12,
+        "def": 29,
+        "spa": 31,
+        "spd": 28,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 8,
+        "spa": 16,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slugma",
+      "moves": [
+        "Ice Ball",
+        "Fissure",
+        "Luster Purge",
+        "Submission"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 17,
+        "def": 29,
+        "spa": 5,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 48,
+        "spa": 40,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Snore",
+        "Assist",
+        "Rock Blast",
+        "Needle Arm"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 0,
+        "spa": 24,
+        "spd": 3,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 52,
+        "spa": 96,
+        "spd": 44,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

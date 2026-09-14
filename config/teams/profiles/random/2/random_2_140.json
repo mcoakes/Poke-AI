@@ -1,0 +1,68 @@
+{
+  "name": "random_2_140",
+  "party": [
+    {
+      "species": "Aron",
+      "moves": [
+        "Mega Kick",
+        "Body Slam",
+        "Secret Power",
+        "Skill Swap"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 15,
+        "spa": 18,
+        "spd": 2,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 84,
+        "def": 28,
+        "spa": 76,
+        "spd": 64,
+        "spe": 104
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Signal Beam",
+        "Milk Drink",
+        "Sonic Boom",
+        "Focus Energy"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 1,
+        "atk": 22,
+        "def": 1,
+        "spa": 24,
+        "spd": 3,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 16,
+        "spa": 52,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

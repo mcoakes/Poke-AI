@@ -1,0 +1,96 @@
+{
+  "name": "random_3_137",
+  "party": [
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Transform",
+        "Protect",
+        "Absorb",
+        "Hyper Beam"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 10,
+        "atk": 19,
+        "def": 20,
+        "spa": 16,
+        "spd": 23,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 68,
+        "def": 52,
+        "spa": 36,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Hyper Voice",
+        "Fly",
+        "Knock Off",
+        "Hidden Power"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 29,
+        "atk": 21,
+        "def": 28,
+        "spa": 3,
+        "spd": 10,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 20,
+        "spa": 40,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pupitar",
+      "moves": [
+        "Curse",
+        "String Shot",
+        "Explosion",
+        "Flash"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 23,
+        "atk": 16,
+        "def": 28,
+        "spa": 22,
+        "spd": 19,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 32,
+        "spa": 32,
+        "spd": 24,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

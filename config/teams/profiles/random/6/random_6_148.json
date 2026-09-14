@@ -1,0 +1,180 @@
+{
+  "name": "random_6_148",
+  "party": [
+    {
+      "species": "Regirock",
+      "moves": [
+        "Shock Wave",
+        "Dragon Dance",
+        "Pay Day",
+        "Cross Chop"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 7,
+        "spa": 12,
+        "spd": 13,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 0,
+        "spa": 0,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Barrage",
+        "Ice Ball",
+        "Dream Eater",
+        "Swagger"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 7,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 28,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 28,
+        "spa": 20,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Torment",
+        "Milk Drink",
+        "Hydro Pump",
+        "Aurora Beam"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 9,
+        "atk": 29,
+        "def": 13,
+        "spa": 4,
+        "spd": 8,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 72,
+        "spa": 56,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Sweet Scent",
+        "Thrash",
+        "Substitute",
+        "Bide"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 16,
+        "def": 2,
+        "spa": 22,
+        "spd": 21,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 72,
+        "spa": 52,
+        "spd": 76,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Registeel",
+      "moves": [
+        "Counter",
+        "Minimize",
+        "Yawn",
+        "Rock Slide"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 26,
+        "atk": 9,
+        "def": 7,
+        "spa": 16,
+        "spd": 19,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 64,
+        "def": 32,
+        "spa": 48,
+        "spd": 32,
+        "spe": 52
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Mud Shot",
+        "Sunny Day",
+        "Crunch",
+        "Ice Ball"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 0,
+        "spa": 6,
+        "spd": 17,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 40,
+        "spa": 24,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

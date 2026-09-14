@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_027",
+  "party": [
+    {
+      "species": "Mew",
+      "moves": [
+        "Dream Eater",
+        "Calm Mind",
+        "Seismic Toss",
+        "Sludge Bomb"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 23,
+        "atk": 30,
+        "def": 10,
+        "spa": 10,
+        "spd": 6,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 16,
+        "spa": 24,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Fly",
+        "Substitute",
+        "Quick Attack",
+        "Rage"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 1,
+        "spa": 29,
+        "spd": 5,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 24,
+        "spa": 16,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

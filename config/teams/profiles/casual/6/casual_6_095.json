@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_095",
+  "party": [
+    {
+      "species": "Abra",
+      "moves": [
+        "Psychic",
+        "Shock Wave",
+        "Barrier",
+        "Facade"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 9,
+        "atk": 0,
+        "def": 29,
+        "spa": 8,
+        "spd": 12,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 40,
+        "spa": 56,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Secret Power",
+        "Smelling Salt",
+        "Mimic",
+        "Ember"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 13,
+        "def": 11,
+        "spa": 28,
+        "spd": 15,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 24,
+        "spa": 56,
+        "spd": 32,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Pursuit",
+        "Outrage",
+        "Taunt",
+        "Dragon Dance"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 6,
+        "spa": 7,
+        "spd": 27,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 64,
+        "spa": 68,
+        "spd": 92,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Haze",
+        "Hail",
+        "Surf",
+        "Stomp"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 15,
+        "atk": 28,
+        "def": 25,
+        "spa": 25,
+        "spd": 12,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 60,
+        "spa": 32,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Primeape",
+      "moves": [
+        "Karate Chop",
+        "Rest",
+        "Thunderbolt",
+        "Sunny Day"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 24,
+        "atk": 18,
+        "def": 6,
+        "spa": 12,
+        "spd": 9,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 68,
+        "spa": 40,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Skill Swap",
+        "Water Gun",
+        "Secret Power",
+        "Snore"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 12,
+        "atk": 10,
+        "def": 27,
+        "spa": 9,
+        "spd": 16,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 56,
+        "spa": 32,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_052",
+  "party": [
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Attract",
+        "Heat Wave",
+        "Bubble",
+        "Spike Cannon"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 13,
+        "atk": 13,
+        "def": 30,
+        "spa": 12,
+        "spd": 15,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 64,
+        "def": 72,
+        "spa": 60,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

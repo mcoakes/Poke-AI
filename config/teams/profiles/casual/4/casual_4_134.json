@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_134",
+  "party": [
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Mega Punch",
+        "Thief",
+        "Waterfall",
+        "Haze"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 7,
+        "atk": 27,
+        "def": 29,
+        "spa": 15,
+        "spd": 5,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 52,
+        "spa": 48,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Mirror Coat",
+        "Splash",
+        "Counter",
+        "Safeguard"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 30,
+        "atk": 19,
+        "def": 22,
+        "spa": 30,
+        "spd": 24,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 64,
+        "spa": 40,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Magby",
+      "moves": [
+        "Barrier",
+        "Secret Power",
+        "Ember",
+        "Return"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 15,
+        "spa": 1,
+        "spd": 22,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 52,
+        "spa": 60,
+        "spd": 76,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Twister",
+        "Mimic",
+        "Dragon Dance",
+        "Rock Slide"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 28,
+        "atk": 25,
+        "def": 28,
+        "spa": 11,
+        "spd": 21,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 36,
+        "spa": 56,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

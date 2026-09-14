@@ -1,0 +1,180 @@
+{
+  "name": "random_6_043",
+  "party": [
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Mimic",
+        "Water Sport",
+        "Outrage",
+        "Ingrain"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 25,
+        "atk": 11,
+        "def": 21,
+        "spa": 24,
+        "spd": 27,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 76,
+        "spa": 88,
+        "spd": 124,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metapod",
+      "moves": [
+        "Pursuit",
+        "Rock Tomb",
+        "Recycle",
+        "Dig"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 27,
+        "spa": 27,
+        "spd": 12,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Scratch",
+        "Blaze Kick",
+        "Frustration",
+        "Toxic"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 27,
+        "atk": 14,
+        "def": 30,
+        "spa": 10,
+        "spd": 23,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 28,
+        "spa": 16,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Blizzard",
+        "Bonemerang",
+        "Synthesis",
+        "Lock On"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 1,
+        "spa": 27,
+        "spd": 8,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 100,
+        "spa": 48,
+        "spd": 84,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Splash",
+        "Shadow Ball",
+        "Flame Wheel",
+        "Teeter Dance"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 24,
+        "def": 1,
+        "spa": 31,
+        "spd": 23,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 28,
+        "spa": 20,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Fury Cutter",
+        "Sand Tomb",
+        "Hyper Beam",
+        "Spider Web"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 5,
+        "atk": 18,
+        "def": 24,
+        "spa": 16,
+        "spd": 5,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 28,
+        "spa": 48,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

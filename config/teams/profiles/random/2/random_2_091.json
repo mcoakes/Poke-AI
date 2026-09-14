@@ -1,0 +1,68 @@
+{
+  "name": "random_2_091",
+  "party": [
+    {
+      "species": "Togetic",
+      "moves": [
+        "Swift",
+        "Bubble Beam",
+        "Spit Up",
+        "Self Destruct"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 14,
+        "atk": 16,
+        "def": 4,
+        "spa": 2,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 88,
+        "def": 96,
+        "spa": 68,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Hypnosis",
+        "Endeavor",
+        "Hi Jump Kick",
+        "Outrage"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 26,
+        "atk": 10,
+        "def": 8,
+        "spa": 25,
+        "spd": 28,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 52,
+        "spa": 20,
+        "spd": 20,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

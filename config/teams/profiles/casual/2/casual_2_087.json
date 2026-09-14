@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_087",
+  "party": [
+    {
+      "species": "Absol",
+      "moves": [
+        "Protect",
+        "Body Slam",
+        "Faint Attack",
+        "Curse"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 19,
+        "atk": 8,
+        "def": 7,
+        "spa": 2,
+        "spd": 26,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 60,
+        "spa": 48,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Thief",
+        "Sunny Day",
+        "Return",
+        "Dream Eater"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 22,
+        "atk": 7,
+        "def": 30,
+        "spa": 11,
+        "spd": 18,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 8,
+        "def": 20,
+        "spa": 36,
+        "spd": 12,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

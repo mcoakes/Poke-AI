@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_059",
+  "party": [
+    {
+      "species": "Mawile",
+      "moves": [
+        "Faint Attack",
+        "Sweet Scent",
+        "Psych Up",
+        "Spit Up"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 29,
+        "def": 10,
+        "spa": 3,
+        "spd": 25,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 24,
+        "spa": 60,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Waterfall",
+        "Ice Beam",
+        "Rest",
+        "Refresh"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 21,
+        "spa": 16,
+        "spd": 3,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 28,
+        "spa": 40,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Secret Power",
+        "Surf",
+        "Hail",
+        "Attract"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 29,
+        "spa": 8,
+        "spd": 2,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 56,
+        "spa": 64,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Surf",
+        "Confusion",
+        "Body Slam",
+        "Rest"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 8,
+        "atk": 27,
+        "def": 29,
+        "spa": 5,
+        "spd": 4,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 16,
+        "spa": 20,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Double Team",
+        "Screech",
+        "Ice Beam",
+        "Cut"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 0,
+        "atk": 29,
+        "def": 26,
+        "spa": 0,
+        "spd": 23,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 64,
+        "spa": 36,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_023",
+  "party": [
+    {
+      "species": "Walrein",
+      "moves": [
+        "Spore",
+        "Withdraw",
+        "Meditate",
+        "Twister"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 16,
+        "atk": 27,
+        "def": 7,
+        "spa": 3,
+        "spd": 22,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 12,
+        "spa": 8,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Leer",
+        "Block",
+        "Iron Defense",
+        "Blizzard"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 30,
+        "spa": 30,
+        "spd": 6,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 16,
+        "spa": 20,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Hydro Pump",
+        "Ancient Power",
+        "Nature Power",
+        "Pin Missile"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 28,
+        "atk": 7,
+        "def": 3,
+        "spa": 24,
+        "spd": 10,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 4,
+        "spa": 32,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Unown",
+      "moves": [
+        "Explosion",
+        "Slash",
+        "Future Sight",
+        "Lock On"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 0,
+        "atk": 30,
+        "def": 1,
+        "spa": 30,
+        "spd": 24,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 24,
+        "spa": 28,
+        "spd": 12,
+        "spe": 44
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Solar Beam",
+        "Psybeam",
+        "Poison Tail",
+        "Follow Me"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 5,
+        "atk": 27,
+        "def": 4,
+        "spa": 23,
+        "spd": 28,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 12,
+        "spa": 32,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Skull Bash",
+        "Slash",
+        "Sonic Boom",
+        "Overheat"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 19,
+        "atk": 7,
+        "def": 29,
+        "spa": 9,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 20,
+        "def": 20,
+        "spa": 44,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_024",
+  "party": [
+    {
+      "species": "Lugia",
+      "moves": [
+        "Ice Beam",
+        "Thunder Wave",
+        "Aerial Ace",
+        "Rest"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 11,
+        "spa": 21,
+        "spd": 1,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 28,
+        "spa": 32,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Double Team",
+        "Water Pulse",
+        "Return",
+        "Confusion"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 12,
+        "atk": 29,
+        "def": 31,
+        "spa": 16,
+        "spd": 3,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 16,
+        "def": 28,
+        "spa": 64,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Grimer",
+      "moves": [
+        "Thunderbolt",
+        "Double Team",
+        "Sludge",
+        "Rest"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 28,
+        "atk": 30,
+        "def": 28,
+        "spa": 15,
+        "spd": 1,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 56,
+        "spa": 44,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

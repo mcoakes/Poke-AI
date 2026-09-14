@@ -1,0 +1,161 @@
+{
+  "name": "Six Member Mixed Roles",
+  "party": [
+    {
+      "species": "Salamence",
+      "level": 50,
+      "moves": [
+        "Dragon Claw",
+        "Flamethrower",
+        "Brick Break",
+        "Rock Slide"
+      ],
+      "nature": "Rash",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Forretress",
+      "level": 50,
+      "moves": [
+        "Spikes",
+        "Rapid Spin",
+        "Earthquake",
+        "Explosion"
+      ],
+      "nature": "Impish",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "atk": 4
+      }
+    },
+    {
+      "species": "Blissey",
+      "level": 50,
+      "moves": [
+        "Seismic Toss",
+        "Ice Beam",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Bold",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spa": 4
+      }
+    },
+    {
+      "species": "Suicune",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Calm Mind",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "held_item": "Chesto Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spa": 4
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Substitute",
+        "Baton Pass",
+        "Thunder Wave"
+      ],
+      "nature": "Timid",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Flygon",
+      "level": 50,
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Fire Blast",
+        "Dragon Claw"
+      ],
+      "nature": "Naive",
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_101",
+  "party": [
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Dig",
+        "Ice Beam",
+        "Rock Slide",
+        "Odor Sleuth"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 24,
+        "atk": 15,
+        "def": 29,
+        "spa": 20,
+        "spd": 6,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 64,
+        "spa": 44,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Flash",
+        "Ice Beam",
+        "Mega Punch",
+        "Taunt"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 25,
+        "atk": 17,
+        "def": 16,
+        "spa": 11,
+        "spd": 30,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 32,
+        "spa": 52,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

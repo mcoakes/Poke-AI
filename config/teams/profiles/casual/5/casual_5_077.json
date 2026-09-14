@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_077",
+  "party": [
+    {
+      "species": "Zubat",
+      "moves": [
+        "Leech Life",
+        "Shadow Ball",
+        "Mimic",
+        "Sludge Bomb"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 14,
+        "atk": 24,
+        "def": 15,
+        "spa": 25,
+        "spd": 3,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 68,
+        "spa": 52,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Strength",
+        "Dive",
+        "Swords Dance",
+        "Secret Power"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 17,
+        "atk": 19,
+        "def": 16,
+        "spa": 10,
+        "spd": 10,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 8,
+        "spa": 20,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Aerial Ace",
+        "Rock Smash",
+        "Giga Drain",
+        "Double Team"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 1,
+        "atk": 5,
+        "def": 19,
+        "spa": 11,
+        "spd": 4,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 32,
+        "spa": 20,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Espeon",
+      "moves": [
+        "Attract",
+        "Swift",
+        "Dream Eater",
+        "Iron Tail"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 11,
+        "def": 11,
+        "spa": 12,
+        "spd": 20,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 32,
+        "spa": 64,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Dragon Claw",
+        "Double Edge",
+        "Screech",
+        "Earthquake"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 2,
+        "spa": 0,
+        "spd": 17,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 36,
+        "def": 56,
+        "spa": 68,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

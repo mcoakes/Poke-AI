@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_021",
+  "party": [
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Dig",
+        "Mimic",
+        "Whirlwind",
+        "Vital Throw"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 24,
+        "atk": 23,
+        "def": 30,
+        "spa": 6,
+        "spd": 20,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 24,
+        "def": 60,
+        "spa": 52,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Water Pulse",
+        "Swords Dance",
+        "Mud Shot",
+        "Body Slam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 28,
+        "atk": 0,
+        "def": 23,
+        "spa": 14,
+        "spd": 1,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 4,
+        "spa": 20,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Secret Power",
+        "Sandstorm",
+        "Metal Claw",
+        "Mimic"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 31,
+        "atk": 17,
+        "def": 11,
+        "spa": 9,
+        "spd": 20,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 40,
+        "spa": 60,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Steel Wing",
+        "Spikes",
+        "Drill Peck",
+        "Substitute"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 1,
+        "atk": 21,
+        "def": 7,
+        "spa": 0,
+        "spd": 21,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 64,
+        "spa": 64,
+        "spd": 76,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

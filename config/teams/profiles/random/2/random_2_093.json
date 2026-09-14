@@ -1,0 +1,68 @@
+{
+  "name": "random_2_093",
+  "party": [
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Hydro Cannon",
+        "Body Slam",
+        "Lock On",
+        "Steel Wing"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 26,
+        "atk": 3,
+        "def": 14,
+        "spa": 5,
+        "spd": 9,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 60,
+        "spa": 72,
+        "spd": 52,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Luster Purge",
+        "Harden",
+        "Role Play",
+        "Whirlwind"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 13,
+        "spa": 11,
+        "spd": 9,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 16,
+        "def": 44,
+        "spa": 28,
+        "spd": 28,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

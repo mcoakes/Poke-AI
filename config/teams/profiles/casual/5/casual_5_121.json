@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_121",
+  "party": [
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Confusion",
+        "Giga Drain",
+        "Secret Power",
+        "Stun Spore"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 13,
+        "atk": 4,
+        "def": 31,
+        "spa": 24,
+        "spd": 25,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 24,
+        "spa": 12,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Thief",
+        "Psychic",
+        "Thunder Punch",
+        "Teleport"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 11,
+        "atk": 24,
+        "def": 6,
+        "spa": 28,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 16,
+        "spa": 8,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Screech",
+        "Swift",
+        "Hidden Power",
+        "Shock Wave"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 5,
+        "def": 17,
+        "spa": 4,
+        "spd": 30,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 44,
+        "spa": 40,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Secret Power",
+        "Earthquake",
+        "Shadow Ball",
+        "Sandstorm"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 30,
+        "atk": 15,
+        "def": 25,
+        "spa": 13,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 32,
+        "spa": 8,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Bubble Beam",
+        "Thief",
+        "Water Sport",
+        "Mud Shot"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 18,
+        "atk": 10,
+        "def": 26,
+        "spa": 2,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 24,
+        "spa": 20,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

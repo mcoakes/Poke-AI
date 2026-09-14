@@ -1,0 +1,208 @@
+{
+  "name": "mixed_001",
+  "party": [
+    {
+      "species": "Muk",
+      "moves": [
+        "Sludge Bomb",
+        "Brick Break",
+        "Curse",
+        "Explosion"
+      ],
+      "nature": "Careful",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Substitute",
+        "Baton Pass"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sludge Bomb",
+        "Aerial Ace",
+        "Shadow Ball",
+        "Steel Wing"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Thunderbolt",
+        "Confuse Ray"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Thunderbolt",
+        "Giga Drain",
+        "Hypnosis",
+        "Explosion"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Absol",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Flamethrower",
+        "Thunder Wave",
+        "Protect"
+      ],
+      "nature": "Lax",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "learnable_random",
+        "common_item": true
+      }
+    ]
+  }
+}

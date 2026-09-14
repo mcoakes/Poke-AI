@@ -1,0 +1,40 @@
+{
+  "name": "random_1_055",
+  "party": [
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Water Spout",
+        "String Shot",
+        "Fury Swipes",
+        "Bonemerang"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 5,
+        "atk": 25,
+        "def": 27,
+        "spa": 19,
+        "spd": 9,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 88,
+        "def": 80,
+        "spa": 68,
+        "spd": 100,
+        "spe": 40
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

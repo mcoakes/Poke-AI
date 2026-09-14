@@ -1,0 +1,152 @@
+{
+  "name": "random_5_028",
+  "party": [
+    {
+      "species": "Sableye",
+      "moves": [
+        "Rest",
+        "Twister",
+        "Cut",
+        "Spikes"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 26,
+        "def": 20,
+        "spa": 15,
+        "spd": 22,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 44,
+        "spa": 76,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon",
+      "moves": [
+        "Mimic",
+        "Drill Peck",
+        "Sacred Fire",
+        "Headbutt"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 4,
+        "spa": 16,
+        "spd": 14,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 108,
+        "atk": 76,
+        "def": 64,
+        "spa": 88,
+        "spd": 100,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Pound",
+        "Spikes",
+        "Fake Out",
+        "Icy Wind"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 27,
+        "spa": 1,
+        "spd": 12,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 84,
+        "def": 64,
+        "spa": 96,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Superpower",
+        "Sunny Day",
+        "Thief",
+        "Dig"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 19,
+        "atk": 13,
+        "def": 28,
+        "spa": 3,
+        "spd": 2,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 40,
+        "spa": 40,
+        "spd": 32,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Razor Leaf",
+        "Shadow Punch",
+        "Dragon Breath",
+        "Flash"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 30,
+        "atk": 19,
+        "def": 17,
+        "spa": 18,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

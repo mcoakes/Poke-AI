@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_082",
+  "party": [
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Yawn",
+        "Brick Break",
+        "Dive",
+        "Tail Whip"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 2,
+        "def": 25,
+        "spa": 0,
+        "spd": 21,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 92,
+        "def": 64,
+        "spa": 60,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shellder",
+      "moves": [
+        "Supersonic",
+        "Dive",
+        "Mimic",
+        "Facade"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 13,
+        "atk": 11,
+        "def": 10,
+        "spa": 0,
+        "spd": 7,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 84,
+        "def": 64,
+        "spa": 56,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Shadow Ball",
+        "Secret Power",
+        "Hidden Power",
+        "Attract"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 15,
+        "atk": 13,
+        "def": 30,
+        "spa": 25,
+        "spd": 18,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 88,
+        "def": 52,
+        "spa": 56,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

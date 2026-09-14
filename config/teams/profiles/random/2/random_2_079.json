@@ -1,0 +1,68 @@
+{
+  "name": "random_2_079",
+  "party": [
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Weather Ball",
+        "Slash",
+        "Slack Off",
+        "Tri Attack"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 12,
+        "atk": 3,
+        "def": 13,
+        "spa": 5,
+        "spd": 25,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 12,
+        "spa": 16,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Venonat",
+      "moves": [
+        "Dragon Claw",
+        "Rain Dance",
+        "Lock On",
+        "Attract"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 26,
+        "def": 30,
+        "spa": 21,
+        "spd": 16,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 64,
+        "spa": 68,
+        "spd": 68,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

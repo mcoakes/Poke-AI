@@ -1,0 +1,96 @@
+{
+  "name": "random_3_040",
+  "party": [
+    {
+      "species": "Duskull",
+      "moves": [
+        "Psywave",
+        "Aerial Ace",
+        "Skull Bash",
+        "Taunt"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 1,
+        "atk": 31,
+        "def": 8,
+        "spa": 11,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 92,
+        "def": 76,
+        "spa": 104,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Vital Throw",
+        "Whirlwind",
+        "Pursuit",
+        "Roar"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 19,
+        "atk": 30,
+        "def": 12,
+        "spa": 5,
+        "spd": 3,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 24,
+        "spa": 52,
+        "spd": 12,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Rapid Spin",
+        "Rain Dance",
+        "Egg Bomb",
+        "Iron Defense"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 7,
+        "def": 11,
+        "spa": 0,
+        "spd": 16,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 0,
+        "spa": 28,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "competitive_6_095",
+  "party": [
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Thunderbolt",
+        "Wish",
+        "Psychic",
+        "Calm Mind"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Taunt",
+        "Return",
+        "Earthquake",
+        "Dragon Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Rock Slide",
+        "Fire Blast",
+        "Quick Attack",
+        "Earthquake"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Explosion",
+        "Giga Drain",
+        "Sleep Powder",
+        "Psychic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Swords Dance",
+        "Fire Blast",
+        "Sky Uppercut",
+        "Rock Slide"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Explosion",
+        "Thunderbolt",
+        "Giga Drain",
+        "Hypnosis"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 20266967,
+    "archetype": "offense"
+  }
+}

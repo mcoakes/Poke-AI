@@ -1,0 +1,180 @@
+{
+  "name": "random_6_119",
+  "party": [
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Foresight",
+        "Slam",
+        "Dizzy Punch",
+        "Heal Bell"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 30,
+        "atk": 28,
+        "def": 17,
+        "spa": 26,
+        "spd": 20,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 32,
+        "spa": 12,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Glare",
+        "Octazooka",
+        "Strength",
+        "Protect"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 18,
+        "atk": 27,
+        "def": 27,
+        "spa": 5,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 80,
+        "def": 76,
+        "spa": 88,
+        "spd": 72,
+        "spe": 96
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Outrage",
+        "Aeroblast",
+        "Skill Swap",
+        "Super Fang"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 13,
+        "atk": 18,
+        "def": 30,
+        "spa": 31,
+        "spd": 9,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Ho Oh",
+      "moves": [
+        "Endeavor",
+        "Perish Song",
+        "Smelling Salt",
+        "Wing Attack"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 16,
+        "def": 31,
+        "spa": 30,
+        "spd": 15,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Attract",
+        "Light Screen",
+        "Recover",
+        "Crabhammer"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 23,
+        "atk": 27,
+        "def": 2,
+        "spa": 11,
+        "spd": 16,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 68,
+        "spa": 44,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Groudon",
+      "moves": [
+        "Dragon Dance",
+        "Cosmic Power",
+        "Metal Claw",
+        "Clamp"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 11,
+        "atk": 26,
+        "def": 8,
+        "spa": 26,
+        "spd": 19,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 44,
+        "def": 60,
+        "spa": 60,
+        "spd": 44,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

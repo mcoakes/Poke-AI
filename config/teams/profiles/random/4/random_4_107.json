@@ -1,0 +1,124 @@
+{
+  "name": "random_4_107",
+  "party": [
+    {
+      "species": "Ledyba",
+      "moves": [
+        "Earthquake",
+        "Twister",
+        "Mach Punch",
+        "Sleep Talk"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 3,
+        "atk": 16,
+        "def": 24,
+        "spa": 10,
+        "spd": 24,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 56,
+        "spa": 60,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Clamp",
+        "Flatter",
+        "Ancient Power",
+        "Thunder Punch"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 27,
+        "atk": 3,
+        "def": 7,
+        "spa": 28,
+        "spd": 26,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 24,
+        "spa": 16,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weedle",
+      "moves": [
+        "Fissure",
+        "Psycho Boost",
+        "Knock Off",
+        "Mist"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 5,
+        "spa": 2,
+        "spd": 15,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 60,
+        "spa": 68,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Sleep Powder",
+        "Rock Slide",
+        "Baton Pass",
+        "Revenge"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 12,
+        "atk": 10,
+        "def": 25,
+        "spa": 19,
+        "spd": 4,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 8,
+        "spa": 8,
+        "spd": 16,
+        "spe": 0
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

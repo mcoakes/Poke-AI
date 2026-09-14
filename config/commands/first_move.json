@@ -1,0 +1,7 @@
+{
+  "name": "first_move_benchmark",
+  "players": [
+    {"name": "fire", "cycle": [{"move": 1}]},
+    {"name": "water", "cycle": [{"move": 1}]}
+  ]
+}

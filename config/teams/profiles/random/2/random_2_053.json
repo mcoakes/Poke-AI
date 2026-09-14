@@ -1,0 +1,68 @@
+{
+  "name": "random_2_053",
+  "party": [
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Rock Throw",
+        "Magical Leaf",
+        "Scary Face",
+        "Dig"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 18,
+        "atk": 15,
+        "def": 19,
+        "spa": 10,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 16,
+        "spa": 32,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Sleep Talk",
+        "Mud Shot",
+        "Spark",
+        "Camouflage"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 7,
+        "atk": 30,
+        "def": 16,
+        "spa": 31,
+        "spd": 9,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 92,
+        "def": 100,
+        "spa": 68,
+        "spd": 52,
+        "spe": 80
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

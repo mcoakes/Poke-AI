@@ -1,0 +1,180 @@
+{
+  "name": "random_6_104",
+  "party": [
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Tickle",
+        "Weather Ball",
+        "Foresight",
+        "Will O Wisp"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 17,
+        "atk": 24,
+        "def": 11,
+        "spa": 20,
+        "spd": 6,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 72,
+        "spa": 112,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Wish",
+        "Psycho Boost",
+        "Sand Attack",
+        "Double Team"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 25,
+        "atk": 30,
+        "def": 29,
+        "spa": 21,
+        "spd": 8,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 4,
+        "spa": 8,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Growth",
+        "Outrage",
+        "Gust",
+        "Magical Leaf"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 21,
+        "spa": 21,
+        "spd": 30,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 4,
+        "spa": 12,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ho Oh",
+      "moves": [
+        "Recycle",
+        "Future Sight",
+        "Hidden Power",
+        "Powder Snow"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 3,
+        "def": 30,
+        "spa": 0,
+        "spd": 31,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 8,
+        "spa": 20,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pelipper",
+      "moves": [
+        "String Shot",
+        "Nightmare",
+        "Spite",
+        "Double Slap"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 29,
+        "atk": 0,
+        "def": 28,
+        "spa": 22,
+        "spd": 1,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Onix",
+      "moves": [
+        "Slash",
+        "Rock Smash",
+        "Dive",
+        "Pin Missile"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 5,
+        "atk": 9,
+        "def": 5,
+        "spa": 10,
+        "spd": 22,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 84,
+        "def": 68,
+        "spa": 72,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

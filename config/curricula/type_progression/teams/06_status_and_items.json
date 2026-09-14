@@ -1,0 +1,155 @@
+{
+  "name": "Status And Items",
+  "party": [
+    {
+      "species": "Venusaur",
+      "level": 50,
+      "moves": [
+        "Giga Drain",
+        "Sludge Bomb",
+        "Sleep Powder",
+        "Leech Seed"
+      ],
+      "nature": "Modest",
+      "held_item": "Miracle Seed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Blastoise",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "held_item": "Sitrus Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Bite",
+        "Thunder Wave",
+        "Substitute"
+      ],
+      "nature": "Modest",
+      "held_item": "Magnet",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ninetales",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Overheat",
+        "Will O Wisp",
+        "Confuse Ray"
+      ],
+      "nature": "Modest",
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Machamp",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Rock Slide",
+        "Bulk Up",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "held_item": "Black Belt",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Glalie",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Crunch",
+        "Spikes",
+        "Taunt"
+      ],
+      "nature": "Modest",
+      "held_item": "Never Melt Ice",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

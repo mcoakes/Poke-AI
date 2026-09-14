@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_073",
+  "party": [
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Sunny Day",
+        "Attract",
+        "Wing Attack",
+        "Quick Attack"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 22,
+        "atk": 12,
+        "def": 12,
+        "spa": 20,
+        "spd": 29,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 48,
+        "spa": 32,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machop",
+      "moves": [
+        "Double Team",
+        "Strength",
+        "Thief",
+        "Submission"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 11,
+        "atk": 3,
+        "def": 25,
+        "spa": 7,
+        "spd": 16,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 36,
+        "spa": 44,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

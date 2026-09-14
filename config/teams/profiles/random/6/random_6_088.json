@@ -1,0 +1,180 @@
+{
+  "name": "random_6_088",
+  "party": [
+    {
+      "species": "Starmie",
+      "moves": [
+        "Covet",
+        "Light Screen",
+        "Mud Sport",
+        "Swallow"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 7,
+        "atk": 20,
+        "def": 2,
+        "spa": 21,
+        "spd": 15,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 68,
+        "def": 100,
+        "spa": 84,
+        "spd": 88,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Knock Off",
+        "Karate Chop",
+        "Water Spout",
+        "Psych Up"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 18,
+        "atk": 19,
+        "def": 13,
+        "spa": 2,
+        "spd": 26,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 12,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kyogre",
+      "moves": [
+        "Rock Throw",
+        "Moonlight",
+        "Stun Spore",
+        "Air Cutter"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 25,
+        "def": 30,
+        "spa": 5,
+        "spd": 21,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 24,
+        "spa": 8,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Spider Web",
+        "Revenge",
+        "Aeroblast",
+        "Attract"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 16,
+        "atk": 6,
+        "def": 23,
+        "spa": 25,
+        "spd": 25,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 80,
+        "def": 52,
+        "spa": 64,
+        "spd": 96,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magby",
+      "moves": [
+        "Sky Attack",
+        "Wish",
+        "Protect",
+        "Pin Missile"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 30,
+        "atk": 21,
+        "def": 31,
+        "spa": 29,
+        "spd": 25,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Crush Claw",
+        "Ice Punch",
+        "Nightmare",
+        "Secret Power"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 1,
+        "atk": 8,
+        "def": 1,
+        "spa": 31,
+        "spd": 21,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 36,
+        "spa": 76,
+        "spd": 72,
+        "spe": 32
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

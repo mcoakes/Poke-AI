@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_129",
+  "party": [
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Water Pulse",
+        "Thunder Wave",
+        "Rest",
+        "Future Sight"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 30,
+        "def": 0,
+        "spa": 27,
+        "spd": 22,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 72,
+        "spa": 28,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Miltank",
+      "moves": [
+        "Sunny Day",
+        "Facade",
+        "Earthquake",
+        "Double Team"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 5,
+        "atk": 15,
+        "def": 3,
+        "spa": 6,
+        "spd": 0,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 32,
+        "spa": 8,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Frustration",
+        "Ice Beam",
+        "Secret Power",
+        "Protect"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 1,
+        "spa": 8,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 40,
+        "spa": 40,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

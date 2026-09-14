@@ -1,0 +1,40 @@
+{
+  "name": "random_1_104",
+  "party": [
+    {
+      "species": "Abra",
+      "moves": [
+        "Sacred Fire",
+        "Magnitude",
+        "Covet",
+        "Memento"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 11,
+        "atk": 4,
+        "def": 25,
+        "spa": 3,
+        "spd": 15,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 40,
+        "spa": 36,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

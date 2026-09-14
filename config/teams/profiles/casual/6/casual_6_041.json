@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_041",
+  "party": [
+    {
+      "species": "Sentret",
+      "moves": [
+        "Ice Beam",
+        "Amnesia",
+        "Water Pulse",
+        "Quick Attack"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 24,
+        "atk": 18,
+        "def": 25,
+        "spa": 26,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 56,
+        "spa": 40,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slugma",
+      "moves": [
+        "Facade",
+        "Ember",
+        "Smog",
+        "Double Team"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 15,
+        "atk": 4,
+        "def": 12,
+        "spa": 6,
+        "spd": 25,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 76,
+        "spa": 40,
+        "spd": 80,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Cut",
+        "Double Team",
+        "Sunny Day",
+        "Dig"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 15,
+        "atk": 7,
+        "def": 28,
+        "spa": 14,
+        "spd": 31,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 52,
+        "spa": 56,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Foresight",
+        "Take Down",
+        "Wing Attack",
+        "Sunny Day"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 19,
+        "spa": 26,
+        "spd": 15,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 88,
+        "def": 44,
+        "spa": 52,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bagon",
+      "moves": [
+        "Rest",
+        "Dragon Breath",
+        "Facade",
+        "Focus Energy"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 25,
+        "atk": 7,
+        "def": 15,
+        "spa": 21,
+        "spd": 19,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 48,
+        "spa": 20,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Refresh",
+        "Ice Beam",
+        "Substitute",
+        "Water Gun"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 9,
+        "atk": 11,
+        "def": 13,
+        "spa": 7,
+        "spd": 16,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 112,
+        "def": 28,
+        "spa": 44,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_051",
+  "party": [
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Block",
+        "Bite",
+        "Ice Beam",
+        "Shadow Ball"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 0,
+        "spa": 19,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 20,
+        "spa": 8,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Earthquake",
+        "Scary Face",
+        "Strength",
+        "Protect"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 12,
+        "spa": 31,
+        "spd": 11,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 52,
+        "spa": 64,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Return",
+        "Haze",
+        "Secret Power",
+        "Water Pulse"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 24,
+        "atk": 26,
+        "def": 3,
+        "spa": 28,
+        "spd": 12,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 40,
+        "spa": 36,
+        "spd": 60,
+        "spe": 24
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Ariados",
+      "moves": [
+        "Signal Beam",
+        "Protect",
+        "Facade",
+        "Rest"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 6,
+        "atk": 5,
+        "def": 13,
+        "spa": 10,
+        "spd": 1,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 44,
+        "spa": 84,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Loudred",
+      "moves": [
+        "Substitute",
+        "Strength",
+        "Brick Break",
+        "Body Slam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 18,
+        "spa": 1,
+        "spd": 23,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 32,
+        "spa": 52,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Snore",
+        "Double Team",
+        "Pursuit",
+        "Cut"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 4,
+        "atk": 21,
+        "def": 23,
+        "spa": 20,
+        "spd": 4,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 44,
+        "spa": 40,
+        "spd": 96,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

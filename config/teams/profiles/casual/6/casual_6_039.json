@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_039",
+  "party": [
+    {
+      "species": "Crobat",
+      "moves": [
+        "Curse",
+        "Fly",
+        "Faint Attack",
+        "Mean Look"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 2,
+        "atk": 5,
+        "def": 22,
+        "spa": 28,
+        "spd": 1,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Fire Spin",
+        "Thrash",
+        "Protect",
+        "Flamethrower"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 21,
+        "atk": 16,
+        "def": 18,
+        "spa": 14,
+        "spd": 7,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 52,
+        "spa": 92,
+        "spd": 36,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Spark",
+        "Attract",
+        "Swift",
+        "Odor Sleuth"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 16,
+        "atk": 1,
+        "def": 15,
+        "spa": 17,
+        "spd": 27,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 28,
+        "spa": 52,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Thief",
+        "Octazooka",
+        "Psychic",
+        "Mimic"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 25,
+        "atk": 23,
+        "def": 4,
+        "spa": 17,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Loudred",
+      "moves": [
+        "Secret Power",
+        "Hyper Voice",
+        "Flamethrower",
+        "Sleep Talk"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 30,
+        "def": 14,
+        "spa": 14,
+        "spd": 11,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 60,
+        "def": 40,
+        "spa": 84,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Rock Slide",
+        "Substitute",
+        "Vital Throw",
+        "Sand Attack"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 8,
+        "spa": 14,
+        "spd": 5,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 28,
+        "spa": 44,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

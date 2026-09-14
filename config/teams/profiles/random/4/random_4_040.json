@@ -1,0 +1,124 @@
+{
+  "name": "random_4_040",
+  "party": [
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Spore",
+        "Self Destruct",
+        "Feather Dance",
+        "Flatter"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 19,
+        "spa": 9,
+        "spd": 3,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 40,
+        "spa": 36,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    },
+    {
+      "species": "Jigglypuff",
+      "moves": [
+        "Thunder Punch",
+        "Tri Attack",
+        "Howl",
+        "Water Spout"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 24,
+        "atk": 25,
+        "def": 9,
+        "spa": 23,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 68,
+        "def": 36,
+        "spa": 48,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Flail",
+        "Muddy Water",
+        "Psych Up",
+        "Barrage"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 19,
+        "spa": 8,
+        "spd": 15,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 88,
+        "spa": 72,
+        "spd": 84,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Skitty",
+      "moves": [
+        "Tail Glow",
+        "Ember",
+        "Snatch",
+        "Fury Swipes"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 13,
+        "spa": 27,
+        "spd": 12,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 32,
+        "spa": 20,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

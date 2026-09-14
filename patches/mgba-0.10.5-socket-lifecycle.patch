@@ -1,0 +1,26 @@
+diff --git a/src/script/socket.c b/src/script/socket.c
+index 4684c24..fd4797c 100644
+--- a/src/script/socket.c
++++ b/src/script/socket.c
+@@ -105,8 +105,10 @@ struct mScriptValue* _mScriptSocketCreate() {
+ }
+ 
+ void _mScriptSocketClose(struct mScriptSocket* ssock) {
+-	if (!SOCKET_FAILED(ssock->socket)) {
+-		SocketClose(ssock->socket);
++	Socket socket = ssock->socket;
++	ssock->socket = INVALID_SOCKET;
++	if (!SOCKET_FAILED(socket)) {
++		SocketClose(socket);
+ 	}
+ }
+ 
+@@ -173,7 +175,7 @@ struct mScriptValue* _mScriptSocketRecv(struct mScriptSocket* ssock, uint32_t ma
+ 	ssize_t bytes = SocketRecv(ssock->socket, data->buffer, maxBytes);
+ 	if (bytes <= 0) {
+ 		data->size = 0;
+-		_mScriptSocketSetError(ssock, SocketError());
++		_mScriptSocketSetError(ssock, bytes < 0 ? SocketError() : 0);
+ 	} else {
+ 		data->size = bytes;
+ 		ssock->error = mSCRIPT_SOCKERR_OK;

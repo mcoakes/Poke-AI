@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_133",
+  "party": [
+    {
+      "species": "Shellder",
+      "moves": [
+        "Double Edge",
+        "Substitute",
+        "Take Down",
+        "Surf"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 9,
+        "atk": 25,
+        "def": 19,
+        "spa": 29,
+        "spd": 5,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 84,
+        "def": 48,
+        "spa": 96,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magmar",
+      "moves": [
+        "Smokescreen",
+        "Flamethrower",
+        "Screech",
+        "Strength"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 26,
+        "atk": 26,
+        "def": 3,
+        "spa": 2,
+        "spd": 17,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 12,
+        "spa": 16,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Hidden Power",
+        "Water Gun",
+        "Iron Tail",
+        "Refresh"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 16,
+        "atk": 30,
+        "def": 21,
+        "spa": 14,
+        "spd": 18,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 32,
+        "spa": 44,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Water Pulse",
+        "Rock Tomb",
+        "Water Gun",
+        "Water Sport"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 14,
+        "atk": 4,
+        "def": 25,
+        "spa": 18,
+        "spd": 29,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 4,
+        "spa": 4,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Mach Punch",
+        "Secret Power",
+        "Attract",
+        "Seismic Toss"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 15,
+        "atk": 28,
+        "def": 22,
+        "spa": 6,
+        "spd": 26,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 40,
+        "def": 60,
+        "spa": 64,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

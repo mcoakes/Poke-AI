@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_135",
+  "party": [
+    {
+      "species": "Arbok",
+      "moves": [
+        "Spit Up",
+        "Poison Fang",
+        "Mimic",
+        "Strength"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 3,
+        "atk": 0,
+        "def": 12,
+        "spa": 6,
+        "spd": 4,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 28,
+        "spa": 36,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Dive",
+        "Water Gun",
+        "Earthquake",
+        "Double Team"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 28,
+        "atk": 2,
+        "def": 9,
+        "spa": 16,
+        "spd": 20,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 48,
+        "spa": 72,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Rock Throw",
+        "Toxic",
+        "Confusion",
+        "Body Slam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 13,
+        "atk": 13,
+        "def": 23,
+        "spa": 29,
+        "spd": 29,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 20,
+        "spa": 28,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Leer",
+        "Rest",
+        "Sludge Bomb",
+        "Thunderbolt"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 4,
+        "spa": 18,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 28,
+        "spa": 24,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Loudred",
+      "moves": [
+        "Brick Break",
+        "Smelling Salt",
+        "Secret Power",
+        "Torment"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 7,
+        "atk": 28,
+        "def": 3,
+        "spa": 7,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 32,
+        "spa": 28,
+        "spd": 28,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Rain Dance",
+        "Safeguard",
+        "Wing Attack",
+        "Silver Wind"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 21,
+        "atk": 9,
+        "def": 11,
+        "spa": 8,
+        "spd": 17,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 48,
+        "spa": 12,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

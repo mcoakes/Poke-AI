@@ -1,0 +1,152 @@
+{
+  "name": "random_5_120",
+  "party": [
+    {
+      "species": "Persian",
+      "moves": [
+        "Outrage",
+        "Mimic",
+        "Razor Wind",
+        "Mirror Move"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 30,
+        "atk": 22,
+        "def": 13,
+        "spa": 2,
+        "spd": 21,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 80,
+        "def": 24,
+        "spa": 44,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Splash",
+        "Iron Tail",
+        "Acid Armor",
+        "Water Pulse"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 3,
+        "spa": 1,
+        "spd": 6,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 84,
+        "def": 60,
+        "spa": 76,
+        "spd": 36,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Seel",
+      "moves": [
+        "Pay Day",
+        "Nightmare",
+        "Pain Split",
+        "Zap Cannon"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 18,
+        "atk": 0,
+        "def": 31,
+        "spa": 2,
+        "spd": 20,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 0,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Outrage",
+        "Withdraw",
+        "Mach Punch",
+        "Nightmare"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 15,
+        "atk": 2,
+        "def": 20,
+        "spa": 7,
+        "spd": 2,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 12,
+        "spa": 4,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Endeavor",
+        "Bone Rush",
+        "Substitute",
+        "Blizzard"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 22,
+        "atk": 2,
+        "def": 20,
+        "spa": 13,
+        "spd": 4,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

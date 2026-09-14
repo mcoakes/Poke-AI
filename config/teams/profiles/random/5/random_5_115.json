@@ -1,0 +1,152 @@
+{
+  "name": "random_5_115",
+  "party": [
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Flatter",
+        "Meteor Mash",
+        "Frustration",
+        "Heal Bell"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 14,
+        "def": 12,
+        "spa": 23,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 16,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Fake Tears",
+        "Spit Up",
+        "Dragon Dance",
+        "Thunder Wave"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 1,
+        "spa": 15,
+        "spd": 18,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 4,
+        "spa": 20,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Thrash",
+        "Psych Up",
+        "Magic Coat",
+        "Shock Wave"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 4,
+        "atk": 17,
+        "def": 5,
+        "spa": 10,
+        "spd": 4,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 60,
+        "spa": 76,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Skull Bash",
+        "Nature Power",
+        "Snatch",
+        "Pain Split"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 9,
+        "atk": 22,
+        "def": 8,
+        "spa": 16,
+        "spd": 6,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 56,
+        "spa": 44,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metapod",
+      "moves": [
+        "Fly",
+        "Mimic",
+        "Mega Drain",
+        "Psych Up"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 27,
+        "atk": 31,
+        "def": 28,
+        "spa": 4,
+        "spd": 1,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 20,
+        "spa": 36,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

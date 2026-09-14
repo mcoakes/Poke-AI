@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_136",
+  "party": [
+    {
+      "species": "Ralts",
+      "moves": [
+        "Light Screen",
+        "Facade",
+        "Future Sight",
+        "Mean Look"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 30,
+        "atk": 29,
+        "def": 8,
+        "spa": 4,
+        "spd": 16,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 60,
+        "spa": 52,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

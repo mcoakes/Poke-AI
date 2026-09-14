@@ -1,0 +1,180 @@
+{
+  "name": "random_6_047",
+  "party": [
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Pain Split",
+        "Sandstorm",
+        "Rock Slide",
+        "Fire Punch"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 14,
+        "def": 3,
+        "spa": 29,
+        "spd": 15,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 32,
+        "spa": 32,
+        "spd": 36,
+        "spe": 4
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Arm Thrust",
+        "Twineedle",
+        "Rock Blast",
+        "Water Sport"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 0,
+        "atk": 19,
+        "def": 16,
+        "spa": 30,
+        "spd": 15,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 68,
+        "spa": 28,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Block",
+        "Poison Gas",
+        "Frustration",
+        "Nature Power"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 18,
+        "atk": 17,
+        "def": 10,
+        "spa": 21,
+        "spd": 23,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 92,
+        "def": 64,
+        "spa": 60,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Tickle",
+        "Amnesia",
+        "Overheat",
+        "Skill Swap"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 15,
+        "atk": 8,
+        "def": 25,
+        "spa": 24,
+        "spd": 22,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 40,
+        "def": 72,
+        "spa": 80,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mareep",
+      "moves": [
+        "Thunderbolt",
+        "Low Kick",
+        "Water Spout",
+        "Tail Glow"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 11,
+        "atk": 5,
+        "def": 10,
+        "spa": 2,
+        "spd": 28,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 44,
+        "spa": 56,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Thunder Wave",
+        "Recover",
+        "Sheer Cold",
+        "Bonemerang"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 13,
+        "spa": 12,
+        "spd": 26,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 36,
+        "spa": 44,
+        "spd": 16,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

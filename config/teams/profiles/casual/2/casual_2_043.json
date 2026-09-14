@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_043",
+  "party": [
+    {
+      "species": "Electrike",
+      "moves": [
+        "Return",
+        "Shock Wave",
+        "Toxic",
+        "Body Slam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 23,
+        "atk": 23,
+        "def": 12,
+        "spa": 16,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 20,
+        "spa": 64,
+        "spd": 28,
+        "spe": 64
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Strength",
+        "Dream Eater",
+        "Light Screen",
+        "Hidden Power"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 4,
+        "atk": 23,
+        "def": 28,
+        "spa": 14,
+        "spd": 26,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 52,
+        "spa": 48,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

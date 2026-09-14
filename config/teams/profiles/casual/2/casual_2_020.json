@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_020",
+  "party": [
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Screech",
+        "Secret Power",
+        "Acid",
+        "Wrap"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 10,
+        "atk": 0,
+        "def": 30,
+        "spa": 25,
+        "spd": 7,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 20,
+        "spa": 32,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Swellow",
+      "moves": [
+        "Aerial Ace",
+        "Supersonic",
+        "Facade",
+        "Counter"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 22,
+        "def": 11,
+        "spa": 10,
+        "spd": 3,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 12,
+        "spa": 32,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

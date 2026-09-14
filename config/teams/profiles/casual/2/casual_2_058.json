@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_058",
+  "party": [
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Rest",
+        "Surf",
+        "Body Slam",
+        "Mud Sport"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 13,
+        "atk": 27,
+        "def": 8,
+        "spa": 16,
+        "spd": 7,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 8,
+        "def": 24,
+        "spa": 16,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Sunny Day",
+        "Slam",
+        "Thief",
+        "Water Pulse"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 9,
+        "atk": 5,
+        "def": 15,
+        "spa": 27,
+        "spd": 23,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 88,
+        "spa": 64,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_141",
+  "party": [
+    {
+      "species": "Huntail",
+      "moves": [
+        "Surf",
+        "Mean Look",
+        "Pain Split",
+        "Cosmic Power"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 16,
+        "atk": 1,
+        "def": 4,
+        "spa": 12,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 24,
+        "spa": 40,
+        "spd": 12,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Exploud",
+      "moves": [
+        "Mirror Move",
+        "Rock Tomb",
+        "Thunder Punch",
+        "Horn Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 21,
+        "atk": 31,
+        "def": 7,
+        "spa": 1,
+        "spd": 23,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 40,
+        "def": 60,
+        "spa": 48,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Poison Fang",
+        "Spikes",
+        "Hyper Beam",
+        "Frustration"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 11,
+        "atk": 1,
+        "def": 1,
+        "spa": 12,
+        "spd": 31,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 80,
+        "spa": 64,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Baton Pass",
+        "Double Kick",
+        "Triple Kick",
+        "Flash"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 7,
+        "atk": 23,
+        "def": 3,
+        "spa": 7,
+        "spd": 22,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 64,
+        "spa": 88,
+        "spd": 56,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

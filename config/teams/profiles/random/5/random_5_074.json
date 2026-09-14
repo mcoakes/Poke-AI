@@ -1,0 +1,152 @@
+{
+  "name": "random_5_074",
+  "party": [
+    {
+      "species": "Doduo",
+      "moves": [
+        "Spike Cannon",
+        "Mega Kick",
+        "Sandstorm",
+        "Leech Seed"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 26,
+        "atk": 12,
+        "def": 27,
+        "spa": 14,
+        "spd": 27,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 56,
+        "spa": 96,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Steel Wing",
+        "Grass Whistle",
+        "Smokescreen",
+        "Magic Coat"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 25,
+        "atk": 30,
+        "def": 3,
+        "spa": 13,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 52,
+        "spa": 64,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Curse",
+        "Pay Day",
+        "Future Sight",
+        "Thief"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 16,
+        "atk": 25,
+        "def": 0,
+        "spa": 0,
+        "spd": 23,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 12,
+        "spa": 0,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Hyper Fang",
+        "Stun Spore",
+        "Rapid Spin",
+        "Bubble Beam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 7,
+        "atk": 31,
+        "def": 4,
+        "spa": 8,
+        "spd": 2,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 72,
+        "spa": 100,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Recover",
+        "Follow Me",
+        "Mud Shot",
+        "Mud Slap"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 5,
+        "def": 27,
+        "spa": 1,
+        "spd": 24,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 16,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

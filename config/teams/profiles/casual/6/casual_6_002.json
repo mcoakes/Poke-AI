@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_002",
+  "party": [
+    {
+      "species": "Wailord",
+      "moves": [
+        "Water Pulse",
+        "Facade",
+        "Double Team",
+        "Secret Power"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 12,
+        "spa": 4,
+        "spd": 6,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 8,
+        "spa": 16,
+        "spd": 44,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Haze",
+        "Shadow Ball",
+        "Will O Wisp",
+        "Giga Drain"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 11,
+        "atk": 26,
+        "def": 3,
+        "spa": 30,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 36,
+        "spa": 60,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Secret Power",
+        "Protect",
+        "Double Team",
+        "Sludge"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 29,
+        "def": 27,
+        "spa": 10,
+        "spd": 15,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 36,
+        "spa": 52,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Dig",
+        "Protect",
+        "Howl",
+        "Ember"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 12,
+        "atk": 31,
+        "def": 19,
+        "spa": 30,
+        "spd": 22,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 16,
+        "spa": 36,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Roar",
+        "Fly",
+        "Strength",
+        "Dragon Claw"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 14,
+        "atk": 30,
+        "def": 16,
+        "spa": 14,
+        "spd": 11,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 44,
+        "spa": 16,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Metronome",
+        "Secret Power",
+        "Leech Seed",
+        "Confusion"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 29,
+        "atk": 9,
+        "def": 5,
+        "spa": 18,
+        "spd": 2,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 28,
+        "spa": 32,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

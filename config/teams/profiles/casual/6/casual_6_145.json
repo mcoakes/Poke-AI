@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_145",
+  "party": [
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Earthquake",
+        "Frustration",
+        "Strength",
+        "Protect"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 11,
+        "atk": 16,
+        "def": 5,
+        "spa": 20,
+        "spd": 13,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Flaaffy",
+      "moves": [
+        "Iron Tail",
+        "Thunderbolt",
+        "Flash",
+        "Rain Dance"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 29,
+        "def": 21,
+        "spa": 18,
+        "spd": 14,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 8,
+        "def": 20,
+        "spa": 12,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Secret Power",
+        "Magical Leaf",
+        "Giga Drain",
+        "Substitute"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 5,
+        "atk": 11,
+        "def": 27,
+        "spa": 4,
+        "spd": 0,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 40,
+        "spa": 16,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Body Slam",
+        "Hidden Power",
+        "Flamethrower",
+        "Supersonic"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 16,
+        "atk": 1,
+        "def": 29,
+        "spa": 21,
+        "spd": 31,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 8,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Thief",
+        "Synthesis",
+        "Acid",
+        "Bullet Seed"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 21,
+        "atk": 12,
+        "def": 1,
+        "spa": 31,
+        "spd": 21,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 40,
+        "spa": 56,
+        "spd": 20,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Double Team",
+        "Earthquake",
+        "Thunderbolt",
+        "Surf"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 13,
+        "atk": 20,
+        "def": 7,
+        "spa": 13,
+        "spd": 10,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 12,
+        "spa": 20,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

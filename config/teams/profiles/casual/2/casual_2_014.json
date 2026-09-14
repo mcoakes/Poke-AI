@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_014",
+  "party": [
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Double Edge",
+        "Protect",
+        "Quick Attack",
+        "Leaf Blade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 4,
+        "atk": 2,
+        "def": 21,
+        "spa": 1,
+        "spd": 11,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 44,
+        "spa": 60,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ariados",
+      "moves": [
+        "Signal Beam",
+        "String Shot",
+        "Double Team",
+        "Secret Power"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 1,
+        "atk": 2,
+        "def": 17,
+        "spa": 4,
+        "spd": 31,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 60,
+        "def": 40,
+        "spa": 52,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

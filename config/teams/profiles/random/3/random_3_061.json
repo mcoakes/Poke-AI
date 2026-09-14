@@ -1,0 +1,96 @@
+{
+  "name": "random_3_061",
+  "party": [
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Horn Drill",
+        "Shadow Ball",
+        "Flame Wheel",
+        "Soft Boiled"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 29,
+        "atk": 21,
+        "def": 25,
+        "spa": 30,
+        "spd": 1,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 72,
+        "def": 88,
+        "spa": 64,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ninetales",
+      "moves": [
+        "Frenzy Plant",
+        "Extreme Speed",
+        "Sand Attack",
+        "Submission"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 5,
+        "atk": 3,
+        "def": 23,
+        "spa": 28,
+        "spd": 27,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 72,
+        "def": 72,
+        "spa": 56,
+        "spd": 80,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Morning Sun",
+        "Sleep Talk",
+        "Will O Wisp",
+        "Icy Wind"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 18,
+        "atk": 11,
+        "def": 4,
+        "spa": 21,
+        "spd": 29,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

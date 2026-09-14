@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_044",
+  "party": [
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Shadow Punch",
+        "Imprison",
+        "Strength",
+        "Substitute"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 26,
+        "def": 18,
+        "spa": 20,
+        "spd": 19,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 12,
+        "spa": 8,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

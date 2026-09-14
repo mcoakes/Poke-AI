@@ -1,0 +1,68 @@
+{
+  "name": "random_2_051",
+  "party": [
+    {
+      "species": "Mareep",
+      "moves": [
+        "Growl",
+        "Cosmic Power",
+        "Tickle",
+        "Sweet Kiss"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 21,
+        "def": 5,
+        "spa": 29,
+        "spd": 4,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 124,
+        "def": 64,
+        "spa": 60,
+        "spd": 60,
+        "spe": 104
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Swords Dance",
+        "False Swipe",
+        "Confuse Ray",
+        "Metal Claw"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 4,
+        "def": 9,
+        "spa": 1,
+        "spd": 6,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 12,
+        "spa": 0,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

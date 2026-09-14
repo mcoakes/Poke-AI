@@ -1,0 +1,96 @@
+{
+  "name": "random_3_113",
+  "party": [
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Icicle Spear",
+        "Megahorn",
+        "Nature Power",
+        "Astonish"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 9,
+        "atk": 4,
+        "def": 4,
+        "spa": 15,
+        "spd": 6,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 80,
+        "def": 68,
+        "spa": 80,
+        "spd": 96,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Thrash",
+        "Spit Up",
+        "Mist Ball",
+        "Role Play"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 11,
+        "spa": 7,
+        "spd": 25,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 76,
+        "def": 52,
+        "spa": 60,
+        "spd": 64,
+        "spe": 84
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Reflect",
+        "Perish Song",
+        "Focus Energy",
+        "Pay Day"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 25,
+        "spa": 21,
+        "spd": 25,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 80,
+        "spa": 72,
+        "spd": 96,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

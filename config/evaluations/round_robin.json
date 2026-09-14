@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Model comparison across team pools",
+  "episodes": 1000,
+  "max_steps": 200,
+  "seed": 10001,
+  "include_random": true,
+  "scenarios": [
+    {
+      "id": "six_types",
+      "name": "Six-type training team",
+      "training_profile": "six_types"
+    },
+    {
+      "id": "mixed_three",
+      "name": "Mixed teams, three Pokemon",
+      "team_profile": "mixed",
+      "team_size": 3
+    },
+    {
+      "id": "competitive_six",
+      "name": "Competitive teams, six Pokemon",
+      "team_profile": "competitive",
+      "team_size": 6
+    }
+  ]
+}

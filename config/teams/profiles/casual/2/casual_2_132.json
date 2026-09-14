@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_132",
+  "party": [
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Bite",
+        "Agility",
+        "Torment",
+        "Surf"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 11,
+        "atk": 10,
+        "def": 31,
+        "spa": 23,
+        "spd": 8,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 52,
+        "spa": 56,
+        "spd": 40,
+        "spe": 108
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Hail",
+        "Haze",
+        "Ice Beam",
+        "Water Pulse"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 19,
+        "atk": 22,
+        "def": 21,
+        "spa": 19,
+        "spd": 5,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 40,
+        "spa": 0,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

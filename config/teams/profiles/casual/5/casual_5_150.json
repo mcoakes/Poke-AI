@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_150",
+  "party": [
+    {
+      "species": "Diglett",
+      "moves": [
+        "Earthquake",
+        "Secret Power",
+        "Attract",
+        "Facade"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 4,
+        "atk": 5,
+        "def": 2,
+        "spa": 10,
+        "spd": 8,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 28,
+        "spa": 32,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Dig",
+        "Waterfall",
+        "Water Sport",
+        "Protect"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 1,
+        "atk": 16,
+        "def": 25,
+        "spa": 24,
+        "spd": 18,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 28,
+        "def": 64,
+        "spa": 72,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Aerial Ace",
+        "Mimic",
+        "Ember",
+        "Substitute"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 17,
+        "atk": 20,
+        "def": 1,
+        "spa": 21,
+        "spd": 15,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 40,
+        "spa": 56,
+        "spd": 72,
+        "spe": 28
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Body Slam",
+        "Sludge Bomb",
+        "Swords Dance",
+        "Hyper Beam"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 10,
+        "def": 5,
+        "spa": 25,
+        "spd": 27,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 84,
+        "def": 68,
+        "spa": 56,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Psychic",
+        "Facade",
+        "Curse",
+        "Heal Bell"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 5,
+        "def": 0,
+        "spa": 25,
+        "spd": 14,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 48,
+        "spa": 68,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

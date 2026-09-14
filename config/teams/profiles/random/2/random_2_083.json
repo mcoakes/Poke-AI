@@ -1,0 +1,68 @@
+{
+  "name": "random_2_083",
+  "party": [
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Roar",
+        "Spite",
+        "Bubble Beam",
+        "Snore"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 29,
+        "atk": 5,
+        "def": 2,
+        "spa": 4,
+        "spd": 0,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 76,
+        "def": 64,
+        "spa": 56,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Poison Tail",
+        "Strength",
+        "Ember",
+        "Toxic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 17,
+        "atk": 5,
+        "def": 24,
+        "spa": 24,
+        "spd": 6,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 80,
+        "spa": 56,
+        "spd": 80,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

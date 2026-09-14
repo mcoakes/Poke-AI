@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_032",
+  "party": [
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Attract",
+        "Dream Eater",
+        "Faint Attack",
+        "Wing Attack"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 12,
+        "atk": 22,
+        "def": 19,
+        "spa": 3,
+        "spd": 16,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 64,
+        "spa": 68,
+        "spd": 40,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Giga Drain",
+        "Acid",
+        "Synthesis",
+        "Return"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 19,
+        "atk": 0,
+        "def": 31,
+        "spa": 5,
+        "spd": 14,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 12,
+        "spa": 16,
+        "spd": 44,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Waterfall",
+        "Secret Power",
+        "Charge",
+        "Return"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 6,
+        "atk": 5,
+        "def": 14,
+        "spa": 5,
+        "spd": 20,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 52,
+        "spa": 44,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

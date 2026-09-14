@@ -1,0 +1,96 @@
+{
+  "name": "random_3_133",
+  "party": [
+    {
+      "species": "Lombre",
+      "moves": [
+        "Leaf Blade",
+        "Grudge",
+        "Heat Wave",
+        "Smelling Salt"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 2,
+        "def": 7,
+        "spa": 16,
+        "spd": 30,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 36,
+        "def": 28,
+        "spa": 32,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Sludge",
+        "Trick",
+        "Magic Coat",
+        "Strength"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 23,
+        "atk": 6,
+        "def": 25,
+        "spa": 15,
+        "spd": 19,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 60,
+        "spa": 64,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Slash",
+        "Fury Cutter",
+        "Uproar",
+        "Blizzard"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 5,
+        "spa": 6,
+        "spd": 27,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 40,
+        "spa": 56,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

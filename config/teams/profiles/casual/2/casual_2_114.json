@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_114",
+  "party": [
+    {
+      "species": "Cubone",
+      "moves": [
+        "Earthquake",
+        "Tail Whip",
+        "False Swipe",
+        "Swords Dance"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 14,
+        "atk": 2,
+        "def": 28,
+        "spa": 20,
+        "spd": 14,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 16,
+        "spa": 20,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Rest",
+        "Body Slam",
+        "Ember",
+        "Mimic"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 30,
+        "atk": 20,
+        "def": 10,
+        "spa": 9,
+        "spd": 27,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 36,
+        "spa": 56,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

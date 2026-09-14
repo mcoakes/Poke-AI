@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_040",
+  "party": [
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Mega Punch",
+        "Substitute",
+        "Shock Wave",
+        "Dream Eater"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 9,
+        "spa": 3,
+        "spd": 16,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 32,
+        "spa": 16,
+        "spd": 20,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Constrict",
+        "Rock Slide",
+        "Rest",
+        "Earthquake"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 6,
+        "atk": 21,
+        "def": 10,
+        "spa": 5,
+        "spd": 22,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 16,
+        "spa": 36,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Protect",
+        "Dig",
+        "Facade",
+        "Sludge Bomb"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 24,
+        "atk": 27,
+        "def": 23,
+        "spa": 8,
+        "spd": 10,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 24,
+        "spa": 40,
+        "spd": 24,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Earthquake",
+        "Bite",
+        "Double Team",
+        "Facade"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 8,
+        "atk": 9,
+        "def": 0,
+        "spa": 16,
+        "spd": 9,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 52,
+        "spa": 28,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Waterfall",
+        "Rock Slide",
+        "Mega Kick",
+        "Mimic"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 16,
+        "atk": 25,
+        "def": 13,
+        "spa": 5,
+        "spd": 7,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 20,
+        "spa": 20,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_077",
+  "party": [
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Camouflage",
+        "Metal Sound",
+        "Comet Punch",
+        "Fire Blast"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 13,
+        "spa": 15,
+        "spd": 17,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 80,
+        "spa": 72,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Cleffa",
+      "moves": [
+        "Icy Wind",
+        "Smokescreen",
+        "Headbutt",
+        "Spite"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 17,
+        "def": 17,
+        "spa": 10,
+        "spd": 22,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 36,
+        "def": 32,
+        "spa": 56,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Withdraw",
+        "Growl",
+        "Extrasensory",
+        "Flatter"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 5,
+        "atk": 22,
+        "def": 12,
+        "spa": 18,
+        "spd": 29,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 28,
+        "spa": 28,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Ancient Power",
+        "Blast Burn",
+        "Bounce",
+        "Mist"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 3,
+        "def": 24,
+        "spa": 16,
+        "spd": 19,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 40,
+        "spa": 40,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Solar Beam",
+        "Flatter",
+        "Shadow Ball",
+        "Morning Sun"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 29,
+        "atk": 14,
+        "def": 12,
+        "spa": 29,
+        "spd": 12,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 20,
+        "spa": 24,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

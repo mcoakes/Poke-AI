@@ -1,0 +1,152 @@
+{
+  "name": "random_5_128",
+  "party": [
+    {
+      "species": "Starmie",
+      "moves": [
+        "Pay Day",
+        "Dream Eater",
+        "Charge",
+        "Taunt"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 6,
+        "spa": 4,
+        "spd": 18,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Rock Throw",
+        "Sand Tomb",
+        "Detect",
+        "Gust"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 27,
+        "atk": 27,
+        "def": 27,
+        "spa": 12,
+        "spd": 31,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 64,
+        "def": 56,
+        "spa": 48,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Leech Seed",
+        "Tickle",
+        "Bubble",
+        "Razor Wind"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 16,
+        "spa": 5,
+        "spd": 4,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 72,
+        "spa": 48,
+        "spd": 96,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metapod",
+      "moves": [
+        "Sing",
+        "Wing Attack",
+        "Aromatherapy",
+        "Heal Bell"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 16,
+        "def": 26,
+        "spa": 19,
+        "spd": 23,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 16,
+        "spa": 40,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Sky Attack",
+        "Role Play",
+        "Sharpen",
+        "Light Screen"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 22,
+        "def": 28,
+        "spa": 17,
+        "spd": 16,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 32,
+        "spa": 12,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

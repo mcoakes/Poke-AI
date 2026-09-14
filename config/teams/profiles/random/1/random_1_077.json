@@ -1,0 +1,40 @@
+{
+  "name": "random_1_077",
+  "party": [
+    {
+      "species": "Graveler",
+      "moves": [
+        "Bone Rush",
+        "Mind Reader",
+        "Leaf Blade",
+        "Leer"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 2,
+        "spa": 9,
+        "spd": 10,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 32,
+        "spa": 24,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

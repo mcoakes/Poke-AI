@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_058",
+  "party": [
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Secret Power",
+        "Rest",
+        "Shadow Ball",
+        "Double Edge"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 30,
+        "atk": 12,
+        "def": 11,
+        "spa": 17,
+        "spd": 12,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 72,
+        "spa": 56,
+        "spd": 72,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Grudge",
+        "Imprison",
+        "Shadow Ball",
+        "Facade"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 29,
+        "atk": 20,
+        "def": 13,
+        "spa": 14,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 44,
+        "spa": 80,
+        "spd": 28,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Abra",
+      "moves": [
+        "Sunny Day",
+        "Psychic",
+        "Shock Wave",
+        "Toxic"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 6,
+        "atk": 3,
+        "def": 8,
+        "spa": 4,
+        "spd": 25,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 60,
+        "spa": 76,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    },
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Rock Tomb",
+        "Strength",
+        "Dig",
+        "Taunt"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 13,
+        "atk": 2,
+        "def": 4,
+        "spa": 5,
+        "spd": 2,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 52,
+        "spa": 28,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Mimic",
+        "Dig",
+        "Toxic",
+        "Metal Claw"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 16,
+        "spa": 23,
+        "spd": 10,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 16,
+        "spa": 36,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

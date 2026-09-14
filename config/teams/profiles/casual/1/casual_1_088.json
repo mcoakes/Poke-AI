@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_088",
+  "party": [
+    {
+      "species": "Krabby",
+      "moves": [
+        "Dive",
+        "Protect",
+        "Crabhammer",
+        "Facade"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 30,
+        "atk": 17,
+        "def": 8,
+        "spa": 2,
+        "spd": 1,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 48,
+        "def": 36,
+        "spa": 60,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

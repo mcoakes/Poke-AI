@@ -1,0 +1,180 @@
+{
+  "name": "random_6_143",
+  "party": [
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Metal Sound",
+        "Bounce",
+        "Brick Break",
+        "Spore"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 6,
+        "atk": 1,
+        "def": 16,
+        "spa": 23,
+        "spd": 20,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 80,
+        "def": 92,
+        "spa": 64,
+        "spd": 60,
+        "spe": 100
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Detect",
+        "Endure",
+        "Karate Chop",
+        "Refresh"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 25,
+        "atk": 16,
+        "def": 29,
+        "spa": 5,
+        "spd": 26,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 28,
+        "spa": 44,
+        "spd": 68,
+        "spe": 88
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Screech",
+        "Haze",
+        "Sky Uppercut",
+        "Icicle Spear"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 11,
+        "spa": 4,
+        "spd": 11,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 48,
+        "spa": 36,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ninjask",
+      "moves": [
+        "Growth",
+        "Brick Break",
+        "Present",
+        "Charge"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 21,
+        "atk": 8,
+        "def": 28,
+        "spa": 24,
+        "spd": 3,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 52,
+        "def": 32,
+        "spa": 40,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mewtwo",
+      "moves": [
+        "Spider Web",
+        "Knock Off",
+        "Whirlpool",
+        "Thunder Wave"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 16,
+        "atk": 17,
+        "def": 27,
+        "spa": 2,
+        "spd": 10,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 28,
+        "spa": 36,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Wurmple",
+      "moves": [
+        "Hi Jump Kick",
+        "Magical Leaf",
+        "Absorb",
+        "Present"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 15,
+        "spa": 20,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 32,
+        "spa": 28,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "competitive_5_076",
+  "party": [
+    {
+      "species": "Starmie",
+      "moves": [
+        "Ice Beam",
+        "Recover",
+        "Surf",
+        "Thunderbolt"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Confuse Ray",
+        "Thunderbolt"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Sky Uppercut",
+        "Swords Dance",
+        "Rock Slide",
+        "Fire Blast"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Giga Drain",
+        "Psychic",
+        "Sleep Powder",
+        "Explosion"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Swords Dance",
+        "Earthquake",
+        "Double Edge",
+        "Rock Slide"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Thick Club",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 20265958,
+    "archetype": "balanced"
+  }
+}

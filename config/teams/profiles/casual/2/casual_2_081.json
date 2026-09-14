@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_081",
+  "party": [
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Body Slam",
+        "Ember",
+        "Protect",
+        "Substitute"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 23,
+        "def": 27,
+        "spa": 23,
+        "spd": 5,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 12,
+        "spa": 28,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Onix",
+      "moves": [
+        "Rock Throw",
+        "Dragon Breath",
+        "Frustration",
+        "Roar"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 10,
+        "atk": 23,
+        "def": 13,
+        "spa": 16,
+        "spd": 29,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 40,
+        "spa": 36,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

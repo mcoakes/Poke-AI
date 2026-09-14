@@ -1,0 +1,152 @@
+{
+  "name": "random_5_018",
+  "party": [
+    {
+      "species": "Donphan",
+      "moves": [
+        "Sky Uppercut",
+        "Skull Bash",
+        "Metronome",
+        "Future Sight"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 19,
+        "atk": 29,
+        "def": 30,
+        "spa": 24,
+        "spd": 15,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 60,
+        "spa": 92,
+        "spd": 48,
+        "spe": 84
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Scary Face",
+        "Swallow",
+        "Metal Sound",
+        "Ice Ball"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 15,
+        "atk": 30,
+        "def": 18,
+        "spa": 1,
+        "spd": 30,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Beldum",
+      "moves": [
+        "Toxic",
+        "Scary Face",
+        "Imprison",
+        "Dive"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 7,
+        "def": 2,
+        "spa": 17,
+        "spd": 25,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 32,
+        "spa": 40,
+        "spd": 32,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Bone Club",
+        "Bulk Up",
+        "Air Cutter",
+        "Revenge"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 12,
+        "spa": 14,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 28,
+        "spa": 8,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Cosmic Power",
+        "Uproar",
+        "Dive",
+        "Focus Energy"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 22,
+        "def": 18,
+        "spa": 31,
+        "spd": 27,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 92,
+        "def": 60,
+        "spa": 72,
+        "spd": 60,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_123",
+  "party": [
+    {
+      "species": "Barboach",
+      "moves": [
+        "Teeter Dance",
+        "Ember",
+        "Hidden Power",
+        "Stun Spore"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 7,
+        "spa": 22,
+        "spd": 16,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 36,
+        "spa": 40,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

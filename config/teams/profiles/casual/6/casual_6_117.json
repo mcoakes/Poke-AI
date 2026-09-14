@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_117",
+  "party": [
+    {
+      "species": "Hitmontop",
+      "moves": [
+        "Sandstorm",
+        "Earthquake",
+        "Thief",
+        "Revenge"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 25,
+        "spa": 10,
+        "spd": 3,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 32,
+        "spa": 32,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Waterfall",
+        "Mimic",
+        "Earthquake",
+        "Spark"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 30,
+        "def": 1,
+        "spa": 19,
+        "spd": 24,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 16,
+        "spa": 4,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Protect",
+        "Pound",
+        "Confusion",
+        "Sing"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 13,
+        "atk": 10,
+        "def": 6,
+        "spa": 24,
+        "spd": 3,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 24,
+        "def": 60,
+        "spa": 68,
+        "spd": 64,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Mimic",
+        "Double Edge",
+        "Body Slam",
+        "Psychic"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 25,
+        "atk": 4,
+        "def": 21,
+        "spa": 20,
+        "spd": 17,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 60,
+        "spa": 72,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Linoone",
+      "moves": [
+        "Pin Missile",
+        "Body Slam",
+        "Mud Sport",
+        "Dig"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 27,
+        "atk": 0,
+        "def": 15,
+        "spa": 5,
+        "spd": 17,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 60,
+        "spa": 44,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Togetic",
+      "moves": [
+        "Fly",
+        "Magical Leaf",
+        "Reflect",
+        "Future Sight"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 4,
+        "atk": 11,
+        "def": 16,
+        "spa": 15,
+        "spd": 14,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 48,
+        "spa": 48,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

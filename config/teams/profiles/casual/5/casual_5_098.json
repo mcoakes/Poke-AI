@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_098",
+  "party": [
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Aerial Ace",
+        "Hyper Beam",
+        "Agility",
+        "Dragon Breath"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 21,
+        "def": 5,
+        "spa": 25,
+        "spd": 14,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 64,
+        "spa": 60,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Metronome",
+        "Dream Eater",
+        "Psychic",
+        "Powder Snow"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 9,
+        "spa": 15,
+        "spd": 19,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 40,
+        "def": 64,
+        "spa": 76,
+        "spd": 52,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Strength",
+        "Disable",
+        "Sludge Bomb",
+        "Confusion"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 6,
+        "spa": 1,
+        "spd": 30,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 44,
+        "spa": 40,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Rock Tomb",
+        "Dream Eater",
+        "Double Edge",
+        "Double Team"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 11,
+        "atk": 15,
+        "def": 3,
+        "spa": 13,
+        "spd": 15,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 68,
+        "spa": 36,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Giga Drain",
+        "Cut",
+        "Mimic",
+        "Ingrain"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 16,
+        "atk": 21,
+        "def": 8,
+        "spa": 3,
+        "spd": 2,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 56,
+        "spa": 60,
+        "spd": 12,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

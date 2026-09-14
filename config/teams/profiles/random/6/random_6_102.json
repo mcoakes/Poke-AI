@@ -1,0 +1,180 @@
+{
+  "name": "random_6_102",
+  "party": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Flame Wheel",
+        "Rapid Spin",
+        "Ice Punch",
+        "Endeavor"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 15,
+        "atk": 9,
+        "def": 24,
+        "spa": 30,
+        "spd": 31,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 60,
+        "def": 40,
+        "spa": 68,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Block",
+        "Fake Out",
+        "Harden",
+        "Barrier"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 22,
+        "atk": 3,
+        "def": 22,
+        "spa": 27,
+        "spd": 31,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 60,
+        "def": 80,
+        "spa": 60,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Explosion",
+        "Spark",
+        "Odor Sleuth",
+        "Muddy Water"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 26,
+        "atk": 13,
+        "def": 16,
+        "spa": 0,
+        "spd": 22,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Sludge Bomb",
+        "Slash",
+        "Swift",
+        "Submission"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 10,
+        "atk": 29,
+        "def": 23,
+        "spa": 30,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 56,
+        "spa": 24,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Guillotine",
+        "Blast Burn",
+        "Cut",
+        "Foresight"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 13,
+        "def": 19,
+        "spa": 27,
+        "spd": 25,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 48,
+        "spa": 84,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Vice Grip",
+        "Flail",
+        "False Swipe",
+        "Horn Drill"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 7,
+        "atk": 11,
+        "def": 28,
+        "spa": 16,
+        "spd": 8,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 60,
+        "spa": 56,
+        "spd": 108,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

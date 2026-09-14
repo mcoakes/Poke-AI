@@ -1,0 +1,152 @@
+{
+  "name": "random_5_106",
+  "party": [
+    {
+      "species": "Dustox",
+      "moves": [
+        "Take Down",
+        "Crabhammer",
+        "Endure",
+        "Feather Dance"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 10,
+        "spa": 27,
+        "spd": 4,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 80,
+        "def": 84,
+        "spa": 76,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Wish",
+        "Twister",
+        "Trick",
+        "Metal Sound"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 17,
+        "def": 31,
+        "spa": 1,
+        "spd": 10,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Conversion",
+        "Nightmare",
+        "Thunderbolt",
+        "Synthesis"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 19,
+        "atk": 0,
+        "def": 17,
+        "spa": 7,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 52,
+        "spa": 56,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Sludge",
+        "Hi Jump Kick",
+        "Glare",
+        "Safeguard"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 8,
+        "atk": 15,
+        "def": 22,
+        "spa": 28,
+        "spd": 4,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 40,
+        "spa": 40,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Thunder Punch",
+        "Spore",
+        "Minimize",
+        "Attract"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 14,
+        "atk": 3,
+        "def": 28,
+        "spa": 4,
+        "spd": 23,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 24,
+        "spa": 44,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

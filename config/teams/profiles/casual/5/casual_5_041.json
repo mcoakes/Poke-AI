@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_041",
+  "party": [
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Giga Drain",
+        "Mega Drain",
+        "Helping Hand",
+        "Sludge Bomb"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 14,
+        "atk": 21,
+        "def": 27,
+        "spa": 21,
+        "spd": 1,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 64,
+        "spa": 44,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Body Slam",
+        "Mimic",
+        "Dragon Dance",
+        "Dragon Breath"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 21,
+        "atk": 4,
+        "def": 4,
+        "spa": 18,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 28,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Grass Whistle",
+        "Leer",
+        "Giga Drain",
+        "Cut"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 11,
+        "atk": 1,
+        "def": 13,
+        "spa": 27,
+        "spd": 12,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 60,
+        "spa": 36,
+        "spd": 108,
+        "spe": 60
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Groudon",
+      "moves": [
+        "Dig",
+        "Facade",
+        "Double Team",
+        "Protect"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 20,
+        "atk": 29,
+        "def": 3,
+        "spa": 8,
+        "spd": 10,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 52,
+        "def": 100,
+        "spa": 52,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Light Screen",
+        "Thief",
+        "Future Sight",
+        "Flash"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 16,
+        "atk": 29,
+        "def": 12,
+        "spa": 29,
+        "spd": 12,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 28,
+        "spa": 28,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Six types \u2014 matching moves",
+  "party": [
+    {
+      "species": "Arcanine",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Fire Blast",
+        "Flame Wheel",
+        "Ember"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Blastoise",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Hydro Pump",
+        "Water Pulse",
+        "Water Gun"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Sceptile",
+      "level": 50,
+      "moves": [
+        "Leaf Blade",
+        "Giga Drain",
+        "Mega Drain",
+        "Absorb"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Thunder",
+        "Shock Wave",
+        "Thunder Shock"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Glalie",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Blizzard",
+        "Icy Wind",
+        "Powder Snow"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Machamp",
+      "level": 50,
+      "moves": [
+        "Cross Chop",
+        "Brick Break",
+        "Karate Chop",
+        "Low Kick"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    }
+  ]
+}

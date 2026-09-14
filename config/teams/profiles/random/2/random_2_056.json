@@ -1,0 +1,68 @@
+{
+  "name": "random_2_056",
+  "party": [
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Poison Tail",
+        "Luster Purge",
+        "Heal Bell",
+        "Thief"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 2,
+        "def": 11,
+        "spa": 31,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 28,
+        "spa": 4,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Megahorn",
+        "Hyper Fang",
+        "Stockpile",
+        "Role Play"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 3,
+        "atk": 18,
+        "def": 17,
+        "spa": 27,
+        "spd": 4,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 36,
+        "spa": 24,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

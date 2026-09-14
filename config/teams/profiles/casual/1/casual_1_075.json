@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_075",
+  "party": [
+    {
+      "species": "Flaaffy",
+      "moves": [
+        "Toxic",
+        "Brick Break",
+        "Thunderbolt",
+        "Double Team"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 4,
+        "atk": 17,
+        "def": 19,
+        "spa": 5,
+        "spd": 3,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 68,
+        "spa": 52,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

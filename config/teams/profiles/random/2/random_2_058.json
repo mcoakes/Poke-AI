@@ -1,0 +1,68 @@
+{
+  "name": "random_2_058",
+  "party": [
+    {
+      "species": "Elekid",
+      "moves": [
+        "Swagger",
+        "Scratch",
+        "Rollout",
+        "Hydro Cannon"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 7,
+        "atk": 10,
+        "def": 12,
+        "spa": 1,
+        "spd": 0,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 12,
+        "spa": 20,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Hypnosis",
+        "Petal Dance",
+        "Bite",
+        "Clamp"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 8,
+        "def": 21,
+        "spa": 27,
+        "spd": 24,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 112,
+        "def": 56,
+        "spa": 60,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

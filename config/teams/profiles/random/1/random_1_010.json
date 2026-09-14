@@ -1,0 +1,40 @@
+{
+  "name": "random_1_010",
+  "party": [
+    {
+      "species": "Pineco",
+      "moves": [
+        "Rapid Spin",
+        "Pursuit",
+        "Spark",
+        "Sand Tomb"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 17,
+        "def": 28,
+        "spa": 3,
+        "spd": 26,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 68,
+        "spa": 68,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

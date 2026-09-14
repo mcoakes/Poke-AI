@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_134",
+  "party": [
+    {
+      "species": "Houndour",
+      "moves": [
+        "Flamethrower",
+        "Thief",
+        "Will O Wisp",
+        "Facade"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 4,
+        "spa": 17,
+        "spd": 29,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 8,
+        "spa": 28,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Leech Seed",
+        "Magical Leaf",
+        "Sleep Powder",
+        "Sludge Bomb"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 3,
+        "atk": 3,
+        "def": 5,
+        "spa": 6,
+        "spd": 1,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 24,
+        "spa": 16,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

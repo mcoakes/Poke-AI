@@ -1,0 +1,68 @@
+{
+  "name": "random_2_132",
+  "party": [
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Aeroblast",
+        "Twister",
+        "Conversion",
+        "Counter"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 3,
+        "atk": 27,
+        "def": 22,
+        "spa": 2,
+        "spd": 8,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 20,
+        "spa": 12,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Giga Drain",
+        "Tail Whip",
+        "Fake Out",
+        "Synthesis"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 0,
+        "atk": 25,
+        "def": 11,
+        "spa": 25,
+        "spd": 24,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

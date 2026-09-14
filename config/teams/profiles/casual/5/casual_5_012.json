@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_012",
+  "party": [
+    {
+      "species": "Togepi",
+      "moves": [
+        "Future Sight",
+        "Thunder Wave",
+        "Facade",
+        "Return"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 22,
+        "spa": 16,
+        "spd": 4,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 40,
+        "spa": 32,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Granbull",
+      "moves": [
+        "Take Down",
+        "Rock Tomb",
+        "Mimic",
+        "Overheat"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 28,
+        "def": 30,
+        "spa": 29,
+        "spd": 18,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 76,
+        "spa": 52,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Rock Tomb",
+        "Charm",
+        "Mega Punch",
+        "Seismic Toss"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 18,
+        "atk": 4,
+        "def": 15,
+        "spa": 17,
+        "spd": 6,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 8,
+        "spa": 8,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Ingrain",
+        "Absorb",
+        "Faint Attack",
+        "Giga Drain"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 14,
+        "def": 31,
+        "spa": 21,
+        "spd": 3,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 28,
+        "def": 92,
+        "spa": 76,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Glalie",
+      "moves": [
+        "Icy Wind",
+        "Rain Dance",
+        "Torment",
+        "Earthquake"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 2,
+        "atk": 17,
+        "def": 27,
+        "spa": 31,
+        "spd": 1,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 64,
+        "spa": 52,
+        "spd": 56,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

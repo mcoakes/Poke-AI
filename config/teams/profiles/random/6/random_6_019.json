@@ -1,0 +1,180 @@
+{
+  "name": "random_6_019",
+  "party": [
+    {
+      "species": "Xatu",
+      "moves": [
+        "Scratch",
+        "Thunderbolt",
+        "Fire Spin",
+        "Return"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 1,
+        "atk": 11,
+        "def": 10,
+        "spa": 25,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 88,
+        "spa": 56,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Spike Cannon",
+        "Peck",
+        "Crush Claw",
+        "Ice Punch"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 23,
+        "def": 8,
+        "spa": 11,
+        "spd": 22,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 44,
+        "def": 72,
+        "spa": 64,
+        "spd": 68,
+        "spe": 108
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Facade",
+        "Yawn",
+        "Mist",
+        "Morning Sun"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 2,
+        "def": 10,
+        "spa": 6,
+        "spd": 3,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 72,
+        "spa": 52,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Uproar",
+        "Charge",
+        "Endeavor",
+        "Beat Up"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 12,
+        "atk": 15,
+        "def": 0,
+        "spa": 30,
+        "spd": 18,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Counter",
+        "Mud Shot",
+        "Whirlpool",
+        "Flame Wheel"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 7,
+        "atk": 23,
+        "def": 18,
+        "spa": 12,
+        "spd": 5,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 28,
+        "def": 92,
+        "spa": 64,
+        "spd": 68,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Psych Up",
+        "Crabhammer",
+        "Aromatherapy",
+        "Mirror Move"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 10,
+        "def": 20,
+        "spa": 30,
+        "spd": 30,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 28,
+        "spa": 20,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

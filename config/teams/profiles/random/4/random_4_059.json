@@ -1,0 +1,124 @@
+{
+  "name": "random_4_059",
+  "party": [
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Stomp",
+        "Teeter Dance",
+        "Metal Claw",
+        "Return"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 1,
+        "spa": 27,
+        "spd": 9,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 24,
+        "spa": 12,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Peck",
+        "Thrash",
+        "Dragon Claw",
+        "Camouflage"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 0,
+        "atk": 19,
+        "def": 29,
+        "spa": 0,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 52,
+        "def": 120,
+        "spa": 112,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "False Swipe",
+        "Beat Up",
+        "Slack Off",
+        "Substitute"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 18,
+        "spa": 4,
+        "spd": 21,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Psybeam",
+        "Smokescreen",
+        "Zap Cannon",
+        "Growl"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 12,
+        "atk": 5,
+        "def": 26,
+        "spa": 15,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 48,
+        "spa": 20,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

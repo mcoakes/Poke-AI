@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_119",
+  "party": [
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Iron Tail",
+        "Bite",
+        "Agility",
+        "Crush Claw"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 7,
+        "atk": 14,
+        "def": 27,
+        "spa": 16,
+        "spd": 12,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 80,
+        "def": 60,
+        "spa": 56,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Mega Punch",
+        "Defense Curl",
+        "Hidden Power",
+        "Bubble Beam"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 19,
+        "atk": 4,
+        "def": 12,
+        "spa": 6,
+        "spd": 15,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 76,
+        "spa": 48,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Cut",
+        "Scary Face",
+        "Flamethrower",
+        "Aerial Ace"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 17,
+        "atk": 30,
+        "def": 19,
+        "spa": 18,
+        "spd": 0,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

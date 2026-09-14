@@ -1,0 +1,152 @@
+{
+  "name": "random_5_123",
+  "party": [
+    {
+      "species": "Slaking",
+      "moves": [
+        "Strength",
+        "Comet Punch",
+        "Bone Rush",
+        "Sweet Scent"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 7,
+        "spa": 14,
+        "spd": 13,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 104,
+        "def": 68,
+        "spa": 80,
+        "spd": 128,
+        "spe": 60
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Taunt",
+        "Belly Drum",
+        "Shadow Ball",
+        "Sharpen"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 13,
+        "spa": 6,
+        "spd": 21,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 76,
+        "def": 40,
+        "spa": 36,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Elekid",
+      "moves": [
+        "Taunt",
+        "Tickle",
+        "Toxic",
+        "Stockpile"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 1,
+        "atk": 31,
+        "def": 14,
+        "spa": 26,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 68,
+        "def": 64,
+        "spa": 68,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Glare",
+        "String Shot",
+        "Ice Beam",
+        "Memento"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 25,
+        "atk": 0,
+        "def": 26,
+        "spa": 4,
+        "spd": 18,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 84,
+        "spa": 44,
+        "spd": 64,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Powder Snow",
+        "Thunder Shock",
+        "Egg Bomb",
+        "Drill Peck"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 10,
+        "atk": 0,
+        "def": 18,
+        "spa": 22,
+        "spd": 16,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 80,
+        "def": 72,
+        "spa": 76,
+        "spd": 52,
+        "spe": 128
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

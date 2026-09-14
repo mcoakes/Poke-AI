@@ -1,0 +1,68 @@
+{
+  "name": "random_2_028",
+  "party": [
+    {
+      "species": "Moltres",
+      "moves": [
+        "Bubble",
+        "Milk Drink",
+        "Crabhammer",
+        "Grudge"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 27,
+        "atk": 25,
+        "def": 4,
+        "spa": 20,
+        "spd": 11,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 72,
+        "spa": 56,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Super Fang",
+        "Reversal",
+        "Astonish",
+        "Morning Sun"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 18,
+        "atk": 5,
+        "def": 17,
+        "spa": 27,
+        "spd": 12,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 36,
+        "spa": 40,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

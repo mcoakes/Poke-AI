@@ -1,0 +1,180 @@
+{
+  "name": "random_6_086",
+  "party": [
+    {
+      "species": "Electrode",
+      "moves": [
+        "Night Shade",
+        "Future Sight",
+        "Astonish",
+        "Flame Wheel"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 18,
+        "spa": 2,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 8,
+        "spa": 8,
+        "spd": 0,
+        "spe": 16
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Magnitude",
+        "Sunny Day",
+        "Smokescreen",
+        "Rapid Spin"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 15,
+        "atk": 21,
+        "def": 11,
+        "spa": 24,
+        "spd": 15,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 28,
+        "spa": 16,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Trick",
+        "Wrap",
+        "Sludge",
+        "Follow Me"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 19,
+        "atk": 5,
+        "def": 6,
+        "spa": 4,
+        "spd": 12,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 104,
+        "def": 88,
+        "spa": 88,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Flareon",
+      "moves": [
+        "Signal Beam",
+        "Shadow Punch",
+        "Fire Blast",
+        "Dragon Claw"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 17,
+        "atk": 22,
+        "def": 0,
+        "spa": 26,
+        "spd": 14,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 68,
+        "spa": 56,
+        "spd": 76,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Growth",
+        "Ice Punch",
+        "Blast Burn",
+        "Hidden Power"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 14,
+        "atk": 20,
+        "def": 1,
+        "spa": 1,
+        "spd": 21,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 24,
+        "def": 28,
+        "spa": 28,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Natu",
+      "moves": [
+        "Bind",
+        "Soft Boiled",
+        "Swords Dance",
+        "Amnesia"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 18,
+        "spa": 25,
+        "spd": 30,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

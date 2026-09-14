@@ -1,0 +1,40 @@
+{
+  "name": "random_1_069",
+  "party": [
+    {
+      "species": "Raticate",
+      "moves": [
+        "Faint Attack",
+        "Moonlight",
+        "Megahorn",
+        "Detect"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 30,
+        "atk": 12,
+        "def": 16,
+        "spa": 19,
+        "spd": 18,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 80,
+        "spa": 72,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

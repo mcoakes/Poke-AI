@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_099",
+  "party": [
+    {
+      "species": "Pelipper",
+      "moves": [
+        "Water Gun",
+        "Spit Up",
+        "Toxic",
+        "Mimic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 10,
+        "spa": 29,
+        "spd": 1,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 36,
+        "spa": 16,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Cosmic Power",
+        "Facade",
+        "Dream Eater",
+        "Dive"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 26,
+        "atk": 14,
+        "def": 14,
+        "spa": 23,
+        "spd": 14,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 56,
+        "spa": 68,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

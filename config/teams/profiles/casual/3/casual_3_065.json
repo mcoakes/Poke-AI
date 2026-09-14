@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_065",
+  "party": [
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Substitute",
+        "Fly",
+        "Facade",
+        "Steel Wing"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 16,
+        "atk": 9,
+        "def": 5,
+        "spa": 0,
+        "spd": 10,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 20,
+        "spa": 16,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Growl",
+        "Take Down",
+        "Rest",
+        "Surf"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 20,
+        "spa": 27,
+        "spd": 30,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 64,
+        "def": 36,
+        "spa": 52,
+        "spd": 60,
+        "spe": 100
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Rock Smash",
+        "Facade",
+        "Yawn",
+        "Ancient Power"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 14,
+        "atk": 21,
+        "def": 12,
+        "spa": 11,
+        "spd": 27,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 28,
+        "spa": 28,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

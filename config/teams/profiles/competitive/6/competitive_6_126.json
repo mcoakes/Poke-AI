@@ -1,0 +1,180 @@
+{
+  "name": "competitive_6_126",
+  "party": [
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Dragon Claw",
+        "Thunderbolt",
+        "Flamethrower",
+        "Ice Beam"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Surf",
+        "Rest",
+        "Calm Mind",
+        "Psychic"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Ice Beam",
+        "Surf",
+        "Thunderbolt",
+        "Confuse Ray"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sludge Bomb",
+        "Aerial Ace",
+        "Steel Wing",
+        "Shadow Ball"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Substitute",
+        "Crunch",
+        "Leaf Blade",
+        "Dragon Claw"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Explosion",
+        "Double Edge",
+        "Earthquake",
+        "Rock Slide"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 20266967,
+    "archetype": "bulky"
+  }
+}

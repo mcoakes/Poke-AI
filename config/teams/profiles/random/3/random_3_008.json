@@ -1,0 +1,96 @@
+{
+  "name": "random_3_008",
+  "party": [
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Recover",
+        "Rolling Kick",
+        "Poison Tail",
+        "Cotton Spore"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 22,
+        "atk": 22,
+        "def": 25,
+        "spa": 26,
+        "spd": 24,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 44,
+        "spa": 52,
+        "spd": 84,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Air Cutter",
+        "Leaf Blade",
+        "Tackle",
+        "Giga Drain"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 22,
+        "def": 14,
+        "spa": 21,
+        "spd": 1,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 84,
+        "def": 52,
+        "spa": 68,
+        "spd": 20,
+        "spe": 88
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Natu",
+      "moves": [
+        "Reflect",
+        "Nature Power",
+        "Yawn",
+        "Fury Attack"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 17,
+        "spa": 24,
+        "spd": 0,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 28,
+        "spa": 64,
+        "spd": 32,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

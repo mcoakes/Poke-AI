@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_059",
+  "party": [
+    {
+      "species": "Magneton",
+      "moves": [
+        "Sonic Boom",
+        "Swift",
+        "Thunder Shock",
+        "Flash"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 30,
+        "atk": 21,
+        "def": 26,
+        "spa": 4,
+        "spd": 19,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 72,
+        "def": 56,
+        "spa": 40,
+        "spd": 32,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Water Pulse",
+        "Refresh",
+        "Attract",
+        "Body Slam"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 16,
+        "spa": 4,
+        "spd": 25,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 64,
+        "spa": 52,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Rock Tomb",
+        "Whirlwind",
+        "Sunny Day",
+        "Vital Throw"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 7,
+        "atk": 15,
+        "def": 12,
+        "spa": 8,
+        "spd": 11,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 32,
+        "spa": 48,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Facade",
+        "Surf",
+        "Secret Power",
+        "Flash"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 2,
+        "atk": 1,
+        "def": 5,
+        "spa": 12,
+        "spd": 29,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 60,
+        "spa": 44,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Haze",
+        "Screech",
+        "Air Cutter",
+        "Quick Attack"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 14,
+        "spa": 29,
+        "spd": 24,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 36,
+        "spa": 52,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "False Swipe",
+        "Screech",
+        "Giga Drain",
+        "Thief"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 8,
+        "def": 6,
+        "spa": 5,
+        "spd": 27,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 40,
+        "spa": 20,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_066",
+  "party": [
+    {
+      "species": "Wooper",
+      "moves": [
+        "Frustration",
+        "Milk Drink",
+        "Fake Out",
+        "Meditate"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 12,
+        "def": 18,
+        "spa": 24,
+        "spd": 1,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 92,
+        "spa": 84,
+        "spd": 92,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Wish",
+        "Mist",
+        "Memento",
+        "Fire Spin"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 13,
+        "def": 26,
+        "spa": 6,
+        "spd": 0,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 84,
+        "def": 64,
+        "spa": 92,
+        "spd": 60,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Outrage",
+        "Future Sight",
+        "Doom Desire",
+        "Submission"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 5,
+        "def": 26,
+        "spa": 3,
+        "spd": 20,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 92,
+        "def": 92,
+        "spa": 64,
+        "spd": 104,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

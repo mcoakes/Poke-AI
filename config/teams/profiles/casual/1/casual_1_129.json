@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_129",
+  "party": [
+    {
+      "species": "Manectric",
+      "moves": [
+        "Rain Dance",
+        "Uproar",
+        "Charge",
+        "Spark"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 25,
+        "def": 16,
+        "spa": 0,
+        "spd": 17,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 44,
+        "spa": 32,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

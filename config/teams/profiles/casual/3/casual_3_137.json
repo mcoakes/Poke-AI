@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_137",
+  "party": [
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Body Slam",
+        "Brick Break",
+        "Mach Punch",
+        "Attract"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 9,
+        "atk": 18,
+        "def": 0,
+        "spa": 10,
+        "spd": 30,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 44,
+        "spa": 44,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Future Sight",
+        "Body Slam",
+        "Toxic",
+        "Dream Eater"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 21,
+        "def": 6,
+        "spa": 12,
+        "spd": 27,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 48,
+        "spa": 44,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Swords Dance",
+        "Faint Attack",
+        "Hyper Beam",
+        "Cut"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 15,
+        "atk": 10,
+        "def": 14,
+        "spa": 19,
+        "spd": 15,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 80,
+        "spa": 60,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

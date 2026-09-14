@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_037",
+  "party": [
+    {
+      "species": "Slowking",
+      "moves": [
+        "Confusion",
+        "Surf",
+        "Iron Tail",
+        "Attract"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 14,
+        "atk": 13,
+        "def": 23,
+        "spa": 16,
+        "spd": 10,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 24,
+        "spa": 16,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

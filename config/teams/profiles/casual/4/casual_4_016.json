@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_016",
+  "party": [
+    {
+      "species": "Kabuto",
+      "moves": [
+        "Sandstorm",
+        "Dig",
+        "Rain Dance",
+        "Ancient Power"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 14,
+        "spa": 0,
+        "spd": 27,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 28,
+        "spa": 28,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Facade",
+        "Mimic",
+        "Water Pulse",
+        "Shadow Ball"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 17,
+        "spa": 26,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 48,
+        "spa": 44,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Miltank",
+      "moves": [
+        "Stomp",
+        "Ice Beam",
+        "Sandstorm",
+        "Body Slam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 8,
+        "atk": 15,
+        "def": 31,
+        "spa": 30,
+        "spd": 28,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 28,
+        "def": 52,
+        "spa": 32,
+        "spd": 68,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pelipper",
+      "moves": [
+        "Growl",
+        "Wing Attack",
+        "Swallow",
+        "Water Gun"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 7,
+        "spa": 23,
+        "spd": 25,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 12,
+        "spa": 20,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

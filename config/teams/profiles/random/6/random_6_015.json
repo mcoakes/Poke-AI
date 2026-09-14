@@ -1,0 +1,180 @@
+{
+  "name": "random_6_015",
+  "party": [
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Water Spout",
+        "Jump Kick",
+        "Growl",
+        "Leaf Blade"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 6,
+        "atk": 9,
+        "def": 17,
+        "spa": 3,
+        "spd": 27,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 108,
+        "def": 76,
+        "spa": 84,
+        "spd": 80,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Headbutt",
+        "Synthesis",
+        "Rock Blast",
+        "Smokescreen"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 28,
+        "spa": 11,
+        "spd": 24,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 8,
+        "def": 16,
+        "spa": 44,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Focus Energy",
+        "Covet",
+        "Secret Power",
+        "Reflect"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 17,
+        "atk": 16,
+        "def": 1,
+        "spa": 12,
+        "spd": 27,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 64,
+        "spa": 40,
+        "spd": 72,
+        "spe": 104
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Acid",
+        "Defense Curl",
+        "Bone Rush",
+        "Trick"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 26,
+        "atk": 12,
+        "def": 8,
+        "spa": 17,
+        "spd": 8,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 12,
+        "spa": 20,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Astonish",
+        "Self Destruct",
+        "Transform",
+        "Helping Hand"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 25,
+        "def": 12,
+        "spa": 23,
+        "spd": 16,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 56,
+        "spa": 108,
+        "spd": 84,
+        "spe": 68
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Spore",
+        "Stomp",
+        "Bubble Beam",
+        "Counter"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 16,
+        "spa": 14,
+        "spd": 13,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 76,
+        "def": 68,
+        "spa": 92,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

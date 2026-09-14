@@ -1,0 +1,40 @@
+{
+  "name": "random_1_020",
+  "party": [
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Volt Tackle",
+        "Hyper Voice",
+        "Signal Beam",
+        "Drill Peck"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 12,
+        "atk": 29,
+        "def": 6,
+        "spa": 10,
+        "spd": 18,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 80,
+        "spa": 68,
+        "spd": 92,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

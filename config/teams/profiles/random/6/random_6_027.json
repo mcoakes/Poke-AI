@@ -1,0 +1,180 @@
+{
+  "name": "random_6_027",
+  "party": [
+    {
+      "species": "Tauros",
+      "moves": [
+        "Bounce",
+        "Poison Sting",
+        "Scratch",
+        "Tail Glow"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 21,
+        "atk": 8,
+        "def": 25,
+        "spa": 16,
+        "spd": 14,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 84,
+        "def": 80,
+        "spa": 96,
+        "spd": 96,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Poison Powder",
+        "Earthquake",
+        "Bubble",
+        "Blast Burn"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 16,
+        "spa": 26,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Spikes",
+        "Octazooka",
+        "Thunder Wave",
+        "Blizzard"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 19,
+        "atk": 23,
+        "def": 3,
+        "spa": 15,
+        "spd": 14,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 116,
+        "def": 76,
+        "spa": 52,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Flame Wheel",
+        "Rock Throw",
+        "Mud Slap",
+        "Ice Ball"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 7,
+        "def": 23,
+        "spa": 28,
+        "spd": 28,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 20,
+        "spa": 4,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Pursuit",
+        "Pay Day",
+        "Water Sport",
+        "Iron Defense"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 13,
+        "atk": 1,
+        "def": 1,
+        "spa": 10,
+        "spd": 20,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 84,
+        "def": 52,
+        "spa": 60,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Mist",
+        "Reflect",
+        "Twineedle",
+        "Dragon Dance"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 9,
+        "atk": 30,
+        "def": 26,
+        "spa": 17,
+        "spd": 14,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 56,
+        "spa": 48,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_009",
+  "party": [
+    {
+      "species": "Gloom",
+      "moves": [
+        "Meteor Mash",
+        "Double Kick",
+        "Overheat",
+        "Fury Swipes"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 25,
+        "atk": 23,
+        "def": 2,
+        "spa": 19,
+        "spd": 30,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 32,
+        "spa": 52,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Soft Boiled",
+        "Ice Punch",
+        "Zap Cannon",
+        "Lock On"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 11,
+        "spa": 0,
+        "spd": 17,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 48,
+        "spa": 60,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Meditate",
+        "Knock Off",
+        "Blast Burn",
+        "Refresh"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 2,
+        "def": 9,
+        "spa": 16,
+        "spd": 14,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 76,
+        "spa": 44,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Thunder Shock",
+        "Horn Drill",
+        "Double Edge",
+        "Sludge"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 7,
+        "atk": 16,
+        "def": 10,
+        "spa": 20,
+        "spd": 0,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 8,
+        "spa": 16,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Mega Kick",
+        "Psywave",
+        "Ice Punch",
+        "Water Spout"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 4,
+        "def": 29,
+        "spa": 11,
+        "spd": 20,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 12,
+        "spa": 28,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

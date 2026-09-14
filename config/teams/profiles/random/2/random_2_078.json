@@ -1,0 +1,68 @@
+{
+  "name": "random_2_078",
+  "party": [
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Solar Beam",
+        "Twineedle",
+        "Mud Sport",
+        "Arm Thrust"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 1,
+        "atk": 12,
+        "def": 15,
+        "spa": 2,
+        "spd": 19,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 16,
+        "def": 40,
+        "spa": 20,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    },
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Dragon Dance",
+        "Metal Claw",
+        "Will O Wisp",
+        "Gust"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 26,
+        "def": 17,
+        "spa": 7,
+        "spd": 17,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 20,
+        "spa": 12,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

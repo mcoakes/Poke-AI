@@ -1,0 +1,96 @@
+{
+  "name": "random_3_083",
+  "party": [
+    {
+      "species": "Parasect",
+      "moves": [
+        "Teeter Dance",
+        "Rolling Kick",
+        "Jump Kick",
+        "Faint Attack"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 9,
+        "atk": 13,
+        "def": 8,
+        "spa": 26,
+        "spd": 8,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 36,
+        "spa": 24,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Outrage",
+        "Spark",
+        "Extrasensory",
+        "Mist"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 10,
+        "atk": 24,
+        "def": 21,
+        "spa": 1,
+        "spd": 4,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 84,
+        "spa": 68,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Headbutt",
+        "Harden",
+        "Haze",
+        "Metal Sound"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 23,
+        "atk": 27,
+        "def": 15,
+        "spa": 4,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 16,
+        "spa": 24,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

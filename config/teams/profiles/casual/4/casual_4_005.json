@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_005",
+  "party": [
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Dive",
+        "Rock Tomb",
+        "Double Team",
+        "Withdraw"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 24,
+        "atk": 13,
+        "def": 4,
+        "spa": 27,
+        "spd": 1,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 40,
+        "spa": 32,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Aerial Ace",
+        "Outrage",
+        "Twister",
+        "Sandstorm"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 27,
+        "atk": 1,
+        "def": 22,
+        "spa": 7,
+        "spd": 0,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 32,
+        "spa": 28,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Sweet Scent",
+        "Synthesis",
+        "Petal Dance",
+        "Acid"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 30,
+        "atk": 27,
+        "def": 15,
+        "spa": 5,
+        "spd": 27,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 48,
+        "spa": 68,
+        "spd": 76,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Secret Power",
+        "Thrash",
+        "Flamethrower",
+        "Sunny Day"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 22,
+        "atk": 15,
+        "def": 29,
+        "spa": 22,
+        "spd": 27,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 48,
+        "spa": 24,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

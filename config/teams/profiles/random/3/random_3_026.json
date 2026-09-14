@@ -1,0 +1,96 @@
+{
+  "name": "random_3_026",
+  "party": [
+    {
+      "species": "Machamp",
+      "moves": [
+        "Iron Defense",
+        "Hail",
+        "Faint Attack",
+        "Thrash"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 11,
+        "atk": 11,
+        "def": 4,
+        "spa": 26,
+        "spd": 3,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Facade",
+        "Confuse Ray",
+        "Horn Drill",
+        "Charge"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 25,
+        "spa": 7,
+        "spd": 31,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 68,
+        "spa": 88,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Mind Reader",
+        "Faint Attack",
+        "Lock On",
+        "Perish Song"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 4,
+        "atk": 21,
+        "def": 1,
+        "spa": 13,
+        "spd": 11,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 72,
+        "def": 60,
+        "spa": 72,
+        "spd": 84,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

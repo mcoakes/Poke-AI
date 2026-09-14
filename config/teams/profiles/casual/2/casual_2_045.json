@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_045",
+  "party": [
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Dragon Claw",
+        "Attract",
+        "Water Pulse",
+        "Mega Punch"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 0,
+        "spa": 20,
+        "spd": 9,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 40,
+        "spa": 44,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Mega Punch",
+        "Karate Chop",
+        "Brick Break",
+        "Encore"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 19,
+        "atk": 2,
+        "def": 9,
+        "spa": 27,
+        "spd": 0,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 72,
+        "spa": 84,
+        "spd": 84,
+        "spe": 60
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_138",
+  "party": [
+    {
+      "species": "Donphan",
+      "moves": [
+        "Clamp",
+        "Needle Arm",
+        "Flail",
+        "Knock Off"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 4,
+        "atk": 14,
+        "def": 31,
+        "spa": 23,
+        "spd": 16,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 12,
+        "spa": 4,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Secret Power",
+        "Nature Power",
+        "Ember",
+        "Encore"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 9,
+        "def": 7,
+        "spa": 27,
+        "spd": 6,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 128,
+        "def": 100,
+        "spa": 68,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Flash",
+        "Ancient Power",
+        "Cross Chop",
+        "Megahorn"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 25,
+        "atk": 9,
+        "def": 1,
+        "spa": 23,
+        "spd": 26,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 8,
+        "spa": 8,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

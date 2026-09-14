@@ -1,0 +1,152 @@
+{
+  "name": "random_5_110",
+  "party": [
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Future Sight",
+        "Muddy Water",
+        "Heal Bell",
+        "Stockpile"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 9,
+        "atk": 19,
+        "def": 3,
+        "spa": 24,
+        "spd": 12,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 20,
+        "spa": 20,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Water Gun",
+        "Crabhammer",
+        "Thunderbolt",
+        "Uproar"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 15,
+        "atk": 29,
+        "def": 11,
+        "spa": 0,
+        "spd": 17,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 20,
+        "spa": 44,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Hyper Voice",
+        "Ember",
+        "Nature Power",
+        "Recycle"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 15,
+        "spa": 17,
+        "spd": 19,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 44,
+        "spa": 52,
+        "spd": 60,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Rolling Kick",
+        "Strength",
+        "Aromatherapy",
+        "Ancient Power"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 2,
+        "atk": 5,
+        "def": 4,
+        "spa": 24,
+        "spd": 27,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 0,
+        "spa": 0,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Ancient Power",
+        "Pay Day",
+        "Whirlpool",
+        "Amnesia"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 19,
+        "def": 16,
+        "spa": 1,
+        "spd": 23,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 8,
+        "spa": 8,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_124",
+  "party": [
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Sweet Kiss",
+        "Metal Sound",
+        "Counter",
+        "Petal Dance"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 3,
+        "atk": 17,
+        "def": 9,
+        "spa": 13,
+        "spd": 5,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 40,
+        "spa": 52,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Aerial Ace",
+        "Helping Hand",
+        "Toxic",
+        "Blaze Kick"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 2,
+        "atk": 31,
+        "def": 23,
+        "spa": 3,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 24,
+        "def": 40,
+        "spa": 64,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Howl",
+        "Hail",
+        "Razor Leaf",
+        "Bulk Up"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 3,
+        "spa": 13,
+        "spd": 4,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 36,
+        "spa": 48,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machop",
+      "moves": [
+        "Fire Blast",
+        "Fake Out",
+        "Thief",
+        "Hydro Cannon"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 13,
+        "atk": 6,
+        "def": 22,
+        "spa": 20,
+        "spd": 3,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 40,
+        "spa": 44,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Knock Off",
+        "Focus Energy",
+        "Spider Web",
+        "Rapid Spin"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 6,
+        "atk": 2,
+        "def": 17,
+        "spa": 27,
+        "spd": 24,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 72,
+        "def": 52,
+        "spa": 20,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Follow Me",
+        "Bounce",
+        "Bone Rush",
+        "Odor Sleuth"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 4,
+        "spa": 26,
+        "spd": 9,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 104,
+        "def": 60,
+        "spa": 72,
+        "spd": 84,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

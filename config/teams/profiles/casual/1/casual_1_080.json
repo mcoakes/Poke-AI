@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_080",
+  "party": [
+    {
+      "species": "Paras",
+      "moves": [
+        "Rock Smash",
+        "Light Screen",
+        "Body Slam",
+        "Giga Drain"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 21,
+        "atk": 16,
+        "def": 11,
+        "spa": 3,
+        "spd": 5,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 20,
+        "spa": 24,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

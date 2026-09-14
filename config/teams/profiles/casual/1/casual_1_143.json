@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_143",
+  "party": [
+    {
+      "species": "Huntail",
+      "moves": [
+        "Dive",
+        "Hidden Power",
+        "Facade",
+        "Mimic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 13,
+        "atk": 21,
+        "def": 1,
+        "spa": 17,
+        "spd": 21,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 48,
+        "spa": 44,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

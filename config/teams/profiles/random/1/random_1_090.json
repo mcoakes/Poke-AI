@@ -1,0 +1,40 @@
+{
+  "name": "random_1_090",
+  "party": [
+    {
+      "species": "Gulpin",
+      "moves": [
+        "Ice Beam",
+        "Giga Drain",
+        "Double Edge",
+        "Charm"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 29,
+        "atk": 8,
+        "def": 4,
+        "spa": 9,
+        "spd": 2,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 44,
+        "spa": 24,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

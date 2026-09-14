@@ -1,0 +1,124 @@
+{
+  "name": "random_4_094",
+  "party": [
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Aeroblast",
+        "String Shot",
+        "Agility",
+        "Dragon Rage"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 8,
+        "spa": 30,
+        "spd": 9,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Ice Punch",
+        "Bulk Up",
+        "Sludge",
+        "Volt Tackle"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 4,
+        "atk": 29,
+        "def": 16,
+        "spa": 2,
+        "spd": 2,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 84,
+        "spa": 84,
+        "spd": 40,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Explosion",
+        "Rage",
+        "Razor Leaf",
+        "Self Destruct"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 12,
+        "spa": 3,
+        "spd": 0,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 8,
+        "spa": 8,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Double Team",
+        "Double Kick",
+        "Fury Attack",
+        "Nightmare"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 14,
+        "atk": 18,
+        "def": 16,
+        "spa": 6,
+        "spd": 28,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 44,
+        "spa": 64,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

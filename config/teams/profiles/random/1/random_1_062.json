@@ -1,0 +1,40 @@
+{
+  "name": "random_1_062",
+  "party": [
+    {
+      "species": "Oddish",
+      "moves": [
+        "Blaze Kick",
+        "Magical Leaf",
+        "Milk Drink",
+        "Sludge"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 11,
+        "atk": 6,
+        "def": 26,
+        "spa": 4,
+        "spd": 21,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 32,
+        "spa": 32,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

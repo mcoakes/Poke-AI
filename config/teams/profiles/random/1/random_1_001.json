@@ -1,0 +1,40 @@
+{
+  "name": "random_1_001",
+  "party": [
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "Poison Powder",
+        "Sharpen",
+        "Torment",
+        "Vital Throw"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 21,
+        "atk": 30,
+        "def": 24,
+        "spa": 8,
+        "spd": 3,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

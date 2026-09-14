@@ -1,0 +1,68 @@
+{
+  "name": "random_2_018",
+  "party": [
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Secret Power",
+        "Supersonic",
+        "Yawn",
+        "Haze"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 13,
+        "def": 11,
+        "spa": 1,
+        "spd": 6,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 36,
+        "def": 28,
+        "spa": 20,
+        "spd": 28,
+        "spe": 52
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Fury Swipes",
+        "Dragon Rage",
+        "Needle Arm",
+        "Volt Tackle"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 23,
+        "atk": 24,
+        "def": 27,
+        "spa": 16,
+        "spd": 14,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 96,
+        "spa": 68,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

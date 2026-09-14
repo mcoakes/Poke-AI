@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_026",
+  "party": [
+    {
+      "species": "Glalie",
+      "moves": [
+        "Crunch",
+        "Ice Beam",
+        "Attract",
+        "Toxic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 23,
+        "atk": 8,
+        "def": 15,
+        "spa": 5,
+        "spd": 25,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 12,
+        "spa": 24,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Frustration",
+        "Steel Wing",
+        "Attract",
+        "False Swipe"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 30,
+        "def": 24,
+        "spa": 7,
+        "spd": 31,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 92,
+        "spa": 20,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

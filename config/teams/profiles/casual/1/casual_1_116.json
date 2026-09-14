@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_116",
+  "party": [
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Protect",
+        "Razor Leaf",
+        "Acid",
+        "Double Edge"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 29,
+        "def": 30,
+        "spa": 27,
+        "spd": 29,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 88,
+        "spa": 72,
+        "spd": 52,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

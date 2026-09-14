@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_058",
+  "party": [
+    {
+      "species": "Salamence",
+      "moves": [
+        "Iron Tail",
+        "Double Team",
+        "Dragon Breath",
+        "Scary Face"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 19,
+        "atk": 1,
+        "def": 2,
+        "spa": 26,
+        "spd": 25,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 20,
+        "spa": 4,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Perish Song",
+        "Substitute",
+        "Secret Power",
+        "Pursuit"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 3,
+        "spa": 22,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 32,
+        "spa": 36,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Secret Power",
+        "Double Edge",
+        "Protect",
+        "Water Pulse"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 3,
+        "atk": 16,
+        "def": 30,
+        "spa": 24,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 32,
+        "spa": 40,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Cut",
+        "Razor Leaf",
+        "Protect",
+        "Poison Powder"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 26,
+        "spa": 24,
+        "spd": 15,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 20,
+        "spa": 28,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Ice Beam",
+        "Haze",
+        "Dive",
+        "Flash"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 9,
+        "atk": 3,
+        "def": 1,
+        "spa": 31,
+        "spd": 9,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 20,
+        "spa": 44,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Substitute",
+        "Protect",
+        "Cut",
+        "Sludge Bomb"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 18,
+        "atk": 5,
+        "def": 1,
+        "spa": 3,
+        "spd": 27,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 36,
+        "spa": 16,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

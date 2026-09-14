@@ -1,0 +1,180 @@
+{
+  "name": "random_6_008",
+  "party": [
+    {
+      "species": "Stantler",
+      "moves": [
+        "Spark",
+        "False Swipe",
+        "Slam",
+        "Morning Sun"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 23,
+        "spa": 18,
+        "spd": 29,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 64,
+        "def": 44,
+        "spa": 72,
+        "spd": 64,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Eruption",
+        "Nightmare",
+        "Screech",
+        "Magical Leaf"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 13,
+        "atk": 14,
+        "def": 16,
+        "spa": 1,
+        "spd": 7,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 80,
+        "spa": 84,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Kinesis",
+        "Fly",
+        "Minimize",
+        "Luster Purge"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 17,
+        "atk": 31,
+        "def": 8,
+        "spa": 10,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 64,
+        "def": 72,
+        "spa": 96,
+        "spd": 116,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Snore",
+        "Slam",
+        "Dream Eater",
+        "Water Sport"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 9,
+        "atk": 16,
+        "def": 27,
+        "spa": 24,
+        "spd": 3,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 76,
+        "def": 68,
+        "spa": 100,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Wrap",
+        "Cut",
+        "Astonish",
+        "Mean Look"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 27,
+        "spa": 17,
+        "spd": 28,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 16,
+        "spa": 12,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Solrock",
+      "moves": [
+        "Zap Cannon",
+        "Brick Break",
+        "Thief",
+        "Follow Me"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 22,
+        "atk": 26,
+        "def": 8,
+        "spa": 17,
+        "spd": 12,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 120,
+        "def": 60,
+        "spa": 72,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

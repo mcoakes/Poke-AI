@@ -1,0 +1,180 @@
+{
+  "name": "random_6_114",
+  "party": [
+    {
+      "species": "Diglett",
+      "moves": [
+        "Camouflage",
+        "Role Play",
+        "Overheat",
+        "Sand Tomb"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 29,
+        "atk": 27,
+        "def": 30,
+        "spa": 10,
+        "spd": 16,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 12,
+        "spa": 8,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Thunder Shock",
+        "Follow Me",
+        "Extreme Speed",
+        "Spit Up"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 21,
+        "spa": 27,
+        "spd": 8,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 40,
+        "spa": 28,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Smog",
+        "Stun Spore",
+        "Needle Arm",
+        "Shock Wave"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 8,
+        "def": 9,
+        "spa": 27,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 40,
+        "spa": 44,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Follow Me",
+        "Sacred Fire",
+        "Cosmic Power",
+        "Taunt"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 28,
+        "atk": 2,
+        "def": 12,
+        "spa": 29,
+        "spd": 3,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 100,
+        "def": 72,
+        "spa": 68,
+        "spd": 100,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Porygon",
+      "moves": [
+        "Petal Dance",
+        "Fury Swipes",
+        "Vine Whip",
+        "Endeavor"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 12,
+        "atk": 21,
+        "def": 20,
+        "spa": 16,
+        "spd": 2,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 68,
+        "spa": 36,
+        "spd": 32,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Swellow",
+      "moves": [
+        "Acid",
+        "Strength",
+        "Sharpen",
+        "Grudge"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 4,
+        "atk": 25,
+        "def": 6,
+        "spa": 30,
+        "spd": 0,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 56,
+        "spa": 32,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

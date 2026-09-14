@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_068",
+  "party": [
+    {
+      "species": "Muk",
+      "moves": [
+        "Dig",
+        "Attract",
+        "Sludge Bomb",
+        "Focus Punch"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 21,
+        "atk": 19,
+        "def": 31,
+        "spa": 18,
+        "spd": 1,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 20,
+        "spa": 40,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Dive",
+        "Thief",
+        "Double Team",
+        "Waterfall"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 19,
+        "def": 23,
+        "spa": 24,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 0,
+        "spa": 20,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

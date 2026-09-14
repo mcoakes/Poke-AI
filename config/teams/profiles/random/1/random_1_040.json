@@ -1,0 +1,40 @@
+{
+  "name": "random_1_040",
+  "party": [
+    {
+      "species": "Sentret",
+      "moves": [
+        "Quick Attack",
+        "Sky Attack",
+        "Hydro Pump",
+        "Jump Kick"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 27,
+        "spa": 4,
+        "spd": 21,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

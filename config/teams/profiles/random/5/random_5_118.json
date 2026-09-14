@@ -1,0 +1,152 @@
+{
+  "name": "random_5_118",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Agility",
+        "Swagger",
+        "Foresight",
+        "Nightmare"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 27,
+        "def": 17,
+        "spa": 6,
+        "spd": 28,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 40,
+        "def": 12,
+        "spa": 16,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Camouflage",
+        "Swords Dance",
+        "Metal Sound",
+        "Sleep Powder"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 6,
+        "atk": 17,
+        "def": 23,
+        "spa": 24,
+        "spd": 13,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 48,
+        "spa": 52,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Blizzard",
+        "Will O Wisp",
+        "Dive",
+        "Dragon Claw"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 30,
+        "atk": 20,
+        "def": 5,
+        "spa": 22,
+        "spd": 8,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 8,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Yanma",
+      "moves": [
+        "Lick",
+        "Acid Armor",
+        "Weather Ball",
+        "Earthquake"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 1,
+        "atk": 7,
+        "def": 26,
+        "spa": 12,
+        "spd": 1,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 72,
+        "spa": 88,
+        "spd": 84,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Meteor Mash",
+        "Uproar",
+        "Faint Attack",
+        "Doom Desire"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 23,
+        "atk": 11,
+        "def": 10,
+        "spa": 21,
+        "spd": 13,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

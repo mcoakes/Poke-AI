@@ -1,0 +1,68 @@
+{
+  "name": "random_2_099",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Poison Sting",
+        "Doom Desire",
+        "Acid Armor",
+        "Encore"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 11,
+        "atk": 21,
+        "def": 1,
+        "spa": 9,
+        "spd": 27,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 24,
+        "spa": 20,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Whirlpool",
+        "Constrict",
+        "Hi Jump Kick",
+        "Attract"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 22,
+        "atk": 9,
+        "def": 22,
+        "spa": 6,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 28,
+        "spa": 24,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

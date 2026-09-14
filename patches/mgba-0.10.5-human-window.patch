@@ -1,0 +1,17 @@
+--- a/src/platform/qt/main.cpp
++++ b/src/platform/qt/main.cpp
+@@ -163,2 +163,14 @@
+ 
++	// Human play keeps the peer core linked, with no opponent window.
++	QString visibleRom = QString::fromLocal8Bit(qgetenv("MGBA_VISIBLE_LINK_ROM"));
++	if (!visibleRom.isEmpty() && !linkManifest.isEmpty()) {
++		for (QWidget* widget : QApplication::topLevelWidgets()) {
++			QString rom = widget->property("fireredLinkRom").toString();
++			if (!rom.isEmpty() && rom != visibleRom) {
++				widget->hide();
++				widget->setAttribute(Qt::WA_DontShowOnScreen, true);
++			}
++		}
++	}
++
+ 	int ret = application.exec();

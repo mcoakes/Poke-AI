@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_004",
+  "party": [
+    {
+      "species": "Lairon",
+      "moves": [
+        "Substitute",
+        "Iron Tail",
+        "Rest",
+        "Stomp"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 2,
+        "atk": 8,
+        "def": 14,
+        "spa": 6,
+        "spd": 0,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 32,
+        "spa": 24,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

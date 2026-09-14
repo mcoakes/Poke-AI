@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_095",
+  "party": [
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Strength",
+        "Roar",
+        "Rest",
+        "Brick Break"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 0,
+        "spa": 14,
+        "spd": 30,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 32,
+        "def": 28,
+        "spa": 68,
+        "spd": 60,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Ancient Power",
+        "Sandstorm",
+        "Facade",
+        "Rock Tomb"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 30,
+        "atk": 17,
+        "def": 19,
+        "spa": 29,
+        "spd": 9,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Spore",
+        "Giga Drain",
+        "Facade",
+        "Helping Hand"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 27,
+        "atk": 30,
+        "def": 27,
+        "spa": 19,
+        "spd": 1,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 60,
+        "spa": 44,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bagon",
+      "moves": [
+        "Brick Break",
+        "Facade",
+        "Scary Face",
+        "Dragon Claw"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 27,
+        "spa": 0,
+        "spd": 7,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 76,
+        "spa": 76,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Facade",
+        "Cut",
+        "Growl",
+        "Earthquake"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 5,
+        "spa": 23,
+        "spd": 17,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 16,
+        "spa": 24,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

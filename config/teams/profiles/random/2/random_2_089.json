@@ -1,0 +1,68 @@
+{
+  "name": "random_2_089",
+  "party": [
+    {
+      "species": "Spheal",
+      "moves": [
+        "Screech",
+        "Fly",
+        "Needle Arm",
+        "Brick Break"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 7,
+        "def": 13,
+        "spa": 18,
+        "spd": 2,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 88,
+        "spa": 64,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Beldum",
+      "moves": [
+        "Rapid Spin",
+        "Thrash",
+        "Odor Sleuth",
+        "Safeguard"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 6,
+        "atk": 26,
+        "def": 0,
+        "spa": 22,
+        "spd": 0,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 28,
+        "def": 40,
+        "spa": 44,
+        "spd": 32,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

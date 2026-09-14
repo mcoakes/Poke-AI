@@ -1,0 +1,96 @@
+{
+  "name": "random_3_004",
+  "party": [
+    {
+      "species": "Seaking",
+      "moves": [
+        "Torment",
+        "Cut",
+        "Rollout",
+        "Endure"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 2,
+        "atk": 16,
+        "def": 30,
+        "spa": 29,
+        "spd": 26,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 52,
+        "def": 64,
+        "spa": 56,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Victreebel",
+      "moves": [
+        "Sacred Fire",
+        "Counter",
+        "Endeavor",
+        "Rollout"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 10,
+        "def": 27,
+        "spa": 9,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 28,
+        "spa": 28,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Peck",
+        "Whirlpool",
+        "Helping Hand",
+        "Dragon Claw"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 17,
+        "def": 12,
+        "spa": 31,
+        "spd": 10,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 60,
+        "spa": 40,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "random_2_057",
+  "party": [
+    {
+      "species": "Clefable",
+      "moves": [
+        "Pursuit",
+        "Rock Smash",
+        "Lick",
+        "Wish"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 24,
+        "atk": 23,
+        "def": 27,
+        "spa": 19,
+        "spd": 8,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 76,
+        "def": 80,
+        "spa": 64,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Peck",
+        "Tackle",
+        "Whirlpool",
+        "Thunder"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 23,
+        "atk": 27,
+        "def": 22,
+        "spa": 23,
+        "spd": 18,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 80,
+        "spa": 112,
+        "spd": 80,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_023",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Light Screen",
+        "Encore",
+        "Rock Tomb",
+        "Rock Smash"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 22,
+        "def": 25,
+        "spa": 0,
+        "spd": 10,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 32,
+        "spa": 40,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Doom Desire",
+        "Slash",
+        "Double Slap",
+        "Thunder Wave"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 13,
+        "atk": 24,
+        "def": 4,
+        "spa": 21,
+        "spd": 4,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 76,
+        "def": 80,
+        "spa": 100,
+        "spd": 80,
+        "spe": 68
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Kinesis",
+        "Shadow Punch",
+        "Focus Energy",
+        "Reversal"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 29,
+        "atk": 14,
+        "def": 22,
+        "spa": 19,
+        "spd": 14,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 40,
+        "spa": 20,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

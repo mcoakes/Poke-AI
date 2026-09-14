@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_066",
+  "party": [
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Secret Power",
+        "Tackle",
+        "Toxic",
+        "Dig"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 31,
+        "spa": 25,
+        "spd": 14,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 72,
+        "spa": 52,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Pelipper",
+      "moves": [
+        "Surf",
+        "Facade",
+        "Supersonic",
+        "Water Gun"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 12,
+        "atk": 25,
+        "def": 8,
+        "spa": 27,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 36,
+        "def": 16,
+        "spa": 8,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Substitute",
+        "Disable",
+        "Ice Beam",
+        "Thief"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 3,
+        "atk": 19,
+        "def": 28,
+        "spa": 12,
+        "spd": 4,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 52,
+        "spa": 40,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kabuto",
+      "moves": [
+        "Scratch",
+        "Confuse Ray",
+        "Aerial Ace",
+        "Waterfall"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 23,
+        "atk": 11,
+        "def": 26,
+        "spa": 12,
+        "spd": 14,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 48,
+        "spa": 24,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Protect",
+        "Psychic",
+        "Secret Power",
+        "Waterfall"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 20,
+        "atk": 15,
+        "def": 24,
+        "spa": 31,
+        "spd": 1,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 28,
+        "spa": 36,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

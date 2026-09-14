@@ -1,0 +1,155 @@
+{
+  "name": "Familiar Species Coverage",
+  "party": [
+    {
+      "species": "Machamp",
+      "level": 50,
+      "moves": [
+        "Cross Chop",
+        "Earthquake",
+        "Rock Slide",
+        "Facade"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Glalie",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Crunch",
+        "Water Pulse",
+        "Icy Wind"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Blastoise",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Bite",
+        "Earthquake"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sceptile",
+      "level": 50,
+      "moves": [
+        "Leaf Blade",
+        "Dragon Claw",
+        "Crunch",
+        "Quick Attack"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Bite",
+        "Pin Missile",
+        "Double Kick"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Arcanine",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Crunch",
+        "Extreme Speed",
+        "Iron Tail"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

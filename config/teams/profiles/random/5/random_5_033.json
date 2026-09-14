@@ -1,0 +1,152 @@
+{
+  "name": "random_5_033",
+  "party": [
+    {
+      "species": "Meditite",
+      "moves": [
+        "Low Kick",
+        "Barrier",
+        "Guillotine",
+        "Mean Look"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 22,
+        "atk": 1,
+        "def": 5,
+        "spa": 29,
+        "spd": 2,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Poison Fang",
+        "Hyper Fang",
+        "Swagger",
+        "Rain Dance"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 11,
+        "atk": 19,
+        "def": 11,
+        "spa": 18,
+        "spd": 4,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Silver Wind",
+        "Vice Grip",
+        "Substitute",
+        "Wing Attack"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 31,
+        "atk": 9,
+        "def": 6,
+        "spa": 17,
+        "spd": 1,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 8,
+        "spa": 12,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Fake Out",
+        "Lock On",
+        "Memento",
+        "Iron Tail"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 2,
+        "atk": 3,
+        "def": 1,
+        "spa": 29,
+        "spd": 16,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 72,
+        "spa": 84,
+        "spd": 92,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Anorith",
+      "moves": [
+        "Conversion",
+        "Hyper Beam",
+        "Thunder Shock",
+        "Flame Wheel"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 30,
+        "atk": 27,
+        "def": 10,
+        "spa": 1,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 48,
+        "def": 72,
+        "spa": 64,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

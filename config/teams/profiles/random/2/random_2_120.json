@@ -1,0 +1,68 @@
+{
+  "name": "random_2_120",
+  "party": [
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Poison Tail",
+        "Bulk Up",
+        "Protect",
+        "Attract"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 4,
+        "def": 0,
+        "spa": 29,
+        "spd": 31,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 12,
+        "spa": 12,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Destiny Bond",
+        "Overheat",
+        "Scary Face",
+        "Surf"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 4,
+        "atk": 25,
+        "def": 4,
+        "spa": 31,
+        "spd": 13,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 52,
+        "spa": 28,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_100",
+  "party": [
+    {
+      "species": "Lileep",
+      "moves": [
+        "Recover",
+        "Rest",
+        "Sludge Bomb",
+        "Ancient Power"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 12,
+        "atk": 26,
+        "def": 14,
+        "spa": 7,
+        "spd": 20,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 28,
+        "spa": 44,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

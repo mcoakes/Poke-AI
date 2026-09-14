@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_038",
+  "party": [
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Protect",
+        "Dragon Breath",
+        "Facade",
+        "Rest"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 31,
+        "atk": 10,
+        "def": 31,
+        "spa": 1,
+        "spd": 25,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 36,
+        "spa": 40,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

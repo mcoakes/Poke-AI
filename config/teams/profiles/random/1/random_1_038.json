@@ -1,0 +1,40 @@
+{
+  "name": "random_1_038",
+  "party": [
+    {
+      "species": "Swellow",
+      "moves": [
+        "Mimic",
+        "Psychic",
+        "Mud Sport",
+        "Smelling Salt"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 8,
+        "atk": 21,
+        "def": 27,
+        "spa": 2,
+        "spd": 17,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 72,
+        "spa": 56,
+        "spd": 92,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

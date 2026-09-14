@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_112",
+  "party": [
+    {
+      "species": "Lotad",
+      "moves": [
+        "Facade",
+        "Surf",
+        "Leech Seed",
+        "Ice Beam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 3,
+        "atk": 3,
+        "def": 21,
+        "spa": 27,
+        "spd": 18,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 12,
+        "spa": 36,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Attract",
+        "Strength",
+        "Toxic",
+        "Rock Tomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 15,
+        "atk": 4,
+        "def": 29,
+        "spa": 3,
+        "spd": 12,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 60,
+        "spa": 60,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Rest",
+        "Future Sight",
+        "Yawn",
+        "Facade"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 13,
+        "atk": 20,
+        "def": 26,
+        "spa": 0,
+        "spd": 7,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 44,
+        "spa": 28,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Cotton Spore",
+        "Double Edge",
+        "Giga Drain",
+        "Confusion"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 8,
+        "atk": 23,
+        "def": 19,
+        "spa": 1,
+        "spd": 17,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 60,
+        "spa": 44,
+        "spd": 84,
+        "spe": 48
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Swellow",
+      "moves": [
+        "Supersonic",
+        "Rest",
+        "Secret Power",
+        "Aerial Ace"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 17,
+        "atk": 11,
+        "def": 1,
+        "spa": 11,
+        "spd": 16,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 36,
+        "spa": 32,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Encore",
+        "Mirror Coat",
+        "Splash",
+        "Counter"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 0,
+        "atk": 16,
+        "def": 25,
+        "spa": 31,
+        "spd": 0,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 56,
+        "spa": 40,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

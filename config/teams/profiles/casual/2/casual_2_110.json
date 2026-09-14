@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_110",
+  "party": [
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Agility",
+        "Thunder Shock",
+        "Take Down",
+        "Helping Hand"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 11,
+        "atk": 24,
+        "def": 26,
+        "spa": 13,
+        "spd": 27,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 16,
+        "spa": 28,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Protect",
+        "Earthquake",
+        "Disable",
+        "Rock Slide"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 19,
+        "atk": 15,
+        "def": 30,
+        "spa": 17,
+        "spd": 25,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 20,
+        "spa": 8,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

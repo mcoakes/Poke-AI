@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_084",
+  "party": [
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Rock Tomb",
+        "Mind Reader",
+        "Water Gun",
+        "Toxic"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 6,
+        "atk": 5,
+        "def": 10,
+        "spa": 18,
+        "spd": 31,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 56,
+        "spa": 48,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Thunder Shock",
+        "Cotton Spore",
+        "Rest",
+        "Secret Power"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 19,
+        "atk": 19,
+        "def": 24,
+        "spa": 29,
+        "spd": 18,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 36,
+        "spa": 48,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Solar Beam",
+        "Sand Attack",
+        "Dig",
+        "Crunch"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 0,
+        "atk": 22,
+        "def": 9,
+        "spa": 4,
+        "spd": 14,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 68,
+        "def": 84,
+        "spa": 60,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Double Team",
+        "Rock Throw",
+        "Sunny Day",
+        "Secret Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 15,
+        "atk": 31,
+        "def": 26,
+        "spa": 10,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 44,
+        "spa": 56,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Mega Punch",
+        "Brick Break",
+        "Fake Tears",
+        "Psychic"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 9,
+        "def": 0,
+        "spa": 26,
+        "spd": 9,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 24,
+        "spa": 28,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Double Team",
+        "Shadow Ball",
+        "Water Pulse",
+        "Return"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 30,
+        "atk": 6,
+        "def": 5,
+        "spa": 24,
+        "spd": 11,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 16,
+        "spa": 36,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

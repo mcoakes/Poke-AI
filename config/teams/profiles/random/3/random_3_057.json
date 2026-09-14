@@ -1,0 +1,96 @@
+{
+  "name": "random_3_057",
+  "party": [
+    {
+      "species": "Furret",
+      "moves": [
+        "Slam",
+        "Explosion",
+        "Water Spout",
+        "Mean Look"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 12,
+        "def": 0,
+        "spa": 10,
+        "spd": 17,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 12,
+        "spa": 28,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Swinub",
+      "moves": [
+        "Megahorn",
+        "Guillotine",
+        "Beat Up",
+        "Ice Punch"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 25,
+        "atk": 16,
+        "def": 23,
+        "spa": 5,
+        "spd": 24,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 44,
+        "spa": 52,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Moltres",
+      "moves": [
+        "Sunny Day",
+        "Mist Ball",
+        "Teeter Dance",
+        "Pain Split"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 1,
+        "atk": 8,
+        "def": 19,
+        "spa": 15,
+        "spd": 16,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 72,
+        "def": 80,
+        "spa": 48,
+        "spd": 72,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

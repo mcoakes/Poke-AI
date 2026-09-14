@@ -1,0 +1,40 @@
+{
+  "name": "random_1_022",
+  "party": [
+    {
+      "species": "Ariados",
+      "moves": [
+        "Super Fang",
+        "Odor Sleuth",
+        "String Shot",
+        "Triple Kick"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 15,
+        "def": 27,
+        "spa": 28,
+        "spd": 17,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 108,
+        "spa": 108,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

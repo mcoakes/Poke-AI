@@ -1,0 +1,68 @@
+{
+  "name": "random_2_048",
+  "party": [
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Soft Boiled",
+        "Slash",
+        "Rage",
+        "Double Team"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 28,
+        "atk": 6,
+        "def": 23,
+        "spa": 9,
+        "spd": 14,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 72,
+        "spa": 56,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Xatu",
+      "moves": [
+        "Barrage",
+        "Bullet Seed",
+        "Silver Wind",
+        "Ingrain"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 17,
+        "atk": 30,
+        "def": 0,
+        "spa": 5,
+        "spd": 10,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 92,
+        "def": 64,
+        "spa": 64,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

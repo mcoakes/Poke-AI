@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_116",
+  "party": [
+    {
+      "species": "Articuno",
+      "moves": [
+        "Double Team",
+        "Aerial Ace",
+        "Mind Reader",
+        "Ice Beam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 3,
+        "atk": 20,
+        "def": 22,
+        "spa": 0,
+        "spd": 30,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 32,
+        "spa": 76,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Facade",
+        "Attract",
+        "Substitute",
+        "Icy Wind"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 5,
+        "atk": 31,
+        "def": 14,
+        "spa": 13,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 32,
+        "spa": 28,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Double Team",
+        "Meditate",
+        "Body Slam",
+        "Brick Break"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 16,
+        "atk": 11,
+        "def": 5,
+        "spa": 6,
+        "spd": 1,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 40,
+        "spa": 52,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magmar",
+      "moves": [
+        "Flamethrower",
+        "Strength",
+        "Attract",
+        "Return"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 19,
+        "atk": 17,
+        "def": 14,
+        "spa": 15,
+        "spd": 12,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 52,
+        "def": 72,
+        "spa": 72,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Thief",
+        "Pain Split",
+        "Taunt",
+        "Sludge Bomb"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 26,
+        "atk": 27,
+        "def": 31,
+        "spa": 21,
+        "spd": 22,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 16,
+        "spa": 20,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

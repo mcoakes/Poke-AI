@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_001",
+  "party": [
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Rock Smash",
+        "Foresight",
+        "Brick Break",
+        "Earthquake"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 31,
+        "atk": 14,
+        "def": 15,
+        "spa": 15,
+        "spd": 24,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 64,
+        "def": 40,
+        "spa": 44,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Aurora Beam",
+        "Horn Drill",
+        "Water Pulse",
+        "Mimic"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 18,
+        "atk": 30,
+        "def": 26,
+        "spa": 12,
+        "spd": 2,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 28,
+        "spa": 44,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Destiny Bond",
+        "Psybeam",
+        "Shadow Ball",
+        "Sludge Bomb"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 14,
+        "def": 9,
+        "spa": 14,
+        "spd": 21,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 48,
+        "spa": 64,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mareep",
+      "moves": [
+        "Facade",
+        "Thunder Shock",
+        "Tackle",
+        "Toxic"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 26,
+        "atk": 14,
+        "def": 29,
+        "spa": 11,
+        "spd": 23,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 44,
+        "spa": 72,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Future Sight",
+        "Mega Punch",
+        "Seismic Toss",
+        "Psych Up"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 25,
+        "def": 19,
+        "spa": 5,
+        "spd": 25,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 40,
+        "spa": 32,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

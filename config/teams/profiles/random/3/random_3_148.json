@@ -1,0 +1,96 @@
+{
+  "name": "random_3_148",
+  "party": [
+    {
+      "species": "Machamp",
+      "moves": [
+        "Minimize",
+        "Focus Energy",
+        "Charge",
+        "Super Fang"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 23,
+        "spa": 18,
+        "spd": 19,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 68,
+        "spa": 68,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Guillotine",
+        "Calm Mind",
+        "Skill Swap",
+        "Tackle"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 7,
+        "atk": 26,
+        "def": 31,
+        "spa": 10,
+        "spd": 29,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 64,
+        "def": 48,
+        "spa": 108,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Mean Look",
+        "Scary Face",
+        "Secret Power",
+        "Rock Throw"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 28,
+        "atk": 19,
+        "def": 7,
+        "spa": 6,
+        "spd": 12,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

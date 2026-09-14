@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_015",
+  "party": [
+    {
+      "species": "Eevee",
+      "moves": [
+        "Shadow Ball",
+        "Quick Attack",
+        "Wish",
+        "Iron Tail"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 13,
+        "def": 26,
+        "spa": 10,
+        "spd": 1,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 64,
+        "spa": 64,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Powder Snow",
+        "Shadow Ball",
+        "Flash",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 6,
+        "atk": 4,
+        "def": 4,
+        "spa": 3,
+        "spd": 10,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 12,
+        "spa": 44,
+        "spd": 40,
+        "spe": 20
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Spinarak",
+      "moves": [
+        "String Shot",
+        "Return",
+        "Dig",
+        "Signal Beam"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 29,
+        "atk": 16,
+        "def": 7,
+        "spa": 19,
+        "spd": 15,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 12,
+        "spa": 28,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

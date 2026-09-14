@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_076",
+  "party": [
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Faint Attack",
+        "Substitute",
+        "Strength",
+        "Thunderbolt"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 15,
+        "atk": 11,
+        "def": 6,
+        "spa": 27,
+        "spd": 1,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 68,
+        "spa": 48,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Sunny Day",
+        "Outrage",
+        "Substitute",
+        "Facade"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 9,
+        "atk": 8,
+        "def": 22,
+        "spa": 5,
+        "spd": 7,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 28,
+        "spa": 28,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Iron Defense",
+        "Strength",
+        "Rock Throw",
+        "Double Edge"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 19,
+        "atk": 21,
+        "def": 9,
+        "spa": 15,
+        "spd": 23,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 52,
+        "spa": 88,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Flamethrower",
+        "Rest",
+        "Scary Face",
+        "Rock Slide"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 5,
+        "atk": 18,
+        "def": 22,
+        "spa": 17,
+        "spd": 9,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 40,
+        "spa": 36,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

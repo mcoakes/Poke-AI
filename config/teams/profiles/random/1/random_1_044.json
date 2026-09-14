@@ -1,0 +1,40 @@
+{
+  "name": "random_1_044",
+  "party": [
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Attract",
+        "Iron Tail",
+        "Slack Off",
+        "Thunder Wave"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 29,
+        "spa": 31,
+        "spd": 1,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 40,
+        "spa": 32,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

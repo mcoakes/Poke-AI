@@ -1,0 +1,180 @@
+{
+  "name": "random_6_035",
+  "party": [
+    {
+      "species": "Hitmontop",
+      "moves": [
+        "Egg Bomb",
+        "Frustration",
+        "Flail",
+        "Barrage"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 14,
+        "atk": 22,
+        "def": 18,
+        "spa": 3,
+        "spd": 26,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 24,
+        "spa": 20,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kyogre",
+      "moves": [
+        "Defense Curl",
+        "Muddy Water",
+        "Helping Hand",
+        "Twister"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 27,
+        "atk": 16,
+        "def": 24,
+        "spa": 24,
+        "spd": 2,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 20,
+        "spa": 44,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Helping Hand",
+        "Ingrain",
+        "Comet Punch",
+        "Minimize"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 30,
+        "def": 3,
+        "spa": 29,
+        "spd": 8,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 44,
+        "spa": 32,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Lock On",
+        "Recover",
+        "Fire Blast",
+        "Faint Attack"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 18,
+        "atk": 13,
+        "def": 1,
+        "spa": 11,
+        "spd": 22,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 32,
+        "spa": 24,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Tackle",
+        "Growl",
+        "Dragon Dance",
+        "Mirror Coat"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 0,
+        "spa": 31,
+        "spd": 12,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 12,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Mirror Coat",
+        "Fake Out",
+        "Bide",
+        "Rollout"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 18,
+        "spa": 24,
+        "spd": 12,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 76,
+        "def": 52,
+        "spa": 48,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

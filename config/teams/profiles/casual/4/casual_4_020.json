@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_020",
+  "party": [
+    {
+      "species": "Fearow",
+      "moves": [
+        "Faint Attack",
+        "Drill Peck",
+        "Protect",
+        "Mimic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 15,
+        "atk": 30,
+        "def": 19,
+        "spa": 8,
+        "spd": 1,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 36,
+        "spa": 32,
+        "spd": 80,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Rain Dance",
+        "Sludge",
+        "Shadow Ball",
+        "Smokescreen"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 23,
+        "atk": 9,
+        "def": 1,
+        "spa": 23,
+        "spd": 20,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 32,
+        "spa": 28,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Rock Tomb",
+        "Secret Power",
+        "Metronome",
+        "Brick Break"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 29,
+        "atk": 24,
+        "def": 8,
+        "spa": 27,
+        "spd": 6,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 64,
+        "spa": 80,
+        "spd": 84,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Victreebel",
+      "moves": [
+        "Acid",
+        "Poison Powder",
+        "Attract",
+        "Magical Leaf"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 27,
+        "atk": 28,
+        "def": 2,
+        "spa": 29,
+        "spd": 11,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 80,
+        "def": 36,
+        "spa": 40,
+        "spd": 24,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

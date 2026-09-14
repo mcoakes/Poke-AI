@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_078",
+  "party": [
+    {
+      "species": "Solrock",
+      "moves": [
+        "Earthquake",
+        "Hyper Beam",
+        "Sandstorm",
+        "Dream Eater"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 26,
+        "atk": 21,
+        "def": 23,
+        "spa": 30,
+        "spd": 30,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 56,
+        "spa": 60,
+        "spd": 72,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Mega Punch",
+        "Rest",
+        "Thunderbolt",
+        "Strength"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 16,
+        "atk": 5,
+        "def": 30,
+        "spa": 14,
+        "spd": 15,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 20,
+        "spa": 16,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Strength",
+        "Shadow Ball",
+        "Toxic",
+        "Psychic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 8,
+        "atk": 21,
+        "def": 25,
+        "spa": 4,
+        "spd": 19,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 20,
+        "spa": 56,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exploud",
+      "moves": [
+        "Protect",
+        "Mega Punch",
+        "Brick Break",
+        "Body Slam"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 12,
+        "spa": 6,
+        "spd": 26,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 84,
+        "spa": 44,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Swords Dance",
+        "Slam",
+        "Rock Tomb",
+        "Dive"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 25,
+        "atk": 11,
+        "def": 27,
+        "spa": 7,
+        "spd": 9,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 44,
+        "spa": 40,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

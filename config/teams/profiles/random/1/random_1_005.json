@@ -1,0 +1,40 @@
+{
+  "name": "random_1_005",
+  "party": [
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Milk Drink",
+        "Attract",
+        "Tri Attack",
+        "Howl"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 30,
+        "atk": 18,
+        "def": 28,
+        "spa": 11,
+        "spd": 1,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 12,
+        "spa": 16,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

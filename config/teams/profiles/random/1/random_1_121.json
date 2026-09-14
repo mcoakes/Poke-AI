@@ -1,0 +1,40 @@
+{
+  "name": "random_1_121",
+  "party": [
+    {
+      "species": "Loudred",
+      "moves": [
+        "Feather Dance",
+        "Rain Dance",
+        "Explosion",
+        "Rock Slide"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 15,
+        "atk": 0,
+        "def": 28,
+        "spa": 12,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 16,
+        "def": 24,
+        "spa": 24,
+        "spd": 8,
+        "spe": 32
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

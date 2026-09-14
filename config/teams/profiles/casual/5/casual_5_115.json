@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_115",
+  "party": [
+    {
+      "species": "Seadra",
+      "moves": [
+        "Facade",
+        "Water Pulse",
+        "Aurora Beam",
+        "Rain Dance"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 7,
+        "atk": 22,
+        "def": 23,
+        "spa": 9,
+        "spd": 23,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 92,
+        "def": 72,
+        "spa": 44,
+        "spd": 32,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Body Slam",
+        "Signal Beam",
+        "Sonic Boom",
+        "Attract"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 17,
+        "atk": 29,
+        "def": 26,
+        "spa": 25,
+        "spd": 22,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 48,
+        "def": 4,
+        "spa": 28,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Thunder Wave",
+        "Secret Power",
+        "Protect",
+        "Dragon Breath"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 4,
+        "atk": 30,
+        "def": 20,
+        "spa": 0,
+        "spd": 5,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 0,
+        "spa": 16,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Facade",
+        "Silver Wind",
+        "Mimic",
+        "Frustration"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 13,
+        "atk": 13,
+        "def": 3,
+        "spa": 30,
+        "spd": 26,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 44,
+        "spa": 28,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Hypnosis",
+        "Trick",
+        "Future Sight",
+        "Brick Break"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 30,
+        "atk": 13,
+        "def": 7,
+        "spa": 18,
+        "spd": 1,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 28,
+        "spa": 48,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

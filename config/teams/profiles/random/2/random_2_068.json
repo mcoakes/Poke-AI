@@ -1,0 +1,68 @@
+{
+  "name": "random_2_068",
+  "party": [
+    {
+      "species": "Chansey",
+      "moves": [
+        "Extrasensory",
+        "Peck",
+        "Refresh",
+        "Super Fang"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 3,
+        "atk": 17,
+        "def": 28,
+        "spa": 1,
+        "spd": 29,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 12,
+        "spa": 24,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Water Spout",
+        "Focus Energy",
+        "Quick Attack",
+        "Bide"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 12,
+        "atk": 9,
+        "def": 6,
+        "spa": 18,
+        "spd": 16,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 36,
+        "spa": 52,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

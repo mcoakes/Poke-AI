@@ -1,0 +1,124 @@
+{
+  "name": "random_4_033",
+  "party": [
+    {
+      "species": "Abra",
+      "moves": [
+        "Blizzard",
+        "Triple Kick",
+        "Acid Armor",
+        "Whirlpool"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 3,
+        "spa": 26,
+        "spd": 12,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 44,
+        "spa": 36,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Hyper Fang",
+        "Stun Spore",
+        "Tail Glow",
+        "Bide"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 29,
+        "atk": 20,
+        "def": 25,
+        "spa": 24,
+        "spd": 28,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 40,
+        "spa": 48,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Chansey",
+      "moves": [
+        "Luster Purge",
+        "Twineedle",
+        "Thrash",
+        "Imprison"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 19,
+        "def": 17,
+        "spa": 0,
+        "spd": 13,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Superpower",
+        "Extrasensory",
+        "Weather Ball",
+        "Headbutt"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 7,
+        "atk": 19,
+        "def": 20,
+        "spa": 21,
+        "spd": 17,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 40,
+        "def": 60,
+        "spa": 48,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

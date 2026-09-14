@@ -1,0 +1,68 @@
+{
+  "name": "random_2_139",
+  "party": [
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Rock Smash",
+        "Thunder Shock",
+        "Sand Tomb",
+        "Spike Cannon"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 2,
+        "atk": 30,
+        "def": 1,
+        "spa": 6,
+        "spd": 19,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 8,
+        "spa": 32,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Mega Kick",
+        "Lovely Kiss",
+        "Endure",
+        "Detect"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 17,
+        "spa": 30,
+        "spd": 22,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 56,
+        "spa": 44,
+        "spd": 60,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

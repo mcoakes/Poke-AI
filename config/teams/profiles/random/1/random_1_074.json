@@ -1,0 +1,40 @@
+{
+  "name": "random_1_074",
+  "party": [
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Metal Claw",
+        "Sleep Powder",
+        "Self Destruct",
+        "Thrash"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 23,
+        "atk": 14,
+        "def": 12,
+        "spa": 28,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 68,
+        "spa": 52,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

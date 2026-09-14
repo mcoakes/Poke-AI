@@ -1,0 +1,208 @@
+{
+  "name": "mixed_019",
+  "party": [
+    {
+      "species": "Unown",
+      "level": 50,
+      "moves": [
+        "Rollout",
+        "Dig",
+        "Stockpile",
+        "Bind"
+      ],
+      "nature": "Hasty",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Ninetales",
+      "level": 50,
+      "moves": [
+        "Slam",
+        "Mud Sport",
+        "Bulk Up",
+        "Signal Beam"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Aguav Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Fire Blast",
+        "Sky Uppercut",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Nidoran M",
+      "level": 50,
+      "moves": [
+        "Weather Ball",
+        "Screech",
+        "Crunch",
+        "Rage"
+      ],
+      "nature": "Hasty",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Seismic Toss",
+        "Soft Boiled",
+        "Thunder Wave",
+        "Ice Beam"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Pidgeotto",
+      "level": 50,
+      "moves": [
+        "Faint Attack",
+        "Mimic",
+        "Double Team",
+        "Steel Wing"
+      ],
+      "nature": "Mild",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Kings Rock",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "chaos",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "chaos",
+        "common_item": false
+      },
+      {
+        "slot": 3,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "chaos",
+        "common_item": true
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "learnable_random",
+        "common_item": false
+      }
+    ]
+  }
+}

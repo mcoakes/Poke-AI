@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_043",
+  "party": [
+    {
+      "species": "Electrike",
+      "moves": [
+        "Substitute",
+        "Facade",
+        "Protect",
+        "Shock Wave"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 6,
+        "atk": 9,
+        "def": 26,
+        "spa": 5,
+        "spd": 13,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 40,
+        "spa": 24,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Detect",
+        "Earthquake",
+        "Mach Punch",
+        "Ice Punch"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 22,
+        "spa": 30,
+        "spd": 28,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 16,
+        "spa": 8,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Curse",
+        "Outrage",
+        "Earthquake",
+        "Substitute"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 2,
+        "atk": 24,
+        "def": 11,
+        "spa": 24,
+        "spd": 19,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 76,
+        "spa": 76,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

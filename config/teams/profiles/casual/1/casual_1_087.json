@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_087",
+  "party": [
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Mimic",
+        "Body Slam",
+        "Rest",
+        "Faint Attack"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 30,
+        "atk": 28,
+        "def": 22,
+        "spa": 2,
+        "spd": 3,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 68,
+        "spa": 68,
+        "spd": 80,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

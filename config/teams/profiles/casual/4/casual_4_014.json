@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_014",
+  "party": [
+    {
+      "species": "Rattata",
+      "moves": [
+        "Flame Wheel",
+        "Toxic",
+        "Ice Beam",
+        "Body Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 8,
+        "atk": 3,
+        "def": 23,
+        "spa": 12,
+        "spd": 28,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 32,
+        "spa": 4,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    },
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Confusion",
+        "Attract",
+        "Leech Seed",
+        "Aerial Ace"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 22,
+        "atk": 26,
+        "def": 28,
+        "spa": 3,
+        "spd": 19,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 32,
+        "spa": 44,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Giga Drain",
+        "Facade",
+        "Leech Seed",
+        "Attract"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 6,
+        "def": 2,
+        "spa": 22,
+        "spd": 12,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 36,
+        "spa": 8,
+        "spd": 12,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Facade",
+        "Brick Break",
+        "Metronome",
+        "Bulk Up"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 23,
+        "atk": 23,
+        "def": 31,
+        "spa": 8,
+        "spd": 21,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 24,
+        "def": 72,
+        "spa": 28,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

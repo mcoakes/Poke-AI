@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_060",
+  "party": [
+    {
+      "species": "Arbok",
+      "moves": [
+        "Spite",
+        "Body Slam",
+        "Acid",
+        "Iron Tail"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 17,
+        "def": 31,
+        "spa": 5,
+        "spd": 12,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 56,
+        "spa": 64,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Faint Attack",
+        "Rest",
+        "Quick Attack",
+        "Amnesia"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 21,
+        "atk": 17,
+        "def": 27,
+        "spa": 24,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 56,
+        "spa": 80,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Substitute",
+        "Surf",
+        "Slam",
+        "Dig"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 13,
+        "atk": 24,
+        "def": 27,
+        "spa": 19,
+        "spd": 12,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 24,
+        "spa": 32,
+        "spd": 52,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latios",
+      "moves": [
+        "Luster Purge",
+        "Dragon Claw",
+        "Shadow Ball",
+        "Helping Hand"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 16,
+        "atk": 6,
+        "def": 21,
+        "spa": 21,
+        "spd": 16,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 20,
+        "spa": 12,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

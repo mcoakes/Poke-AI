@@ -1,0 +1,180 @@
+{
+  "name": "random_6_029",
+  "party": [
+    {
+      "species": "Muk",
+      "moves": [
+        "Howl",
+        "Seismic Toss",
+        "Super Fang",
+        "Rock Tomb"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 25,
+        "atk": 19,
+        "def": 16,
+        "spa": 27,
+        "spd": 28,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 100,
+        "def": 44,
+        "spa": 64,
+        "spd": 92,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Signal Beam",
+        "Hyper Voice",
+        "Zap Cannon",
+        "Trick"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 5,
+        "atk": 10,
+        "def": 25,
+        "spa": 11,
+        "spd": 4,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 12,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Vital Throw",
+        "Frenzy Plant",
+        "Double Slap",
+        "Megahorn"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 21,
+        "spa": 24,
+        "spd": 30,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 20,
+        "spa": 52,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Chansey",
+      "moves": [
+        "Vice Grip",
+        "Present",
+        "Hidden Power",
+        "Baton Pass"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 12,
+        "atk": 26,
+        "def": 0,
+        "spa": 20,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 44,
+        "spa": 36,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Charm",
+        "Teleport",
+        "Block",
+        "Double Team"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 5,
+        "spa": 29,
+        "spd": 28,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Metronome",
+        "Lick",
+        "Spikes",
+        "Snatch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 4,
+        "atk": 10,
+        "def": 12,
+        "spa": 20,
+        "spd": 28,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 64,
+        "spa": 48,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

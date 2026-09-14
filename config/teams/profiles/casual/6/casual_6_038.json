@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_038",
+  "party": [
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Dream Eater",
+        "Psychic",
+        "Metronome",
+        "Shock Wave"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 10,
+        "atk": 16,
+        "def": 20,
+        "spa": 27,
+        "spd": 2,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 52,
+        "spa": 24,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Curse",
+        "Thunderbolt",
+        "Scratch",
+        "Facade"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 29,
+        "atk": 4,
+        "def": 0,
+        "spa": 11,
+        "spd": 9,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 20,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electabuzz",
+      "moves": [
+        "Brick Break",
+        "Thunder Wave",
+        "Shock Wave",
+        "Mega Punch"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 13,
+        "atk": 14,
+        "def": 19,
+        "spa": 13,
+        "spd": 16,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 28,
+        "spa": 12,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mew",
+      "moves": [
+        "Body Slam",
+        "Ice Beam",
+        "Dream Eater",
+        "Attract"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 9,
+        "atk": 5,
+        "def": 11,
+        "spa": 9,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 40,
+        "spa": 64,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Earthquake",
+        "Faint Attack",
+        "Toxic",
+        "Rock Tomb"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 28,
+        "def": 4,
+        "spa": 14,
+        "spd": 20,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 60,
+        "spa": 64,
+        "spd": 68,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Rest",
+        "Future Sight",
+        "Protect",
+        "Shock Wave"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 8,
+        "atk": 29,
+        "def": 17,
+        "spa": 14,
+        "spd": 0,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 84,
+        "def": 68,
+        "spa": 52,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

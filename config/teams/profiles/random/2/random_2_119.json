@@ -1,0 +1,68 @@
+{
+  "name": "random_2_119",
+  "party": [
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Tickle",
+        "Knock Off",
+        "Kinesis",
+        "Shadow Ball"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 5,
+        "atk": 10,
+        "def": 2,
+        "spa": 31,
+        "spd": 22,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Double Kick",
+        "Earthquake",
+        "Rock Blast",
+        "Belly Drum"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 18,
+        "atk": 29,
+        "def": 19,
+        "spa": 22,
+        "spd": 29,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 36,
+        "spa": 36,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

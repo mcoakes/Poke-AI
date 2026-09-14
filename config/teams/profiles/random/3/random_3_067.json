@@ -1,0 +1,96 @@
+{
+  "name": "random_3_067",
+  "party": [
+    {
+      "species": "Whismur",
+      "moves": [
+        "Sand Tomb",
+        "Grass Whistle",
+        "Mud Slap",
+        "Roar"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 27,
+        "atk": 1,
+        "def": 5,
+        "spa": 18,
+        "spd": 29,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 64,
+        "spa": 44,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machop",
+      "moves": [
+        "Sing",
+        "Pin Missile",
+        "Bone Rush",
+        "Pound"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 1,
+        "atk": 11,
+        "def": 22,
+        "spa": 23,
+        "spd": 24,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 88,
+        "spa": 76,
+        "spd": 92,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Submission",
+        "Spore",
+        "Hypnosis",
+        "Hyper Fang"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 23,
+        "atk": 23,
+        "def": 3,
+        "spa": 24,
+        "spd": 19,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 40,
+        "spa": 24,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

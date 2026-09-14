@@ -1,0 +1,96 @@
+{
+  "name": "random_3_102",
+  "party": [
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Metal Claw",
+        "Yawn",
+        "Shock Wave",
+        "Focus Punch"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 17,
+        "atk": 3,
+        "def": 7,
+        "spa": 3,
+        "spd": 13,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 32,
+        "spa": 48,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Withdraw",
+        "Encore",
+        "Memento",
+        "Headbutt"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 17,
+        "atk": 2,
+        "def": 16,
+        "spa": 13,
+        "spd": 5,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 56,
+        "spa": 20,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Spit Up",
+        "Covet",
+        "Secret Power",
+        "Stockpile"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 27,
+        "atk": 28,
+        "def": 20,
+        "spa": 26,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

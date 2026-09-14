@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_059",
+  "party": [
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Take Down",
+        "Protect",
+        "Ember",
+        "Facade"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 24,
+        "atk": 29,
+        "def": 18,
+        "spa": 13,
+        "spd": 12,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 24,
+        "spa": 24,
+        "spd": 16,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Secret Power",
+        "Shock Wave",
+        "Dream Eater",
+        "Rain Dance"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 13,
+        "spa": 0,
+        "spd": 12,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 28,
+        "spa": 20,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

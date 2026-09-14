@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_030",
+  "party": [
+    {
+      "species": "Snubbull",
+      "moves": [
+        "Overheat",
+        "Mega Punch",
+        "Faint Attack",
+        "Attract"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 5,
+        "atk": 23,
+        "def": 17,
+        "spa": 29,
+        "spd": 18,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 48,
+        "def": 48,
+        "spa": 68,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

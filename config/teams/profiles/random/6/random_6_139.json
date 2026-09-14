@@ -1,0 +1,180 @@
+{
+  "name": "random_6_139",
+  "party": [
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Roar",
+        "Crush Claw",
+        "Swallow",
+        "Poison Gas"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 8,
+        "atk": 3,
+        "def": 29,
+        "spa": 17,
+        "spd": 7,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 92,
+        "def": 48,
+        "spa": 68,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slugma",
+      "moves": [
+        "Assist",
+        "Haze",
+        "Thunder Wave",
+        "Aromatherapy"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 17,
+        "atk": 5,
+        "def": 0,
+        "spa": 13,
+        "spd": 17,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 12,
+        "spa": 4,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Amnesia",
+        "Sheer Cold",
+        "Spite",
+        "Hidden Power"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 12,
+        "atk": 21,
+        "def": 26,
+        "spa": 6,
+        "spd": 7,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 48,
+        "def": 68,
+        "spa": 80,
+        "spd": 92,
+        "spe": 56
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Knock Off",
+        "Spit Up",
+        "Shadow Punch",
+        "Triple Kick"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 26,
+        "atk": 8,
+        "def": 25,
+        "spa": 12,
+        "spd": 11,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 4,
+        "spa": 24,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Scratch",
+        "Fury Attack",
+        "Hyper Fang",
+        "Future Sight"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 7,
+        "atk": 26,
+        "def": 14,
+        "spa": 16,
+        "spd": 13,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 16,
+        "spa": 16,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Iron Tail",
+        "Growth",
+        "Swift",
+        "Snatch"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 17,
+        "def": 17,
+        "spa": 5,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 4,
+        "spa": 8,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

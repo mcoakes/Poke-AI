@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_004",
+  "party": [
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Thunderbolt",
+        "Aerial Ace",
+        "Facade",
+        "Double Team"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 28,
+        "atk": 31,
+        "def": 27,
+        "spa": 25,
+        "spd": 11,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 40,
+        "spa": 44,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Shock Wave",
+        "Double Edge",
+        "Howl",
+        "Secret Power"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 13,
+        "atk": 17,
+        "def": 16,
+        "spa": 9,
+        "spd": 21,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 48,
+        "def": 68,
+        "spa": 64,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Ancient Power",
+        "Iron Tail",
+        "Yawn",
+        "Dive"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 28,
+        "def": 4,
+        "spa": 9,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 40,
+        "spa": 64,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Mew",
+      "moves": [
+        "Reflect",
+        "Seismic Toss",
+        "Thunderbolt",
+        "Dream Eater"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 12,
+        "atk": 17,
+        "def": 7,
+        "spa": 5,
+        "spd": 20,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 64,
+        "def": 40,
+        "spa": 44,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Brick Break",
+        "Taunt",
+        "Crush Claw",
+        "Facade"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 17,
+        "atk": 27,
+        "def": 17,
+        "spa": 9,
+        "spd": 2,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 48,
+        "spa": 40,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Thief",
+        "Gust",
+        "Growl",
+        "Shock Wave"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 7,
+        "atk": 9,
+        "def": 12,
+        "spa": 4,
+        "spd": 24,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 8,
+        "spa": 24,
+        "spd": 28,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

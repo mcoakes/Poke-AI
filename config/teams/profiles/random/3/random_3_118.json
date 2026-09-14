@@ -1,0 +1,96 @@
+{
+  "name": "random_3_118",
+  "party": [
+    {
+      "species": "Huntail",
+      "moves": [
+        "Silver Wind",
+        "Mega Drain",
+        "Magic Coat",
+        "Camouflage"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 12,
+        "atk": 30,
+        "def": 30,
+        "spa": 3,
+        "spd": 19,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Mud Sport",
+        "Mud Shot",
+        "Spark",
+        "Submission"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 29,
+        "atk": 12,
+        "def": 27,
+        "spa": 25,
+        "spd": 6,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 40,
+        "spa": 40,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Swords Dance",
+        "Memento",
+        "Poison Powder",
+        "Fake Tears"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 7,
+        "spa": 17,
+        "spd": 24,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 0,
+        "spa": 8,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

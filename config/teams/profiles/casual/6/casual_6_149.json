@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_149",
+  "party": [
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Dig",
+        "Mimic",
+        "Iron Tail",
+        "Water Gun"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 19,
+        "atk": 5,
+        "def": 2,
+        "spa": 7,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 40,
+        "spa": 36,
+        "spd": 72,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Attract",
+        "Bite",
+        "Sunny Day",
+        "Shadow Ball"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 12,
+        "atk": 5,
+        "def": 16,
+        "spa": 4,
+        "spd": 10,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 20,
+        "spa": 16,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mewtwo",
+      "moves": [
+        "Barrier",
+        "Counter",
+        "Shadow Ball",
+        "Dream Eater"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 7,
+        "atk": 9,
+        "def": 26,
+        "spa": 17,
+        "spd": 31,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 44,
+        "spa": 28,
+        "spd": 80,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Protect",
+        "Surf",
+        "Secret Power",
+        "Water Pulse"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 13,
+        "atk": 9,
+        "def": 29,
+        "spa": 14,
+        "spd": 6,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 28,
+        "spa": 44,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Dragon Breath",
+        "Leer",
+        "Twister",
+        "Water Pulse"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 18,
+        "atk": 12,
+        "def": 13,
+        "spa": 0,
+        "spd": 19,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 84,
+        "spa": 92,
+        "spd": 40,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Shock Wave",
+        "Skill Swap",
+        "Substitute",
+        "Shadow Ball"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 18,
+        "atk": 22,
+        "def": 6,
+        "spa": 17,
+        "spd": 27,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 76,
+        "spa": 76,
+        "spd": 72,
+        "spe": 60
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

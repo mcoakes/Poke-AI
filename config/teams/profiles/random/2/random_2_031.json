@@ -1,0 +1,68 @@
+{
+  "name": "random_2_031",
+  "party": [
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Crunch",
+        "Seismic Toss",
+        "Flame Wheel",
+        "Hyper Beam"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 8,
+        "atk": 9,
+        "def": 14,
+        "spa": 16,
+        "spd": 28,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 44,
+        "def": 68,
+        "spa": 72,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Ice Ball",
+        "Fire Punch",
+        "Peck",
+        "Yawn"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 10,
+        "def": 7,
+        "spa": 18,
+        "spd": 18,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 16,
+        "spa": 44,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

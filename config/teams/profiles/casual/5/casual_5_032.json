@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_032",
+  "party": [
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Scratch",
+        "Secret Power",
+        "Attract",
+        "Rock Tomb"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 20,
+        "spa": 31,
+        "spd": 21,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 52,
+        "spa": 24,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Rain Dance",
+        "Mega Punch",
+        "Dream Eater",
+        "Toxic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 29,
+        "atk": 20,
+        "def": 21,
+        "spa": 7,
+        "spd": 29,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 68,
+        "spa": 44,
+        "spd": 20,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Thunderbolt",
+        "Solar Beam",
+        "Secret Power",
+        "Skill Swap"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 5,
+        "atk": 21,
+        "def": 27,
+        "spa": 4,
+        "spd": 14,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 76,
+        "spa": 64,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Thunder Wave",
+        "Shock Wave",
+        "Protect",
+        "Shadow Ball"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 4,
+        "atk": 25,
+        "def": 30,
+        "spa": 17,
+        "spd": 31,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 56,
+        "spa": 68,
+        "spd": 84,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Rock Tomb",
+        "Facade",
+        "Wing Attack",
+        "Toxic"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 1,
+        "spa": 6,
+        "spd": 8,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 44,
+        "spa": 48,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

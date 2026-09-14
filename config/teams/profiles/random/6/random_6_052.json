@@ -1,0 +1,180 @@
+{
+  "name": "random_6_052",
+  "party": [
+    {
+      "species": "Rhyhorn",
+      "moves": [
+        "Vine Whip",
+        "Dive",
+        "Smog",
+        "Sleep Powder"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 10,
+        "def": 0,
+        "spa": 19,
+        "spd": 15,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 76,
+        "spa": 56,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Self Destruct",
+        "Leaf Blade",
+        "Bone Club",
+        "Water Gun"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 19,
+        "atk": 12,
+        "def": 27,
+        "spa": 20,
+        "spd": 15,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 80,
+        "def": 56,
+        "spa": 96,
+        "spd": 80,
+        "spe": 68
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Waterfall",
+        "Bone Rush",
+        "Taunt",
+        "Agility"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 12,
+        "atk": 26,
+        "def": 27,
+        "spa": 31,
+        "spd": 21,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 20,
+        "spa": 44,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Milk Drink",
+        "Mud Sport",
+        "Stockpile",
+        "Toxic"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 25,
+        "def": 15,
+        "spa": 3,
+        "spd": 31,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 28,
+        "spa": 40,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corphish",
+      "moves": [
+        "Double Slap",
+        "Whirlpool",
+        "Flamethrower",
+        "Attract"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 29,
+        "atk": 30,
+        "def": 11,
+        "spa": 31,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 40,
+        "spa": 52,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electabuzz",
+      "moves": [
+        "Fire Spin",
+        "Protect",
+        "Charm",
+        "Quick Attack"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 8,
+        "atk": 29,
+        "def": 2,
+        "spa": 10,
+        "spd": 20,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 12,
+        "spa": 0,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

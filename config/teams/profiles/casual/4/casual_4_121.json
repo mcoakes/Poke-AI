@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_121",
+  "party": [
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Rock Tomb",
+        "Water Pulse",
+        "Sunny Day",
+        "Mimic"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 27,
+        "atk": 27,
+        "def": 27,
+        "spa": 2,
+        "spd": 16,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 52,
+        "spa": 72,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    },
+    {
+      "species": "Spoink",
+      "moves": [
+        "Double Edge",
+        "Taunt",
+        "Dream Eater",
+        "Snore"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 25,
+        "def": 27,
+        "spa": 10,
+        "spd": 22,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 28,
+        "spa": 8,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Facade",
+        "Faint Attack",
+        "Cut",
+        "Protect"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 5,
+        "def": 3,
+        "spa": 10,
+        "spd": 23,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 40,
+        "spa": 64,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Secret Power",
+        "Shadow Ball",
+        "Gust",
+        "Safeguard"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 0,
+        "spa": 20,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 12,
+        "spa": 8,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

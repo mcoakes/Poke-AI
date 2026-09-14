@@ -1,0 +1,180 @@
+{
+  "name": "random_6_145",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Rest",
+        "Hi Jump Kick",
+        "Aromatherapy",
+        "Dynamic Punch"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 30,
+        "atk": 7,
+        "def": 20,
+        "spa": 28,
+        "spd": 1,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 36,
+        "spa": 44,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Sleep Powder",
+        "Faint Attack",
+        "Mega Punch",
+        "Solar Beam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 0,
+        "atk": 18,
+        "def": 27,
+        "spa": 13,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 20,
+        "spa": 28,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Luvdisc",
+      "moves": [
+        "Water Spout",
+        "Sing",
+        "Flame Wheel",
+        "Silver Wind"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 12,
+        "atk": 3,
+        "def": 5,
+        "spa": 22,
+        "spd": 12,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Bind",
+        "Tail Whip",
+        "Hypnosis",
+        "Drill Peck"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 31,
+        "def": 13,
+        "spa": 29,
+        "spd": 21,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 36,
+        "spa": 24,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Fake Tears",
+        "Nightmare",
+        "Dragon Breath",
+        "Sand Attack"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 24,
+        "atk": 13,
+        "def": 22,
+        "spa": 5,
+        "spd": 28,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 16,
+        "spa": 32,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Focus Punch",
+        "Cut",
+        "Beat Up",
+        "Vice Grip"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 17,
+        "atk": 19,
+        "def": 21,
+        "spa": 10,
+        "spd": 22,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

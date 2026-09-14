@@ -1,0 +1,68 @@
+{
+  "name": "random_2_041",
+  "party": [
+    {
+      "species": "Corsola",
+      "moves": [
+        "Whirlwind",
+        "Spit Up",
+        "Toxic",
+        "Leer"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 15,
+        "def": 18,
+        "spa": 19,
+        "spd": 13,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 52,
+        "spa": 76,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Razor Leaf",
+        "Mean Look",
+        "Tackle",
+        "Nature Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 29,
+        "spa": 3,
+        "spd": 17,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 68,
+        "spa": 64,
+        "spd": 40,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

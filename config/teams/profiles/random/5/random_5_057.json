@@ -1,0 +1,152 @@
+{
+  "name": "random_5_057",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Psych Up",
+        "Spite",
+        "Bide",
+        "Poison Powder"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 2,
+        "atk": 9,
+        "def": 4,
+        "spa": 10,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 12,
+        "spa": 12,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Peck",
+        "Fury Attack",
+        "Earthquake",
+        "Harden"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 29,
+        "atk": 25,
+        "def": 20,
+        "spa": 25,
+        "spd": 4,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Mean Look",
+        "Transform",
+        "Double Team",
+        "Sing"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 21,
+        "atk": 6,
+        "def": 26,
+        "spa": 7,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 72,
+        "spa": 48,
+        "spd": 68,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Roselia",
+      "moves": [
+        "Helping Hand",
+        "Barrage",
+        "Super Fang",
+        "Heal Bell"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 0,
+        "atk": 17,
+        "def": 31,
+        "spa": 0,
+        "spd": 25,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 32,
+        "spa": 20,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Recycle",
+        "Hydro Cannon",
+        "Drill Peck",
+        "Wrap"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 30,
+        "atk": 22,
+        "def": 25,
+        "spa": 29,
+        "spd": 26,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 60,
+        "spa": 64,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

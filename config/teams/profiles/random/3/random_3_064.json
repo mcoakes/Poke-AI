@@ -1,0 +1,96 @@
+{
+  "name": "random_3_064",
+  "party": [
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Taunt",
+        "Blaze Kick",
+        "Razor Leaf",
+        "Heal Bell"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 4,
+        "atk": 6,
+        "def": 23,
+        "spa": 30,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 32,
+        "spa": 44,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Mind Reader",
+        "Safeguard",
+        "Egg Bomb",
+        "Spikes"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 24,
+        "def": 3,
+        "spa": 21,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 48,
+        "spa": 52,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mew",
+      "moves": [
+        "Growl",
+        "Fire Blast",
+        "Reflect",
+        "Bubble Beam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 16,
+        "atk": 17,
+        "def": 0,
+        "spa": 1,
+        "spd": 17,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 12,
+        "def": 16,
+        "spa": 4,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

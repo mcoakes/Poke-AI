@@ -1,0 +1,40 @@
+{
+  "name": "random_1_033",
+  "party": [
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Peck",
+        "Tri Attack",
+        "Growl",
+        "Lick"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 17,
+        "spa": 22,
+        "spd": 2,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 108,
+        "spa": 84,
+        "spd": 64,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

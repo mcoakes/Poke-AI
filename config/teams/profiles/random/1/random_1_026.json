@@ -1,0 +1,40 @@
+{
+  "name": "random_1_026",
+  "party": [
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Scratch",
+        "Psybeam",
+        "Rock Blast",
+        "Iron Defense"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 15,
+        "def": 10,
+        "spa": 28,
+        "spd": 13,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 36,
+        "spa": 40,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_037",
+  "party": [
+    {
+      "species": "Haunter",
+      "moves": [
+        "Rain Dance",
+        "Shadow Ball",
+        "Skill Swap",
+        "Facade"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 22,
+        "atk": 16,
+        "def": 18,
+        "spa": 9,
+        "spd": 9,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 44,
+        "def": 20,
+        "spa": 48,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Substitute",
+        "Faint Attack",
+        "Fury Attack",
+        "Quick Attack"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 21,
+        "spa": 31,
+        "spd": 29,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 32,
+        "spa": 64,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Double Team",
+        "Secret Power",
+        "Water Gun",
+        "Ice Beam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 11,
+        "spa": 1,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 60,
+        "spa": 60,
+        "spd": 80,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Steel Wing",
+        "Sunny Day",
+        "Refresh",
+        "Quick Attack"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 27,
+        "atk": 4,
+        "def": 25,
+        "spa": 21,
+        "spd": 26,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 28,
+        "spa": 48,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

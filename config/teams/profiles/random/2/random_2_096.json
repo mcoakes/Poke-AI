@@ -1,0 +1,68 @@
+{
+  "name": "random_2_096",
+  "party": [
+    {
+      "species": "Mareep",
+      "moves": [
+        "Sludge Bomb",
+        "Bind",
+        "Growl",
+        "Rock Smash"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 11,
+        "atk": 20,
+        "def": 7,
+        "spa": 17,
+        "spd": 15,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 44,
+        "spa": 44,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Thunder",
+        "Skill Swap",
+        "Rain Dance",
+        "Tail Whip"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 9,
+        "atk": 13,
+        "def": 14,
+        "spa": 21,
+        "spd": 1,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 4,
+        "spa": 4,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_005",
+  "party": [
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Water Gun",
+        "Facade",
+        "Hail",
+        "Mirror Coat"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 27,
+        "atk": 15,
+        "def": 9,
+        "spa": 19,
+        "spd": 25,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 88,
+        "spa": 44,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Banette",
+      "moves": [
+        "Rain Dance",
+        "Shadow Ball",
+        "Skill Swap",
+        "Secret Power"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 13,
+        "def": 2,
+        "spa": 16,
+        "spd": 21,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 4,
+        "def": 8,
+        "spa": 12,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

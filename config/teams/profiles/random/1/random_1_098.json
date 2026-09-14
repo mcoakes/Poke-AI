@@ -1,0 +1,40 @@
+{
+  "name": "random_1_098",
+  "party": [
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Solar Beam",
+        "Heat Wave",
+        "Milk Drink",
+        "Thunder Punch"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 31,
+        "atk": 22,
+        "def": 31,
+        "spa": 27,
+        "spd": 9,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 48,
+        "def": 72,
+        "spa": 60,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

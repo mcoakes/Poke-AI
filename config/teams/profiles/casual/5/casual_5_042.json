@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_042",
+  "party": [
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Earthquake",
+        "Endure",
+        "Snore",
+        "Rest"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 5,
+        "atk": 4,
+        "def": 3,
+        "spa": 4,
+        "spd": 18,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 76,
+        "def": 68,
+        "spa": 64,
+        "spd": 20,
+        "spe": 72
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Double Team",
+        "Rock Throw",
+        "Amnesia",
+        "Strength"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 26,
+        "atk": 28,
+        "def": 2,
+        "spa": 30,
+        "spd": 16,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 28,
+        "spe": 4
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Togetic",
+      "moves": [
+        "Focus Punch",
+        "Water Pulse",
+        "Protect",
+        "Secret Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 27,
+        "atk": 9,
+        "def": 15,
+        "spa": 24,
+        "spd": 10,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 36,
+        "spa": 76,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Dive",
+        "Mud Sport",
+        "Ancient Power",
+        "Return"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 29,
+        "atk": 22,
+        "def": 29,
+        "spa": 12,
+        "spd": 22,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 68,
+        "spa": 80,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Harden",
+        "Iron Defense",
+        "Rock Slide",
+        "Metal Claw"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 14,
+        "atk": 26,
+        "def": 16,
+        "spa": 8,
+        "spd": 29,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 32,
+        "spa": 28,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_049",
+  "party": [
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Substitute",
+        "Double Team",
+        "Uproar",
+        "Aerial Ace"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 30,
+        "atk": 14,
+        "def": 31,
+        "spa": 28,
+        "spd": 12,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 24,
+        "def": 28,
+        "spa": 32,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "random_2_084",
+  "party": [
+    {
+      "species": "Granbull",
+      "moves": [
+        "Sand Attack",
+        "Attract",
+        "Odor Sleuth",
+        "Heat Wave"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 11,
+        "spa": 8,
+        "spd": 24,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Waterfall",
+        "Secret Power",
+        "Blizzard",
+        "Magical Leaf"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 30,
+        "def": 0,
+        "spa": 29,
+        "spd": 18,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 60,
+        "spa": 64,
+        "spd": 108,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_146",
+  "party": [
+    {
+      "species": "Gligar",
+      "moves": [
+        "Sleep Powder",
+        "Meditate",
+        "Double Edge",
+        "Hypnosis"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 10,
+        "atk": 15,
+        "def": 19,
+        "spa": 21,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 56,
+        "spa": 88,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

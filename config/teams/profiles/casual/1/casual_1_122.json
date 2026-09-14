@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_122",
+  "party": [
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Attract",
+        "Body Slam",
+        "Toxic",
+        "Sludge Bomb"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 0,
+        "atk": 28,
+        "def": 1,
+        "spa": 30,
+        "spd": 13,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 4,
+        "spa": 16,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "White Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

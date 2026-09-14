@@ -1,0 +1,1031 @@
+{
+  "description": "Original competitive-style Gen III role templates; not tournament legality certification or usage statistics.",
+  "references": [
+    "https://www.smogon.com/dex/rs/",
+    "https://www.smogon.com/dex/rs/pokemon/snorlax/",
+    "https://www.smogon.com/dex/rs/pokemon/starmie/"
+  ],
+  "sets": [
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Sludge Bomb",
+        "Giga Drain",
+        "Sleep Powder",
+        "Leech Seed"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Flamethrower",
+        "Dragon Claw",
+        "Brick Break",
+        "Substitute"
+      ],
+      "nature": "Mild",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Rapid Spin",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Thunderbolt",
+        "Thunder Wave",
+        "Substitute",
+        "Encore"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Light Ball"
+      ]
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Thunderbolt",
+        "Encore",
+        "Substitute",
+        "Focus Punch"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Earthquake",
+        "Sludge Bomb",
+        "Ice Beam",
+        "Thunderbolt"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Lum Berry",
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Seismic Toss",
+        "Soft Boiled",
+        "Thunder Wave",
+        "Ice Beam"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Ninetales",
+      "moves": [
+        "Flamethrower",
+        "Will O Wisp",
+        "Confuse Ray",
+        "Substitute"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Cross Chop",
+        "Rock Slide",
+        "Earthquake",
+        "Facade"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Psychic",
+        "Fire Punch",
+        "Ice Punch",
+        "Calm Mind"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Thunderbolt",
+        "Giga Drain",
+        "Hypnosis",
+        "Explosion"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Explosion",
+        "Double Edge"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Surf",
+        "Psychic",
+        "Calm Mind",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers",
+        "Chesto Berry"
+      ]
+    },
+    {
+      "species": "Magneton",
+      "moves": [
+        "Thunderbolt",
+        "Thunder Wave",
+        "Substitute",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Drill Peck",
+        "Return",
+        "Quick Attack",
+        "Steel Wing"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Muk",
+      "moves": [
+        "Sludge Bomb",
+        "Brick Break",
+        "Curse",
+        "Explosion"
+      ],
+      "nature": "Careful",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Cloyster",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Spikes",
+        "Explosion"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Psychic",
+        "Giga Drain",
+        "Sleep Powder",
+        "Explosion"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Double Edge",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Thick Club"
+      ]
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Sludge Bomb",
+        "Flamethrower",
+        "Will O Wisp",
+        "Haze"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Kangaskhan",
+      "moves": [
+        "Return",
+        "Earthquake",
+        "Shadow Ball",
+        "Rock Slide"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Surf",
+        "Thunderbolt",
+        "Ice Beam",
+        "Recover"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Aerial Ace",
+        "Silver Wind",
+        "Swords Dance",
+        "Baton Pass"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Brick Break",
+        "Earthquake",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Tauros",
+      "moves": [
+        "Return",
+        "Earthquake",
+        "Iron Tail",
+        "Double Edge"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Return",
+        "Earthquake",
+        "Dragon Dance",
+        "Taunt"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Thunderbolt",
+        "Confuse Ray"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Substitute",
+        "Baton Pass"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Thunderbolt",
+        "Substitute",
+        "Baton Pass",
+        "Thunder Wave"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Double Edge",
+        "Aerial Ace"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Body Slam",
+        "Shadow Ball",
+        "Curse",
+        "Rest"
+      ],
+      "nature": "Careful",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers",
+        "Chesto Berry"
+      ]
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Dragon Claw",
+        "Flamethrower",
+        "Thunderbolt",
+        "Ice Beam"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sludge Bomb",
+        "Aerial Ace",
+        "Shadow Ball",
+        "Steel Wing"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Megahorn",
+        "Brick Break",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Silver Wind",
+        "Steel Wing",
+        "Swords Dance",
+        "Baton Pass"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Dragon Dance",
+        "Taunt"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers",
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Leaf Blade",
+        "Dragon Claw",
+        "Crunch",
+        "Substitute"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Fire Blast",
+        "Sky Uppercut",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Lum Berry"
+      ]
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Surf",
+        "Earthquake",
+        "Ice Beam",
+        "Protect"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Psychic",
+        "Thunderbolt",
+        "Calm Mind",
+        "Will O Wisp"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Drill Peck",
+        "Spikes",
+        "Roar",
+        "Protect"
+      ],
+      "nature": "Impish",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Meteor Mash",
+        "Earthquake",
+        "Rock Slide",
+        "Explosion"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Dragon Claw",
+        "Flamethrower",
+        "Brick Break",
+        "Rock Slide"
+      ],
+      "nature": "Rash",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Recover",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Giga Drain",
+        "Leech Seed"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Roar",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Hi Jump Kick",
+        "Double Edge",
+        "Rock Slide",
+        "Shadow Ball"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Earthquake",
+        "Psychic",
+        "Rapid Spin",
+        "Explosion"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    }
+  ]
+}

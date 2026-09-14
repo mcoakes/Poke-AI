@@ -1,0 +1,80 @@
+{
+  "name": "starters_venusaur_lead",
+  "party": [
+    {
+      "species": "Venusaur",
+      "level": 50,
+      "moves": [
+        "Giga Drain",
+        "Sludge Bomb",
+        "Sleep Powder",
+        "Leech Seed"
+      ],
+      "nature": "Sassy",
+      "held_item": "Leftovers",
+      "evs": {
+        "hp": 252,
+        "spd": 252,
+        "spa": 6
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Blastoise",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Rapid Spin",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "held_item": "Leftovers",
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 6
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Fire Blast",
+        "Dragon Claw",
+        "Brick Break",
+        "Substitute"
+      ],
+      "nature": "Naive",
+      "held_item": "Leftovers",
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "atk": 6
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ]
+}

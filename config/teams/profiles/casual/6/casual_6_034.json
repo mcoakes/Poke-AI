@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_034",
+  "party": [
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Thief",
+        "Toxic",
+        "Rock Tomb",
+        "Secret Power"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 20,
+        "atk": 17,
+        "def": 29,
+        "spa": 11,
+        "spd": 25,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 44,
+        "def": 80,
+        "spa": 88,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metang",
+      "moves": [
+        "Meteor Mash",
+        "Take Down",
+        "Flash",
+        "Mimic"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 16,
+        "atk": 10,
+        "def": 20,
+        "spa": 3,
+        "spd": 6,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 32,
+        "spa": 28,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Zap Cannon",
+        "Rock Slide",
+        "Sunny Day",
+        "Rest"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 13,
+        "atk": 4,
+        "def": 16,
+        "spa": 6,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 20,
+        "spa": 0,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Swalot",
+      "moves": [
+        "Sludge",
+        "Secret Power",
+        "Water Pulse",
+        "Pain Split"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 11,
+        "atk": 30,
+        "def": 1,
+        "spa": 9,
+        "spd": 0,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 20,
+        "spa": 36,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cradily",
+      "moves": [
+        "Double Team",
+        "Sandstorm",
+        "Giga Drain",
+        "Rock Slide"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 4,
+        "def": 1,
+        "spa": 15,
+        "spd": 21,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 72,
+        "spa": 56,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ralts",
+      "moves": [
+        "Psychic",
+        "Mean Look",
+        "Memento",
+        "Thunderbolt"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 31,
+        "atk": 14,
+        "def": 17,
+        "spa": 4,
+        "spd": 13,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 32,
+        "spa": 12,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

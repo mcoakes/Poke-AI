@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_102",
+  "party": [
+    {
+      "species": "Latias",
+      "moves": [
+        "Mist Ball",
+        "Wish",
+        "Shadow Ball",
+        "Aerial Ace"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 16,
+        "spa": 2,
+        "spd": 16,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 28,
+        "def": 12,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Fake Tears",
+        "Body Slam",
+        "Water Pulse",
+        "Seismic Toss"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 19,
+        "def": 15,
+        "spa": 22,
+        "spd": 15,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 52,
+        "spa": 40,
+        "spd": 52,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

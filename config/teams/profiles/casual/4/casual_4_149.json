@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_149",
+  "party": [
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Cut",
+        "Protect",
+        "Razor Leaf",
+        "Sunny Day"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 10,
+        "atk": 3,
+        "def": 25,
+        "spa": 23,
+        "spd": 29,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 40,
+        "def": 60,
+        "spa": 112,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Grimer",
+      "moves": [
+        "Memento",
+        "Attract",
+        "Sludge",
+        "Giga Drain"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 28,
+        "atk": 22,
+        "def": 5,
+        "spa": 25,
+        "spd": 28,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 56,
+        "spa": 32,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Cut",
+        "Swords Dance",
+        "Growl",
+        "Ember"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 1,
+        "atk": 30,
+        "def": 1,
+        "spa": 8,
+        "spd": 22,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 56,
+        "spa": 24,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Thief",
+        "Vice Grip",
+        "Water Pulse",
+        "Harden"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 23,
+        "def": 1,
+        "spa": 10,
+        "spd": 9,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 68,
+        "spa": 40,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_117",
+  "party": [
+    {
+      "species": "Electrike",
+      "moves": [
+        "Mist",
+        "Vice Grip",
+        "Iron Defense",
+        "Fly"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 12,
+        "atk": 19,
+        "def": 19,
+        "spa": 0,
+        "spd": 19,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 60,
+        "spa": 68,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Wing Attack",
+        "Aerial Ace",
+        "Aeroblast",
+        "Poison Tail"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 4,
+        "def": 30,
+        "spa": 24,
+        "spd": 28,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 16,
+        "def": 52,
+        "spa": 48,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Sleep Talk",
+        "Spike Cannon",
+        "Safeguard",
+        "Yawn"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 12,
+        "atk": 17,
+        "def": 2,
+        "spa": 27,
+        "spd": 28,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 68,
+        "spa": 28,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

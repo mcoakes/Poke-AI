@@ -1,0 +1,208 @@
+{
+  "name": "mixed_039",
+  "party": [
+    {
+      "species": "Sudowoodo",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Body Slam",
+        "Mega Punch",
+        "Secret Power"
+      ],
+      "nature": "Lonely",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Mareep",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Double Kick",
+        "Conversion",
+        "Knock Off"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Psychic",
+        "Thunderbolt",
+        "Calm Mind",
+        "Will O Wisp"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Nidoran F",
+      "level": 50,
+      "moves": [
+        "Dragon Breath",
+        "Focus Energy",
+        "Double Kick",
+        "Snore"
+      ],
+      "nature": "Hasty",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Giga Drain",
+        "Leech Seed"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Meteor Mash",
+        "Earthquake",
+        "Rock Slide",
+        "Explosion"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "chaos",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "chaos",
+        "common_item": true
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "competitive",
+        "common_item": true
+      }
+    ]
+  }
+}

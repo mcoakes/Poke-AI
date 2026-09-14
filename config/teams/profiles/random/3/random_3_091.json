@@ -1,0 +1,96 @@
+{
+  "name": "random_3_091",
+  "party": [
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Whirlwind",
+        "Meteor Mash",
+        "Stun Spore",
+        "Muddy Water"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 27,
+        "atk": 17,
+        "def": 21,
+        "spa": 10,
+        "spd": 9,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 76,
+        "def": 56,
+        "spa": 56,
+        "spd": 84,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Double Edge",
+        "Octazooka",
+        "Drill Peck",
+        "Flamethrower"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 6,
+        "atk": 24,
+        "def": 6,
+        "spa": 30,
+        "spd": 10,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 0,
+        "spa": 8,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Transform",
+        "Fake Tears",
+        "Dynamic Punch",
+        "Whirlpool"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 0,
+        "atk": 29,
+        "def": 21,
+        "spa": 21,
+        "spd": 31,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

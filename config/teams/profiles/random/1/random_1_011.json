@@ -1,0 +1,40 @@
+{
+  "name": "random_1_011",
+  "party": [
+    {
+      "species": "Fearow",
+      "moves": [
+        "Nightmare",
+        "Rock Slide",
+        "Poison Tail",
+        "Rain Dance"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 8,
+        "spa": 4,
+        "spd": 23,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 76,
+        "spa": 60,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

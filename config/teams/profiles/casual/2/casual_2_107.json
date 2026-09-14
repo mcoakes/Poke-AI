@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_107",
+  "party": [
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Toxic",
+        "Earthquake",
+        "Amnesia",
+        "Powder Snow"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 2,
+        "atk": 24,
+        "def": 27,
+        "spa": 26,
+        "spd": 17,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 44,
+        "spa": 48,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Thief",
+        "Shadow Ball",
+        "Screech",
+        "Imprison"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 13,
+        "atk": 31,
+        "def": 31,
+        "spa": 11,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 48,
+        "spa": 44,
+        "spd": 72,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

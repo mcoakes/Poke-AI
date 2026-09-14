@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_074",
+  "party": [
+    {
+      "species": "Corsola",
+      "moves": [
+        "Refresh",
+        "Water Pulse",
+        "Rock Slide",
+        "Strength"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 15,
+        "atk": 31,
+        "def": 29,
+        "spa": 10,
+        "spd": 17,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 20,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Brick Break",
+        "Mach Punch",
+        "Spore",
+        "Body Slam"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 17,
+        "spa": 31,
+        "spd": 31,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 12,
+        "spa": 12,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

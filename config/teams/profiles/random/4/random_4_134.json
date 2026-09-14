@@ -1,0 +1,124 @@
+{
+  "name": "random_4_134",
+  "party": [
+    {
+      "species": "Magby",
+      "moves": [
+        "Rock Tomb",
+        "Synthesis",
+        "Cross Chop",
+        "Powder Snow"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 31,
+        "atk": 22,
+        "def": 4,
+        "spa": 17,
+        "spd": 20,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Double Edge",
+        "Ice Beam",
+        "Body Slam",
+        "Psybeam"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 14,
+        "def": 9,
+        "spa": 3,
+        "spd": 24,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 44,
+        "spa": 44,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Mega Punch",
+        "Hidden Power",
+        "Encore",
+        "Helping Hand"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 23,
+        "atk": 12,
+        "def": 18,
+        "spa": 8,
+        "spd": 18,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Slack Off",
+        "Superpower",
+        "Mist",
+        "Mach Punch"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 27,
+        "atk": 24,
+        "def": 25,
+        "spa": 28,
+        "spd": 6,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 12,
+        "spa": 16,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

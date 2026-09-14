@@ -1,0 +1,152 @@
+{
+  "name": "random_5_041",
+  "party": [
+    {
+      "species": "Dratini",
+      "moves": [
+        "Eruption",
+        "Reversal",
+        "Focus Punch",
+        "Metal Sound"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 10,
+        "atk": 18,
+        "def": 25,
+        "spa": 24,
+        "spd": 28,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 52,
+        "spa": 68,
+        "spd": 36,
+        "spe": 108
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Follow Me",
+        "Sweet Kiss",
+        "Dynamic Punch",
+        "Outrage"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 2,
+        "def": 9,
+        "spa": 7,
+        "spd": 9,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 60,
+        "spa": 56,
+        "spd": 24,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Focus Punch",
+        "Volt Tackle",
+        "Surf",
+        "Dragon Claw"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 19,
+        "atk": 27,
+        "def": 13,
+        "spa": 18,
+        "spd": 16,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 28,
+        "spa": 28,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Recover",
+        "Heat Wave",
+        "Acid Armor",
+        "Ingrain"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 28,
+        "def": 9,
+        "spa": 31,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 84,
+        "def": 84,
+        "spa": 52,
+        "spd": 60,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Charge",
+        "Sleep Powder",
+        "Light Screen",
+        "Counter"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 29,
+        "spa": 22,
+        "spd": 17,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 28,
+        "spa": 20,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

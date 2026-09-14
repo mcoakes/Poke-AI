@@ -1,0 +1,180 @@
+{
+  "name": "random_6_147",
+  "party": [
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Hi Jump Kick",
+        "Counter",
+        "Frustration",
+        "Rock Blast"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 26,
+        "atk": 25,
+        "def": 24,
+        "spa": 18,
+        "spd": 21,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 4,
+        "spa": 12,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Piloswine",
+      "moves": [
+        "String Shot",
+        "Imprison",
+        "Defense Curl",
+        "Shadow Punch"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 13,
+        "def": 28,
+        "spa": 21,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 8,
+        "spa": 0,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Knock Off",
+        "Thunderbolt",
+        "Present",
+        "Absorb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 29,
+        "spa": 5,
+        "spd": 9,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 28,
+        "spa": 12,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zubat",
+      "moves": [
+        "Blizzard",
+        "Thunder Punch",
+        "Agility",
+        "Endure"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 25,
+        "atk": 2,
+        "def": 0,
+        "spa": 30,
+        "spd": 2,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 68,
+        "spa": 64,
+        "spd": 56,
+        "spe": 72
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Houndour",
+      "moves": [
+        "Soft Boiled",
+        "Powder Snow",
+        "Barrier",
+        "Flatter"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 24,
+        "atk": 25,
+        "def": 20,
+        "spa": 8,
+        "spd": 14,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 20,
+        "spa": 24,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Dragon Rage",
+        "Earthquake",
+        "Astonish",
+        "Howl"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 21,
+        "atk": 6,
+        "def": 23,
+        "spa": 11,
+        "spd": 2,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 64,
+        "def": 80,
+        "spa": 72,
+        "spd": 100,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

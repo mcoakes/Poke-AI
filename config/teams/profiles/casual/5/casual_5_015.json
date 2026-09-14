@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_015",
+  "party": [
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Earthquake",
+        "Attract",
+        "Double Team",
+        "Body Slam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 19,
+        "atk": 1,
+        "def": 10,
+        "spa": 0,
+        "spd": 31,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 24,
+        "spa": 24,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Dragon Breath",
+        "Sunny Day",
+        "Sandstorm",
+        "Dig"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 14,
+        "atk": 26,
+        "def": 16,
+        "spa": 14,
+        "spd": 20,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 4,
+        "spa": 12,
+        "spd": 44,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Waterfall",
+        "Body Slam",
+        "Toxic",
+        "Whirlpool"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 7,
+        "atk": 6,
+        "def": 10,
+        "spa": 29,
+        "spd": 1,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 84,
+        "def": 52,
+        "spa": 56,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Toxic",
+        "Strength",
+        "Sludge Bomb",
+        "Thief"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 17,
+        "atk": 2,
+        "def": 3,
+        "spa": 18,
+        "spd": 11,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Quick Attack",
+        "Air Cutter",
+        "Screech",
+        "Supersonic"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 30,
+        "atk": 20,
+        "def": 29,
+        "spa": 24,
+        "spd": 11,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 40,
+        "spa": 24,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

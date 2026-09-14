@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_011",
+  "party": [
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Earthquake",
+        "Brick Break",
+        "Roar",
+        "Slash"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 9,
+        "atk": 10,
+        "def": 27,
+        "spa": 15,
+        "spd": 9,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 80,
+        "def": 76,
+        "spa": 52,
+        "spd": 80,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Strength",
+        "Rapid Spin",
+        "Psychic",
+        "Flash"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 3,
+        "atk": 10,
+        "def": 30,
+        "spa": 6,
+        "spd": 26,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 60,
+        "def": 44,
+        "spa": 88,
+        "spd": 52,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Thunderbolt",
+        "Water Pulse",
+        "Waterfall",
+        "Mimic"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 1,
+        "atk": 18,
+        "def": 16,
+        "spa": 12,
+        "spd": 1,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 16,
+        "spa": 16,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Thunderbolt",
+        "Harden",
+        "Water Pulse",
+        "Rock Slide"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 1,
+        "atk": 12,
+        "def": 15,
+        "spa": 23,
+        "spd": 1,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 36,
+        "spa": 44,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Shadow Ball",
+        "Rest",
+        "Slam",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 3,
+        "atk": 2,
+        "def": 29,
+        "spa": 11,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 4,
+        "spa": 12,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

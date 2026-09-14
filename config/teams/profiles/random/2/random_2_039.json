@@ -1,0 +1,68 @@
+{
+  "name": "random_2_039",
+  "party": [
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Rapid Spin",
+        "Aerial Ace",
+        "Flash",
+        "Grudge"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 13,
+        "atk": 0,
+        "def": 14,
+        "spa": 12,
+        "spd": 18,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 64,
+        "spa": 48,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Aurora Beam",
+        "Growl",
+        "Toxic",
+        "Faint Attack"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 11,
+        "atk": 10,
+        "def": 20,
+        "spa": 2,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 56,
+        "def": 52,
+        "spa": 76,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

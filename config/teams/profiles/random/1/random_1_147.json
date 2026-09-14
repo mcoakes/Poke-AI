@@ -1,0 +1,40 @@
+{
+  "name": "random_1_147",
+  "party": [
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Acid",
+        "Thunderbolt",
+        "Wing Attack",
+        "Return"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 9,
+        "spa": 23,
+        "spd": 31,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 64,
+        "spa": 40,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_099",
+  "party": [
+    {
+      "species": "Absol",
+      "moves": [
+        "Pursuit",
+        "Mega Drain",
+        "Helping Hand",
+        "Spark"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 1,
+        "atk": 14,
+        "def": 22,
+        "spa": 2,
+        "spd": 25,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 20,
+        "spa": 24,
+        "spd": 32,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Acid",
+        "Crunch",
+        "Shadow Punch",
+        "Bounce"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 25,
+        "atk": 31,
+        "def": 8,
+        "spa": 9,
+        "spd": 5,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 64,
+        "def": 32,
+        "spa": 68,
+        "spd": 76,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Air Cutter",
+        "Twister",
+        "Fire Punch",
+        "Frenzy Plant"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 30,
+        "atk": 16,
+        "def": 7,
+        "spa": 24,
+        "spd": 19,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 88,
+        "def": 92,
+        "spa": 68,
+        "spd": 72,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

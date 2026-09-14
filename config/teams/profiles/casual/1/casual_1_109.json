@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_109",
+  "party": [
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Snore",
+        "Ice Beam",
+        "Defense Curl",
+        "Water Pulse"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 5,
+        "def": 26,
+        "spa": 9,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 12,
+        "spa": 12,
+        "spd": 4,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

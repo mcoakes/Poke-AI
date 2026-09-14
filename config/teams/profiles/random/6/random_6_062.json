@@ -1,0 +1,180 @@
+{
+  "name": "random_6_062",
+  "party": [
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Jump Kick",
+        "Camouflage",
+        "Water Spout",
+        "Seismic Toss"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 29,
+        "atk": 12,
+        "def": 19,
+        "spa": 2,
+        "spd": 6,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 72,
+        "spa": 72,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Glare",
+        "Sweet Scent",
+        "Aeroblast",
+        "Thunder"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 21,
+        "def": 24,
+        "spa": 1,
+        "spd": 1,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 56,
+        "spa": 40,
+        "spd": 76,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swinub",
+      "moves": [
+        "Charge",
+        "Memento",
+        "Rollout",
+        "Grass Whistle"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 11,
+        "atk": 4,
+        "def": 15,
+        "spa": 0,
+        "spd": 1,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 24,
+        "spa": 40,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Dive",
+        "Curse",
+        "Growth",
+        "Attract"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 5,
+        "atk": 16,
+        "def": 2,
+        "spa": 0,
+        "spd": 5,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 76,
+        "spa": 112,
+        "spd": 84,
+        "spe": 96
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Doom Desire",
+        "Sludge Bomb",
+        "Confuse Ray",
+        "Sweet Scent"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 20,
+        "atk": 2,
+        "def": 5,
+        "spa": 0,
+        "spd": 25,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 96,
+        "spa": 72,
+        "spd": 112,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Illumise",
+      "moves": [
+        "Sing",
+        "Dragon Breath",
+        "Meditate",
+        "Triple Kick"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 27,
+        "atk": 21,
+        "def": 15,
+        "spa": 14,
+        "spd": 22,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

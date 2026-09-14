@@ -1,0 +1,124 @@
+{
+  "name": "random_4_038",
+  "party": [
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Ice Beam",
+        "Surf"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 27,
+        "atk": 21,
+        "def": 6,
+        "spa": 27,
+        "spd": 14,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 28,
+        "spa": 24,
+        "spd": 36,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Roselia",
+      "moves": [
+        "Spike Cannon",
+        "Bone Rush",
+        "Mega Punch",
+        "Charge"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 21,
+        "atk": 11,
+        "def": 26,
+        "spa": 26,
+        "spd": 24,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 96,
+        "def": 100,
+        "spa": 88,
+        "spd": 88,
+        "spe": 76
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Totodile",
+      "moves": [
+        "Psywave",
+        "Helping Hand",
+        "Grass Whistle",
+        "Shadow Ball"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 13,
+        "atk": 8,
+        "def": 14,
+        "spa": 14,
+        "spd": 26,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 72,
+        "def": 72,
+        "spa": 48,
+        "spd": 88,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Electabuzz",
+      "moves": [
+        "Mist",
+        "Poison Gas",
+        "Vine Whip",
+        "Night Shade"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 2,
+        "atk": 19,
+        "def": 1,
+        "spa": 29,
+        "spd": 18,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 76,
+        "spa": 36,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

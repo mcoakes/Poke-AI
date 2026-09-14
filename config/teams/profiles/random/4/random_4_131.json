@@ -1,0 +1,124 @@
+{
+  "name": "random_4_131",
+  "party": [
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Dizzy Punch",
+        "Tri Attack",
+        "Bind",
+        "Sleep Talk"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 29,
+        "atk": 25,
+        "def": 6,
+        "spa": 30,
+        "spd": 1,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 8,
+        "spa": 8,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Destiny Bond",
+        "Odor Sleuth",
+        "Sacred Fire",
+        "Transform"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 7,
+        "atk": 4,
+        "def": 13,
+        "spa": 14,
+        "spd": 1,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 8,
+        "spa": 44,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Mimic",
+        "Wish",
+        "Bind",
+        "Cosmic Power"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 30,
+        "atk": 6,
+        "def": 12,
+        "spa": 28,
+        "spd": 26,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 76,
+        "def": 88,
+        "spa": 100,
+        "spd": 76,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Acid Armor",
+        "Dragon Rage",
+        "Triple Kick",
+        "Substitute"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 30,
+        "atk": 0,
+        "def": 24,
+        "spa": 21,
+        "spd": 31,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 56,
+        "def": 40,
+        "spa": 72,
+        "spd": 48,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

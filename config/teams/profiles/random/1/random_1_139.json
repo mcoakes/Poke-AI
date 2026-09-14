@@ -1,0 +1,40 @@
+{
+  "name": "random_1_139",
+  "party": [
+    {
+      "species": "Mawile",
+      "moves": [
+        "Tail Glow",
+        "Sky Uppercut",
+        "Rock Smash",
+        "Thunder Punch"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 24,
+        "def": 15,
+        "spa": 7,
+        "spd": 4,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

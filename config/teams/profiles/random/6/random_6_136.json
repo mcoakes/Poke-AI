@@ -1,0 +1,180 @@
+{
+  "name": "random_6_136",
+  "party": [
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Surf",
+        "Sky Uppercut",
+        "Gust",
+        "Foresight"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 9,
+        "spa": 9,
+        "spd": 4,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 4,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Sky Uppercut",
+        "Sing",
+        "Skull Bash",
+        "Moonlight"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 11,
+        "spa": 13,
+        "spd": 11,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 84,
+        "def": 36,
+        "spa": 40,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Dragon Claw",
+        "Low Kick",
+        "Rollout",
+        "Sweet Scent"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 27,
+        "atk": 5,
+        "def": 7,
+        "spa": 28,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 124,
+        "atk": 72,
+        "def": 60,
+        "spa": 56,
+        "spd": 76,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Water Gun",
+        "Pin Missile",
+        "Agility",
+        "Sludge Bomb"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 17,
+        "atk": 8,
+        "def": 23,
+        "spa": 26,
+        "spd": 4,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 24,
+        "spa": 28,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Blast Burn",
+        "Charge",
+        "Odor Sleuth",
+        "Silver Wind"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 4,
+        "def": 18,
+        "spa": 28,
+        "spd": 23,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 36,
+        "def": 16,
+        "spa": 28,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Flaaffy",
+      "moves": [
+        "Double Kick",
+        "Sludge Bomb",
+        "Blast Burn",
+        "Faint Attack"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 7,
+        "spa": 19,
+        "spd": 13,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 40,
+        "spa": 40,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

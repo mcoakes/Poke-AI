@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_096",
+  "party": [
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Sludge Bomb",
+        "Facade",
+        "Charm",
+        "Bullet Seed"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 4,
+        "atk": 11,
+        "def": 10,
+        "spa": 18,
+        "spd": 14,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 32,
+        "spa": 16,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Metronome",
+        "Torment",
+        "Aerial Ace",
+        "Thrash"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 5,
+        "spa": 24,
+        "spd": 16,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 56,
+        "spa": 76,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Brick Break",
+        "Mimic",
+        "Dig",
+        "Slash"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 5,
+        "atk": 12,
+        "def": 5,
+        "spa": 28,
+        "spd": 25,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 32,
+        "def": 48,
+        "spa": 36,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Sky Uppercut",
+        "Safeguard",
+        "Sludge Bomb",
+        "Growth"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 13,
+        "def": 8,
+        "spa": 5,
+        "spd": 24,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 20,
+        "def": 48,
+        "spa": 40,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Staryu",
+      "moves": [
+        "Psychic",
+        "Water Pulse",
+        "Dive",
+        "Thunder Wave"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 16,
+        "atk": 2,
+        "def": 13,
+        "spa": 15,
+        "spd": 7,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 32,
+        "spa": 52,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

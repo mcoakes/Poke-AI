@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_093",
+  "party": [
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Disable",
+        "Skill Swap",
+        "Signal Beam",
+        "Gust"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 17,
+        "spa": 0,
+        "spd": 26,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 36,
+        "spa": 52,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exploud",
+      "moves": [
+        "Supersonic",
+        "Brick Break",
+        "Smelling Salt",
+        "Shock Wave"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 9,
+        "atk": 17,
+        "def": 17,
+        "spa": 31,
+        "spd": 18,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 24,
+        "spa": 24,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Barrier",
+        "Giga Drain",
+        "Sludge Bomb",
+        "Swords Dance"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 20,
+        "atk": 1,
+        "def": 14,
+        "spa": 2,
+        "spd": 13,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 40,
+        "spa": 48,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

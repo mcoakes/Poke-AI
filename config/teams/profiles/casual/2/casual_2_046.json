@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_046",
+  "party": [
+    {
+      "species": "Huntail",
+      "moves": [
+        "Screech",
+        "Barrier",
+        "Dive",
+        "Ice Beam"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 12,
+        "atk": 2,
+        "def": 27,
+        "spa": 4,
+        "spd": 24,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 88,
+        "def": 36,
+        "spa": 72,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Sludge Bomb",
+        "Flash",
+        "Counter",
+        "Dig"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 11,
+        "atk": 23,
+        "def": 26,
+        "spa": 6,
+        "spd": 19,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 52,
+        "spa": 88,
+        "spd": 84,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_051",
+  "party": [
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Rock Slide",
+        "Secret Power",
+        "Attract",
+        "Water Gun"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 29,
+        "atk": 17,
+        "def": 2,
+        "spa": 14,
+        "spd": 17,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 20,
+        "spa": 36,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

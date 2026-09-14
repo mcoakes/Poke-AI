@@ -1,0 +1,124 @@
+{
+  "name": "random_4_097",
+  "party": [
+    {
+      "species": "Spinda",
+      "moves": [
+        "Yawn",
+        "Mirror Coat",
+        "Spike Cannon",
+        "Rolling Kick"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 31,
+        "atk": 12,
+        "def": 4,
+        "spa": 10,
+        "spd": 2,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 72,
+        "def": 68,
+        "spa": 52,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Entei",
+      "moves": [
+        "Thunder Shock",
+        "Ice Punch",
+        "Conversion",
+        "Poison Powder"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 28,
+        "spa": 5,
+        "spd": 6,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 96,
+        "def": 80,
+        "spa": 80,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Flatter",
+        "Aromatherapy",
+        "Razor Leaf",
+        "Withdraw"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 16,
+        "atk": 27,
+        "def": 22,
+        "spa": 9,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 48,
+        "def": 52,
+        "spa": 60,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Swords Dance",
+        "Flash",
+        "Disable",
+        "Follow Me"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 30,
+        "atk": 26,
+        "def": 9,
+        "spa": 7,
+        "spd": 10,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 72,
+        "def": 36,
+        "spa": 52,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

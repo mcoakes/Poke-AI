@@ -1,0 +1,96 @@
+{
+  "name": "random_3_033",
+  "party": [
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Super Fang",
+        "Rage",
+        "Poison Sting",
+        "Hyper Fang"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 28,
+        "atk": 9,
+        "def": 15,
+        "spa": 28,
+        "spd": 4,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 4,
+        "spa": 4,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Seaking",
+      "moves": [
+        "Rain Dance",
+        "Aurora Beam",
+        "Twineedle",
+        "Mean Look"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 1,
+        "atk": 22,
+        "def": 29,
+        "spa": 14,
+        "spd": 15,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 104,
+        "def": 92,
+        "spa": 88,
+        "spd": 88,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Hyper Fang",
+        "Mirror Move",
+        "Recover",
+        "Teeter Dance"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 15,
+        "atk": 28,
+        "def": 13,
+        "spa": 20,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 16,
+        "def": 32,
+        "spa": 24,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

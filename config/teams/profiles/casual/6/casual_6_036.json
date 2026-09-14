@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_036",
+  "party": [
+    {
+      "species": "Raichu",
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Encore",
+        "Mimic"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 1,
+        "atk": 9,
+        "def": 26,
+        "spa": 20,
+        "spd": 20,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 40,
+        "spa": 32,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Powder Snow",
+        "Pound",
+        "Body Slam",
+        "Sing"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 17,
+        "spa": 10,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 64,
+        "spa": 76,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Mantine",
+      "moves": [
+        "Water Pulse",
+        "Toxic",
+        "Body Slam",
+        "Haze"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 4,
+        "def": 5,
+        "spa": 7,
+        "spd": 8,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 88,
+        "spa": 48,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Growl",
+        "Imprison",
+        "Confusion",
+        "Shadow Ball"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 11,
+        "def": 19,
+        "spa": 23,
+        "spd": 9,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 20,
+        "spa": 16,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Facade",
+        "Light Screen",
+        "Flamethrower",
+        "Snatch"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 19,
+        "def": 19,
+        "spa": 26,
+        "spd": 23,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 56,
+        "spa": 60,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Rock Tomb",
+        "Ember",
+        "Rock Slide",
+        "Yawn"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 0,
+        "atk": 18,
+        "def": 4,
+        "spa": 5,
+        "spd": 0,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 52,
+        "spa": 64,
+        "spd": 52,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

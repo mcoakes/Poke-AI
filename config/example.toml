@@ -1,0 +1,41 @@
+[emulator]
+backend = "mgba_bridge"
+mode = "headless"
+headless_wrapper = ["xvfb-run", "-a"]
+executable = "/absolute/path/to/project/.local/mgba/bin/mgba-qt"
+interactive_executable = "/absolute/path/to/project/.local/mgba/bin/mgba-qt"
+adapter_path = "/absolute/path/to/project/mgba/adapter.lua"
+rom_path = "/absolute/path/to/Pokemon FireRed.gba"
+profile = "firered_us_v1_0"
+rom_sha1 = "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc"
+rom_crc32 = "dd88761c"
+# The CLI launcher uses --states; it does not read this example TOML yet.
+player1_state = "/absolute/path/to/states/counter/fire_vs_water.ss1"
+player2_state = "/absolute/path/to/states/counter/water_vs_fire.ss1"
+host = "127.0.0.1"
+player1_port = 55355
+player2_port = 55356
+frame_skip = 4
+timeout_seconds = 5.0
+
+[teams]
+template_save = "/absolute/path/to/states/templates/firered_link_counter.sav"
+generated_directory = "/absolute/path/to/states/generated"
+specifications = [
+  "/absolute/path/to/project/config/teams/fire_vs_water.json",
+  "/absolute/path/to/project/config/teams/water_vs_fire.json",
+]
+selection = "seeded_random"
+
+[training]
+num_envs = 4
+seed = 42
+max_episode_steps = 5000
+
+[reward]
+damage_dealt = 1.0
+damage_received = -1.0
+knockout = 25.0
+fainted = -25.0
+win = 100.0
+loss = -100.0

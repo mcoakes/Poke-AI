@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_136",
+  "party": [
+    {
+      "species": "Raichu",
+      "moves": [
+        "Strength",
+        "Rain Dance",
+        "Thunder Shock",
+        "Iron Tail"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 15,
+        "def": 27,
+        "spa": 1,
+        "spd": 29,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 32,
+        "spa": 40,
+        "spd": 56,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Thunder Wave",
+        "Secret Power",
+        "Dream Eater",
+        "Protect"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 28,
+        "def": 16,
+        "spa": 0,
+        "spd": 28,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 32,
+        "spa": 40,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

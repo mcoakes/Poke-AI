@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_104",
+  "party": [
+    {
+      "species": "Gengar",
+      "moves": [
+        "Mean Look",
+        "Shadow Punch",
+        "Mega Punch",
+        "Rain Dance"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 1,
+        "atk": 9,
+        "def": 16,
+        "spa": 5,
+        "spd": 20,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 56,
+        "spa": 68,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Dig",
+        "Aerial Ace",
+        "Double Team",
+        "Body Slam"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 1,
+        "atk": 27,
+        "def": 22,
+        "spa": 6,
+        "spd": 6,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 28,
+        "spa": 36,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Protect",
+        "Magical Leaf",
+        "Razor Leaf",
+        "Acid"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 29,
+        "atk": 5,
+        "def": 12,
+        "spa": 17,
+        "spd": 22,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 40,
+        "spa": 76,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

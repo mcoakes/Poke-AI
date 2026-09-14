@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_124",
+  "party": [
+    {
+      "species": "Azurill",
+      "moves": [
+        "Rest",
+        "Ice Beam",
+        "Double Edge",
+        "Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 14,
+        "spa": 9,
+        "spd": 5,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 44,
+        "spa": 28,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Houndour",
+      "moves": [
+        "Body Slam",
+        "Pursuit",
+        "Odor Sleuth",
+        "Sludge Bomb"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 8,
+        "spa": 18,
+        "spd": 26,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 36,
+        "spa": 56,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Steel Wing",
+        "Foresight",
+        "Quick Attack",
+        "Thief"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 22,
+        "spa": 28,
+        "spd": 25,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 36,
+        "spa": 12,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "Dig",
+        "Protect",
+        "Crush Claw",
+        "Cut"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 20,
+        "atk": 13,
+        "def": 11,
+        "spa": 24,
+        "spd": 14,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 44,
+        "spa": 52,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Defense Curl",
+        "Mimic",
+        "Water Gun",
+        "Facade"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 21,
+        "atk": 16,
+        "def": 11,
+        "spa": 25,
+        "spd": 28,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 32,
+        "def": 36,
+        "spa": 40,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Mega Punch",
+        "Substitute",
+        "Rest",
+        "Faint Attack"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 17,
+        "atk": 22,
+        "def": 23,
+        "spa": 2,
+        "spd": 24,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 92,
+        "def": 52,
+        "spa": 60,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

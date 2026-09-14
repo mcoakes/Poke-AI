@@ -1,0 +1,180 @@
+{
+  "name": "random_6_085",
+  "party": [
+    {
+      "species": "Kangaskhan",
+      "moves": [
+        "Brick Break",
+        "Reflect",
+        "Vice Grip",
+        "Hi Jump Kick"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 3,
+        "atk": 25,
+        "def": 7,
+        "spa": 7,
+        "spd": 12,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 8,
+        "spa": 0,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Astonish",
+        "Poison Gas",
+        "Hypnosis",
+        "Pound"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 26,
+        "atk": 22,
+        "def": 19,
+        "spa": 29,
+        "spd": 30,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 36,
+        "def": 28,
+        "spa": 48,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Body Slam",
+        "Blast Burn",
+        "Block",
+        "Swallow"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 12,
+        "def": 17,
+        "spa": 21,
+        "spd": 27,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 76,
+        "def": 92,
+        "spa": 80,
+        "spd": 68,
+        "spe": 92
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Beedrill",
+      "moves": [
+        "Rapid Spin",
+        "Air Cutter",
+        "Vital Throw",
+        "Hi Jump Kick"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 30,
+        "spa": 15,
+        "spd": 16,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 64,
+        "spa": 100,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Muddy Water",
+        "Flail",
+        "Leer",
+        "Mist"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 0,
+        "def": 25,
+        "spa": 19,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 68,
+        "spa": 96,
+        "spd": 56,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Camouflage",
+        "Sand Attack",
+        "Light Screen",
+        "Take Down"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 26,
+        "atk": 11,
+        "def": 19,
+        "spa": 19,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 16,
+        "spa": 36,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Magnet",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_134",
+  "party": [
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Dig",
+        "Hydro Cannon",
+        "Jump Kick",
+        "Reversal"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 19,
+        "atk": 31,
+        "def": 28,
+        "spa": 23,
+        "spd": 2,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 52,
+        "spa": 64,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Iron Tail",
+        "Flamethrower",
+        "Charm",
+        "Beat Up"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 22,
+        "atk": 8,
+        "def": 18,
+        "spa": 22,
+        "spd": 8,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 32,
+        "def": 76,
+        "spa": 60,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Thunder Wave",
+        "Sand Tomb",
+        "Snatch",
+        "Blast Burn"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 0,
+        "atk": 1,
+        "def": 2,
+        "spa": 2,
+        "spd": 8,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 80,
+        "def": 64,
+        "spa": 84,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Imprison",
+        "Facade",
+        "Poison Gas",
+        "Dream Eater"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 30,
+        "atk": 4,
+        "def": 25,
+        "spa": 25,
+        "spd": 2,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 40,
+        "def": 12,
+        "spa": 32,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Twister",
+        "Pay Day",
+        "Smokescreen",
+        "Mimic"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 11,
+        "spa": 14,
+        "spd": 14,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 64,
+        "spa": 72,
+        "spd": 64,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Silver Wind",
+        "Spark",
+        "Crush Claw",
+        "Tickle"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 9,
+        "spa": 16,
+        "spd": 21,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 32,
+        "spa": 44,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

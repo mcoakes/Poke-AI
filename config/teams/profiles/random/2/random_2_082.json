@@ -1,0 +1,68 @@
+{
+  "name": "random_2_082",
+  "party": [
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Metal Claw",
+        "Egg Bomb",
+        "Return",
+        "Mist Ball"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 18,
+        "atk": 8,
+        "def": 30,
+        "spa": 27,
+        "spd": 11,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 72,
+        "def": 72,
+        "spa": 44,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Skill Swap",
+        "Swallow",
+        "Slash",
+        "Vice Grip"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 1,
+        "atk": 8,
+        "def": 18,
+        "spa": 13,
+        "spd": 19,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

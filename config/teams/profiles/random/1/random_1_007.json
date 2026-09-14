@@ -1,0 +1,40 @@
+{
+  "name": "random_1_007",
+  "party": [
+    {
+      "species": "Corsola",
+      "moves": [
+        "Protect",
+        "Solar Beam",
+        "Thunder Shock",
+        "Crush Claw"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 14,
+        "spa": 21,
+        "spd": 5,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 16,
+        "spa": 28,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

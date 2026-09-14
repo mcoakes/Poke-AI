@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_032",
+  "party": [
+    {
+      "species": "Regice",
+      "moves": [
+        "Hail",
+        "Mimic",
+        "Secret Power",
+        "Icy Wind"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 4,
+        "atk": 9,
+        "def": 2,
+        "spa": 13,
+        "spd": 28,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 44,
+        "spa": 36,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Drill Peck",
+        "Facade",
+        "Toxic",
+        "Mimic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 5,
+        "atk": 31,
+        "def": 0,
+        "spa": 11,
+        "spd": 28,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 28,
+        "spa": 12,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

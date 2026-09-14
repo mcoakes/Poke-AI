@@ -1,0 +1,68 @@
+{
+  "name": "random_2_036",
+  "party": [
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Quick Attack",
+        "Ice Beam",
+        "Nightmare",
+        "Light Screen"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 23,
+        "atk": 1,
+        "def": 17,
+        "spa": 16,
+        "spd": 26,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 56,
+        "spa": 80,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Revenge",
+        "Harden",
+        "Mind Reader",
+        "Substitute"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 2,
+        "atk": 17,
+        "def": 2,
+        "spa": 13,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 44,
+        "spa": 56,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

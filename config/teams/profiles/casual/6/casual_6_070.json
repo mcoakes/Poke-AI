@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_070",
+  "party": [
+    {
+      "species": "Seel",
+      "moves": [
+        "Water Pulse",
+        "Ice Beam",
+        "Toxic",
+        "Disable"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 15,
+        "spa": 20,
+        "spd": 14,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 36,
+        "spa": 32,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Splash",
+        "Thief",
+        "Belly Drum",
+        "Dive"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 3,
+        "atk": 13,
+        "def": 13,
+        "spa": 5,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 52,
+        "spa": 60,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Rock Slide",
+        "Rock Smash",
+        "Brick Break",
+        "Protect"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 5,
+        "atk": 29,
+        "def": 29,
+        "spa": 17,
+        "spd": 3,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 48,
+        "spa": 36,
+        "spd": 56,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Thief",
+        "Protect",
+        "Rain Dance",
+        "Water Pulse"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 10,
+        "atk": 28,
+        "def": 20,
+        "spa": 25,
+        "spd": 10,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 36,
+        "spa": 24,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Poison Powder",
+        "Mega Drain",
+        "Aerial Ace",
+        "Amnesia"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 2,
+        "atk": 12,
+        "def": 8,
+        "spa": 23,
+        "spd": 28,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 24,
+        "def": 60,
+        "spa": 76,
+        "spd": 32,
+        "spe": 68
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Facade",
+        "Helping Hand",
+        "Mega Drain",
+        "Sunny Day"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 19,
+        "atk": 25,
+        "def": 15,
+        "spa": 6,
+        "spd": 10,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 52,
+        "spa": 56,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

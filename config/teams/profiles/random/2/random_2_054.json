@@ -1,0 +1,68 @@
+{
+  "name": "random_2_054",
+  "party": [
+    {
+      "species": "Zubat",
+      "moves": [
+        "Ice Punch",
+        "Bite",
+        "Surf",
+        "Constrict"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 15,
+        "atk": 25,
+        "def": 8,
+        "spa": 10,
+        "spd": 21,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 4,
+        "spa": 12,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Baton Pass",
+        "Astonish",
+        "Nature Power",
+        "Reflect"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 9,
+        "atk": 26,
+        "def": 21,
+        "spa": 15,
+        "spd": 3,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 8,
+        "spa": 20,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

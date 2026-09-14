@@ -1,0 +1,96 @@
+{
+  "name": "competitive_3_011",
+  "party": [
+    {
+      "species": "Metagross",
+      "moves": [
+        "Meteor Mash",
+        "Rock Slide",
+        "Explosion",
+        "Earthquake"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Aerial Ace",
+        "Slash"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Earthquake",
+        "Thunderbolt",
+        "Sludge Bomb",
+        "Ice Beam"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 20263940,
+    "archetype": "offense"
+  }
+}

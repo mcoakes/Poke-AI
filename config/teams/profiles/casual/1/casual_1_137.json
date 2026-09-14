@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_137",
+  "party": [
+    {
+      "species": "Metagross",
+      "moves": [
+        "Return",
+        "Meteor Mash",
+        "Aerial Ace",
+        "Double Team"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 0,
+        "def": 2,
+        "spa": 16,
+        "spd": 7,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 56,
+        "spa": 64,
+        "spd": 84,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

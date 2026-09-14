@@ -1,0 +1,68 @@
+{
+  "name": "random_2_087",
+  "party": [
+    {
+      "species": "Dustox",
+      "moves": [
+        "Charge",
+        "Sing",
+        "Beat Up",
+        "Eruption"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 9,
+        "spa": 4,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 76,
+        "def": 104,
+        "spa": 92,
+        "spd": 56,
+        "spe": 100
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Shadow Ball",
+        "Giga Drain",
+        "Baton Pass",
+        "Thunder"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 25,
+        "spa": 4,
+        "spd": 1,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 12,
+        "def": 16,
+        "spa": 36,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

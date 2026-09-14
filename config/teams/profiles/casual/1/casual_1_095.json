@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_095",
+  "party": [
+    {
+      "species": "Swablu",
+      "moves": [
+        "Facade",
+        "Secret Power",
+        "Mirror Move",
+        "Ice Beam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 15,
+        "def": 22,
+        "spa": 11,
+        "spd": 31,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 68,
+        "spa": 20,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

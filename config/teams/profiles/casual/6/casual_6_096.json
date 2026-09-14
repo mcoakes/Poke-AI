@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_096",
+  "party": [
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Roar",
+        "Mimic",
+        "Ember",
+        "Secret Power"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 27,
+        "atk": 16,
+        "def": 4,
+        "spa": 31,
+        "spd": 25,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 52,
+        "spa": 64,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Anorith",
+      "moves": [
+        "Ancient Power",
+        "Secret Power",
+        "Knock Off",
+        "Sandstorm"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 20,
+        "atk": 14,
+        "def": 9,
+        "spa": 15,
+        "spd": 1,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 56,
+        "spa": 32,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Body Slam",
+        "Substitute",
+        "Yawn",
+        "Dive"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 15,
+        "spa": 13,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 48,
+        "spa": 40,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Aerial Ace",
+        "Frustration",
+        "Body Slam",
+        "Rest"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 19,
+        "atk": 4,
+        "def": 8,
+        "spa": 29,
+        "spd": 29,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Frustration",
+        "Mimic",
+        "Dive",
+        "Secret Power"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 23,
+        "atk": 30,
+        "def": 29,
+        "spa": 5,
+        "spd": 22,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 4,
+        "spa": 16,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Spite",
+        "Rain Dance",
+        "Sludge Bomb",
+        "Shadow Ball"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 15,
+        "atk": 23,
+        "def": 5,
+        "spa": 29,
+        "spd": 15,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 60,
+        "def": 60,
+        "spa": 76,
+        "spd": 84,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

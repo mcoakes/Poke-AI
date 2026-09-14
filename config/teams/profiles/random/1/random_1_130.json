@@ -1,0 +1,40 @@
+{
+  "name": "random_1_130",
+  "party": [
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Milk Drink",
+        "Smokescreen",
+        "Safeguard",
+        "Comet Punch"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 27,
+        "atk": 12,
+        "def": 28,
+        "spa": 19,
+        "spd": 5,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 4,
+        "def": 20,
+        "spa": 8,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

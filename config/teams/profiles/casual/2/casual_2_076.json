@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_076",
+  "party": [
+    {
+      "species": "Combusken",
+      "moves": [
+        "Brick Break",
+        "Quick Attack",
+        "Swagger",
+        "Strength"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 14,
+        "spa": 8,
+        "spd": 12,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 48,
+        "spa": 80,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Swift",
+        "Shock Wave",
+        "Protect",
+        "Hidden Power"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 31,
+        "spa": 1,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 48,
+        "def": 44,
+        "spa": 20,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

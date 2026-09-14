@@ -1,0 +1,68 @@
+{
+  "name": "random_2_047",
+  "party": [
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Snatch",
+        "Bounce",
+        "Sonic Boom",
+        "Hail"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 30,
+        "atk": 14,
+        "def": 20,
+        "spa": 27,
+        "spd": 4,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 60,
+        "spa": 28,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Block",
+        "Absorb",
+        "Silver Wind",
+        "Mud Slap"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 15,
+        "def": 31,
+        "spa": 10,
+        "spd": 3,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 16,
+        "spa": 20,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

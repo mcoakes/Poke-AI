@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_138",
+  "party": [
+    {
+      "species": "Cascoon",
+      "moves": [
+        "String Shot",
+        "Tackle",
+        "Poison Sting",
+        "Harden"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 5,
+        "spa": 12,
+        "spd": 23,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 12,
+        "spa": 28,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

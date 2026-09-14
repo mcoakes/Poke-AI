@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_058",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Body Slam",
+        "Future Sight",
+        "Rain Dance",
+        "Toxic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 6,
+        "def": 15,
+        "spa": 15,
+        "spd": 11,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 20,
+        "spa": 12,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

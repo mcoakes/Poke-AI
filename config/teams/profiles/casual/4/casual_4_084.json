@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_084",
+  "party": [
+    {
+      "species": "Meowth",
+      "moves": [
+        "Water Pulse",
+        "Sunny Day",
+        "Slash",
+        "Mimic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 13,
+        "atk": 27,
+        "def": 8,
+        "spa": 17,
+        "spd": 15,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 28,
+        "spa": 24,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Metal Sound",
+        "Cut",
+        "Rock Slide",
+        "Hidden Power"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 17,
+        "def": 20,
+        "spa": 0,
+        "spd": 6,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 72,
+        "spa": 72,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Facade",
+        "Pursuit",
+        "Rock Slide",
+        "Protect"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 21,
+        "atk": 20,
+        "def": 25,
+        "spa": 0,
+        "spd": 15,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 36,
+        "spa": 32,
+        "spd": 20,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Vice Grip",
+        "Revenge",
+        "Facade",
+        "Mimic"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 21,
+        "def": 3,
+        "spa": 14,
+        "spd": 1,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 16,
+        "spa": 16,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

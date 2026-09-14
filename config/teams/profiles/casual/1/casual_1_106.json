@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_106",
+  "party": [
+    {
+      "species": "Barboach",
+      "moves": [
+        "Surf",
+        "Thrash",
+        "Substitute",
+        "Amnesia"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 29,
+        "spa": 22,
+        "spd": 0,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 40,
+        "spa": 28,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

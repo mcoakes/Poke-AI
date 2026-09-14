@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_012",
+  "party": [
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Dig",
+        "Thunderbolt",
+        "Tackle",
+        "Sunny Day"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 9,
+        "spa": 27,
+        "spd": 0,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 44,
+        "def": 40,
+        "spa": 36,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Pineco",
+      "moves": [
+        "Spikes",
+        "Facade",
+        "Rock Slide",
+        "Reflect"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 0,
+        "atk": 25,
+        "def": 31,
+        "spa": 1,
+        "spd": 28,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 68,
+        "spa": 56,
+        "spd": 48,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

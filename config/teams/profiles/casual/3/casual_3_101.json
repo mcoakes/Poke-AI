@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_101",
+  "party": [
+    {
+      "species": "Nincada",
+      "moves": [
+        "Silver Wind",
+        "Sand Attack",
+        "Aerial Ace",
+        "Mimic"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 4,
+        "def": 31,
+        "spa": 29,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 12,
+        "spa": 12,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Snatch",
+        "Crunch",
+        "Poison Fang",
+        "Leer"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 20,
+        "atk": 5,
+        "def": 4,
+        "spa": 16,
+        "spd": 27,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 28,
+        "spa": 8,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Tackle",
+        "Rest",
+        "Waterfall",
+        "Brick Break"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 16,
+        "atk": 29,
+        "def": 19,
+        "spa": 1,
+        "spd": 31,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 32,
+        "spa": 32,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "name": "mixed_038",
+  "party": [
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Giga Drain",
+        "Leech Seed"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Flamethrower",
+        "Dragon Claw",
+        "Brick Break",
+        "Substitute"
+      ],
+      "nature": "Mild",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Double Edge",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Thick Club",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Kadabra",
+      "level": 50,
+      "moves": [
+        "Triple Kick",
+        "Growth",
+        "Tail Glow",
+        "Minimize"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Figy Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Surf",
+        "Earthquake",
+        "Ice Beam",
+        "Protect"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Meteor Mash",
+        "Earthquake",
+        "Rock Slide",
+        "Explosion"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "chaos",
+        "common_item": false
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "competitive",
+        "common_item": true
+      }
+    ]
+  }
+}

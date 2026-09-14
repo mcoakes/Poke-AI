@@ -1,0 +1,208 @@
+{
+  "name": "mixed_034",
+  "party": [
+    {
+      "species": "Cleffa",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Rest",
+        "Amnesia",
+        "Wish"
+      ],
+      "nature": "Naughty",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sludge Bomb",
+        "Aerial Ace",
+        "Shadow Ball",
+        "Steel Wing"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Tentacool",
+      "level": 50,
+      "moves": [
+        "Constrict",
+        "Blizzard",
+        "Sludge Bomb",
+        "Hidden Power"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Vibrava",
+      "level": 50,
+      "moves": [
+        "Leech Life",
+        "Vice Grip",
+        "Clamp",
+        "Mega Kick"
+      ],
+      "nature": "Gentle",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Metal Coat",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Seismic Toss",
+        "Soft Boiled",
+        "Thunder Wave",
+        "Ice Beam"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Lickitung",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Sleep Talk",
+        "Thief",
+        "Solar Beam"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "chaos",
+        "common_item": false
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "learnable_random",
+        "common_item": true
+      }
+    ]
+  }
+}

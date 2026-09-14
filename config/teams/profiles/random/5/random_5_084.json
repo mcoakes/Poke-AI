@@ -1,0 +1,152 @@
+{
+  "name": "random_5_084",
+  "party": [
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Kinesis",
+        "Role Play",
+        "Tail Glow",
+        "Snore"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 11,
+        "def": 15,
+        "spa": 11,
+        "spd": 28,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 100,
+        "def": 60,
+        "spa": 52,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Block",
+        "Thief",
+        "Endure",
+        "Howl"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 23,
+        "atk": 21,
+        "def": 16,
+        "spa": 15,
+        "spd": 30,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Mirror Coat",
+        "Extreme Speed",
+        "Revenge",
+        "Rolling Kick"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 26,
+        "atk": 23,
+        "def": 13,
+        "spa": 16,
+        "spd": 1,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 20,
+        "spa": 16,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tangela",
+      "moves": [
+        "Extreme Speed",
+        "Harden",
+        "Howl",
+        "Sunny Day"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 7,
+        "spa": 7,
+        "spd": 13,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 12,
+        "spa": 12,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Raticate",
+      "moves": [
+        "Recover",
+        "Conversion",
+        "Aeroblast",
+        "Supersonic"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 12,
+        "def": 6,
+        "spa": 19,
+        "spd": 11,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 88,
+        "def": 84,
+        "spa": 80,
+        "spd": 48,
+        "spe": 88
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

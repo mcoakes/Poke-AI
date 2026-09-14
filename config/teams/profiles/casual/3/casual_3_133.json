@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_133",
+  "party": [
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Return",
+        "Shock Wave",
+        "Headbutt",
+        "Mud Sport"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 16,
+        "atk": 26,
+        "def": 23,
+        "spa": 8,
+        "spd": 9,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 24,
+        "spa": 16,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Ember",
+        "Body Slam",
+        "Bulk Up",
+        "Endure"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 18,
+        "atk": 9,
+        "def": 24,
+        "spa": 30,
+        "spd": 12,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 20,
+        "spa": 20,
+        "spd": 28,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Leer",
+        "Secret Power",
+        "Aurora Beam",
+        "Waterfall"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 2,
+        "def": 24,
+        "spa": 21,
+        "spd": 12,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 80,
+        "spa": 64,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

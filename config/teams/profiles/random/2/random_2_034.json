@@ -1,0 +1,68 @@
+{
+  "name": "random_2_034",
+  "party": [
+    {
+      "species": "Ekans",
+      "moves": [
+        "Smelling Salt",
+        "Detect",
+        "Defense Curl",
+        "Eruption"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 18,
+        "atk": 14,
+        "def": 10,
+        "spa": 9,
+        "spd": 19,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 24,
+        "spa": 12,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Jump Kick",
+        "Wrap",
+        "Mud Shot",
+        "Fire Spin"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 29,
+        "atk": 0,
+        "def": 25,
+        "spa": 12,
+        "spd": 10,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 76,
+        "spa": 52,
+        "spd": 60,
+        "spe": 28
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

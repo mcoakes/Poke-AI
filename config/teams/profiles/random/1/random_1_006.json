@@ -1,0 +1,40 @@
+{
+  "name": "random_1_006",
+  "party": [
+    {
+      "species": "Pineco",
+      "moves": [
+        "Metal Claw",
+        "Charm",
+        "Fire Punch",
+        "Pay Day"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 12,
+        "atk": 17,
+        "def": 29,
+        "spa": 2,
+        "spd": 27,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 36,
+        "spa": 28,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

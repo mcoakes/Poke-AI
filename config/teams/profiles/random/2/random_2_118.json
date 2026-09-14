@@ -1,0 +1,68 @@
+{
+  "name": "random_2_118",
+  "party": [
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Brick Break",
+        "Muddy Water",
+        "Growth",
+        "Psych Up"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 8,
+        "def": 29,
+        "spa": 3,
+        "spd": 31,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 52,
+        "spa": 52,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Solar Beam",
+        "Fake Out",
+        "Cotton Spore",
+        "False Swipe"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 14,
+        "atk": 29,
+        "def": 8,
+        "spa": 19,
+        "spd": 30,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 108,
+        "atk": 72,
+        "def": 68,
+        "spa": 64,
+        "spd": 64,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

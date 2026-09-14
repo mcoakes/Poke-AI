@@ -1,0 +1,152 @@
+{
+  "name": "random_5_078",
+  "party": [
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Facade",
+        "Rest",
+        "Will O Wisp",
+        "Light Screen"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 19,
+        "spa": 26,
+        "spd": 30,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 92,
+        "def": 88,
+        "spa": 80,
+        "spd": 88,
+        "spe": 68
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Thunder Wave",
+        "Sludge Bomb",
+        "Surf",
+        "Flamethrower"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 1,
+        "spa": 7,
+        "spd": 22,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 8,
+        "spa": 0,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Sharpen",
+        "Sand Attack",
+        "Amnesia",
+        "Snatch"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 30,
+        "spa": 11,
+        "spd": 28,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 44,
+        "def": 52,
+        "spa": 52,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Feather Dance",
+        "Flamethrower",
+        "Fire Spin",
+        "Bullet Seed"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 7,
+        "atk": 13,
+        "def": 10,
+        "spa": 30,
+        "spd": 24,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 112,
+        "def": 80,
+        "spa": 60,
+        "spd": 68,
+        "spe": 80
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Skill Swap",
+        "Ice Beam",
+        "Sleep Powder",
+        "Sharpen"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 17,
+        "atk": 16,
+        "def": 9,
+        "spa": 2,
+        "spd": 2,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 52,
+        "spa": 40,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

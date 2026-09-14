@@ -1,0 +1,40 @@
+{
+  "name": "random_1_102",
+  "party": [
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Cut",
+        "Tackle",
+        "Swallow",
+        "Flatter"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 11,
+        "spa": 31,
+        "spd": 23,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 72,
+        "spa": 68,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

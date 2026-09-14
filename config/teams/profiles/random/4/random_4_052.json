@@ -1,0 +1,124 @@
+{
+  "name": "random_4_052",
+  "party": [
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Transform",
+        "Bubble",
+        "Nature Power",
+        "Heal Bell"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 30,
+        "def": 7,
+        "spa": 5,
+        "spd": 12,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 44,
+        "spa": 44,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Constrict",
+        "Psycho Boost",
+        "Focus Energy",
+        "Sky Uppercut"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 13,
+        "atk": 26,
+        "def": 8,
+        "spa": 12,
+        "spd": 29,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 28,
+        "spa": 40,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Strength",
+        "Thunder",
+        "Sky Uppercut",
+        "Rage"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 30,
+        "atk": 23,
+        "def": 9,
+        "spa": 13,
+        "spd": 3,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 40,
+        "spa": 68,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Sing",
+        "Focus Energy",
+        "Faint Attack",
+        "Light Screen"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 7,
+        "atk": 24,
+        "def": 19,
+        "spa": 25,
+        "spd": 23,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 56,
+        "spa": 84,
+        "spd": 108,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

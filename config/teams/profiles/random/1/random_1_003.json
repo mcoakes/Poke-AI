@@ -1,0 +1,40 @@
+{
+  "name": "random_1_003",
+  "party": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Spikes",
+        "Volt Tackle",
+        "Outrage",
+        "Acid"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 13,
+        "spa": 2,
+        "spd": 29,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 8,
+        "spa": 8,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_106",
+  "party": [
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Skull Bash",
+        "Blizzard",
+        "Water Pulse",
+        "Substitute"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 22,
+        "atk": 7,
+        "def": 10,
+        "spa": 17,
+        "spd": 23,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 56,
+        "def": 16,
+        "spa": 24,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoqueen",
+      "moves": [
+        "Thunderbolt",
+        "Dig",
+        "Attract",
+        "Ice Beam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 7,
+        "atk": 19,
+        "def": 18,
+        "spa": 4,
+        "spd": 20,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 60,
+        "spa": 56,
+        "spd": 60,
+        "spe": 100
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Water Pulse",
+        "Rest"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 3,
+        "atk": 20,
+        "def": 11,
+        "spa": 18,
+        "spd": 3,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 72,
+        "spa": 48,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

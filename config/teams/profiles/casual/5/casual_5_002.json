@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_002",
+  "party": [
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Secret Power",
+        "Pursuit",
+        "Sunny Day",
+        "Thunderbolt"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 11,
+        "spa": 15,
+        "spd": 16,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 52,
+        "spa": 44,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Water Gun",
+        "Rest",
+        "Mega Punch",
+        "Withdraw"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 14,
+        "atk": 1,
+        "def": 20,
+        "spa": 27,
+        "spd": 29,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 36,
+        "spa": 60,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Attract",
+        "Protect",
+        "Razor Leaf",
+        "Body Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 9,
+        "def": 0,
+        "spa": 23,
+        "spd": 20,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 8,
+        "spa": 52,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mareep",
+      "moves": [
+        "Flash",
+        "Thunder Shock",
+        "Thunderbolt",
+        "Facade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 13,
+        "def": 15,
+        "spa": 31,
+        "spd": 2,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 40,
+        "def": 56,
+        "spa": 52,
+        "spd": 20,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "Facade",
+        "Flash",
+        "Scratch",
+        "Giga Drain"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 31,
+        "def": 13,
+        "spa": 24,
+        "spd": 12,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 24,
+        "spa": 28,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

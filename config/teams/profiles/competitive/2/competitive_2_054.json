@@ -1,0 +1,68 @@
+{
+  "name": "competitive_2_054",
+  "party": [
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Giga Drain",
+        "Leech Seed",
+        "Ice Beam",
+        "Surf"
+      ],
+      "nature": "Calm",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Earthquake",
+        "Protect",
+        "Surf",
+        "Ice Beam"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 20262931,
+    "archetype": "bulky"
+  }
+}

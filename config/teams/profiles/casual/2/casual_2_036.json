@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_036",
+  "party": [
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Wrap",
+        "Giga Drain",
+        "Slam",
+        "Mimic"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 25,
+        "spa": 5,
+        "spd": 4,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 48,
+        "def": 36,
+        "spa": 28,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Splash",
+        "Counter",
+        "Encore",
+        "Mirror Coat"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 10,
+        "atk": 19,
+        "def": 28,
+        "spa": 0,
+        "spd": 28,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 44,
+        "def": 32,
+        "spa": 40,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

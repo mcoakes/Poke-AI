@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_079",
+  "party": [
+    {
+      "species": "Exploud",
+      "moves": [
+        "Protect",
+        "Taunt",
+        "Shock Wave",
+        "Pound"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 9,
+        "def": 13,
+        "spa": 11,
+        "spd": 8,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 40,
+        "spa": 36,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Psychic",
+        "Return",
+        "Flash",
+        "Fake Out"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 8,
+        "spa": 29,
+        "spd": 12,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 40,
+        "spa": 72,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Rest",
+        "Cut",
+        "Follow Me",
+        "Brick Break"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 23,
+        "def": 18,
+        "spa": 5,
+        "spd": 6,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 36,
+        "spa": 44,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

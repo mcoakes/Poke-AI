@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_132",
+  "party": [
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Taunt",
+        "Roar",
+        "Facade",
+        "Faint Attack"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 27,
+        "spa": 22,
+        "spd": 13,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 72,
+        "def": 44,
+        "spa": 64,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Waterfall",
+        "Substitute",
+        "Encore",
+        "Spit Up"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 25,
+        "atk": 16,
+        "def": 29,
+        "spa": 24,
+        "spd": 28,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 52,
+        "spa": 44,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Rest",
+        "Hidden Power",
+        "Body Slam",
+        "Giga Drain"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 18,
+        "atk": 24,
+        "def": 19,
+        "spa": 13,
+        "spd": 30,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 16,
+        "spa": 32,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Facade",
+        "Sunny Day",
+        "Silver Wind",
+        "Quick Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 6,
+        "spa": 10,
+        "spd": 12,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 0,
+        "spa": 16,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Giga Drain",
+        "Cut",
+        "Amnesia",
+        "Leech Seed"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 2,
+        "atk": 2,
+        "def": 16,
+        "spa": 12,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 56,
+        "spa": 64,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Facade",
+        "Light Screen",
+        "Attract",
+        "Surf"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 13,
+        "atk": 31,
+        "def": 13,
+        "spa": 12,
+        "spd": 21,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 56,
+        "spa": 40,
+        "spd": 20,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

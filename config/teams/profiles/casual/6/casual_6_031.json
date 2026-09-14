@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_031",
+  "party": [
+    {
+      "species": "Diglett",
+      "moves": [
+        "Uproar",
+        "Double Team",
+        "Earthquake",
+        "Rest"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 26,
+        "spa": 2,
+        "spd": 8,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 40,
+        "spa": 20,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Ninetales",
+      "moves": [
+        "Spite",
+        "Ember",
+        "Dig",
+        "Roar"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 19,
+        "def": 28,
+        "spa": 2,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 28,
+        "spa": 40,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Double Team",
+        "Rock Tomb",
+        "Secret Power",
+        "Surf"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 26,
+        "atk": 19,
+        "def": 21,
+        "spa": 29,
+        "spd": 19,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 28,
+        "def": 68,
+        "spa": 68,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Facade",
+        "Body Slam",
+        "Double Team",
+        "Water Pulse"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 12,
+        "atk": 31,
+        "def": 28,
+        "spa": 6,
+        "spd": 16,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 20,
+        "spa": 32,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Ancient Power",
+        "Brick Break",
+        "Sunny Day",
+        "Sandstorm"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 5,
+        "spa": 2,
+        "spd": 29,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 36,
+        "spa": 36,
+        "spd": 20,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Defense Curl",
+        "Body Slam",
+        "Substitute",
+        "Earthquake"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 28,
+        "atk": 1,
+        "def": 16,
+        "spa": 28,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 12,
+        "spa": 40,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

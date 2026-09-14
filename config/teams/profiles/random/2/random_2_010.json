@@ -1,0 +1,68 @@
+{
+  "name": "random_2_010",
+  "party": [
+    {
+      "species": "Regice",
+      "moves": [
+        "Revenge",
+        "Beat Up",
+        "Aromatherapy",
+        "Whirlpool"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 30,
+        "atk": 17,
+        "def": 30,
+        "spa": 23,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 92,
+        "def": 52,
+        "spa": 60,
+        "spd": 92,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Bubble",
+        "Fire Spin",
+        "Helping Hand",
+        "Hyper Voice"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 6,
+        "atk": 13,
+        "def": 27,
+        "spa": 19,
+        "spd": 18,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 76,
+        "def": 52,
+        "spa": 60,
+        "spd": 76,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

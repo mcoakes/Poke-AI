@@ -1,0 +1,68 @@
+{
+  "name": "random_2_098",
+  "party": [
+    {
+      "species": "Politoed",
+      "moves": [
+        "Swagger",
+        "Water Sport",
+        "Barrier",
+        "Horn Drill"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 12,
+        "spa": 20,
+        "spd": 23,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 16,
+        "def": 52,
+        "spa": 32,
+        "spd": 56,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Shock Wave",
+        "Swallow",
+        "Pin Missile",
+        "Thunder Shock"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 16,
+        "atk": 15,
+        "def": 11,
+        "spa": 8,
+        "spd": 20,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 16,
+        "spa": 8,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

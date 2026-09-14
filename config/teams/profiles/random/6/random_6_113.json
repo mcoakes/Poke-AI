@@ -1,0 +1,180 @@
+{
+  "name": "random_6_113",
+  "party": [
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Rest",
+        "Frenzy Plant",
+        "Pound",
+        "Leer"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 29,
+        "atk": 12,
+        "def": 25,
+        "spa": 8,
+        "spd": 25,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 40,
+        "spa": 44,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Lock On",
+        "Mean Look",
+        "Zap Cannon",
+        "Bite"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 31,
+        "atk": 5,
+        "def": 24,
+        "spa": 6,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 44,
+        "spa": 44,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Uproar",
+        "Wish",
+        "Extrasensory",
+        "Tail Glow"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 5,
+        "atk": 16,
+        "def": 3,
+        "spa": 20,
+        "spd": 5,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Assist",
+        "Aurora Beam",
+        "Smelling Salt",
+        "Cross Chop"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 29,
+        "atk": 24,
+        "def": 10,
+        "spa": 18,
+        "spd": 15,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 12,
+        "spa": 16,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Defense Curl",
+        "Camouflage",
+        "Giga Drain",
+        "Rest"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 4,
+        "def": 7,
+        "spa": 11,
+        "spd": 7,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 60,
+        "spa": 40,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Grudge",
+        "Ice Beam",
+        "Pound",
+        "Constrict"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 3,
+        "atk": 16,
+        "def": 20,
+        "spa": 1,
+        "spd": 2,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 40,
+        "spa": 32,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

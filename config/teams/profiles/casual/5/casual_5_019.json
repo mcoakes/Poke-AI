@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_019",
+  "party": [
+    {
+      "species": "Charizard",
+      "moves": [
+        "Sunny Day",
+        "Heat Wave",
+        "Dragon Dance",
+        "Fly"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 28,
+        "def": 30,
+        "spa": 19,
+        "spd": 23,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 48,
+        "spa": 20,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Mimic",
+        "Water Pulse",
+        "Facade",
+        "Knock Off"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 1,
+        "atk": 11,
+        "def": 25,
+        "spa": 11,
+        "spd": 6,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 32,
+        "spa": 40,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Substitute",
+        "Secret Power",
+        "Belly Drum",
+        "Dive"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 17,
+        "def": 25,
+        "spa": 30,
+        "spd": 19,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 96,
+        "def": 44,
+        "spa": 64,
+        "spd": 40,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cloyster",
+      "moves": [
+        "Dive",
+        "Barrier",
+        "Facade",
+        "Rest"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 27,
+        "atk": 12,
+        "def": 14,
+        "spa": 10,
+        "spd": 13,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 52,
+        "spa": 68,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Protect",
+        "Body Slam",
+        "Future Sight",
+        "Shock Wave"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 3,
+        "spa": 14,
+        "spd": 2,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 32,
+        "spa": 56,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

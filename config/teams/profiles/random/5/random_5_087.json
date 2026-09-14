@@ -1,0 +1,152 @@
+{
+  "name": "random_5_087",
+  "party": [
+    {
+      "species": "Beldum",
+      "moves": [
+        "Twineedle",
+        "Haze",
+        "Thunder",
+        "Vital Throw"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 14,
+        "spa": 9,
+        "spd": 7,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 60,
+        "spa": 72,
+        "spd": 72,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoqueen",
+      "moves": [
+        "Ingrain",
+        "Destiny Bond",
+        "Sky Attack",
+        "Glare"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 26,
+        "spa": 7,
+        "spd": 5,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Secret Power",
+        "Acid",
+        "Smokescreen",
+        "Rock Tomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 26,
+        "def": 3,
+        "spa": 28,
+        "spd": 3,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 40,
+        "spa": 40,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Toxic",
+        "Sleep Talk",
+        "Rock Tomb",
+        "Covet"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 5,
+        "atk": 14,
+        "def": 3,
+        "spa": 19,
+        "spd": 5,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 4,
+        "spa": 12,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Shadow Punch",
+        "Crabhammer",
+        "Snore",
+        "Absorb"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 19,
+        "spa": 0,
+        "spd": 27,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 44,
+        "spa": 64,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

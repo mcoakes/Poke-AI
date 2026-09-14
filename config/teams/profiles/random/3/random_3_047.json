@@ -1,0 +1,96 @@
+{
+  "name": "random_3_047",
+  "party": [
+    {
+      "species": "Manectric",
+      "moves": [
+        "Metronome",
+        "Destiny Bond",
+        "Ember",
+        "Counter"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 5,
+        "atk": 12,
+        "def": 13,
+        "spa": 6,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 36,
+        "spa": 52,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Psycho Boost",
+        "Mirror Coat",
+        "Mist",
+        "Dynamic Punch"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 5,
+        "def": 9,
+        "spa": 1,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 68,
+        "spa": 52,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Haze",
+        "Body Slam",
+        "Acid",
+        "Hypnosis"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 28,
+        "atk": 5,
+        "def": 14,
+        "spa": 23,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 8,
+        "spa": 8,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_090",
+  "party": [
+    {
+      "species": "Meganium",
+      "moves": [
+        "Iron Tail",
+        "Ingrain",
+        "Poison Powder",
+        "Razor Leaf"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 28,
+        "atk": 1,
+        "def": 2,
+        "spa": 21,
+        "spd": 4,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 28,
+        "def": 12,
+        "spa": 28,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Shock Wave",
+        "Brick Break",
+        "Body Slam",
+        "Defense Curl"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 3,
+        "atk": 7,
+        "def": 6,
+        "spa": 8,
+        "spd": 12,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 68,
+        "def": 52,
+        "spa": 64,
+        "spd": 72,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Shock Wave",
+        "Attract",
+        "Facade",
+        "Shadow Ball"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 7,
+        "atk": 7,
+        "def": 15,
+        "spa": 2,
+        "spd": 20,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 16,
+        "spa": 28,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Rain Dance",
+        "Shadow Ball",
+        "Curse",
+        "Aerial Ace"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 14,
+        "atk": 11,
+        "def": 9,
+        "spa": 23,
+        "spd": 7,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 36,
+        "spa": 16,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Relicanth",
+      "moves": [
+        "Waterfall",
+        "Attract",
+        "Rest",
+        "Secret Power"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 10,
+        "def": 1,
+        "spa": 23,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 76,
+        "def": 68,
+        "spa": 60,
+        "spd": 32,
+        "spe": 68
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Spoink",
+      "moves": [
+        "Shock Wave",
+        "Psybeam",
+        "Magic Coat",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 10,
+        "atk": 0,
+        "def": 0,
+        "spa": 3,
+        "spd": 3,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 32,
+        "spa": 44,
+        "spd": 56,
+        "spe": 112
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

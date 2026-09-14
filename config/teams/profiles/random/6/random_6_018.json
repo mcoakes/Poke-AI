@@ -1,0 +1,180 @@
+{
+  "name": "random_6_018",
+  "party": [
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Smokescreen",
+        "Psywave",
+        "Hyper Beam",
+        "Torment"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 6,
+        "atk": 11,
+        "def": 14,
+        "spa": 28,
+        "spd": 11,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 40,
+        "spa": 52,
+        "spd": 36,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Sonic Boom",
+        "Sharpen",
+        "Swagger",
+        "Acid"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 7,
+        "spa": 3,
+        "spd": 1,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 8,
+        "spa": 20,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Sand Attack",
+        "Flatter",
+        "Mind Reader",
+        "Steel Wing"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 30,
+        "atk": 8,
+        "def": 3,
+        "spa": 6,
+        "spd": 10,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 52,
+        "spa": 64,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Seviper",
+      "moves": [
+        "Needle Arm",
+        "Roar",
+        "Counter",
+        "Harden"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 19,
+        "atk": 29,
+        "def": 4,
+        "spa": 31,
+        "spd": 28,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 32,
+        "spa": 40,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tauros",
+      "moves": [
+        "Egg Bomb",
+        "Dragon Claw",
+        "Spider Web",
+        "Poison Tail"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 17,
+        "atk": 1,
+        "def": 27,
+        "spa": 10,
+        "spd": 3,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 16,
+        "def": 84,
+        "spa": 52,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Rhyhorn",
+      "moves": [
+        "Follow Me",
+        "Supersonic",
+        "Light Screen",
+        "Skull Bash"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 17,
+        "spa": 1,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 64,
+        "spa": 64,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

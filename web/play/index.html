@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Battle Studio · FireRed RL</title>
+  <link rel="icon" href="/sprites/6.png" type="image/png">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="/" aria-label="FireRed Battle Studio home"><span class="ball" aria-hidden="true"></span> FIRERED <span class="brand-light">BATTLE STUDIO</span></a>
+    <span class="local-tag"><span class="dot"></span> LOCAL PLAY</span>
+  </header>
+  <main>
+    <div id="connection-error" class="notice error" role="alert" hidden></div>
+    <section class="intro">
+      <div><p class="eyebrow">YOUR TEAM. YOUR NEXT CHALLENGE.</p><h1>Meet your match.</h1>
+        <p class="subtitle">Choose a saved team, build a party, or let chance choose. Take on your trained agent in FireRed.</p></div>
+      <ol class="stepper" aria-label="Match setup"><li class="current" data-stage="build"><span>1</span> Build</li><li data-stage="prepare"><span>2</span> Prepare</li><li data-stage="play"><span>3</span> Play</li></ol>
+    </section>
+    <div id="loading" class="loading">Loading the Pokédex…</div>
+    <section id="builder" hidden>
+      <div class="setup-bar">
+        <label class="checkpoint-label">AI CHECKPOINT <span class="hint">The opponent’s saved policy</span><select id="checkpoint" aria-label="AI checkpoint"></select></label>
+        <button id="refresh-models" class="quiet" title="Refresh saved checkpoints">↻ Refresh</button>
+        <button id="settings-toggle" class="secondary" aria-expanded="false" aria-controls="settings">Match settings <span aria-hidden="true">⌄</span></button>
+      </div>
+      <div id="settings" class="settings" hidden>
+        <label>Battle speed<input id="speed" value="1" placeholder="1, 2, 4, or unlimited"><small>Use 1× for normal human play.</small></label>
+        <label>Save workers<select id="workers" aria-label="Save workers"></select><small id="capture-hint">Generate both parties in the background.</small></label>
+        <label class="check-label"><input type="checkbox" id="stochastic"><span>Vary AI choices<small>Sample legal actions from the saved policy.</small></span></label>
+      </div>
+      <p id="no-model" class="notice" hidden>No saved policy found. Put a checkpoint ZIP in <code>models/</code>, supply <code>--checkpoint</code>, or choose a folder with <code>--checkpoint-dir</code>.</p>
+      <label class="player-name-field">Your trainer name
+        <input id="player-name" type="text" maxlength="7" placeholder="Keep original name" autocomplete="nickname" aria-describedby="player-name-hint">
+        <small id="player-name-hint">Up to 7 letters, digits, or spaces. Leave blank to keep your original name. The AI keeps its trainer name.</small>
+      </label>
+      <div class="teams" id="teams"></div>
+      <div class="launch-bar">
+        <div><strong id="match-summary">Choose your parties</strong><p>We’ll create both saves, connect the games, and open your battle.</p></div>
+        <button id="review" class="primary">Review matchup <span aria-hidden="true">→</span></button>
+      </div>
+      <p class="footnote">Level 50 by default · Gen III moves and held items · Up to six Pokémon per side</p>
+    </section>
+    <section id="progress" class="progress-panel" aria-live="polite" hidden>
+      <p class="eyebrow" id="progress-eyebrow">MATCH IN PREPARATION</p>
+      <h2 id="progress-title">Your next battle is on its way.</h2>
+      <p id="progress-message"></p>
+      <div id="match-preview" class="match-preview"></div>
+      <ol class="progress-stages"><li id="stage-saves"><span>01</span><div><strong>Prepare saves</strong><small id="save-count">0 of 2 states verified</small></div></li><li id="stage-link"><span>02</span><div><strong>Connect the games</strong><small>Automatic link-cable setup</small></div></li><li id="stage-battle"><span>03</span><div><strong>Your move</strong><small>Play in the Player 1 mGBA window</small></div></li></ol>
+      <p id="job-error" class="notice error" role="alert" hidden></p>
+      <div id="result" class="result" hidden></div>
+      <div class="progress-actions"><button id="cancel-job" class="secondary">Stop match</button><button id="new-match" class="primary" hidden>Build another matchup</button></div>
+      <details class="logs"><summary>Generation and battle details</summary><p id="job-directory" class="hint"></p><h3>Save generation</h3><pre id="generation-log"></pre><h3>Battle</h3><pre id="battle-log"></pre></details>
+    </section>
+  </main>
+  <footer><span>FIRERED RL <span class="footer-dot">/</span> HUMAN VS AI</span><span>Sprites courtesy of PokeAPI · Pokémon © their respective owners</span></footer>
+
+  <dialog id="picker" aria-labelledby="picker-title">
+    <div class="dialog-heading"><div><p class="eyebrow">THE POKÉDEX</p><h2 id="picker-title">Choose your Pokémon.</h2></div><button class="icon-button" data-close="picker" aria-label="Close Pokémon picker">×</button></div>
+    <div class="picker-filters"><label class="search"><span aria-hidden="true">⌕</span><input id="species-search" type="search" placeholder="Search name or Pokédex number" aria-label="Search Pokémon" autocomplete="off"></label><select id="type-filter" aria-label="Filter Pokémon by type"><option value="">All types</option></select></div>
+    <p class="hint" id="species-count"></p><div id="species-grid" class="species-grid"></div>
+  </dialog>
+
+  <dialog id="editor" aria-labelledby="editor-title">
+    <form id="editor-form">
+      <div class="dialog-heading"><div class="editor-identity"><img id="editor-sprite" alt=""><div><p class="eyebrow" id="editor-side">YOUR PARTY</p><h2 id="editor-title"></h2><div id="editor-types" class="type-list"></div></div></div><button type="button" class="icon-button" data-close="editor" aria-label="Close Pokémon editor">×</button></div>
+      <div class="editor-tools"><button id="change-species" type="button" class="quiet">Change Pokémon</button><button id="preset" type="button" class="quiet">Use suggested set</button><button id="make-lead" type="button" class="quiet">Make lead</button></div>
+      <div class="basics"><label>Level<input id="level" type="number" min="1" max="100" value="50" required></label><label>Nature<select id="nature"></select></label><label>Held item<input id="held-item" list="item-list" autocomplete="off" required><datalist id="item-list"></datalist></label></div>
+      <div class="section-heading"><h3>Moves</h3><label class="inline-check"><input id="all-moves" type="checkbox"> Include all Gen III moves</label></div>
+      <div id="moves" class="moves-grid"></div><datalist id="move-list"></datalist>
+      <p class="hint">The default list uses this species’ move pool. All moves enables experimental sets. Leave trailing slots blank for fewer than four moves.</p>
+      <div class="section-heading"><h3>Stats</h3><div><button id="max-ivs" type="button" class="quiet">Max IVs</button><button id="clear-evs" type="button" class="quiet">Clear EVs</button></div></div>
+      <div id="stats" class="stats-grid"></div><p id="ev-total" class="ev-total">EV total: 0 / 510</p>
+      <p id="editor-error" class="notice error" role="alert" hidden></p>
+      <div class="dialog-actions"><button id="remove-mon" type="button" class="danger-text">Remove Pokémon</button><div><button type="button" class="secondary" data-close="editor">Cancel</button><button class="primary" type="submit">Save Pokémon</button></div></div>
+    </form>
+  </dialog>
+
+  <dialog id="confirm" aria-labelledby="confirm-title">
+    <div class="dialog-heading"><div><p class="eyebrow">READY WHEN YOU ARE</p><h2 id="confirm-title">Let’s make it a battle.</h2></div><button class="icon-button" data-close="confirm" aria-label="Close confirmation">×</button></div>
+    <div id="confirm-teams" class="confirm-teams"></div><p id="confirm-checkpoint" class="checkpoint-path"></p>
+    <p id="confirm-workers"></p><p class="hint">The selected teams will be saved exactly as previewed. Wait for “Your move” before using the emulator controls.</p>
+    <p id="confirm-error" class="notice error" role="alert" hidden></p>
+    <div class="dialog-actions"><button class="secondary" data-close="confirm">Keep editing</button><button id="start-job" class="primary">Generate saves &amp; start battle</button></div>
+  </dialog>
+</body>
+</html>

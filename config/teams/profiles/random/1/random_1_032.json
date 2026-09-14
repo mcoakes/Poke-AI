@@ -1,0 +1,40 @@
+{
+  "name": "random_1_032",
+  "party": [
+    {
+      "species": "Aron",
+      "moves": [
+        "Teleport",
+        "Psychic",
+        "Calm Mind",
+        "Confuse Ray"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 11,
+        "def": 29,
+        "spa": 8,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 40,
+        "spa": 44,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

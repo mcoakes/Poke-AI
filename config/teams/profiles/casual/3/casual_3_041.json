@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_041",
+  "party": [
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Headbutt",
+        "Metronome",
+        "Secret Power",
+        "Ice Beam"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 9,
+        "atk": 25,
+        "def": 4,
+        "spa": 2,
+        "spd": 15,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 76,
+        "def": 56,
+        "spa": 72,
+        "spd": 72,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Altaria",
+      "moves": [
+        "Roar",
+        "Rage",
+        "Aerial Ace",
+        "Thief"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 29,
+        "atk": 31,
+        "def": 30,
+        "spa": 4,
+        "spd": 16,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 52,
+        "def": 32,
+        "spa": 24,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Pupitar",
+      "moves": [
+        "Dig",
+        "Earthquake",
+        "Scary Face",
+        "Ancient Power"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 11,
+        "spa": 26,
+        "spd": 23,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 32,
+        "spa": 8,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

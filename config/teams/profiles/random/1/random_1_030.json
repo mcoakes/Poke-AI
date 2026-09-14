@@ -1,0 +1,40 @@
+{
+  "name": "random_1_030",
+  "party": [
+    {
+      "species": "Cubone",
+      "moves": [
+        "Silver Wind",
+        "Tri Attack",
+        "Rock Smash",
+        "Will O Wisp"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 19,
+        "atk": 21,
+        "def": 20,
+        "spa": 11,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 92,
+        "spa": 60,
+        "spd": 80,
+        "spe": 44
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

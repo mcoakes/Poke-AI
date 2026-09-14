@@ -1,0 +1,96 @@
+{
+  "name": "random_3_044",
+  "party": [
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Synthesis",
+        "Psych Up",
+        "Shadow Ball",
+        "Hail"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 30,
+        "atk": 21,
+        "def": 28,
+        "spa": 8,
+        "spd": 15,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 44,
+        "def": 48,
+        "spa": 48,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Numel",
+      "moves": [
+        "Thrash",
+        "Spider Web",
+        "Mind Reader",
+        "Ingrain"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 28,
+        "spa": 18,
+        "spd": 14,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 80,
+        "spa": 92,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Dragon Rage",
+        "Grudge",
+        "Double Edge",
+        "Haze"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 11,
+        "atk": 26,
+        "def": 14,
+        "spa": 6,
+        "spd": 20,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 104,
+        "spa": 72,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

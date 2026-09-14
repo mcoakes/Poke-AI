@@ -1,0 +1,40 @@
+{
+  "name": "random_1_095",
+  "party": [
+    {
+      "species": "Cascoon",
+      "moves": [
+        "Focus Energy",
+        "Cosmic Power",
+        "Agility",
+        "Aromatherapy"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 6,
+        "atk": 31,
+        "def": 26,
+        "spa": 24,
+        "spd": 16,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 120,
+        "spa": 88,
+        "spd": 48,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

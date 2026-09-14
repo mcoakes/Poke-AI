@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_093",
+  "party": [
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Bulk Up",
+        "Revenge",
+        "Rock Tomb",
+        "Dig"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 18,
+        "spa": 15,
+        "spd": 3,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 12,
+        "spa": 28,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Shadow Ball",
+        "Reflect",
+        "Thunder",
+        "Dream Eater"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 21,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 48,
+        "spa": 36,
+        "spd": 8,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

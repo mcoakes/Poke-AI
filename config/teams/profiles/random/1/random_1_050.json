@@ -1,0 +1,40 @@
+{
+  "name": "random_1_050",
+  "party": [
+    {
+      "species": "Entei",
+      "moves": [
+        "Psywave",
+        "Smog",
+        "Hi Jump Kick",
+        "Solar Beam"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 15,
+        "def": 26,
+        "spa": 20,
+        "spd": 17,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 84,
+        "def": 64,
+        "spa": 80,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

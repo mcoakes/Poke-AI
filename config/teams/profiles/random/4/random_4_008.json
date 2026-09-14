@@ -1,0 +1,124 @@
+{
+  "name": "random_4_008",
+  "party": [
+    {
+      "species": "Jynx",
+      "moves": [
+        "Sacred Fire",
+        "Cosmic Power",
+        "Dragon Dance",
+        "Lovely Kiss"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 22,
+        "atk": 13,
+        "def": 6,
+        "spa": 2,
+        "spd": 3,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 16,
+        "spa": 4,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Psycho Boost",
+        "Shadow Ball",
+        "Ember",
+        "Overheat"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 9,
+        "atk": 29,
+        "def": 5,
+        "spa": 23,
+        "spd": 22,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Bite",
+        "Dig",
+        "Whirlpool",
+        "Recover"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 31,
+        "atk": 13,
+        "def": 20,
+        "spa": 18,
+        "spd": 2,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 28,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Egg Bomb",
+        "Rain Dance",
+        "Mach Punch",
+        "Comet Punch"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 10,
+        "atk": 31,
+        "def": 31,
+        "spa": 25,
+        "spd": 15,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 48,
+        "spa": 72,
+        "spd": 100,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

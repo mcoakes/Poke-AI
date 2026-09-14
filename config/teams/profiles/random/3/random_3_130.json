@@ -1,0 +1,96 @@
+{
+  "name": "random_3_130",
+  "party": [
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Spark",
+        "Mud Slap",
+        "Poison Fang",
+        "Stockpile"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 24,
+        "atk": 26,
+        "def": 7,
+        "spa": 20,
+        "spd": 15,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 8,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Shadow Ball",
+        "Fury Swipes",
+        "Body Slam",
+        "Tail Whip"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 4,
+        "def": 10,
+        "spa": 19,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 44,
+        "spa": 40,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Arm Thrust",
+        "Mud Slap",
+        "Pound",
+        "Sand Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 11,
+        "spa": 19,
+        "spd": 21,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 76,
+        "def": 72,
+        "spa": 52,
+        "spd": 44,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

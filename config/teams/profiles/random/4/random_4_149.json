@@ -1,0 +1,124 @@
+{
+  "name": "random_4_149",
+  "party": [
+    {
+      "species": "Ho Oh",
+      "moves": [
+        "Constrict",
+        "Sand Attack",
+        "Spider Web",
+        "Teleport"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 15,
+        "atk": 6,
+        "def": 10,
+        "spa": 20,
+        "spd": 31,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 64,
+        "spa": 52,
+        "spd": 60,
+        "spe": 24
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Petal Dance",
+        "Pain Split",
+        "Jump Kick",
+        "Waterfall"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 30,
+        "def": 11,
+        "spa": 24,
+        "spd": 17,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 48,
+        "spa": 56,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Smelling Salt",
+        "Heat Wave",
+        "Drill Peck",
+        "Rock Slide"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 9,
+        "atk": 27,
+        "def": 23,
+        "spa": 17,
+        "spd": 8,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 24,
+        "def": 60,
+        "spa": 36,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Flareon",
+      "moves": [
+        "Sludge",
+        "Leech Life",
+        "Growl",
+        "Earthquake"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 18,
+        "atk": 26,
+        "def": 18,
+        "spa": 9,
+        "spd": 27,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 76,
+        "spa": 68,
+        "spd": 92,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

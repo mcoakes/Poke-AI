@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_073",
+  "party": [
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Splash",
+        "Encore",
+        "Mirror Coat",
+        "Counter"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 27,
+        "atk": 13,
+        "def": 31,
+        "spa": 24,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 40,
+        "def": 68,
+        "spa": 36,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

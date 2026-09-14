@@ -1,0 +1,96 @@
+{
+  "name": "random_3_046",
+  "party": [
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Mud Sport",
+        "Rock Blast",
+        "Hydro Cannon",
+        "Dream Eater"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 11,
+        "atk": 15,
+        "def": 9,
+        "spa": 19,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Outrage",
+        "Waterfall",
+        "Baton Pass",
+        "Teeter Dance"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 11,
+        "atk": 12,
+        "def": 14,
+        "spa": 7,
+        "spd": 28,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 16,
+        "def": 16,
+        "spa": 32,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Ledyba",
+      "moves": [
+        "Swagger",
+        "Whirlpool",
+        "Icicle Spear",
+        "Reflect"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 10,
+        "atk": 30,
+        "def": 30,
+        "spa": 4,
+        "spd": 17,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 20,
+        "spa": 24,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

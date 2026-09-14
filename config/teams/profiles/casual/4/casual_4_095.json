@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_095",
+  "party": [
+    {
+      "species": "Wingull",
+      "moves": [
+        "Twister",
+        "Double Edge",
+        "Water Pulse",
+        "Supersonic"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 30,
+        "atk": 10,
+        "def": 18,
+        "spa": 15,
+        "spd": 18,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 12,
+        "spa": 28,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Mist",
+        "Mirror Coat",
+        "Strength",
+        "Dive"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 16,
+        "atk": 5,
+        "def": 11,
+        "spa": 8,
+        "spd": 14,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 52,
+        "spa": 56,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Double Edge",
+        "Brick Break",
+        "Attract",
+        "Fake Out"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 12,
+        "def": 28,
+        "spa": 8,
+        "spd": 3,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 28,
+        "spa": 16,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Mega Punch",
+        "Earthquake",
+        "Strength",
+        "Curse"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 6,
+        "def": 11,
+        "spa": 8,
+        "spd": 25,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 76,
+        "spa": 40,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

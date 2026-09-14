@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_111",
+  "party": [
+    {
+      "species": "Ariados",
+      "moves": [
+        "Signal Beam",
+        "Thief",
+        "Sludge Bomb",
+        "Sunny Day"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 28,
+        "atk": 17,
+        "def": 21,
+        "spa": 3,
+        "spd": 3,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 40,
+        "spa": 52,
+        "spd": 76,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Endure",
+        "Water Pulse",
+        "Tackle",
+        "Body Slam"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 7,
+        "def": 6,
+        "spa": 28,
+        "spd": 23,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 24,
+        "spa": 60,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Mirror Move",
+        "Drill Peck",
+        "Leer",
+        "Pursuit"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 25,
+        "def": 15,
+        "spa": 10,
+        "spd": 28,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 56,
+        "spa": 24,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_006",
+  "party": [
+    {
+      "species": "Walrein",
+      "moves": [
+        "Defense Curl",
+        "Swallow",
+        "Secret Power",
+        "Ice Beam"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 27,
+        "atk": 27,
+        "def": 6,
+        "spa": 10,
+        "spd": 19,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 40,
+        "spa": 60,
+        "spd": 80,
+        "spe": 68
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Light Screen",
+        "Mega Punch",
+        "Dream Eater",
+        "Body Slam"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 14,
+        "atk": 24,
+        "def": 24,
+        "spa": 13,
+        "spd": 10,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 52,
+        "def": 64,
+        "spa": 60,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Dive",
+        "Toxic",
+        "Water Sport",
+        "Razor Leaf"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 21,
+        "atk": 10,
+        "def": 19,
+        "spa": 31,
+        "spd": 1,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 60,
+        "spa": 56,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swablu",
+      "moves": [
+        "Rest",
+        "Thief",
+        "Take Down",
+        "Attract"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 23,
+        "def": 21,
+        "spa": 5,
+        "spd": 14,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 76,
+        "spa": 72,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Return",
+        "Rest",
+        "Waterfall",
+        "Thief"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 10,
+        "def": 26,
+        "spa": 21,
+        "spd": 11,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 64,
+        "spa": 36,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_092",
+  "party": [
+    {
+      "species": "Swalot",
+      "moves": [
+        "Hyper Voice",
+        "Blaze Kick",
+        "Reversal",
+        "Grudge"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 28,
+        "atk": 17,
+        "def": 17,
+        "spa": 16,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 8,
+        "spa": 0,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

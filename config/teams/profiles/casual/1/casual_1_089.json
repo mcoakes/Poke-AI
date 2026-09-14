@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_089",
+  "party": [
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Ember",
+        "Dig",
+        "Protect",
+        "Helping Hand"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 24,
+        "atk": 10,
+        "def": 14,
+        "spa": 4,
+        "spd": 21,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 56,
+        "spa": 80,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

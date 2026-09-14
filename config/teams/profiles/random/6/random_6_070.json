@@ -1,0 +1,180 @@
+{
+  "name": "random_6_070",
+  "party": [
+    {
+      "species": "Absol",
+      "moves": [
+        "Blast Burn",
+        "Counter",
+        "Growth",
+        "Confuse Ray"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 9,
+        "atk": 20,
+        "def": 8,
+        "spa": 12,
+        "spd": 14,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 92,
+        "def": 56,
+        "spa": 60,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Sludge Bomb",
+        "Fury Attack",
+        "Counter",
+        "Water Sport"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 2,
+        "atk": 18,
+        "def": 14,
+        "spa": 31,
+        "spd": 10,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 24,
+        "spa": 20,
+        "spd": 28,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gulpin",
+      "moves": [
+        "Leer",
+        "Will O Wisp",
+        "Thunderbolt",
+        "Water Sport"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 6,
+        "atk": 26,
+        "def": 29,
+        "spa": 9,
+        "spd": 16,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Fake Out",
+        "Skill Swap",
+        "Drill Peck",
+        "Peck"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 17,
+        "atk": 7,
+        "def": 30,
+        "spa": 23,
+        "spd": 23,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 24,
+        "spa": 12,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Imprison",
+        "Sand Attack",
+        "Absorb",
+        "Take Down"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 6,
+        "def": 14,
+        "spa": 21,
+        "spd": 24,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 44,
+        "spa": 24,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Constrict",
+        "Aromatherapy",
+        "Cut",
+        "Bone Club"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 15,
+        "atk": 8,
+        "def": 21,
+        "spa": 5,
+        "spd": 5,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 72,
+        "spa": 88,
+        "spd": 84,
+        "spe": 108
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

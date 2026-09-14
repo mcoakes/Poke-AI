@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_111",
+  "party": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Facade",
+        "Minimize",
+        "Water Pulse",
+        "Rock Tomb"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 7,
+        "atk": 19,
+        "def": 22,
+        "spa": 30,
+        "spd": 27,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 20,
+        "spa": 20,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Thief",
+        "Metronome",
+        "Bulk Up",
+        "Cut"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 10,
+        "atk": 6,
+        "def": 30,
+        "spa": 30,
+        "spd": 2,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 52,
+        "spa": 48,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Scary Face",
+        "Flamethrower",
+        "Strength",
+        "Growl"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 15,
+        "def": 6,
+        "spa": 30,
+        "spd": 1,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 76,
+        "spa": 72,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Attract",
+        "Body Slam",
+        "Growl",
+        "Earthquake"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 28,
+        "atk": 18,
+        "def": 21,
+        "spa": 4,
+        "spd": 28,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 92,
+        "spa": 56,
+        "spd": 60,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Hidden Power",
+        "Protect",
+        "Silver Wind",
+        "Facade"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 20,
+        "def": 1,
+        "spa": 3,
+        "spd": 21,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 44,
+        "spa": 44,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

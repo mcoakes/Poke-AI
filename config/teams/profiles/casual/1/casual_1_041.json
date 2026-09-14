@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_041",
+  "party": [
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Protect",
+        "Secret Power",
+        "Confusion",
+        "Shadow Ball"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 4,
+        "atk": 14,
+        "def": 12,
+        "spa": 28,
+        "spd": 27,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 60,
+        "def": 48,
+        "spa": 68,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

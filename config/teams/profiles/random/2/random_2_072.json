@@ -1,0 +1,68 @@
+{
+  "name": "random_2_072",
+  "party": [
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Barrier",
+        "Imprison",
+        "Dive",
+        "Camouflage"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 4,
+        "atk": 26,
+        "def": 22,
+        "spa": 17,
+        "spd": 23,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 84,
+        "def": 56,
+        "spa": 84,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Grass Whistle",
+        "Substitute",
+        "Bone Club",
+        "Perish Song"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 14,
+        "atk": 14,
+        "def": 29,
+        "spa": 24,
+        "spd": 30,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 12,
+        "def": 8,
+        "spa": 8,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_105",
+  "party": [
+    {
+      "species": "Slaking",
+      "moves": [
+        "Torment",
+        "Magical Leaf",
+        "Psycho Boost",
+        "Powder Snow"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 29,
+        "def": 27,
+        "spa": 25,
+        "spd": 31,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 44,
+        "spa": 32,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Rock Tomb",
+        "Hi Jump Kick",
+        "Vice Grip",
+        "Reflect"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 21,
+        "def": 30,
+        "spa": 23,
+        "spd": 30,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 84,
+        "def": 64,
+        "spa": 48,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Night Shade",
+        "Slam",
+        "Gust",
+        "Sharpen"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 14,
+        "def": 17,
+        "spa": 8,
+        "spd": 10,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 68,
+        "def": 60,
+        "spa": 20,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

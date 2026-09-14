@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_108",
+  "party": [
+    {
+      "species": "Deoxys",
+      "moves": [
+        "Torment",
+        "Psychic",
+        "Water Pulse",
+        "Safeguard"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 9,
+        "atk": 7,
+        "def": 30,
+        "spa": 9,
+        "spd": 16,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 44,
+        "spa": 44,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

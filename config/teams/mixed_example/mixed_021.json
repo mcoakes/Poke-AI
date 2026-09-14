@@ -1,0 +1,208 @@
+{
+  "name": "mixed_021",
+  "party": [
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Earthquake",
+        "Sludge Bomb",
+        "Ice Beam",
+        "Thunderbolt"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Earthquake",
+        "Psychic",
+        "Rapid Spin",
+        "Explosion"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sludge Bomb",
+        "Aerial Ace",
+        "Shadow Ball",
+        "Steel Wing"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Taillow",
+      "level": 50,
+      "moves": [
+        "Steel Wing",
+        "Supersonic",
+        "Agility",
+        "Double Team"
+      ],
+      "nature": "Lax",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Hi Jump Kick",
+        "Double Edge",
+        "Rock Slide",
+        "Shadow Ball"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Mudkip",
+      "level": 50,
+      "moves": [
+        "Sonic Boom",
+        "Headbutt",
+        "Lick",
+        "Water Spout"
+      ],
+      "nature": "Bashful",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "chaos",
+        "common_item": true
+      }
+    ]
+  }
+}

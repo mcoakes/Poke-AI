@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_030",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Psybeam",
+        "Double Team",
+        "Aerial Ace",
+        "Facade"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 31,
+        "atk": 1,
+        "def": 31,
+        "spa": 17,
+        "spd": 21,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 28,
+        "spa": 72,
+        "spd": 24,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Waterfall",
+        "Surf",
+        "Facade",
+        "Double Team"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 27,
+        "atk": 19,
+        "def": 3,
+        "spa": 10,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 36,
+        "spa": 60,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Protect",
+        "Shadow Punch",
+        "Sludge Bomb",
+        "Spite"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 7,
+        "def": 30,
+        "spa": 22,
+        "spd": 29,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 24,
+        "spa": 60,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowking",
+      "moves": [
+        "Flash",
+        "Dream Eater",
+        "Dig",
+        "Facade"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 3,
+        "atk": 5,
+        "def": 30,
+        "spa": 26,
+        "spd": 13,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 68,
+        "spa": 56,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

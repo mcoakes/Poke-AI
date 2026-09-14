@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_019",
+  "party": [
+    {
+      "species": "Stantler",
+      "moves": [
+        "Stomp",
+        "Secret Power",
+        "Thunderbolt",
+        "Rest"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 22,
+        "def": 22,
+        "spa": 1,
+        "spd": 12,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 36,
+        "spa": 60,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Growl",
+        "Razor Leaf",
+        "Hyper Beam",
+        "Ancient Power"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 25,
+        "atk": 14,
+        "def": 31,
+        "spa": 1,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 4,
+        "spa": 12,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Octazooka",
+        "Lock On",
+        "Sludge Bomb",
+        "Flamethrower"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 27,
+        "atk": 1,
+        "def": 25,
+        "spa": 21,
+        "spd": 21,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 24,
+        "def": 20,
+        "spa": 16,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Skitty",
+      "moves": [
+        "Sunny Day",
+        "Dream Eater",
+        "Wish",
+        "Facade"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 0,
+        "atk": 26,
+        "def": 3,
+        "spa": 27,
+        "spd": 25,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 52,
+        "def": 56,
+        "spa": 60,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Dream Eater",
+        "Ember",
+        "Will O Wisp",
+        "Crunch"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 12,
+        "atk": 23,
+        "def": 16,
+        "spa": 21,
+        "spd": 11,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 8,
+        "spa": 16,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Air Cutter",
+        "Facade",
+        "Confuse Ray",
+        "Wing Attack"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 12,
+        "atk": 3,
+        "def": 20,
+        "spa": 30,
+        "spd": 23,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 64,
+        "spa": 76,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_017",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Dynamic Punch",
+        "Crabhammer",
+        "Drill Peck",
+        "Bubble Beam"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 29,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 0,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 8,
+        "spa": 8,
+        "spd": 0,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Spore",
+        "Leer",
+        "Nightmare",
+        "Hydro Pump"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 27,
+        "atk": 18,
+        "def": 17,
+        "spa": 9,
+        "spd": 19,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 32,
+        "def": 48,
+        "spa": 60,
+        "spd": 68,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Mega Kick",
+        "Mud Sport",
+        "Peck",
+        "Pay Day"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 3,
+        "atk": 28,
+        "def": 26,
+        "spa": 28,
+        "spd": 19,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 20,
+        "spa": 16,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Razor Wind",
+        "Pin Missile",
+        "Astonish",
+        "Spike Cannon"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 17,
+        "atk": 7,
+        "def": 20,
+        "spa": 9,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 48,
+        "spa": 44,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Bulk Up",
+        "Spark",
+        "Constrict",
+        "Spite"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 21,
+        "def": 8,
+        "spa": 29,
+        "spd": 16,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 52,
+        "spa": 72,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Bubble",
+        "Disable",
+        "Pursuit",
+        "Thunderbolt"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 26,
+        "atk": 12,
+        "def": 7,
+        "spa": 1,
+        "spd": 19,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 84,
+        "spa": 76,
+        "spd": 84,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

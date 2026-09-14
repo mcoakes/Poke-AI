@@ -1,0 +1,180 @@
+{
+  "name": "random_6_053",
+  "party": [
+    {
+      "species": "Articuno",
+      "moves": [
+        "Volt Tackle",
+        "Fly",
+        "Thrash",
+        "Fake Tears"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 12,
+        "atk": 27,
+        "def": 5,
+        "spa": 22,
+        "spd": 17,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 76,
+        "spa": 100,
+        "spd": 116,
+        "spe": 56
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Thunder Shock",
+        "Whirlpool",
+        "Air Cutter",
+        "Mimic"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 4,
+        "spa": 21,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 16,
+        "spa": 28,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Sheer Cold",
+        "Scratch",
+        "Snore",
+        "Leech Seed"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 3,
+        "atk": 21,
+        "def": 10,
+        "spa": 0,
+        "spd": 1,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 40,
+        "spa": 52,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Acid",
+        "Metronome",
+        "Block",
+        "Skull Bash"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 25,
+        "atk": 7,
+        "def": 21,
+        "spa": 7,
+        "spd": 11,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 104,
+        "spa": 72,
+        "spd": 72,
+        "spe": 116
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Feather Dance",
+        "Petal Dance",
+        "Soft Boiled",
+        "Facade"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 5,
+        "spa": 20,
+        "spd": 12,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 48,
+        "spa": 44,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Minimize",
+        "Hyper Fang",
+        "Disable",
+        "Stun Spore"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 0,
+        "atk": 26,
+        "def": 2,
+        "spa": 16,
+        "spd": 30,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 60,
+        "def": 20,
+        "spa": 36,
+        "spd": 52,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

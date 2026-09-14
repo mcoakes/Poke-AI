@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_124",
+  "party": [
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Safeguard",
+        "Rock Slide",
+        "Strength",
+        "Secret Power"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 12,
+        "def": 1,
+        "spa": 13,
+        "spd": 29,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 92,
+        "def": 84,
+        "spa": 44,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Poison Gas",
+        "Shadow Ball",
+        "Substitute",
+        "Sludge Bomb"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 21,
+        "atk": 14,
+        "def": 11,
+        "spa": 7,
+        "spd": 12,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 20,
+        "spa": 28,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Light Screen",
+        "Silver Wind",
+        "Slash",
+        "Frustration"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 25,
+        "atk": 4,
+        "def": 15,
+        "spa": 17,
+        "spd": 24,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 36,
+        "spa": 44,
+        "spd": 68,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Mud Shot",
+        "Toxic",
+        "Leer",
+        "Dive"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 14,
+        "atk": 5,
+        "def": 15,
+        "spa": 18,
+        "spd": 17,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 44,
+        "def": 48,
+        "spa": 68,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Thunder Shock",
+        "Body Slam",
+        "Toxic",
+        "Thunder"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 23,
+        "atk": 9,
+        "def": 30,
+        "spa": 19,
+        "spd": 19,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 48,
+        "spa": 44,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_056",
+  "party": [
+    {
+      "species": "Salamence",
+      "moves": [
+        "Facade",
+        "Iron Tail",
+        "Dragon Claw",
+        "Protect"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 4,
+        "def": 28,
+        "spa": 19,
+        "spd": 22,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 40,
+        "spa": 20,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Attract",
+        "Sandstorm",
+        "Dig",
+        "Rock Tomb"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 17,
+        "atk": 11,
+        "def": 30,
+        "spa": 31,
+        "spd": 21,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 64,
+        "spa": 56,
+        "spd": 44,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Quick Attack",
+        "Wing Attack",
+        "Rain Dance",
+        "Double Team"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 10,
+        "atk": 24,
+        "def": 19,
+        "spa": 11,
+        "spd": 9,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 52,
+        "spa": 84,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Bulk Up",
+        "Focus Energy",
+        "Facade",
+        "Mach Punch"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 19,
+        "def": 19,
+        "spa": 9,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 24,
+        "spa": 32,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Giga Drain",
+        "Rest",
+        "Double Team",
+        "Confusion"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 23,
+        "atk": 10,
+        "def": 23,
+        "spa": 15,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 80,
+        "spa": 36,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

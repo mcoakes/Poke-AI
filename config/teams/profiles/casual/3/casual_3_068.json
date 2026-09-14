@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_068",
+  "party": [
+    {
+      "species": "Mew",
+      "moves": [
+        "Waterfall",
+        "Swords Dance",
+        "Psychic",
+        "Giga Drain"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 26,
+        "def": 18,
+        "spa": 15,
+        "spd": 22,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 20,
+        "spa": 16,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Geodude",
+      "moves": [
+        "Rock Tomb",
+        "Sandstorm",
+        "Block",
+        "Flamethrower"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 6,
+        "def": 18,
+        "spa": 26,
+        "spd": 10,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 32,
+        "spa": 104,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Gust",
+        "Swords Dance",
+        "Cut",
+        "Body Slam"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 11,
+        "atk": 6,
+        "def": 11,
+        "spa": 19,
+        "spd": 16,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 44,
+        "spa": 24,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

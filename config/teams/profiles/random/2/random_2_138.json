@@ -1,0 +1,68 @@
+{
+  "name": "random_2_138",
+  "party": [
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Smokescreen",
+        "Silver Wind",
+        "Dynamic Punch",
+        "Rock Throw"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 18,
+        "def": 22,
+        "spa": 0,
+        "spd": 14,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 44,
+        "spa": 32,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Hyper Fang",
+        "Absorb",
+        "Thunder Shock",
+        "Brick Break"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 27,
+        "spa": 29,
+        "spd": 15,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 8,
+        "spa": 8,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

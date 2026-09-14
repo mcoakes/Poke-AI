@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_139",
+  "party": [
+    {
+      "species": "Lapras",
+      "moves": [
+        "Perish Song",
+        "Shock Wave",
+        "Iron Tail",
+        "Ice Beam"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 9,
+        "atk": 22,
+        "def": 27,
+        "spa": 20,
+        "spd": 28,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 36,
+        "spa": 36,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Flamethrower",
+        "Protect",
+        "Psychic",
+        "Dive"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 9,
+        "atk": 19,
+        "def": 22,
+        "spa": 22,
+        "spd": 25,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 12,
+        "def": 24,
+        "spa": 24,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

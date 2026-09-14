@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_116",
+  "party": [
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Mud Sport",
+        "Substitute",
+        "Rock Tomb",
+        "Waterfall"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 24,
+        "atk": 19,
+        "def": 16,
+        "spa": 11,
+        "spd": 0,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 44,
+        "spa": 64,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Substitute",
+        "Solar Beam",
+        "Dragon Claw",
+        "Strength"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 2,
+        "spa": 6,
+        "spd": 8,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 44,
+        "def": 44,
+        "spa": 48,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Water Pulse",
+        "Sunny Day",
+        "Toxic",
+        "Ancient Power"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 11,
+        "spa": 26,
+        "spd": 27,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 16,
+        "spa": 16,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

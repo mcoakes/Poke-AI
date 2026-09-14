@@ -1,0 +1,180 @@
+{
+  "name": "random_6_123",
+  "party": [
+    {
+      "species": "Cradily",
+      "moves": [
+        "Beat Up",
+        "Grass Whistle",
+        "Bide",
+        "Knock Off"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 21,
+        "def": 9,
+        "spa": 10,
+        "spd": 4,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 64,
+        "spa": 24,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Altaria",
+      "moves": [
+        "Rock Tomb",
+        "Wing Attack",
+        "Agility",
+        "Take Down"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 16,
+        "atk": 25,
+        "def": 20,
+        "spa": 30,
+        "spd": 21,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 68,
+        "spa": 36,
+        "spd": 48,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Sky Uppercut",
+        "Bind",
+        "Feather Dance",
+        "Synthesis"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 4,
+        "spa": 6,
+        "spd": 7,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 88,
+        "spa": 100,
+        "spd": 88,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Howl",
+        "Dynamic Punch",
+        "Calm Mind",
+        "Vital Throw"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 24,
+        "def": 10,
+        "spa": 23,
+        "spd": 5,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 8,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Follow Me",
+        "Cut",
+        "Mind Reader",
+        "Encore"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 19,
+        "atk": 2,
+        "def": 12,
+        "spa": 26,
+        "spd": 19,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 84,
+        "def": 108,
+        "spa": 72,
+        "spd": 68,
+        "spe": 104
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Drill Peck",
+        "Fire Punch",
+        "Needle Arm",
+        "Spider Web"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 30,
+        "spa": 22,
+        "spd": 16,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 24,
+        "def": 52,
+        "spa": 60,
+        "spd": 76,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

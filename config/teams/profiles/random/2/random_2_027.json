@@ -1,0 +1,68 @@
+{
+  "name": "random_2_027",
+  "party": [
+    {
+      "species": "Lombre",
+      "moves": [
+        "Recover",
+        "Flamethrower",
+        "Barrage",
+        "Thrash"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 0,
+        "atk": 14,
+        "def": 2,
+        "spa": 17,
+        "spd": 20,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 56,
+        "def": 72,
+        "spa": 76,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Bone Rush",
+        "Leech Seed",
+        "Mud Shot",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 7,
+        "atk": 11,
+        "def": 12,
+        "spa": 18,
+        "spd": 5,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 64,
+        "def": 84,
+        "spa": 68,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_055",
+  "party": [
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Protect",
+        "Secret Power",
+        "Mist",
+        "Dive"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 13,
+        "def": 1,
+        "spa": 28,
+        "spd": 24,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 16,
+        "spa": 20,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Tackle",
+        "String Shot",
+        "Harden",
+        "Poison Sting"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 19,
+        "def": 15,
+        "spa": 10,
+        "spd": 14,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 56,
+        "spa": 60,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Attract",
+        "Amnesia",
+        "Confusion",
+        "Sludge Bomb"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 29,
+        "atk": 30,
+        "def": 3,
+        "spa": 10,
+        "spd": 5,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 52,
+        "def": 72,
+        "spa": 44,
+        "spd": 56,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Cut",
+        "Sand Attack",
+        "Dig",
+        "Endure"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 14,
+        "atk": 22,
+        "def": 7,
+        "spa": 22,
+        "spd": 10,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 52,
+        "spa": 56,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Pound",
+        "Double Team",
+        "Ice Punch",
+        "Reflect"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 23,
+        "spa": 1,
+        "spd": 9,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 32,
+        "spa": 12,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Muk",
+      "moves": [
+        "Shadow Punch",
+        "Return",
+        "Protect",
+        "Sludge Bomb"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 14,
+        "spa": 23,
+        "spd": 25,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 44,
+        "spa": 48,
+        "spd": 60,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

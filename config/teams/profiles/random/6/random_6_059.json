@@ -1,0 +1,180 @@
+{
+  "name": "random_6_059",
+  "party": [
+    {
+      "species": "Paras",
+      "moves": [
+        "Spark",
+        "Thunder",
+        "Flamethrower",
+        "Lock On"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 1,
+        "atk": 2,
+        "def": 17,
+        "spa": 24,
+        "spd": 2,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Counter",
+        "Roar",
+        "Petal Dance",
+        "Bullet Seed"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 13,
+        "atk": 0,
+        "def": 29,
+        "spa": 17,
+        "spd": 27,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 12,
+        "spa": 8,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Snatch",
+        "Rest",
+        "Self Destruct",
+        "Dig"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 24,
+        "atk": 11,
+        "def": 4,
+        "spa": 5,
+        "spd": 2,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 16,
+        "spa": 32,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Powder Snow",
+        "Ice Beam",
+        "Moonlight",
+        "Rock Slide"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 29,
+        "atk": 29,
+        "def": 1,
+        "spa": 8,
+        "spd": 10,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 80,
+        "def": 80,
+        "spa": 92,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Revenge",
+        "Hypnosis",
+        "Mimic",
+        "Skill Swap"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 9,
+        "atk": 8,
+        "def": 19,
+        "spa": 16,
+        "spd": 4,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Sleep Powder",
+        "Encore",
+        "Endure",
+        "Double Kick"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 23,
+        "spa": 9,
+        "spd": 9,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 12,
+        "spa": 4,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

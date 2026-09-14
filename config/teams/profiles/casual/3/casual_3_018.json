@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_018",
+  "party": [
+    {
+      "species": "Heracross",
+      "moves": [
+        "Brick Break",
+        "Seismic Toss",
+        "Rest",
+        "Facade"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 14,
+        "atk": 8,
+        "def": 21,
+        "spa": 20,
+        "spd": 28,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 20,
+        "spa": 32,
+        "spd": 8,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Silver Wind",
+        "Mega Punch",
+        "Substitute",
+        "Swords Dance"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 26,
+        "atk": 23,
+        "def": 31,
+        "spa": 15,
+        "spd": 31,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 84,
+        "def": 56,
+        "spa": 48,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Twister",
+        "Sunny Day",
+        "Iron Tail",
+        "Haze"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 18,
+        "atk": 7,
+        "def": 21,
+        "spa": 15,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 36,
+        "spa": 40,
+        "spd": 32,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

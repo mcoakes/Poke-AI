@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_055",
+  "party": [
+    {
+      "species": "Loudred",
+      "moves": [
+        "Rest",
+        "Shock Wave",
+        "Mega Punch",
+        "Frustration"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 16,
+        "atk": 21,
+        "def": 5,
+        "spa": 14,
+        "spd": 20,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 60,
+        "spa": 68,
+        "spd": 88,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Espeon",
+      "moves": [
+        "Cut",
+        "Toxic",
+        "Psychic",
+        "Psybeam"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 18,
+        "def": 30,
+        "spa": 27,
+        "spd": 19,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 12,
+        "spa": 16,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

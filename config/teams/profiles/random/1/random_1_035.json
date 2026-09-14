@@ -1,0 +1,40 @@
+{
+  "name": "random_1_035",
+  "party": [
+    {
+      "species": "Primeape",
+      "moves": [
+        "Charm",
+        "Pin Missile",
+        "Frustration",
+        "Horn Drill"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 2,
+        "spa": 29,
+        "spd": 14,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 92,
+        "spa": 68,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

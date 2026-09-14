@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_075",
+  "party": [
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Protect",
+        "Body Slam",
+        "Iron Tail",
+        "Mimic"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 17,
+        "spa": 28,
+        "spd": 29,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 32,
+        "spa": 40,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Dig",
+        "Secret Power",
+        "Double Team",
+        "Double Edge"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 12,
+        "spa": 6,
+        "spd": 5,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 28,
+        "def": 52,
+        "spa": 52,
+        "spd": 44,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Attract",
+        "Sweet Scent",
+        "Cut",
+        "Giga Drain"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 28,
+        "atk": 17,
+        "def": 2,
+        "spa": 29,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 40,
+        "spa": 52,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Ingrain",
+        "Petal Dance",
+        "Acid",
+        "Double Team"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 2,
+        "atk": 26,
+        "def": 8,
+        "spa": 0,
+        "spd": 18,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 20,
+        "spa": 12,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Banette",
+      "moves": [
+        "Shadow Ball",
+        "Skill Swap",
+        "Will O Wisp",
+        "Thunderbolt"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 7,
+        "atk": 16,
+        "def": 29,
+        "spa": 24,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

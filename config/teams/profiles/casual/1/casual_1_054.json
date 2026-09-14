@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_054",
+  "party": [
+    {
+      "species": "Golbat",
+      "moves": [
+        "Attract",
+        "Air Cutter",
+        "Faint Attack",
+        "Pursuit"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 18,
+        "spa": 31,
+        "spd": 25,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 24,
+        "spa": 52,
+        "spd": 64,
+        "spe": 44
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

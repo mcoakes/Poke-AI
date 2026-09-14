@@ -1,0 +1,208 @@
+{
+  "name": "mixed_033",
+  "party": [
+    {
+      "species": "Slaking",
+      "level": 50,
+      "moves": [
+        "Thunder",
+        "Secret Power",
+        "Mimic",
+        "Taunt"
+      ],
+      "nature": "Naughty",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Scope Lens",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Poliwhirl",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Ice Ball",
+        "Secret Power",
+        "Rock Smash"
+      ],
+      "nature": "Serious",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Psychic",
+        "Giga Drain",
+        "Sleep Powder",
+        "Explosion"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Lickitung",
+      "level": 50,
+      "moves": [
+        "Focus Punch",
+        "Sleep Talk",
+        "Facade",
+        "Rock Tomb"
+      ],
+      "nature": "Serious",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Mystic Water",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Beautifly",
+      "level": 50,
+      "moves": [
+        "Poison Sting",
+        "Thief",
+        "Solar Beam",
+        "Gust"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Cheri Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Sludge Bomb",
+        "Flamethrower",
+        "Will O Wisp",
+        "Haze"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "learnable_random",
+        "common_item": false
+      },
+      {
+        "slot": 2,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "learnable_random",
+        "common_item": false
+      },
+      {
+        "slot": 5,
+        "style": "learnable_random",
+        "common_item": false
+      },
+      {
+        "slot": 6,
+        "style": "competitive",
+        "common_item": true
+      }
+    ]
+  }
+}

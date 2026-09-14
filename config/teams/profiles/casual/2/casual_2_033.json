@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_033",
+  "party": [
+    {
+      "species": "Castform",
+      "moves": [
+        "Facade",
+        "Frustration",
+        "Protect",
+        "Water Pulse"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 5,
+        "spa": 18,
+        "spd": 20,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 12,
+        "spa": 12,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Snubbull",
+      "moves": [
+        "Present",
+        "Attract",
+        "Body Slam",
+        "Shock Wave"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 9,
+        "atk": 26,
+        "def": 19,
+        "spa": 12,
+        "spd": 31,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 44,
+        "spa": 20,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

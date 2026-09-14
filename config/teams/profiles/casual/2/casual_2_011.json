@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_011",
+  "party": [
+    {
+      "species": "Cubone",
+      "moves": [
+        "Sandstorm",
+        "Headbutt",
+        "Strength",
+        "Dig"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 27,
+        "def": 15,
+        "spa": 4,
+        "spd": 5,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 32,
+        "spa": 28,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Aerial Ace",
+        "Mega Drain",
+        "Giga Drain",
+        "Rest"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 27,
+        "atk": 4,
+        "def": 8,
+        "spa": 1,
+        "spd": 5,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 32,
+        "spa": 24,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

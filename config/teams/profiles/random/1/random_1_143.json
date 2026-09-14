@@ -1,0 +1,40 @@
+{
+  "name": "random_1_143",
+  "party": [
+    {
+      "species": "Azurill",
+      "moves": [
+        "Mirror Move",
+        "Drill Peck",
+        "Will O Wisp",
+        "Swords Dance"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 18,
+        "atk": 9,
+        "def": 19,
+        "spa": 30,
+        "spd": 21,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 16,
+        "spa": 16,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

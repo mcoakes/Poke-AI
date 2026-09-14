@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_127",
+  "party": [
+    {
+      "species": "Heracross",
+      "moves": [
+        "Return",
+        "Brick Break",
+        "Take Down",
+        "Bulk Up"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 12,
+        "atk": 27,
+        "def": 28,
+        "spa": 22,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 28,
+        "spa": 20,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Harden",
+        "Dig",
+        "Sunny Day",
+        "Sludge Bomb"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 18,
+        "spa": 11,
+        "spd": 12,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 52,
+        "def": 36,
+        "spa": 24,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

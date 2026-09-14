@@ -1,0 +1,7779 @@
+{
+  "description": "Fallback GUI suggestions; curated competitive_gen3.json takes priority.",
+  "sets": [
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Sludge Bomb",
+        "Petal Dance",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Sludge Bomb",
+        "Petal Dance",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Swords Dance",
+        "Dragon Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Swords Dance",
+        "Dragon Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Tackle",
+        "String Shot",
+        "Protect",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Metapod",
+      "moves": [
+        "Tackle",
+        "Harden",
+        "String Shot",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Sleep Powder",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Weedle",
+      "moves": [
+        "Poison Sting",
+        "String Shot",
+        "Protect",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Poison Sting",
+        "Harden",
+        "String Shot",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Beedrill",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Raticate",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Spearow",
+      "moves": [
+        "Double Edge",
+        "Drill Peck",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Double Edge",
+        "Drill Peck",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ekans",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Arbok",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Sludge Bomb",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Sludge Bomb",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nidoqueen",
+      "moves": [
+        "Earthquake",
+        "Sludge Bomb",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Sludge Bomb",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Sludge Bomb",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Soft Boiled",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Will O Wisp",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Jigglypuff",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Zubat",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Sludge Bomb",
+        "Petal Dance",
+        "Synthesis",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Sludge Bomb",
+        "Petal Dance",
+        "Synthesis",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Sludge Bomb",
+        "Petal Dance",
+        "Synthesis",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Paras",
+      "moves": [
+        "Double Edge",
+        "Giga Drain",
+        "Spore",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "Double Edge",
+        "Giga Drain",
+        "Spore",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Venonat",
+      "moves": [
+        "Sludge Bomb",
+        "Signal Beam",
+        "Sleep Powder",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Sludge Bomb",
+        "Signal Beam",
+        "Sleep Powder",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Meowth",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Cross Chop",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Primeape",
+      "moves": [
+        "Cross Chop",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Hydro Pump",
+        "Submission",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Abra",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Machop",
+      "moves": [
+        "Cross Chop",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Cross Chop",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Victreebel",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Hydro Pump",
+        "Sludge Bomb",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Hydro Pump",
+        "Sludge Bomb",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Geodude",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Surf",
+        "Psychic",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Double Edge",
+        "Drill Peck",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Seel",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Blizzard",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Grimer",
+      "moves": [
+        "Sludge Bomb",
+        "Fire Blast",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shellder",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Sludge Bomb",
+        "Shadow Ball",
+        "Will O Wisp",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Sludge Bomb",
+        "Shadow Ball",
+        "Will O Wisp",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Onix",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hypno",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Thunder",
+        "Facade",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Electrode",
+      "moves": [
+        "Thunder",
+        "Facade",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Synthesis",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cubone",
+      "moves": [
+        "Earthquake",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Hi Jump Kick",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Hi Jump Kick",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Sludge Bomb",
+        "Fire Blast",
+        "Will O Wisp",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Rhyhorn",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Chansey",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Tangela",
+      "moves": [
+        "Double Edge",
+        "Giga Drain",
+        "Sleep Powder",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Horsea",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Seaking",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Staryu",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Blizzard",
+        "Psychic",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Electabuzz",
+      "moves": [
+        "Thunder",
+        "Cross Chop",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Magmar",
+      "moves": [
+        "Fire Blast",
+        "Cross Chop",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Tackle",
+        "Flail",
+        "Splash",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Ditto",
+      "moves": [
+        "Transform",
+        "Protect",
+        "Toxic",
+        "Rest"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Flareon",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Porygon",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Hydro Pump",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Hydro Pump",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kabuto",
+      "moves": [
+        "Surf",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Surf",
+        "Rock Slide",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Articuno",
+      "moves": [
+        "Blizzard",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Thunder",
+        "Drill Peck",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Moltres",
+      "moves": [
+        "Fire Blast",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Outrage",
+        "Blizzard",
+        "Thunder Wave",
+        "Dragon Dance"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Outrage",
+        "Blizzard",
+        "Thunder Wave",
+        "Dragon Dance"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mewtwo",
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mew",
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Totodile",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ledyba",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Sludge Bomb",
+        "Signal Beam",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ariados",
+      "moves": [
+        "Sludge Bomb",
+        "Signal Beam",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Hydro Pump",
+        "Thunder",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Hydro Pump",
+        "Thunder",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cleffa",
+      "moves": [
+        "Double Edge",
+        "Fire Blast",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Double Edge",
+        "Fire Blast",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Double Edge",
+        "Fire Blast",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Togetic",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Natu",
+      "moves": [
+        "Psychic",
+        "Drill Peck",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Xatu",
+      "moves": [
+        "Psychic",
+        "Drill Peck",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mareep",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Flaaffy",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Petal Dance",
+        "Double Edge",
+        "Synthesis",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Synthesis",
+        "Sleep Powder"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Double Edge",
+        "Giga Drain",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Petal Dance",
+        "Double Edge",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Yanma",
+      "moves": [
+        "Signal Beam",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Earthquake",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Earthquake",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Espeon",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Morning Sun",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Moonlight",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Drill Peck",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Slowking",
+      "moves": [
+        "Surf",
+        "Psychic",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Unown",
+      "moves": [
+        "Hidden Power",
+        "Protect",
+        "Toxic",
+        "Rest"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Mirror Coat",
+        "Counter",
+        "Charm",
+        "Destiny Bond"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Double Edge",
+        "Psychic",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pineco",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Earthquake",
+        "Iron Tail",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Snubbull",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Thunder Wave",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Granbull",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Thunder Wave",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Hydro Pump",
+        "Sludge Bomb",
+        "Thunder Wave",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Blizzard",
+        "Double Edge",
+        "Calm Mind",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Swords Dance",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Swords Dance",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Slugma",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Fire Blast",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Swinub",
+      "moves": [
+        "Blizzard",
+        "Earthquake",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Blizzard",
+        "Earthquake",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Surf",
+        "Rock Slide",
+        "Recover",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Blizzard",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mantine",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Houndour",
+      "moves": [
+        "Fire Blast",
+        "Crunch",
+        "Will O Wisp",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Fire Blast",
+        "Crunch",
+        "Will O Wisp",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Double Edge",
+        "Aeroblast",
+        "Recover",
+        "Soft Boiled"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Hi Jump Kick",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hitmontop",
+      "moves": [
+        "Hi Jump Kick",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Blizzard",
+        "Psychic",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Elekid",
+      "moves": [
+        "Thunder",
+        "Cross Chop",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Magby",
+      "moves": [
+        "Fire Blast",
+        "Cross Chop",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Miltank",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Milk Drink",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Entei",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pupitar",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Aeroblast",
+        "Psychic",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ho Oh",
+      "moves": [
+        "Fire Blast",
+        "Fly",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Recover",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Double Edge",
+        "Iron Tail",
+        "Leech Seed",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Leaf Blade",
+        "Double Edge",
+        "Leech Seed",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Fire Blast",
+        "Sky Uppercut",
+        "Swords Dance",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Earthquake",
+        "Hydro Pump",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Crunch",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Crunch",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Linoone",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wurmple",
+      "moves": [
+        "Tackle",
+        "Poison Sting",
+        "String Shot",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Tackle",
+        "Poison Sting",
+        "Harden",
+        "String Shot"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Morning Sun",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cascoon",
+      "moves": [
+        "Tackle",
+        "Poison Sting",
+        "Harden",
+        "String Shot"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Moonlight",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Double Edge",
+        "Giga Drain",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Double Edge",
+        "Faint Attack",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Double Edge",
+        "Faint Attack",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Swellow",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Fly",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Pelipper",
+      "moves": [
+        "Hydro Pump",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ralts",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Will O Wisp"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Will O Wisp"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Blizzard",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Double Edge",
+        "Giga Drain",
+        "Spore",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Dynamic Punch",
+        "Double Edge",
+        "Spore",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Slakoth",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Slack Off",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Slack Off",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Slack Off",
+        "Bulk Up"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Double Edge",
+        "Dig",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Ninjask",
+      "moves": [
+        "Double Edge",
+        "Aerial Ace",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Loudred",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Exploud",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Cross Chop",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Cross Chop",
+        "Double Edge",
+        "Bulk Up",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Skitty",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Delcatty",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Recover",
+        "Moonlight"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Double Edge",
+        "Fire Blast",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Iron Tail",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Iron Tail",
+        "Rock Slide",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Iron Tail",
+        "Rock Slide",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Meditite",
+      "moves": [
+        "Dynamic Punch",
+        "Psychic",
+        "Recover",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Thunder",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Signal Beam",
+        "Double Edge",
+        "Moonlight",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Illumise",
+      "moves": [
+        "Double Edge",
+        "Thunder",
+        "Moonlight",
+        "Thunder Wave"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Roselia",
+      "moves": [
+        "Sludge Bomb",
+        "Petal Dance",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Gulpin",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Swalot",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Hydro Pump",
+        "Crunch",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Hydro Pump",
+        "Crunch",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Numel",
+      "moves": [
+        "Earthquake",
+        "Fire Blast",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Earthquake",
+        "Eruption",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Eruption",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Spoink",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Spinda",
+      "moves": [
+        "Double Edge",
+        "Psychic",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Double Edge",
+        "Dynamic Punch",
+        "Leech Seed",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Double Edge",
+        "Dynamic Punch",
+        "Leech Seed",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Swablu",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Altaria",
+      "moves": [
+        "Dragon Claw",
+        "Fly",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Seviper",
+      "moves": [
+        "Sludge Bomb",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Psychic",
+        "Rock Slide",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Solrock",
+      "moves": [
+        "Psychic",
+        "Rock Slide",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Earthquake",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Earthquake",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Corphish",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Surf",
+        "Crunch",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Earthquake",
+        "Psychic",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Lileep",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Recover",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Cradily",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Recover",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Anorith",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Swords Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Double Edge",
+        "Blizzard",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Thunder Wave",
+        "Will O Wisp"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Banette",
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Thunder Wave",
+        "Will O Wisp"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Duskull",
+      "moves": [
+        "Shadow Ball",
+        "Blizzard",
+        "Will O Wisp",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Shadow Ball",
+        "Blizzard",
+        "Will O Wisp",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Tropius",
+      "moves": [
+        "Fly",
+        "Double Edge",
+        "Synthesis",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Blizzard",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Mirror Coat",
+        "Counter",
+        "Charm",
+        "Destiny Bond"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Blizzard",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Glalie",
+      "moves": [
+        "Blizzard",
+        "Double Edge",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Spheal",
+      "moves": [
+        "Blizzard",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Blizzard",
+        "Surf",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Huntail",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Relicanth",
+      "moves": [
+        "Hydro Pump",
+        "Rock Slide",
+        "Calm Mind",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Luvdisc",
+      "moves": [
+        "Surf",
+        "Blizzard",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Bagon",
+      "moves": [
+        "Dragon Claw",
+        "Double Edge",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Dragon Claw",
+        "Double Edge",
+        "Dragon Dance",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Beldum",
+      "moves": [
+        "Take Down",
+        "Protect",
+        "Toxic",
+        "Rest"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "experimental",
+      "note": "Expanded beyond the natural learnset to provide four moves."
+    },
+    {
+      "species": "Metang",
+      "moves": [
+        "Meteor Mash",
+        "Psychic",
+        "Toxic",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Regice",
+      "moves": [
+        "Blizzard",
+        "Double Edge",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Registeel",
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Thunder Wave",
+        "Toxic"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Psychic",
+        "Dragon Claw",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Latios",
+      "moves": [
+        "Psychic",
+        "Dragon Claw",
+        "Recover",
+        "Thunder Wave"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Kyogre",
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Groudon",
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Thunder Wave",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Outrage",
+        "Fly",
+        "Thunder Wave",
+        "Dragon Dance"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Psychic",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    },
+    {
+      "species": "Deoxys",
+      "moves": [
+        "Psycho Boost",
+        "Double Edge",
+        "Thunder Wave",
+        "Calm Mind"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Leftovers"
+      ],
+      "source": "suggested",
+      "note": "Automatically suggested from the bundled Gen III learnset; not a curated competitive set."
+    }
+  ]
+}

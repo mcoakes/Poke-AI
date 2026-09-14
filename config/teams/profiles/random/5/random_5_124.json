@@ -1,0 +1,152 @@
+{
+  "name": "random_5_124",
+  "party": [
+    {
+      "species": "Mankey",
+      "moves": [
+        "Air Cutter",
+        "Astonish",
+        "Hyper Beam",
+        "Sleep Talk"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 23,
+        "atk": 5,
+        "def": 2,
+        "spa": 5,
+        "spd": 14,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 20,
+        "spa": 0,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Volt Tackle",
+        "Aeroblast",
+        "Sleep Talk",
+        "Wish"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 4,
+        "atk": 30,
+        "def": 5,
+        "spa": 12,
+        "spd": 13,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 76,
+        "def": 72,
+        "spa": 72,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Giga Drain",
+        "Hyper Beam",
+        "Will O Wisp",
+        "Revenge"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 29,
+        "spa": 2,
+        "spd": 17,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Flail",
+        "Teleport",
+        "Rain Dance",
+        "Iron Defense"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 23,
+        "atk": 1,
+        "def": 5,
+        "spa": 8,
+        "spd": 10,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 100,
+        "spa": 76,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Thunder Punch",
+        "Defense Curl",
+        "Meditate",
+        "Howl"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 25,
+        "atk": 18,
+        "def": 0,
+        "spa": 18,
+        "spd": 31,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 20,
+        "spa": 20,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

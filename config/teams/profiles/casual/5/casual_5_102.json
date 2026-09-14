@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_102",
+  "party": [
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Protect",
+        "Earthquake",
+        "Cut",
+        "Roar"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 2,
+        "atk": 22,
+        "def": 1,
+        "spa": 24,
+        "spd": 0,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 20,
+        "spa": 12,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Dream Eater",
+        "Calm Mind",
+        "Rain Dance",
+        "Body Slam"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 9,
+        "atk": 8,
+        "def": 5,
+        "spa": 10,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 52,
+        "spa": 40,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Brick Break",
+        "Rock Slide",
+        "Double Team",
+        "Double Edge"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 10,
+        "atk": 27,
+        "def": 29,
+        "spa": 23,
+        "spd": 3,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 48,
+        "spa": 56,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Dive",
+        "Waterfall",
+        "Secret Power",
+        "Mud Sport"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 23,
+        "spa": 9,
+        "spd": 22,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 52,
+        "spa": 52,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Magical Leaf",
+        "Return",
+        "Skull Bash",
+        "Grass Whistle"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 27,
+        "atk": 18,
+        "def": 4,
+        "spa": 29,
+        "spd": 31,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 32,
+        "spa": 32,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Magnet",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

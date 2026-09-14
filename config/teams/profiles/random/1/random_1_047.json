@@ -1,0 +1,40 @@
+{
+  "name": "random_1_047",
+  "party": [
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Water Pulse",
+        "Overheat",
+        "Confuse Ray",
+        "Aeroblast"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 15,
+        "spa": 18,
+        "spd": 7,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 112,
+        "def": 124,
+        "spa": 60,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

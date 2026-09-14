@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_141",
+  "party": [
+    {
+      "species": "Seaking",
+      "moves": [
+        "Horn Attack",
+        "Substitute",
+        "Waterfall",
+        "Double Team"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 8,
+        "atk": 18,
+        "def": 17,
+        "spa": 18,
+        "spd": 12,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 44,
+        "spa": 36,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Reflect",
+        "Body Slam",
+        "Encore",
+        "Confusion"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 24,
+        "spa": 14,
+        "spd": 27,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 80,
+        "spa": 28,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

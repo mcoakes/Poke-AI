@@ -1,0 +1,152 @@
+{
+  "name": "random_5_137",
+  "party": [
+    {
+      "species": "Corphish",
+      "moves": [
+        "Metal Claw",
+        "Mud Sport",
+        "Future Sight",
+        "Supersonic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 22,
+        "def": 13,
+        "spa": 19,
+        "spd": 12,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 64,
+        "def": 96,
+        "spa": 84,
+        "spd": 72,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Rock Blast",
+        "Cut",
+        "Submission",
+        "Sweet Scent"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 0,
+        "spa": 30,
+        "spd": 17,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 44,
+        "spa": 72,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Taunt",
+        "Leaf Blade",
+        "Shadow Ball",
+        "Constrict"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 11,
+        "atk": 12,
+        "def": 31,
+        "spa": 27,
+        "spd": 17,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 112,
+        "def": 48,
+        "spa": 88,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Roselia",
+      "moves": [
+        "String Shot",
+        "Lock On",
+        "Egg Bomb",
+        "Sludge Bomb"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 27,
+        "def": 21,
+        "spa": 23,
+        "spd": 8,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 68,
+        "spa": 56,
+        "spd": 92,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Beedrill",
+      "moves": [
+        "Splash",
+        "Silver Wind",
+        "Mirror Move",
+        "Night Shade"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 30,
+        "atk": 13,
+        "def": 7,
+        "spa": 30,
+        "spd": 29,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 28,
+        "def": 36,
+        "spa": 32,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

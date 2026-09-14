@@ -1,0 +1,152 @@
+{
+  "name": "random_5_134",
+  "party": [
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Mist Ball",
+        "Mirror Coat",
+        "Mean Look",
+        "Drill Peck"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 20,
+        "atk": 9,
+        "def": 30,
+        "spa": 18,
+        "spd": 9,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 4,
+        "spa": 4,
+        "spd": 0,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machop",
+      "moves": [
+        "Tail Glow",
+        "Haze",
+        "Harden",
+        "Perish Song"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 24,
+        "atk": 14,
+        "def": 6,
+        "spa": 20,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Huntail",
+      "moves": [
+        "Disable",
+        "Thunder Shock",
+        "Poison Powder",
+        "Megahorn"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 29,
+        "atk": 0,
+        "def": 9,
+        "spa": 8,
+        "spd": 0,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 92,
+        "def": 52,
+        "spa": 32,
+        "spd": 68,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Acid",
+        "Icy Wind",
+        "Dragon Rage",
+        "Rain Dance"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 4,
+        "atk": 10,
+        "def": 9,
+        "spa": 19,
+        "spd": 1,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 48,
+        "spa": 40,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tropius",
+      "moves": [
+        "Substitute",
+        "Earthquake",
+        "Sheer Cold",
+        "Endeavor"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 19,
+        "def": 22,
+        "spa": 8,
+        "spd": 29,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 48,
+        "def": 52,
+        "spa": 32,
+        "spd": 40,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

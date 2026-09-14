@@ -1,0 +1,68 @@
+{
+  "name": "random_2_102",
+  "party": [
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Agility",
+        "False Swipe",
+        "Metal Claw",
+        "Shock Wave"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 7,
+        "atk": 9,
+        "def": 13,
+        "spa": 26,
+        "spd": 7,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 84,
+        "def": 76,
+        "spa": 68,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Hypnosis",
+        "Covet",
+        "Arm Thrust",
+        "Bind"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 22,
+        "def": 9,
+        "spa": 20,
+        "spd": 4,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 48,
+        "spa": 52,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

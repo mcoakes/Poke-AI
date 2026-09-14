@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_077",
+  "party": [
+    {
+      "species": "Ralts",
+      "moves": [
+        "Psychic",
+        "Thunderbolt",
+        "Double Edge",
+        "Disable"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 5,
+        "def": 23,
+        "spa": 1,
+        "spd": 18,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 20,
+        "spa": 16,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Splash",
+        "Mimic",
+        "Waterfall",
+        "Ice Beam"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 29,
+        "atk": 9,
+        "def": 19,
+        "spa": 6,
+        "spd": 20,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 60,
+        "spa": 56,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Staryu",
+      "moves": [
+        "Secret Power",
+        "Bubble Beam",
+        "Mimic",
+        "Rest"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 5,
+        "atk": 19,
+        "def": 9,
+        "spa": 15,
+        "spd": 7,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 64,
+        "def": 52,
+        "spa": 68,
+        "spd": 52,
+        "spe": 80
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Rock Slide",
+        "Horn Drill",
+        "Earthquake",
+        "Taunt"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 21,
+        "spa": 13,
+        "spd": 30,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 72,
+        "def": 64,
+        "spa": 60,
+        "spd": 80,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Fake Out",
+        "Metronome",
+        "Psybeam",
+        "Return"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 8,
+        "spa": 31,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 12,
+        "spa": 8,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Facade",
+        "Body Slam",
+        "Attract",
+        "Razor Leaf"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 15,
+        "atk": 8,
+        "def": 25,
+        "spa": 28,
+        "spd": 18,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 20,
+        "spa": 20,
+        "spd": 4,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

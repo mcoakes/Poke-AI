@@ -1,0 +1,40 @@
+{
+  "name": "random_1_115",
+  "party": [
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Ice Ball",
+        "Nightmare",
+        "Bone Rush",
+        "Double Team"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 20,
+        "spa": 16,
+        "spd": 17,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 56,
+        "spa": 56,
+        "spd": 56,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

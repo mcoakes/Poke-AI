@@ -1,0 +1,68 @@
+{
+  "name": "random_2_104",
+  "party": [
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Extrasensory",
+        "Arm Thrust",
+        "Roar",
+        "Powder Snow"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 0,
+        "atk": 1,
+        "def": 27,
+        "spa": 19,
+        "spd": 2,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 44,
+        "spa": 60,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Delcatty",
+      "moves": [
+        "Rapid Spin",
+        "Water Sport",
+        "Substitute",
+        "Milk Drink"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 9,
+        "atk": 8,
+        "def": 27,
+        "spa": 18,
+        "spd": 4,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 44,
+        "spa": 24,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_054",
+  "party": [
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Double Kick",
+        "Dragon Rage",
+        "Mimic",
+        "Bide"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 9,
+        "atk": 23,
+        "def": 3,
+        "spa": 2,
+        "spd": 26,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 104,
+        "def": 60,
+        "spa": 100,
+        "spd": 80,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Spinda",
+      "moves": [
+        "Mud Shot",
+        "Sleep Powder",
+        "Endure",
+        "Quick Attack"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 14,
+        "atk": 10,
+        "def": 30,
+        "spa": 0,
+        "spd": 18,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 48,
+        "spa": 40,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Psybeam",
+        "Metal Sound",
+        "Stun Spore",
+        "Poison Gas"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 9,
+        "def": 1,
+        "spa": 6,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 72,
+        "def": 52,
+        "spa": 60,
+        "spd": 80,
+        "spe": 88
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

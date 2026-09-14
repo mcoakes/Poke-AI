@@ -1,0 +1,40 @@
+{
+  "name": "random_1_106",
+  "party": [
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Earthquake",
+        "Skill Swap",
+        "Horn Drill",
+        "Cross Chop"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 16,
+        "spa": 15,
+        "spd": 17,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 4,
+        "spa": 20,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

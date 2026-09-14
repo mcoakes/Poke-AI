@@ -1,0 +1,40 @@
+{
+  "name": "random_1_080",
+  "party": [
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Air Cutter",
+        "Swift",
+        "Fury Cutter",
+        "Confuse Ray"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 29,
+        "atk": 24,
+        "def": 10,
+        "spa": 17,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 72,
+        "def": 92,
+        "spa": 60,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

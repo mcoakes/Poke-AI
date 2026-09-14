@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_138",
+  "party": [
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Agility",
+        "Focus Energy",
+        "Take Down",
+        "Dive"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 11,
+        "def": 19,
+        "spa": 14,
+        "spd": 31,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 40,
+        "spa": 44,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Howl",
+        "Double Team",
+        "Facade",
+        "Spark"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 3,
+        "atk": 7,
+        "def": 6,
+        "spa": 30,
+        "spd": 12,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 40,
+        "spa": 20,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "Double Team",
+        "Giga Drain",
+        "Dig",
+        "Facade"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 26,
+        "spa": 18,
+        "spd": 19,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 40,
+        "spa": 16,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

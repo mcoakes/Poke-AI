@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_031",
+  "party": [
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Double Team",
+        "Thief",
+        "Rain Dance",
+        "Shock Wave"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 29,
+        "atk": 22,
+        "def": 14,
+        "spa": 23,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 76,
+        "spa": 92,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Metal Claw",
+        "Double Team",
+        "Earthquake",
+        "Rock Tomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 30,
+        "atk": 22,
+        "def": 3,
+        "spa": 30,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 60,
+        "spa": 44,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swampert",
+      "moves": [
+        "Mud Shot",
+        "Rest",
+        "Surf",
+        "Endeavor"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 15,
+        "atk": 25,
+        "def": 16,
+        "spa": 25,
+        "spd": 17,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 20,
+        "spa": 8,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Glalie",
+      "moves": [
+        "Powder Snow",
+        "Protect",
+        "Crunch",
+        "Torment"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 22,
+        "atk": 1,
+        "def": 15,
+        "spa": 26,
+        "spd": 2,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 64,
+        "spa": 76,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

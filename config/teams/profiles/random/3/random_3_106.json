@@ -1,0 +1,96 @@
+{
+  "name": "random_3_106",
+  "party": [
+    {
+      "species": "Kangaskhan",
+      "moves": [
+        "Snatch",
+        "Mimic",
+        "Bounce",
+        "Mud Sport"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 21,
+        "atk": 23,
+        "def": 28,
+        "spa": 14,
+        "spd": 13,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 96,
+        "def": 64,
+        "spa": 68,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Crabhammer",
+        "Iron Tail",
+        "Clamp",
+        "Whirlwind"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 3,
+        "spa": 19,
+        "spd": 16,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 56,
+        "spa": 16,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Dragon Rage",
+        "Torment",
+        "Double Edge",
+        "Flash"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 22,
+        "atk": 18,
+        "def": 10,
+        "spa": 6,
+        "spd": 13,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 92,
+        "def": 60,
+        "spa": 92,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

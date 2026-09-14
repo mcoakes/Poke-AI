@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_022",
+  "party": [
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Mega Punch",
+        "Strength",
+        "Swords Dance",
+        "Dig"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 11,
+        "atk": 6,
+        "def": 14,
+        "spa": 12,
+        "spd": 29,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

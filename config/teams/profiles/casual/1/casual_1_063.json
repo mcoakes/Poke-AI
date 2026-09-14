@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_063",
+  "party": [
+    {
+      "species": "Octillery",
+      "moves": [
+        "Ice Beam",
+        "Substitute",
+        "Octazooka",
+        "Mimic"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 3,
+        "atk": 6,
+        "def": 0,
+        "spa": 0,
+        "spd": 1,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 36,
+        "spa": 12,
+        "spd": 48,
+        "spe": 16
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

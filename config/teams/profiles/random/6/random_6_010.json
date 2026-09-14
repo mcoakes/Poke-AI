@@ -1,0 +1,180 @@
+{
+  "name": "random_6_010",
+  "party": [
+    {
+      "species": "Venonat",
+      "moves": [
+        "Hydro Pump",
+        "Crabhammer",
+        "Dizzy Punch",
+        "Steel Wing"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 8,
+        "def": 7,
+        "spa": 6,
+        "spd": 29,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 76,
+        "def": 52,
+        "spa": 56,
+        "spd": 44,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Spheal",
+      "moves": [
+        "Lock On",
+        "Muddy Water",
+        "Leech Seed",
+        "Cotton Spore"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 15,
+        "atk": 22,
+        "def": 31,
+        "spa": 25,
+        "spd": 8,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 60,
+        "spa": 32,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Covet",
+        "Tri Attack",
+        "Mega Punch",
+        "Transform"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 21,
+        "atk": 6,
+        "def": 20,
+        "spa": 28,
+        "spd": 20,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 56,
+        "spa": 60,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Teleport",
+        "Will O Wisp",
+        "Sonic Boom",
+        "Gust"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 19,
+        "atk": 18,
+        "def": 21,
+        "spa": 26,
+        "spd": 27,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 56,
+        "def": 60,
+        "spa": 60,
+        "spd": 116,
+        "spe": 100
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Flail",
+        "Sleep Powder",
+        "Faint Attack",
+        "Tail Glow"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 13,
+        "atk": 17,
+        "def": 0,
+        "spa": 8,
+        "spd": 6,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 40,
+        "spa": 40,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Amnesia",
+        "Torment",
+        "Submission",
+        "Cross Chop"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 15,
+        "spa": 28,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 16,
+        "spa": 20,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

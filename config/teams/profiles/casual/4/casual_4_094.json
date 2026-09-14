@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_094",
+  "party": [
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Fire Spin",
+        "Mimic",
+        "Secret Power",
+        "Flame Wheel"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 31,
+        "atk": 16,
+        "def": 2,
+        "spa": 17,
+        "spd": 5,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 36,
+        "spa": 40,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Facade",
+        "Attract",
+        "Thief",
+        "Aerial Ace"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 2,
+        "def": 2,
+        "spa": 24,
+        "spd": 27,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 52,
+        "spa": 56,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Rock Tomb",
+        "Rock Slide",
+        "Sand Attack",
+        "Dig"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 14,
+        "atk": 9,
+        "def": 14,
+        "spa": 13,
+        "spd": 6,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 32,
+        "spa": 48,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Wing Attack",
+        "Secret Power",
+        "Dream Eater",
+        "Mirror Move"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 22,
+        "spa": 25,
+        "spd": 18,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 56,
+        "spa": 68,
+        "spd": 64,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

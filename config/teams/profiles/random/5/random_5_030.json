@@ -1,0 +1,152 @@
+{
+  "name": "random_5_030",
+  "party": [
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Psychic",
+        "Follow Me",
+        "Covet",
+        "Fury Cutter"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 5,
+        "atk": 14,
+        "def": 20,
+        "spa": 3,
+        "spd": 29,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 44,
+        "spa": 44,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Horsea",
+      "moves": [
+        "Sand Attack",
+        "Swift",
+        "Facade",
+        "Meditate"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 6,
+        "def": 27,
+        "spa": 15,
+        "spd": 30,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 72,
+        "def": 80,
+        "spa": 116,
+        "spd": 72,
+        "spe": 60
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Aurora Beam",
+        "Megahorn",
+        "Fissure",
+        "Lick"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 8,
+        "atk": 22,
+        "def": 6,
+        "spa": 3,
+        "spd": 3,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 76,
+        "def": 40,
+        "spa": 56,
+        "spd": 72,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Horn Drill",
+        "Sky Uppercut",
+        "Whirlwind",
+        "Swords Dance"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 19,
+        "atk": 13,
+        "def": 13,
+        "spa": 31,
+        "spd": 7,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 64,
+        "spa": 68,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metang",
+      "moves": [
+        "Memento",
+        "Sludge Bomb",
+        "Hail",
+        "Headbutt"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 28,
+        "atk": 9,
+        "def": 0,
+        "spa": 11,
+        "spd": 21,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 76,
+        "def": 28,
+        "spa": 68,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

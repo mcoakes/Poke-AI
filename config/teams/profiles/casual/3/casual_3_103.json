@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_103",
+  "party": [
+    {
+      "species": "Primeape",
+      "moves": [
+        "Smelling Salt",
+        "Rest",
+        "Cross Chop",
+        "Brick Break"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 17,
+        "atk": 10,
+        "def": 4,
+        "spa": 19,
+        "spd": 31,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 28,
+        "spa": 36,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Giga Drain",
+        "Encore",
+        "Ingrain",
+        "Sludge Bomb"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 27,
+        "def": 11,
+        "spa": 10,
+        "spd": 6,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 52,
+        "spa": 56,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Ice Beam",
+        "Focus Energy",
+        "Uproar",
+        "Tail Whip"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 9,
+        "atk": 3,
+        "def": 8,
+        "spa": 23,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 20,
+        "spa": 32,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

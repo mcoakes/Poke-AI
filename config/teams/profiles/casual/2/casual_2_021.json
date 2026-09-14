@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_021",
+  "party": [
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Facade",
+        "Thunder Shock",
+        "Light Screen",
+        "Charge"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 18,
+        "atk": 11,
+        "def": 30,
+        "spa": 24,
+        "spd": 8,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Water Gun",
+        "Tackle",
+        "Wish",
+        "Dig"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 9,
+        "atk": 10,
+        "def": 23,
+        "spa": 6,
+        "spd": 11,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 48,
+        "def": 64,
+        "spa": 20,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "name": "mixed_030",
+  "party": [
+    {
+      "species": "Stantler",
+      "level": 50,
+      "moves": [
+        "Thunder",
+        "Shadow Punch",
+        "Thunder Wave",
+        "Recover"
+      ],
+      "nature": "Quirky",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Focus Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Double Edge",
+        "Aerial Ace"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Igglybuff",
+      "level": 50,
+      "moves": [
+        "Rage",
+        "Double Kick",
+        "Iron Tail",
+        "Razor Wind"
+      ],
+      "nature": "Sassy",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Delcatty",
+      "level": 50,
+      "moves": [
+        "Astonish",
+        "Tickle",
+        "Take Down",
+        "Haze"
+      ],
+      "nature": "Sassy",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Thunderbolt",
+        "Thunder Wave",
+        "Substitute",
+        "Encore"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Light Ball",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Dragon Dance",
+        "Taunt"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "chaos",
+        "common_item": false
+      },
+      {
+        "slot": 2,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "chaos",
+        "common_item": true
+      },
+      {
+        "slot": 4,
+        "style": "chaos",
+        "common_item": true
+      },
+      {
+        "slot": 5,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "competitive",
+        "common_item": true
+      }
+    ]
+  }
+}

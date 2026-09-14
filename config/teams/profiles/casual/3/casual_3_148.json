@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_148",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Air Cutter",
+        "Thief",
+        "Metal Sound",
+        "Hidden Power"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 31,
+        "spa": 21,
+        "spd": 2,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 84,
+        "spa": 32,
+        "spd": 32,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Double Team",
+        "Splash",
+        "Dive",
+        "Twister"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 29,
+        "atk": 5,
+        "def": 16,
+        "spa": 1,
+        "spd": 1,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 20,
+        "spa": 16,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Beedrill",
+      "moves": [
+        "Swords Dance",
+        "String Shot",
+        "Sludge Bomb",
+        "Brick Break"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 26,
+        "atk": 11,
+        "def": 8,
+        "spa": 1,
+        "spd": 4,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 40,
+        "spa": 64,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

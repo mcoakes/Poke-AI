@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_146",
+  "party": [
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Rain Dance",
+        "Secret Power",
+        "Surf",
+        "Ice Beam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 17,
+        "atk": 1,
+        "def": 22,
+        "spa": 2,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 44,
+        "spa": 32,
+        "spd": 36,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

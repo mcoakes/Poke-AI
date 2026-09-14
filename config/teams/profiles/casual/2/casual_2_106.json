@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_106",
+  "party": [
+    {
+      "species": "Onix",
+      "moves": [
+        "Block",
+        "Slam",
+        "Attract",
+        "Dig"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 15,
+        "spa": 31,
+        "spd": 19,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 32,
+        "spa": 32,
+        "spd": 0,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Pain Split",
+        "Psybeam",
+        "Sludge",
+        "Flamethrower"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 31,
+        "def": 29,
+        "spa": 31,
+        "spd": 0,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 64,
+        "spa": 56,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

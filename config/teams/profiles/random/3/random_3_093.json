@@ -1,0 +1,96 @@
+{
+  "name": "random_3_093",
+  "party": [
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Zap Cannon",
+        "Foresight",
+        "Razor Leaf",
+        "Iron Defense"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 18,
+        "atk": 30,
+        "def": 12,
+        "spa": 10,
+        "spd": 27,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 36,
+        "spa": 52,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Mud Sport",
+        "Dream Eater",
+        "Dizzy Punch",
+        "Crush Claw"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 17,
+        "atk": 16,
+        "def": 14,
+        "spa": 14,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 12,
+        "spa": 8,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Hi Jump Kick",
+        "Dragon Rage",
+        "Smog",
+        "Encore"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 12,
+        "spa": 6,
+        "spd": 7,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 4,
+        "spa": 12,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

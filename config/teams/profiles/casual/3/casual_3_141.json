@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_141",
+  "party": [
+    {
+      "species": "Diglett",
+      "moves": [
+        "Rock Slide",
+        "Protect",
+        "Dig",
+        "Body Slam"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 22,
+        "spa": 27,
+        "spd": 1,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 64,
+        "def": 40,
+        "spa": 68,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Flareon",
+      "moves": [
+        "Dig",
+        "Wish",
+        "Iron Tail",
+        "Flamethrower"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 26,
+        "atk": 28,
+        "def": 2,
+        "spa": 9,
+        "spd": 3,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 36,
+        "def": 44,
+        "spa": 60,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Scratch",
+        "Double Team",
+        "Protect",
+        "Silver Wind"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 2,
+        "def": 16,
+        "spa": 26,
+        "spd": 9,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 0,
+        "spa": 20,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_067",
+  "party": [
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Counter",
+        "Splash",
+        "Mirror Coat",
+        "Safeguard"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 28,
+        "atk": 0,
+        "def": 14,
+        "spa": 17,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 56,
+        "spa": 40,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Solar Beam",
+        "Amnesia",
+        "Rock Tomb",
+        "Giga Drain"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 14,
+        "atk": 1,
+        "def": 25,
+        "spa": 30,
+        "spd": 13,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 60,
+        "spa": 68,
+        "spd": 80,
+        "spe": 56
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

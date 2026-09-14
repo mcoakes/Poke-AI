@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_007",
+  "party": [
+    {
+      "species": "Ariados",
+      "moves": [
+        "Signal Beam",
+        "Toxic",
+        "Sludge Bomb",
+        "Poison Sting"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 29,
+        "atk": 30,
+        "def": 9,
+        "spa": 28,
+        "spd": 29,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 44,
+        "spa": 64,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_127",
+  "party": [
+    {
+      "species": "Koffing",
+      "moves": [
+        "Protect",
+        "Psybeam",
+        "Mimic",
+        "Sludge"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 24,
+        "atk": 11,
+        "def": 26,
+        "spa": 0,
+        "spd": 20,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 52,
+        "spa": 44,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Registeel",
+      "moves": [
+        "Earthquake",
+        "Counter",
+        "Substitute",
+        "Metal Claw"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 2,
+        "spa": 8,
+        "spd": 27,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 40,
+        "spa": 52,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Mega Punch",
+        "Rock Slide",
+        "Counter",
+        "Metronome"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 27,
+        "def": 12,
+        "spa": 11,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 28,
+        "spa": 28,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Thunderbolt",
+        "Facade",
+        "Spark",
+        "Baton Pass"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 4,
+        "atk": 5,
+        "def": 19,
+        "spa": 23,
+        "spd": 14,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 44,
+        "spa": 24,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Mega Drain",
+        "Encore",
+        "Facade",
+        "Double Team"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 5,
+        "atk": 4,
+        "def": 23,
+        "spa": 3,
+        "spd": 27,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 80,
+        "def": 60,
+        "spa": 60,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Protect",
+        "Silver Wind",
+        "Sandstorm",
+        "Steel Wing"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 15,
+        "atk": 26,
+        "def": 1,
+        "spa": 25,
+        "spd": 7,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 36,
+        "def": 20,
+        "spa": 28,
+        "spd": 56,
+        "spe": 12
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

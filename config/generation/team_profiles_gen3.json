@@ -1,0 +1,327 @@
+{
+  "description": "Original Gen III competitive-style training sets and team roles. These are not tournament-tested teams or a legality certification; abilities are assigned by the existing save editor.",
+  "references": [
+    "https://www.smogon.com/dex/rs/formats/ou/",
+    "https://www.smogon.com/dex/rs/",
+    "https://github.com/pret/pokefirered/tree/c75f352304d529f6ba92d4f74b9cf8b5c3810788"
+  ],
+  "roles": {
+    "Aerodactyl": "physical",
+    "Alakazam": "special",
+    "Blastoise": "utility",
+    "Blaziken": "physical",
+    "Blissey": "wall",
+    "Breloom": "physical",
+    "Celebi": "utility",
+    "Charizard": "special",
+    "Claydol": "utility",
+    "Clefable": "wall",
+    "Cloyster": "utility",
+    "Crobat": "utility",
+    "Dodrio": "physical",
+    "Donphan": "utility",
+    "Dragonite": "special",
+    "Dugtrio": "physical",
+    "Exeggutor": "utility",
+    "Flygon": "physical",
+    "Forretress": "utility",
+    "Gardevoir": "special",
+    "Gengar": "special",
+    "Golem": "physical",
+    "Gyarados": "physical",
+    "Heracross": "physical",
+    "Jirachi": "special",
+    "Jolteon": "special",
+    "Kangaskhan": "physical",
+    "Kingdra": "special",
+    "Lapras": "wall",
+    "Ludicolo": "special",
+    "Machamp": "physical",
+    "Magneton": "utility",
+    "Marowak": "physical",
+    "Medicham": "physical",
+    "Metagross": "physical",
+    "Milotic": "wall",
+    "Muk": "wall",
+    "Nidoking": "special",
+    "Ninetales": "special",
+    "Pikachu": "special",
+    "Pinsir": "physical",
+    "Raichu": "special",
+    "Raikou": "special",
+    "Salamence": "physical",
+    "Sceptile": "special",
+    "Scizor": "physical",
+    "Scyther": "physical",
+    "Skarmory": "wall",
+    "Slowbro": "wall",
+    "Snorlax": "wall",
+    "Starmie": "special",
+    "Suicune": "wall",
+    "Swampert": "wall",
+    "Tauros": "physical",
+    "Tyranitar": "physical",
+    "Vaporeon": "wall",
+    "Venusaur": "utility",
+    "Walrein": "wall",
+    "Weezing": "wall",
+    "Zapdos": "special"
+  },
+  "additional_sets": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Seismic Toss",
+        "Ice Beam",
+        "Soft Boiled",
+        "Thunder Wave"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Thunderbolt",
+        "Drill Peck",
+        "Thunder Wave",
+        "Light Screen"
+      ],
+      "nature": "Mild",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Psychic",
+        "Giga Drain",
+        "Recover",
+        "Leech Seed"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Calm Mind",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers",
+        "Chesto Berry"
+      ]
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Thunderbolt",
+        "Crunch",
+        "Calm Mind",
+        "Substitute"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Psychic",
+        "Thunderbolt",
+        "Calm Mind",
+        "Wish"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Spikes",
+        "Rapid Spin",
+        "Earthquake",
+        "Explosion"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Spore",
+        "Focus Punch",
+        "Mach Punch",
+        "Leech Seed"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Aerial Ace",
+        "Slash"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band"
+      ]
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Fire Blast",
+        "Quick Attack"
+      ],
+      "nature": "Naive",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "items": [
+        "Choice Band",
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Rapid Spin",
+        "Roar"
+      ],
+      "nature": "Impish",
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "items": [
+        "Leftovers"
+      ]
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Rain Dance",
+        "Rest"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "items": [
+        "Chesto Berry",
+        "Leftovers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_101",
+  "party": [
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Psychic",
+        "Facade",
+        "Skill Swap",
+        "Light Screen"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 0,
+        "def": 30,
+        "spa": 12,
+        "spd": 5,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 48,
+        "spa": 52,
+        "spd": 92,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Earthquake",
+        "Bite",
+        "Roar",
+        "Surf"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 20,
+        "def": 29,
+        "spa": 9,
+        "spd": 10,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 16,
+        "spa": 8,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Growl",
+        "Slash",
+        "Scary Face",
+        "Flamethrower"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 21,
+        "atk": 4,
+        "def": 28,
+        "spa": 11,
+        "spd": 7,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 36,
+        "spa": 24,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Disable",
+        "Thunderbolt",
+        "Sludge Bomb",
+        "Water Pulse"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 17,
+        "def": 30,
+        "spa": 14,
+        "spd": 3,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 40,
+        "spa": 40,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Body Slam",
+        "Metronome",
+        "Cross Chop",
+        "Mega Kick"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 11,
+        "atk": 11,
+        "def": 11,
+        "spa": 17,
+        "spd": 7,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 28,
+        "def": 32,
+        "spa": 72,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Surf",
+        "Secret Power",
+        "Dragon Dance",
+        "Taunt"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 10,
+        "atk": 14,
+        "def": 10,
+        "spa": 19,
+        "spd": 14,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 40,
+        "spa": 48,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

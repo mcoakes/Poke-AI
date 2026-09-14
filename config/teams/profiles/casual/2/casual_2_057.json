@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_057",
+  "party": [
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Sludge Bomb",
+        "Thunderbolt",
+        "Protect",
+        "Scratch"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 28,
+        "atk": 13,
+        "def": 29,
+        "spa": 27,
+        "spd": 1,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 64,
+        "spa": 44,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Mimic",
+        "Secret Power",
+        "Take Down",
+        "Earthquake"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 6,
+        "atk": 12,
+        "def": 20,
+        "spa": 14,
+        "spd": 7,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 8,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

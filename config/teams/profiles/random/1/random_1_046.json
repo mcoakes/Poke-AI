@@ -1,0 +1,40 @@
+{
+  "name": "random_1_046",
+  "party": [
+    {
+      "species": "Pelipper",
+      "moves": [
+        "Fury Swipes",
+        "Fire Blast",
+        "Icicle Spear",
+        "Mist"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 2,
+        "def": 9,
+        "spa": 15,
+        "spd": 4,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

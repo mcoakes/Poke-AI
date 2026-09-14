@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_053",
+  "party": [
+    {
+      "species": "Lapras",
+      "moves": [
+        "Iron Tail",
+        "Rest",
+        "Ice Beam",
+        "Water Gun"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 9,
+        "atk": 26,
+        "def": 15,
+        "spa": 11,
+        "spd": 3,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 36,
+        "spa": 24,
+        "spd": 8,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_042",
+  "party": [
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Body Slam",
+        "Taunt",
+        "Seismic Toss",
+        "Future Sight"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 24,
+        "atk": 18,
+        "def": 18,
+        "spa": 3,
+        "spd": 16,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 16,
+        "spa": 12,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Onix",
+      "moves": [
+        "Screech",
+        "Mimic",
+        "Rock Throw",
+        "Facade"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 11,
+        "def": 26,
+        "spa": 3,
+        "spd": 5,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 76,
+        "spa": 52,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corphish",
+      "moves": [
+        "Bubble Beam",
+        "Taunt",
+        "Return",
+        "Strength"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 23,
+        "spa": 23,
+        "spd": 13,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 36,
+        "spa": 32,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Mirror Coat",
+        "Harden",
+        "Secret Power",
+        "Ancient Power"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 18,
+        "spa": 27,
+        "spd": 29,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 36,
+        "def": 36,
+        "spa": 44,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

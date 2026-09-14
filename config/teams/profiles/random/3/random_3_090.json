@@ -1,0 +1,96 @@
+{
+  "name": "random_3_090",
+  "party": [
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Headbutt",
+        "Conversion 2",
+        "Glare",
+        "Ice Punch"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 11,
+        "atk": 30,
+        "def": 30,
+        "spa": 25,
+        "spd": 11,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Silver Wind",
+        "Protect",
+        "Dragon Claw",
+        "Snore"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 12,
+        "atk": 9,
+        "def": 27,
+        "spa": 15,
+        "spd": 17,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 64,
+        "spa": 40,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "Endure",
+        "Lick",
+        "Feather Dance",
+        "Mega Kick"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 3,
+        "def": 28,
+        "spa": 2,
+        "spd": 15,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 52,
+        "spa": 44,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

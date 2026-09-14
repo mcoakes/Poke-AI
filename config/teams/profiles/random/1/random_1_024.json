@@ -1,0 +1,40 @@
+{
+  "name": "random_1_024",
+  "party": [
+    {
+      "species": "Gulpin",
+      "moves": [
+        "Screech",
+        "Sand Tomb",
+        "Bullet Seed",
+        "Absorb"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 6,
+        "atk": 29,
+        "def": 19,
+        "spa": 21,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 24,
+        "spa": 28,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

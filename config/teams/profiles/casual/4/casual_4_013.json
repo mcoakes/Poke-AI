@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_013",
+  "party": [
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sludge Bomb",
+        "Shadow Ball",
+        "Supersonic",
+        "Poison Fang"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 2,
+        "atk": 2,
+        "def": 1,
+        "spa": 25,
+        "spd": 11,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 76,
+        "def": 28,
+        "spa": 44,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Take Down",
+        "Thunder Shock",
+        "Substitute",
+        "Light Screen"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 17,
+        "spa": 31,
+        "spd": 12,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 68,
+        "spa": 68,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Screech",
+        "Growl",
+        "Shadow Ball",
+        "Psybeam"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 5,
+        "atk": 4,
+        "def": 18,
+        "spa": 18,
+        "spd": 4,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 84,
+        "spa": 48,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Shadow Ball",
+        "Mimic",
+        "Confusion",
+        "Substitute"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 7,
+        "spa": 6,
+        "spd": 22,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 48,
+        "spa": 56,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_105",
+  "party": [
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Shadow Ball",
+        "Confuse Ray",
+        "False Swipe",
+        "Gust"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 3,
+        "atk": 20,
+        "def": 3,
+        "spa": 4,
+        "spd": 22,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 52,
+        "def": 28,
+        "spa": 40,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

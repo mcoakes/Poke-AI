@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_091",
+  "party": [
+    {
+      "species": "Lairon",
+      "moves": [
+        "Rock Tomb",
+        "Smelling Salt",
+        "Mimic",
+        "Hidden Power"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 5,
+        "def": 29,
+        "spa": 6,
+        "spd": 11,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 28,
+        "spa": 40,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Strength",
+        "Ember",
+        "Attract",
+        "Thrash"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 21,
+        "atk": 8,
+        "def": 1,
+        "spa": 10,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 36,
+        "spa": 60,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

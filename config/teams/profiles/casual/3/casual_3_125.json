@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_125",
+  "party": [
+    {
+      "species": "Koffing",
+      "moves": [
+        "Sludge",
+        "Taunt",
+        "Substitute",
+        "Facade"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 9,
+        "spa": 18,
+        "spd": 4,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 56,
+        "spa": 40,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Horn Attack",
+        "Sludge Bomb",
+        "Disable",
+        "Take Down"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 27,
+        "spa": 20,
+        "spd": 0,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 8,
+        "spa": 28,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Secret Power",
+        "Brick Break",
+        "Mimic",
+        "Facade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 10,
+        "atk": 18,
+        "def": 23,
+        "spa": 1,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 20,
+        "spa": 52,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

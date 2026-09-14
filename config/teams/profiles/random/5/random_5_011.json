@@ -1,0 +1,152 @@
+{
+  "name": "random_5_011",
+  "party": [
+    {
+      "species": "Oddish",
+      "moves": [
+        "Razor Leaf",
+        "Ice Ball",
+        "Sand Tomb",
+        "Sheer Cold"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 26,
+        "spa": 8,
+        "spd": 13,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 40,
+        "spa": 60,
+        "spd": 56,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Numel",
+      "moves": [
+        "Refresh",
+        "Snatch",
+        "Lock On",
+        "Poison Sting"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 5,
+        "spa": 8,
+        "spd": 15,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 8,
+        "spa": 24,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Wish",
+        "Magnitude",
+        "Shadow Ball",
+        "Reversal"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 29,
+        "atk": 20,
+        "def": 26,
+        "spa": 5,
+        "spd": 26,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 28,
+        "spa": 32,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Fake Out",
+        "Agility",
+        "Wrap",
+        "Hail"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 6,
+        "spa": 13,
+        "spd": 5,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 56,
+        "spa": 56,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Rock Smash",
+        "Nightmare",
+        "Crush Claw",
+        "Bide"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 21,
+        "atk": 0,
+        "def": 18,
+        "spa": 25,
+        "spd": 3,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 32,
+        "spa": 36,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

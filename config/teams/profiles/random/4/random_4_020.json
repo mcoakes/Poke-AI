@@ -1,0 +1,124 @@
+{
+  "name": "random_4_020",
+  "party": [
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Withdraw",
+        "Encore",
+        "Barrage",
+        "Splash"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 15,
+        "atk": 11,
+        "def": 31,
+        "spa": 11,
+        "spd": 15,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 12,
+        "spa": 4,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Follow Me",
+        "Dragon Rage",
+        "Taunt",
+        "Bullet Seed"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 6,
+        "def": 2,
+        "spa": 26,
+        "spd": 26,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Sing",
+        "Endure",
+        "Sweet Scent",
+        "Eruption"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 22,
+        "atk": 19,
+        "def": 30,
+        "spa": 18,
+        "spd": 31,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 104,
+        "def": 88,
+        "spa": 116,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Refresh",
+        "Minimize",
+        "Horn Attack",
+        "Solar Beam"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 11,
+        "def": 0,
+        "spa": 17,
+        "spd": 29,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 60,
+        "spa": 60,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

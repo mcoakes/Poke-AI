@@ -1,0 +1,68 @@
+{
+  "name": "random_2_032",
+  "party": [
+    {
+      "species": "Kingler",
+      "moves": [
+        "Muddy Water",
+        "Icicle Spear",
+        "Howl",
+        "Whirlwind"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 29,
+        "def": 27,
+        "spa": 6,
+        "spd": 27,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 40,
+        "spa": 20,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Arm Thrust",
+        "Brick Break",
+        "Fire Blast",
+        "Meditate"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 1,
+        "spa": 1,
+        "spd": 20,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 52,
+        "spa": 44,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bad",
+  "party": [
+    {"species": "Magikarp", "level": 1, "moves": ["Splash", "Follow Me", "Water Sport", "Protect"]},
+    {"species": "Magikarp", "level": 1, "moves": ["Splash", "Follow Me", "Water Sport", "Protect"]}
+  ]
+}

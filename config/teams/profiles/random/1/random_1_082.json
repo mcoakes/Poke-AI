@@ -1,0 +1,40 @@
+{
+  "name": "random_1_082",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Super Fang",
+        "Bubble",
+        "Slam",
+        "Bubble Beam"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 2,
+        "atk": 25,
+        "def": 27,
+        "spa": 2,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 64,
+        "spa": 60,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_005",
+  "party": [
+    {
+      "species": "Celebi",
+      "moves": [
+        "Wish",
+        "Rest",
+        "Double Team",
+        "Secret Power"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 29,
+        "atk": 27,
+        "def": 18,
+        "spa": 14,
+        "spd": 29,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 36,
+        "spa": 48,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Flame Wheel",
+        "Muddy Water",
+        "Block",
+        "Poison Tail"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 10,
+        "atk": 6,
+        "def": 19,
+        "spa": 0,
+        "spd": 15,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 60,
+        "spa": 60,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Unown",
+      "moves": [
+        "Spike Cannon",
+        "Mach Punch",
+        "Lick",
+        "Tri Attack"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 19,
+        "atk": 20,
+        "def": 10,
+        "spa": 22,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 16,
+        "spa": 32,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Tri Attack",
+        "Rock Slide",
+        "Fake Out",
+        "Endeavor"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 29,
+        "def": 28,
+        "spa": 21,
+        "spd": 21,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 8,
+        "spa": 8,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Recover",
+        "Mist Ball",
+        "Scary Face",
+        "Rapid Spin"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 30,
+        "atk": 23,
+        "def": 17,
+        "spa": 18,
+        "spd": 7,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 56,
+        "def": 60,
+        "spa": 96,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Fire Punch",
+        "Octazooka",
+        "Knock Off",
+        "Horn Attack"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 12,
+        "atk": 17,
+        "def": 0,
+        "spa": 21,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 24,
+        "spa": 28,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

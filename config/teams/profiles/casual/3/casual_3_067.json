@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_067",
+  "party": [
+    {
+      "species": "Aron",
+      "moves": [
+        "Tackle",
+        "Earthquake",
+        "Substitute",
+        "Metal Claw"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 5,
+        "spa": 24,
+        "spd": 4,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 52,
+        "spa": 64,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Earthquake",
+        "Future Sight",
+        "Strength",
+        "Thunder Wave"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 3,
+        "atk": 6,
+        "def": 11,
+        "spa": 10,
+        "spd": 31,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 36,
+        "spa": 20,
+        "spd": 20,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Secret Power",
+        "Fire Blast",
+        "Thunderbolt",
+        "Belly Drum"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 31,
+        "atk": 17,
+        "def": 5,
+        "spa": 17,
+        "spd": 18,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 12,
+        "spa": 16,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_057",
+  "party": [
+    {
+      "species": "Slaking",
+      "moves": [
+        "Ice Beam",
+        "Covet",
+        "Double Team",
+        "Sleep Talk"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 5,
+        "atk": 28,
+        "def": 5,
+        "spa": 20,
+        "spd": 0,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 60,
+        "spa": 44,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

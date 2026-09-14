@@ -1,0 +1,180 @@
+{
+  "name": "random_6_108",
+  "party": [
+    {
+      "species": "Corsola",
+      "moves": [
+        "Vital Throw",
+        "Protect",
+        "Comet Punch",
+        "Sky Uppercut"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 2,
+        "atk": 11,
+        "def": 13,
+        "spa": 22,
+        "spd": 18,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 12,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togetic",
+      "moves": [
+        "Fake Out",
+        "Whirlwind",
+        "Doom Desire",
+        "Double Slap"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 3,
+        "spa": 10,
+        "spd": 20,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 16,
+        "spa": 20,
+        "spd": 4,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metapod",
+      "moves": [
+        "Soft Boiled",
+        "Thief",
+        "Thunder",
+        "Heat Wave"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 5,
+        "spa": 4,
+        "spd": 18,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 36,
+        "spa": 20,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Razor Wind",
+        "Baton Pass",
+        "Stomp",
+        "Rock Tomb"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 29,
+        "spa": 24,
+        "spd": 24,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 44,
+        "spa": 32,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Gust",
+        "Covet",
+        "Absorb",
+        "Howl"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 13,
+        "atk": 18,
+        "def": 12,
+        "spa": 19,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 40,
+        "spa": 24,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Grimer",
+      "moves": [
+        "False Swipe",
+        "Thrash",
+        "Rock Blast",
+        "Thunder Punch"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 14,
+        "atk": 16,
+        "def": 3,
+        "spa": 2,
+        "spd": 2,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 52,
+        "spa": 44,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

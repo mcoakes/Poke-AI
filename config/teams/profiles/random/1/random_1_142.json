@@ -1,0 +1,40 @@
+{
+  "name": "random_1_142",
+  "party": [
+    {
+      "species": "Swampert",
+      "moves": [
+        "Thunder Wave",
+        "Horn Drill",
+        "Air Cutter",
+        "Confuse Ray"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 0,
+        "atk": 7,
+        "def": 4,
+        "spa": 22,
+        "spd": 10,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 24,
+        "spa": 36,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

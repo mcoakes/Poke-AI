@@ -1,0 +1,180 @@
+{
+  "name": "random_6_002",
+  "party": [
+    {
+      "species": "Lairon",
+      "moves": [
+        "Flatter",
+        "Thunder",
+        "Rock Throw",
+        "Dynamic Punch"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 7,
+        "spa": 2,
+        "spd": 10,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 48,
+        "def": 40,
+        "spa": 52,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Entei",
+      "moves": [
+        "Sky Uppercut",
+        "Stockpile",
+        "Hi Jump Kick",
+        "Mind Reader"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 27,
+        "spa": 7,
+        "spd": 5,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 52,
+        "spa": 56,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Karate Chop",
+        "Leech Life",
+        "Self Destruct",
+        "Air Cutter"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 21,
+        "atk": 29,
+        "def": 11,
+        "spa": 1,
+        "spd": 23,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 28,
+        "spa": 44,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Sleep Talk",
+        "Flail",
+        "Jump Kick",
+        "Water Gun"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 24,
+        "atk": 5,
+        "def": 30,
+        "spa": 19,
+        "spd": 21,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 40,
+        "def": 40,
+        "spa": 36,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Facade",
+        "Toxic",
+        "Belly Drum",
+        "Sludge"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 1,
+        "atk": 21,
+        "def": 23,
+        "spa": 31,
+        "spd": 4,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 8,
+        "spa": 16,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Whirlwind",
+        "Teeter Dance",
+        "Rollout",
+        "Ingrain"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 4,
+        "spa": 6,
+        "spd": 9,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 28,
+        "spa": 20,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

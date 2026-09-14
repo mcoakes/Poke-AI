@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_071",
+  "party": [
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Sunny Day",
+        "Headbutt",
+        "Dig",
+        "Thunder Wave"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 10,
+        "atk": 17,
+        "def": 21,
+        "spa": 3,
+        "spd": 26,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 16,
+        "spa": 20,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Supersonic",
+        "Surf",
+        "Ice Beam",
+        "Ancient Power"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 17,
+        "atk": 10,
+        "def": 22,
+        "spa": 15,
+        "spd": 14,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 64,
+        "spa": 56,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Surf",
+        "Protect",
+        "Hyper Beam",
+        "Body Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 2,
+        "def": 24,
+        "spa": 31,
+        "spd": 21,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 24,
+        "spa": 16,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

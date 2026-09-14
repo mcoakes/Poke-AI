@@ -1,0 +1,124 @@
+{
+  "name": "random_4_050",
+  "party": [
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Bone Rush",
+        "Double Team",
+        "Rest",
+        "Astonish"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 16,
+        "atk": 19,
+        "def": 5,
+        "spa": 9,
+        "spd": 18,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 84,
+        "def": 52,
+        "spa": 76,
+        "spd": 64,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Bulk Up",
+        "Water Pulse",
+        "Defense Curl",
+        "Gust"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 12,
+        "spa": 7,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 40,
+        "spa": 64,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Headbutt",
+        "Hidden Power",
+        "Follow Me",
+        "Dig"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 9,
+        "atk": 19,
+        "def": 17,
+        "spa": 16,
+        "spd": 31,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 64,
+        "spa": 56,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Megahorn",
+        "Poison Gas",
+        "Destiny Bond",
+        "Crunch"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 12,
+        "atk": 17,
+        "def": 31,
+        "spa": 10,
+        "spd": 14,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 60,
+        "def": 56,
+        "spa": 108,
+        "spd": 92,
+        "spe": 76
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

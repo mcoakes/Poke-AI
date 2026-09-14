@@ -1,0 +1,180 @@
+{
+  "name": "random_6_021",
+  "party": [
+    {
+      "species": "Swampert",
+      "moves": [
+        "Outrage",
+        "Magnitude",
+        "Supersonic",
+        "Frustration"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 3,
+        "atk": 4,
+        "def": 8,
+        "spa": 12,
+        "spd": 17,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 64,
+        "def": 72,
+        "spa": 64,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Bind",
+        "Rest",
+        "Drill Peck",
+        "Mach Punch"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 24,
+        "atk": 18,
+        "def": 29,
+        "spa": 26,
+        "spd": 30,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 28,
+        "spa": 4,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Ditto",
+      "moves": [
+        "Twineedle",
+        "Thunder Punch",
+        "Destiny Bond",
+        "Extrasensory"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 30,
+        "atk": 24,
+        "def": 6,
+        "spa": 19,
+        "spd": 12,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 4,
+        "spa": 4,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Swalot",
+      "moves": [
+        "Mist Ball",
+        "Assist",
+        "Morning Sun",
+        "Rock Slide"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 9,
+        "atk": 23,
+        "def": 18,
+        "spa": 31,
+        "spd": 3,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 28,
+        "def": 52,
+        "spa": 52,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Lick",
+        "Mud Shot",
+        "Spark",
+        "Camouflage"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 0,
+        "spa": 23,
+        "spd": 15,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 108,
+        "def": 64,
+        "spa": 88,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Crunch",
+        "Horn Drill",
+        "Howl",
+        "Meditate"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 8,
+        "spa": 17,
+        "spd": 23,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 12,
+        "spa": 32,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_079",
+  "party": [
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Psybeam",
+        "Agility",
+        "Secret Power",
+        "Signal Beam"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 10,
+        "atk": 19,
+        "def": 20,
+        "spa": 3,
+        "spd": 22,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 8,
+        "spa": 24,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Foresight",
+        "Iron Tail",
+        "Surf",
+        "Substitute"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 15,
+        "atk": 13,
+        "def": 29,
+        "spa": 31,
+        "spd": 4,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 44,
+        "spa": 32,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Wish",
+        "Sandstorm",
+        "Future Sight",
+        "Secret Power"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 4,
+        "def": 21,
+        "spa": 9,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 48,
+        "spa": 24,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tangela",
+      "moves": [
+        "Giga Drain",
+        "Body Slam",
+        "Growth",
+        "Hyper Beam"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 22,
+        "atk": 20,
+        "def": 1,
+        "spa": 12,
+        "spd": 6,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 48,
+        "spa": 60,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Waterfall",
+        "Bite",
+        "Roar",
+        "Blizzard"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 20,
+        "spa": 11,
+        "spd": 17,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 72,
+        "spa": 68,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Earthquake",
+        "Rest",
+        "Pursuit",
+        "Fissure"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 1,
+        "atk": 21,
+        "def": 1,
+        "spa": 8,
+        "spd": 25,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 80,
+        "def": 44,
+        "spa": 44,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

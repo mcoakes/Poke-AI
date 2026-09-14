@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_143",
+  "party": [
+    {
+      "species": "Chansey",
+      "moves": [
+        "Brick Break",
+        "Calm Mind",
+        "Frustration",
+        "Facade"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 24,
+        "atk": 23,
+        "def": 1,
+        "spa": 4,
+        "spd": 2,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 92,
+        "spa": 40,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Yanma",
+      "moves": [
+        "Substitute",
+        "Shadow Ball",
+        "Wing Attack",
+        "Double Edge"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 15,
+        "def": 3,
+        "spa": 13,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 20,
+        "spa": 20,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Earthquake",
+        "Toxic",
+        "Sandstorm",
+        "Rock Tomb"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 7,
+        "atk": 7,
+        "def": 27,
+        "spa": 23,
+        "spd": 21,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 60,
+        "spa": 68,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Thunderbolt",
+        "Taunt",
+        "Grudge",
+        "Shadow Ball"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 26,
+        "spa": 17,
+        "spd": 19,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 20,
+        "spa": 32,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Cloyster",
+      "moves": [
+        "Substitute",
+        "Take Down",
+        "Double Edge",
+        "Surf"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 22,
+        "atk": 1,
+        "def": 15,
+        "spa": 8,
+        "spd": 21,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 52,
+        "spa": 60,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Shadow Ball",
+        "Dive",
+        "Hyper Beam",
+        "Substitute"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 9,
+        "def": 29,
+        "spa": 12,
+        "spd": 26,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 72,
+        "spa": 64,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

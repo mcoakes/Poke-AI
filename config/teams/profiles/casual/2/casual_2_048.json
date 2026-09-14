@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_048",
+  "party": [
+    {
+      "species": "Moltres",
+      "moves": [
+        "Flamethrower",
+        "Frustration",
+        "Wing Attack",
+        "Sandstorm"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 17,
+        "atk": 1,
+        "def": 17,
+        "spa": 22,
+        "spd": 0,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 28,
+        "spa": 24,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Spinda",
+      "moves": [
+        "Attract",
+        "Brick Break",
+        "Hypnosis",
+        "Strength"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 8,
+        "spa": 7,
+        "spd": 22,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 60,
+        "spa": 60,
+        "spd": 100,
+        "spe": 36
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

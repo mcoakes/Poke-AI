@@ -1,0 +1,40 @@
+{
+  "name": "random_1_039",
+  "party": [
+    {
+      "species": "Onix",
+      "moves": [
+        "Rock Blast",
+        "Hail",
+        "Aurora Beam",
+        "Triple Kick"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 9,
+        "spa": 29,
+        "spd": 12,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 24,
+        "spa": 12,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

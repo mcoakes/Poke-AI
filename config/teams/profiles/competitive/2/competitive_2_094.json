@@ -1,0 +1,68 @@
+{
+  "name": "competitive_2_094",
+  "party": [
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Thunderbolt",
+        "Thunder Wave",
+        "Encore",
+        "Substitute"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Light Ball",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Tauros",
+      "moves": [
+        "Iron Tail",
+        "Earthquake",
+        "Return",
+        "Double Edge"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 20262931,
+    "archetype": "balanced"
+  }
+}

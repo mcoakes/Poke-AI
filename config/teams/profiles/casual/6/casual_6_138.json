@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_138",
+  "party": [
+    {
+      "species": "Articuno",
+      "moves": [
+        "Aerial Ace",
+        "Protect",
+        "Ice Beam",
+        "Fly"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 9,
+        "atk": 16,
+        "def": 22,
+        "spa": 27,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 28,
+        "spa": 24,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Facade",
+        "Swords Dance",
+        "Sludge Bomb",
+        "Petal Dance"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 7,
+        "atk": 23,
+        "def": 1,
+        "spa": 30,
+        "spd": 16,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 24,
+        "spa": 16,
+        "spd": 16,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Bite",
+        "Torment",
+        "Taunt",
+        "Cut"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 15,
+        "atk": 18,
+        "def": 23,
+        "spa": 28,
+        "spd": 29,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 36,
+        "spa": 88,
+        "spd": 28,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Fury Swipes",
+        "Mega Drain",
+        "Sweet Scent",
+        "Body Slam"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 25,
+        "atk": 31,
+        "def": 9,
+        "spa": 8,
+        "spd": 29,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 84,
+        "spa": 44,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Body Slam",
+        "Flash",
+        "Giga Drain",
+        "Leech Seed"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 18,
+        "atk": 24,
+        "def": 1,
+        "spa": 26,
+        "spd": 28,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 60,
+        "spa": 52,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Rest",
+        "Earthquake",
+        "Dream Eater",
+        "Amnesia"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 6,
+        "atk": 21,
+        "def": 6,
+        "spa": 0,
+        "spd": 7,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 48,
+        "spa": 44,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

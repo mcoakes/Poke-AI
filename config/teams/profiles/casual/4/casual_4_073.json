@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_073",
+  "party": [
+    {
+      "species": "Hypno",
+      "moves": [
+        "Future Sight",
+        "Facade",
+        "Rest",
+        "Assist"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 28,
+        "spa": 18,
+        "spd": 1,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 4,
+        "def": 16,
+        "spa": 36,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Waterfall",
+        "Double Team",
+        "Secret Power",
+        "Return"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 19,
+        "def": 1,
+        "spa": 1,
+        "spd": 9,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 28,
+        "spa": 52,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Flaaffy",
+      "moves": [
+        "Thunder Shock",
+        "Reflect",
+        "Shock Wave",
+        "Facade"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 12,
+        "atk": 25,
+        "def": 27,
+        "spa": 1,
+        "spd": 8,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 20,
+        "spa": 48,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Leer",
+        "Bubble Beam",
+        "Body Slam",
+        "Aurora Beam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 7,
+        "def": 20,
+        "spa": 25,
+        "spd": 10,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 48,
+        "spa": 80,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

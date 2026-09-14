@@ -1,0 +1,180 @@
+{
+  "name": "random_6_107",
+  "party": [
+    {
+      "species": "Metang",
+      "moves": [
+        "Rock Slide",
+        "Spore",
+        "Astonish",
+        "Skull Bash"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 5,
+        "atk": 7,
+        "def": 3,
+        "spa": 6,
+        "spd": 0,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 16,
+        "spa": 28,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Volt Tackle",
+        "Double Kick",
+        "Needle Arm",
+        "Mega Punch"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 8,
+        "atk": 19,
+        "def": 16,
+        "spa": 6,
+        "spd": 0,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 36,
+        "def": 36,
+        "spa": 60,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Covet",
+        "Iron Defense",
+        "Leaf Blade",
+        "Guillotine"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 22,
+        "def": 14,
+        "spa": 2,
+        "spd": 22,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 20,
+        "spa": 36,
+        "spd": 56,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Glalie",
+      "moves": [
+        "Body Slam",
+        "Flash",
+        "Dynamic Punch",
+        "Peck"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 2,
+        "atk": 17,
+        "def": 21,
+        "spa": 22,
+        "spd": 4,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 84,
+        "def": 68,
+        "spa": 68,
+        "spd": 76,
+        "spe": 76
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Bounce",
+        "Dream Eater",
+        "Crabhammer",
+        "Rapid Spin"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 8,
+        "def": 11,
+        "spa": 29,
+        "spd": 16,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 32,
+        "spa": 44,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Shadow Ball",
+        "Yawn",
+        "Spark",
+        "Dig"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 3,
+        "atk": 11,
+        "def": 30,
+        "spa": 22,
+        "spd": 15,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 68,
+        "def": 76,
+        "spa": 92,
+        "spd": 92,
+        "spe": 60
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

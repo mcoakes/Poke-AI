@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_114",
+  "party": [
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Aerial Ace",
+        "Bullet Seed",
+        "Rest",
+        "Giga Drain"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 13,
+        "def": 23,
+        "spa": 3,
+        "spd": 11,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 32,
+        "spa": 32,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Flamethrower",
+        "Facade",
+        "Sunny Day",
+        "Scratch"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 0,
+        "atk": 6,
+        "def": 10,
+        "spa": 0,
+        "spd": 13,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 40,
+        "def": 76,
+        "spa": 68,
+        "spd": 52,
+        "spe": 36
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "Attract",
+        "Dig",
+        "Rest",
+        "Aerial Ace"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 30,
+        "atk": 23,
+        "def": 27,
+        "spa": 26,
+        "spd": 24,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 68,
+        "spa": 52,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Focus Energy",
+        "Brick Break",
+        "Faint Attack",
+        "Cross Chop"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 23,
+        "atk": 26,
+        "def": 18,
+        "spa": 7,
+        "spd": 27,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 88,
+        "def": 72,
+        "spa": 32,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

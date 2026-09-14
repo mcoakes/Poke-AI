@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_109",
+  "party": [
+    {
+      "species": "Manectric",
+      "moves": [
+        "Double Team",
+        "Thunderbolt",
+        "Bite",
+        "Flash"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 25,
+        "def": 4,
+        "spa": 18,
+        "spd": 10,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 72,
+        "def": 36,
+        "spa": 36,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Shadow Ball",
+        "Rest",
+        "Destiny Bond",
+        "Dream Eater"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 2,
+        "atk": 15,
+        "def": 18,
+        "spa": 15,
+        "spd": 30,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 76,
+        "spa": 92,
+        "spd": 44,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Gust",
+        "Secret Power",
+        "Sludge Bomb",
+        "Attract"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 16,
+        "atk": 11,
+        "def": 31,
+        "spa": 19,
+        "spd": 26,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 24,
+        "spa": 12,
+        "spd": 4,
+        "spe": 20
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Twister",
+        "Ice Beam",
+        "Substitute",
+        "Agility"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 21,
+        "def": 15,
+        "spa": 10,
+        "spd": 3,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 40,
+        "spa": 44,
+        "spd": 52,
+        "spe": 100
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_083",
+  "party": [
+    {
+      "species": "Electrike",
+      "moves": [
+        "Tackle",
+        "Metal Sound",
+        "Rock Smash",
+        "Will O Wisp"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 0,
+        "atk": 28,
+        "def": 11,
+        "spa": 10,
+        "spd": 3,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 96,
+        "spa": 76,
+        "spd": 84,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Totodile",
+      "moves": [
+        "Mud Slap",
+        "Aromatherapy",
+        "Rock Blast",
+        "Faint Attack"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 23,
+        "atk": 25,
+        "def": 7,
+        "spa": 7,
+        "spd": 28,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 12,
+        "spa": 8,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Cloyster",
+      "moves": [
+        "Pain Split",
+        "Tail Whip",
+        "Counter",
+        "Dream Eater"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 17,
+        "atk": 8,
+        "def": 18,
+        "spa": 23,
+        "spd": 11,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 88,
+        "spa": 104,
+        "spd": 56,
+        "spe": 84
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Electrode",
+      "moves": [
+        "Air Cutter",
+        "Ice Beam",
+        "Wish",
+        "Stockpile"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 3,
+        "atk": 21,
+        "def": 14,
+        "spa": 25,
+        "spd": 15,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

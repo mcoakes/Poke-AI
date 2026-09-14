@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_010",
+  "party": [
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Protect",
+        "Waterfall",
+        "Earthquake",
+        "Surf"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 31,
+        "atk": 16,
+        "def": 14,
+        "spa": 24,
+        "spd": 0,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 20,
+        "spa": 32,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Substitute",
+        "Brick Break",
+        "Rock Smash",
+        "Facade"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 16,
+        "atk": 23,
+        "def": 29,
+        "spa": 18,
+        "spd": 29,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 60,
+        "spa": 28,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Thrash",
+        "Rock Smash",
+        "Ember",
+        "Substitute"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 7,
+        "atk": 26,
+        "def": 28,
+        "spa": 15,
+        "spd": 24,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 44,
+        "def": 44,
+        "spa": 20,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_127",
+  "party": [
+    {
+      "species": "Xatu",
+      "moves": [
+        "Toxic",
+        "Secret Power",
+        "Faint Attack",
+        "Dream Eater"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 10,
+        "spa": 16,
+        "spd": 11,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 36,
+        "spa": 44,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Safeguard",
+        "Ancient Power",
+        "Bullet Seed",
+        "Razor Leaf"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 29,
+        "spa": 15,
+        "spd": 2,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 4,
+        "def": 8,
+        "spa": 20,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    },
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Thunder Wave",
+        "Rock Tomb",
+        "Rest",
+        "Body Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 2,
+        "atk": 11,
+        "def": 14,
+        "spa": 24,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 52,
+        "spa": 64,
+        "spd": 64,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Agility",
+        "Tackle",
+        "Aerial Ace",
+        "Swift"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 23,
+        "atk": 26,
+        "def": 6,
+        "spa": 3,
+        "spd": 13,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 32,
+        "spa": 36,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_118",
+  "party": [
+    {
+      "species": "Seaking",
+      "moves": [
+        "Water Pulse",
+        "Mud Sport",
+        "Ice Beam",
+        "Sleep Talk"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 11,
+        "def": 26,
+        "spa": 26,
+        "spd": 28,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 4,
+        "spa": 28,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Roar",
+        "Facade",
+        "Earthquake",
+        "Odor Sleuth"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 6,
+        "def": 2,
+        "spa": 17,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 48,
+        "spa": 44,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Peck",
+        "Sludge Bomb",
+        "Leer",
+        "Confusion"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 18,
+        "atk": 29,
+        "def": 30,
+        "spa": 4,
+        "spd": 28,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 48,
+        "spa": 28,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Toxic",
+        "Harden",
+        "Aerial Ace",
+        "Dream Eater"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 24,
+        "def": 6,
+        "spa": 4,
+        "spd": 8,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 28,
+        "def": 56,
+        "spa": 44,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Block",
+        "Earthquake",
+        "Secret Power",
+        "Sunny Day"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 18,
+        "spa": 27,
+        "spd": 23,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 56,
+        "spa": 52,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Earthquake",
+        "Toxic",
+        "Snore",
+        "Hidden Power"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 2,
+        "atk": 8,
+        "def": 3,
+        "spa": 4,
+        "spd": 2,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 16,
+        "spa": 8,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

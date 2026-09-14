@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_062",
+  "party": [
+    {
+      "species": "Meowth",
+      "moves": [
+        "Facade",
+        "Dig",
+        "Substitute",
+        "Dream Eater"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 3,
+        "atk": 23,
+        "def": 13,
+        "spa": 15,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 40,
+        "spa": 32,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

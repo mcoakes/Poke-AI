@@ -1,0 +1,40 @@
+{
+  "name": "random_1_028",
+  "party": [
+    {
+      "species": "Lotad",
+      "moves": [
+        "Pain Split",
+        "Bite",
+        "Smog",
+        "Trick"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 31,
+        "atk": 19,
+        "def": 10,
+        "spa": 13,
+        "spd": 28,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

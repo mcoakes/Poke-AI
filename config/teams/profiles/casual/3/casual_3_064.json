@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_064",
+  "party": [
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Facade",
+        "Aerial Ace",
+        "Mega Drain",
+        "Poison Powder"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 24,
+        "atk": 1,
+        "def": 3,
+        "spa": 28,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 52,
+        "def": 72,
+        "spa": 88,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Sky Uppercut",
+        "Aerial Ace",
+        "Scratch",
+        "Protect"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 8,
+        "atk": 13,
+        "def": 19,
+        "spa": 26,
+        "spd": 17,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 40,
+        "spa": 64,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Huntail",
+      "moves": [
+        "Baton Pass",
+        "Rock Tomb",
+        "Barrier",
+        "Dive"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 14,
+        "spa": 12,
+        "spd": 6,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 44,
+        "spa": 56,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

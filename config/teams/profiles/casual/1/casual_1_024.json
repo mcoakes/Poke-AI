@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_024",
+  "party": [
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Amnesia",
+        "Heat Wave",
+        "Endure",
+        "Strength"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 25,
+        "atk": 2,
+        "def": 16,
+        "spa": 24,
+        "spd": 7,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 64,
+        "spa": 68,
+        "spd": 76,
+        "spe": 48
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

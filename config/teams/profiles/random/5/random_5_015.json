@@ -1,0 +1,152 @@
+{
+  "name": "random_5_015",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Razor Leaf",
+        "Shadow Ball",
+        "Dragon Dance",
+        "Powder Snow"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 13,
+        "def": 10,
+        "spa": 16,
+        "spd": 25,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 56,
+        "spa": 52,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Hail",
+        "Signal Beam",
+        "Skill Swap",
+        "Psywave"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 22,
+        "spa": 10,
+        "spd": 13,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 36,
+        "spa": 40,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wurmple",
+      "moves": [
+        "Comet Punch",
+        "Thunderbolt",
+        "Mirror Move",
+        "Ice Punch"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 1,
+        "atk": 27,
+        "def": 15,
+        "spa": 25,
+        "spd": 24,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 32,
+        "spa": 16,
+        "spd": 12,
+        "spe": 36
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Rock Throw",
+        "Astonish",
+        "Razor Leaf",
+        "Focus Punch"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 18,
+        "atk": 22,
+        "def": 14,
+        "spa": 0,
+        "spd": 19,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 40,
+        "spa": 12,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magneton",
+      "moves": [
+        "Sand Attack",
+        "Dig",
+        "Sonic Boom",
+        "Confuse Ray"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 15,
+        "def": 12,
+        "spa": 5,
+        "spd": 27,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 104,
+        "def": 56,
+        "spa": 72,
+        "spd": 56,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

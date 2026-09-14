@@ -1,0 +1,152 @@
+{
+  "name": "random_5_048",
+  "party": [
+    {
+      "species": "Koffing",
+      "moves": [
+        "Mega Kick",
+        "Role Play",
+        "Camouflage",
+        "Skull Bash"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 31,
+        "def": 17,
+        "spa": 17,
+        "spd": 6,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 52,
+        "spa": 28,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Hypnosis",
+        "Ice Ball",
+        "Aeroblast",
+        "Fire Punch"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 7,
+        "spa": 25,
+        "spd": 2,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 52,
+        "spa": 64,
+        "spd": 92,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Tail Whip",
+        "Rollout",
+        "Dragon Breath",
+        "Twister"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 7,
+        "def": 20,
+        "spa": 11,
+        "spd": 16,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 36,
+        "spa": 28,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    },
+    {
+      "species": "Zubat",
+      "moves": [
+        "Icicle Spear",
+        "Whirlwind",
+        "Hyper Voice",
+        "Water Sport"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 2,
+        "atk": 23,
+        "def": 29,
+        "spa": 28,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 4,
+        "spa": 28,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Unown",
+      "moves": [
+        "Twister",
+        "Bone Club",
+        "Cut",
+        "Shock Wave"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 19,
+        "atk": 27,
+        "def": 22,
+        "spa": 30,
+        "spd": 12,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 64,
+        "spa": 40,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_103",
+  "party": [
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Taunt",
+        "Iron Defense",
+        "Shadow Ball",
+        "Overheat"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 21,
+        "spa": 24,
+        "spd": 3,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 16,
+        "spa": 12,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Ember",
+        "Reflect",
+        "Metal Claw",
+        "Moonlight"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 14,
+        "atk": 25,
+        "def": 22,
+        "spa": 11,
+        "spd": 26,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 8,
+        "spa": 4,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Return",
+        "Amnesia",
+        "Refresh",
+        "Glare"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 9,
+        "spa": 24,
+        "spd": 18,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 76,
+        "def": 72,
+        "spa": 76,
+        "spd": 76,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Silver Wind",
+        "Stun Spore",
+        "Present",
+        "Haze"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 18,
+        "spa": 24,
+        "spd": 29,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 40,
+        "spa": 8,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Present",
+        "Leech Seed",
+        "Constrict",
+        "Safeguard"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 6,
+        "atk": 1,
+        "def": 27,
+        "spa": 20,
+        "spd": 11,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 64,
+        "def": 56,
+        "spa": 76,
+        "spd": 76,
+        "spe": 100
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Muk",
+      "moves": [
+        "Mega Drain",
+        "Mud Slap",
+        "Comet Punch",
+        "Heat Wave"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 18,
+        "atk": 28,
+        "def": 6,
+        "spa": 26,
+        "spd": 4,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 100,
+        "def": 80,
+        "spa": 56,
+        "spd": 72,
+        "spe": 100
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

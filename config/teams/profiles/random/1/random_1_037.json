@@ -1,0 +1,40 @@
+{
+  "name": "random_1_037",
+  "party": [
+    {
+      "species": "Diglett",
+      "moves": [
+        "Knock Off",
+        "Conversion 2",
+        "Vine Whip",
+        "Leaf Blade"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 4,
+        "def": 24,
+        "spa": 17,
+        "spd": 24,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 36
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

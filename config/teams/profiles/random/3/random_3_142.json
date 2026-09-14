@@ -1,0 +1,96 @@
+{
+  "name": "random_3_142",
+  "party": [
+    {
+      "species": "Graveler",
+      "moves": [
+        "Muddy Water",
+        "Disable",
+        "Toxic",
+        "Curse"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 15,
+        "atk": 22,
+        "def": 0,
+        "spa": 10,
+        "spd": 21,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 44,
+        "spa": 96,
+        "spd": 56,
+        "spe": 108
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Spit Up",
+        "Sunny Day",
+        "Charm",
+        "Sheer Cold"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 20,
+        "spa": 4,
+        "spd": 13,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 16,
+        "spa": 28,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Future Sight",
+        "Rolling Kick",
+        "Stun Spore",
+        "Hyper Voice"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 13,
+        "atk": 9,
+        "def": 23,
+        "spa": 27,
+        "spd": 30,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 60,
+        "def": 36,
+        "spa": 52,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

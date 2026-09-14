@@ -1,0 +1,124 @@
+{
+  "name": "random_4_034",
+  "party": [
+    {
+      "species": "Castform",
+      "moves": [
+        "Signal Beam",
+        "Grass Whistle",
+        "Poison Fang",
+        "Feather Dance"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 17,
+        "atk": 8,
+        "def": 18,
+        "spa": 24,
+        "spd": 4,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Sandstorm",
+        "Self Destruct",
+        "Muddy Water",
+        "Growl"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 14,
+        "atk": 25,
+        "def": 22,
+        "spa": 16,
+        "spd": 18,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Iron Defense",
+        "Earthquake",
+        "Fissure",
+        "Fury Cutter"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 5,
+        "atk": 8,
+        "def": 9,
+        "spa": 18,
+        "spd": 9,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 72,
+        "def": 68,
+        "spa": 80,
+        "spd": 52,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Endure",
+        "Sweet Scent",
+        "Memento",
+        "Wish"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 8,
+        "def": 7,
+        "spa": 5,
+        "spd": 1,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 72,
+        "spa": 68,
+        "spd": 84,
+        "spe": 88
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

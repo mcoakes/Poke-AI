@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_056",
+  "party": [
+    {
+      "species": "Gligar",
+      "moves": [
+        "Aerial Ace",
+        "Sludge Bomb",
+        "Dream Eater",
+        "Double Team"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 13,
+        "atk": 17,
+        "def": 4,
+        "spa": 26,
+        "spd": 25,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 56,
+        "spa": 8,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Body Slam",
+        "Sunny Day",
+        "Water Pulse",
+        "Rock Slide"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 1,
+        "spa": 28,
+        "spd": 25,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 64,
+        "spa": 44,
+        "spd": 56,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Porygon",
+      "moves": [
+        "Secret Power",
+        "Zap Cannon",
+        "Sunny Day",
+        "Hidden Power"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 29,
+        "spa": 30,
+        "spd": 26,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 44,
+        "spa": 36,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

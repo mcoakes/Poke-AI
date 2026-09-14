@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_060",
+  "party": [
+    {
+      "species": "Grimer",
+      "moves": [
+        "Sludge",
+        "Pound",
+        "Mean Look",
+        "Rest"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 17,
+        "atk": 21,
+        "def": 20,
+        "spa": 26,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 16,
+        "spa": 20,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

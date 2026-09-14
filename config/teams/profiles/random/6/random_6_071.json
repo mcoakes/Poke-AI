@@ -1,0 +1,180 @@
+{
+  "name": "random_6_071",
+  "party": [
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Extreme Speed",
+        "Sludge Bomb",
+        "Hyper Fang",
+        "Pound"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 9,
+        "def": 6,
+        "spa": 1,
+        "spd": 1,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 80,
+        "def": 48,
+        "spa": 84,
+        "spd": 68,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Rock Tomb",
+        "Dynamic Punch",
+        "Swords Dance",
+        "Needle Arm"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 9,
+        "spa": 4,
+        "spd": 11,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Spinda",
+      "moves": [
+        "Frustration",
+        "Air Cutter",
+        "Aeroblast",
+        "Splash"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 17,
+        "def": 25,
+        "spa": 4,
+        "spd": 19,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 12,
+        "spa": 8,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Guillotine",
+        "Howl",
+        "Camouflage",
+        "Rollout"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 22,
+        "spa": 16,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 84,
+        "def": 60,
+        "spa": 56,
+        "spd": 36,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Tickle",
+        "Swift",
+        "Doom Desire",
+        "Double Team"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 29,
+        "def": 9,
+        "spa": 8,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 92,
+        "def": 60,
+        "spa": 48,
+        "spd": 60,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Swallow",
+        "Ice Punch",
+        "Barrage",
+        "Drill Peck"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 7,
+        "def": 13,
+        "spa": 30,
+        "spd": 23,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 28,
+        "spa": 28,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

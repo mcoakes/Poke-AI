@@ -1,0 +1,180 @@
+{
+  "name": "random_6_130",
+  "party": [
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Fissure",
+        "Zap Cannon",
+        "Water Gun",
+        "Covet"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 16,
+        "atk": 21,
+        "def": 16,
+        "spa": 28,
+        "spd": 24,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 116,
+        "spa": 84,
+        "spd": 84,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hypno",
+      "moves": [
+        "Disable",
+        "Will O Wisp",
+        "Sand Attack",
+        "Amnesia"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 13,
+        "atk": 23,
+        "def": 28,
+        "spa": 16,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 20,
+        "spa": 28,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Howl",
+        "Lovely Kiss",
+        "Present",
+        "Sweet Scent"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 23,
+        "spa": 21,
+        "spd": 12,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 56,
+        "spa": 68,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Seismic Toss",
+        "Whirlwind",
+        "Mega Kick",
+        "Screech"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 12,
+        "atk": 30,
+        "def": 7,
+        "spa": 0,
+        "spd": 11,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 8,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Nature Power",
+        "Will O Wisp",
+        "Triple Kick",
+        "Return"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 19,
+        "def": 1,
+        "spa": 12,
+        "spd": 12,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 4,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Acid",
+        "Pain Split",
+        "Ice Punch",
+        "Rock Smash"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 26,
+        "atk": 13,
+        "def": 28,
+        "spa": 4,
+        "spd": 23,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 88,
+        "def": 60,
+        "spa": 80,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

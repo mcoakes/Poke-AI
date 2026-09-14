@@ -1,0 +1,68 @@
+{
+  "name": "random_2_095",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Soft Boiled",
+        "Safeguard",
+        "Supersonic",
+        "Confuse Ray"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 28,
+        "def": 30,
+        "spa": 28,
+        "spd": 13,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 8,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Fury Cutter",
+        "Fissure",
+        "Moonlight",
+        "Muddy Water"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 26,
+        "atk": 8,
+        "def": 31,
+        "spa": 0,
+        "spd": 7,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 28,
+        "spa": 8,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_126",
+  "party": [
+    {
+      "species": "Cleffa",
+      "moves": [
+        "Meteor Mash",
+        "Rolling Kick",
+        "Leech Life",
+        "Vice Grip"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 20,
+        "atk": 0,
+        "def": 2,
+        "spa": 0,
+        "spd": 21,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 36,
+        "def": 56,
+        "spa": 76,
+        "spd": 52,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Secret Power",
+        "Protect",
+        "Sonic Boom",
+        "Doom Desire"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 25,
+        "atk": 17,
+        "def": 20,
+        "spa": 13,
+        "spd": 6,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 120,
+        "atk": 60,
+        "def": 84,
+        "spa": 68,
+        "spd": 64,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Venonat",
+      "moves": [
+        "Covet",
+        "Extrasensory",
+        "Psychic",
+        "Swallow"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 10,
+        "atk": 29,
+        "def": 14,
+        "spa": 30,
+        "spd": 28,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 28,
+        "spa": 32,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Fly",
+        "Blaze Kick",
+        "Safeguard",
+        "Secret Power"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 31,
+        "atk": 17,
+        "def": 29,
+        "spa": 5,
+        "spd": 12,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 40,
+        "def": 52,
+        "spa": 56,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Bone Club",
+        "Brick Break",
+        "Sonic Boom",
+        "Sing"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 26,
+        "def": 18,
+        "spa": 16,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

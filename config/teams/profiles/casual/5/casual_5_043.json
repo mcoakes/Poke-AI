@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_043",
+  "party": [
+    {
+      "species": "Togepi",
+      "moves": [
+        "Attract",
+        "Dream Eater",
+        "Mega Punch",
+        "Rock Smash"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 24,
+        "atk": 10,
+        "def": 9,
+        "spa": 16,
+        "spd": 27,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 60,
+        "spa": 32,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ho Oh",
+      "moves": [
+        "Flamethrower",
+        "Aerial Ace",
+        "Safeguard",
+        "Substitute"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 27,
+        "atk": 29,
+        "def": 22,
+        "spa": 30,
+        "spd": 5,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 64,
+        "def": 76,
+        "spa": 64,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Splash",
+        "Dive",
+        "Attract",
+        "Dig"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 24,
+        "atk": 19,
+        "def": 27,
+        "spa": 21,
+        "spd": 3,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 56,
+        "spa": 56,
+        "spd": 32,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Protect",
+        "Hypnosis",
+        "Giga Drain",
+        "Uproar"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 9,
+        "atk": 23,
+        "def": 25,
+        "spa": 25,
+        "spd": 28,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 48,
+        "def": 44,
+        "spa": 76,
+        "spd": 60,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Acid",
+        "Sweet Scent",
+        "Bullet Seed",
+        "Giga Drain"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 18,
+        "spa": 31,
+        "spd": 27,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 44,
+        "spa": 68,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

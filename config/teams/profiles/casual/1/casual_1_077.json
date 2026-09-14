@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_077",
+  "party": [
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Sludge Bomb",
+        "Secret Power",
+        "Foresight",
+        "Sleep Powder"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 8,
+        "atk": 18,
+        "def": 7,
+        "spa": 22,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 48,
+        "spa": 84,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

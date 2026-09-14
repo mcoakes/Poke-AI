@@ -1,0 +1,20 @@
+--- a/src/platform/qt/Window.cpp
++++ b/src/platform/qt/Window.cpp
+@@ -2162,6 +2162,17 @@
+ 	m_config->updateOption("showResetInfo");
+ 	m_controller->start();
+ 
++#ifdef ENABLE_SCRIPTING
++	QByteArray startupScript = qgetenv("MGBA_LUA_SCRIPT");
++	if (!startupScript.isEmpty()) {
++		if (!m_scripting) {
++			m_scripting = std::make_unique<ScriptingController>();
++			m_scripting->setController(m_controller);
++		}
++		m_scripting->loadFile(QString::fromLocal8Bit(startupScript));
++	}
++#endif
++
+ 	if (!m_pendingState.isEmpty()) {
+ 		m_controller->loadState(m_pendingState);
+ 		m_pendingState = QString();

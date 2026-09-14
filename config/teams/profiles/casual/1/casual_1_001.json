@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_001",
+  "party": [
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Aerial Ace",
+        "Charge",
+        "Fly",
+        "Thunderbolt"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 7,
+        "atk": 1,
+        "def": 20,
+        "spa": 4,
+        "spd": 8,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 20,
+        "spa": 8,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

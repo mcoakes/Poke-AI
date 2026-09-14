@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_082",
+  "party": [
+    {
+      "species": "Seadra",
+      "moves": [
+        "Secret Power",
+        "Substitute",
+        "Surf",
+        "Agility"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 12,
+        "atk": 22,
+        "def": 19,
+        "spa": 27,
+        "spd": 13,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 12,
+        "spa": 28,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seaking",
+      "moves": [
+        "Toxic",
+        "Waterfall",
+        "Mimic",
+        "Facade"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 27,
+        "atk": 3,
+        "def": 8,
+        "spa": 8,
+        "spd": 28,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 72,
+        "spa": 64,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Facade",
+        "Swagger",
+        "Bite",
+        "Substitute"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 26,
+        "atk": 8,
+        "def": 21,
+        "spa": 15,
+        "spd": 16,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 48,
+        "def": 36,
+        "spa": 64,
+        "spd": 56,
+        "spe": 28
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Aerial Ace",
+        "Ember",
+        "Belly Drum",
+        "Rock Slide"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 5,
+        "atk": 30,
+        "def": 9,
+        "spa": 3,
+        "spd": 25,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 52,
+        "def": 20,
+        "spa": 16,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Faint Attack",
+        "Pin Missile",
+        "Needle Arm",
+        "Cotton Spore"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 4,
+        "atk": 22,
+        "def": 15,
+        "spa": 12,
+        "spd": 11,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 112,
+        "def": 52,
+        "spa": 52,
+        "spd": 60,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_138",
+  "party": [
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Protect",
+        "Attract",
+        "Ember",
+        "Crush Claw"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 2,
+        "atk": 15,
+        "def": 31,
+        "spa": 29,
+        "spd": 1,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 60,
+        "spa": 56,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Sandstorm",
+        "Drill Peck",
+        "Thunder",
+        "Thunderbolt"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 14,
+        "atk": 16,
+        "def": 12,
+        "spa": 21,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 48,
+        "spa": 48,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

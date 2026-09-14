@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_088",
+  "party": [
+    {
+      "species": "Scizor",
+      "moves": [
+        "Light Screen",
+        "Focus Energy",
+        "Silver Wind",
+        "Thief"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 12,
+        "atk": 29,
+        "def": 2,
+        "spa": 11,
+        "spd": 21,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 16,
+        "spa": 24,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Cut",
+        "Hail",
+        "Substitute",
+        "Crabhammer"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 23,
+        "atk": 10,
+        "def": 9,
+        "spa": 3,
+        "spd": 28,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 44,
+        "spa": 64,
+        "spd": 64,
+        "spe": 88
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

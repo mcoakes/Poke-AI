@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_139",
+  "party": [
+    {
+      "species": "Cubone",
+      "moves": [
+        "Dig",
+        "Mimic",
+        "Secret Power",
+        "Flamethrower"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 29,
+        "def": 18,
+        "spa": 25,
+        "spd": 25,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 48,
+        "spa": 28,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Attract",
+        "Ice Beam",
+        "Fury Attack",
+        "Sludge Bomb"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 1,
+        "def": 21,
+        "spa": 24,
+        "spd": 1,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 44,
+        "spa": 20,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Mimic",
+        "Petal Dance",
+        "Rest",
+        "Sludge Bomb"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 30,
+        "atk": 14,
+        "def": 8,
+        "spa": 31,
+        "spd": 21,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 32,
+        "spa": 28,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Cut",
+        "Protect",
+        "Bite",
+        "Attract"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 11,
+        "atk": 17,
+        "def": 20,
+        "spa": 3,
+        "spd": 6,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 28,
+        "spa": 44,
+        "spd": 44,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Registeel",
+      "moves": [
+        "Safeguard",
+        "Sunny Day",
+        "Brick Break",
+        "Metal Claw"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 30,
+        "atk": 7,
+        "def": 1,
+        "spa": 15,
+        "spd": 17,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 60,
+        "spa": 44,
+        "spd": 60,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Toxic",
+        "Ember",
+        "Facade",
+        "Heat Wave"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 26,
+        "atk": 12,
+        "def": 8,
+        "spa": 4,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 56,
+        "spa": 36,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

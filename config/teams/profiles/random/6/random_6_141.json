@@ -1,0 +1,180 @@
+{
+  "name": "random_6_141",
+  "party": [
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Endure",
+        "Howl",
+        "Guillotine",
+        "Cut"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 25,
+        "spa": 4,
+        "spd": 3,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 36,
+        "spa": 24,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Covet",
+        "Spore",
+        "Bubble",
+        "Camouflage"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 14,
+        "atk": 10,
+        "def": 7,
+        "spa": 17,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 28,
+        "spa": 24,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Double Kick",
+        "Double Team",
+        "Water Pulse",
+        "Razor Wind"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 25,
+        "atk": 21,
+        "def": 14,
+        "spa": 29,
+        "spd": 1,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 4,
+        "spa": 12,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Sunny Day",
+        "Metronome",
+        "Low Kick",
+        "Aeroblast"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 3,
+        "def": 3,
+        "spa": 0,
+        "spd": 13,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 12,
+        "spa": 20,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Wish",
+        "Spark",
+        "Yawn",
+        "Body Slam"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 13,
+        "atk": 4,
+        "def": 26,
+        "spa": 24,
+        "spd": 17,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 52,
+        "spa": 48,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Leech Life",
+        "Fury Attack",
+        "Swallow",
+        "Transform"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 25,
+        "atk": 16,
+        "def": 6,
+        "spa": 13,
+        "spd": 26,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 72,
+        "spa": 32,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

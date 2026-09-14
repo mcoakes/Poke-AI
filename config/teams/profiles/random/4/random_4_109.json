@@ -1,0 +1,124 @@
+{
+  "name": "random_4_109",
+  "party": [
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Brick Break",
+        "Counter",
+        "Superpower",
+        "Endure"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 12,
+        "atk": 27,
+        "def": 12,
+        "spa": 2,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 104,
+        "spa": 52,
+        "spd": 68,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Eruption",
+        "Rollout",
+        "Faint Attack",
+        "Fury Attack"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 26,
+        "spa": 30,
+        "spd": 2,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 40,
+        "spa": 24,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Focus Punch",
+        "Vine Whip",
+        "Signal Beam",
+        "Glare"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 12,
+        "def": 15,
+        "spa": 31,
+        "spd": 3,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 52,
+        "spa": 84,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Counter",
+        "Rock Smash",
+        "Poison Tail",
+        "Skull Bash"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 25,
+        "atk": 6,
+        "def": 17,
+        "spa": 9,
+        "spd": 16,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 96,
+        "def": 72,
+        "spa": 64,
+        "spd": 64,
+        "spe": 92
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

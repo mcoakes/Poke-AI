@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_118",
+  "party": [
+    {
+      "species": "Doduo",
+      "moves": [
+        "Pursuit",
+        "Body Slam",
+        "Faint Attack",
+        "Haze"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 9,
+        "spa": 0,
+        "spd": 11,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 80,
+        "spa": 68,
+        "spd": 88,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Substitute",
+        "Supersonic",
+        "Silver Wind",
+        "Psychic"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 29,
+        "def": 4,
+        "spa": 23,
+        "spd": 11,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 40,
+        "spa": 36,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Endeavor",
+        "Mud Sport",
+        "Surf",
+        "Cut"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 20,
+        "def": 8,
+        "spa": 31,
+        "spd": 21,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 40,
+        "def": 68,
+        "spa": 72,
+        "spd": 72,
+        "spe": 60
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    },
+    {
+      "species": "Slugma",
+      "moves": [
+        "Rock Throw",
+        "Substitute",
+        "Heat Wave",
+        "Fire Blast"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 25,
+        "atk": 4,
+        "def": 11,
+        "spa": 31,
+        "spd": 18,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 12,
+        "spa": 12,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Growl",
+        "Giga Drain",
+        "Growth",
+        "Facade"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 22,
+        "atk": 24,
+        "def": 11,
+        "spa": 26,
+        "spd": 22,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 76,
+        "def": 32,
+        "spa": 48,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

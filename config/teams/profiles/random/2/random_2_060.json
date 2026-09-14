@@ -1,0 +1,68 @@
+{
+  "name": "random_2_060",
+  "party": [
+    {
+      "species": "Absol",
+      "moves": [
+        "Perish Song",
+        "Ice Ball",
+        "Super Fang",
+        "Taunt"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 13,
+        "def": 10,
+        "spa": 15,
+        "spd": 16,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 72,
+        "def": 36,
+        "spa": 52,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cubone",
+      "moves": [
+        "Smelling Salt",
+        "Sheer Cold",
+        "Charge",
+        "Aurora Beam"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 8,
+        "spa": 13,
+        "spd": 20,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 44,
+        "spa": 36,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "water_vs_fire",
+  "party": [
+    {"species": "Blastoise", "level": 50, "moves": ["Surf", "IceBeam", "Bite", "Protect"]},
+    {"species": "Lapras", "level": 50, "moves": ["Surf", "IceBeam", "Thunderbolt", "ConfuseRay"]},
+    {"species": "Vaporeon", "level": 50, "moves": ["Surf", "Bite", "QuickAttack", "AcidArmor"]},
+    {"species": "Starmie", "level": 50, "moves": ["Surf", "Psychic", "Recover", "Thunderbolt"]},
+    {"species": "Poliwrath", "level": 50, "moves": ["Surf", "BrickBreak", "Hypnosis", "BodySlam"]},
+    {"species": "Gyarados", "level": 50, "moves": ["Surf", "Bite", "DragonDance", "HyperBeam"]}
+  ]
+}

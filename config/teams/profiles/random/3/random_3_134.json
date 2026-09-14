@@ -1,0 +1,96 @@
+{
+  "name": "random_3_134",
+  "party": [
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Light Screen",
+        "Rest",
+        "Ice Beam",
+        "Attract"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 13,
+        "atk": 8,
+        "def": 5,
+        "spa": 17,
+        "spd": 26,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 8,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Egg Bomb",
+        "Recycle",
+        "Sweet Scent",
+        "Milk Drink"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 14,
+        "spa": 10,
+        "spd": 11,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 44,
+        "spa": 48,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Grass Whistle",
+        "Signal Beam",
+        "Sand Tomb",
+        "Karate Chop"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 14,
+        "spa": 2,
+        "spd": 14,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 56,
+        "spa": 36,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

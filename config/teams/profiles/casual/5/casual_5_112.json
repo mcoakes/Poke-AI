@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_112",
+  "party": [
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Tackle",
+        "Harden",
+        "String Shot",
+        "Poison Sting"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 7,
+        "spa": 8,
+        "spd": 8,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 76,
+        "def": 56,
+        "spa": 64,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Bite",
+        "Iron Tail",
+        "Fly",
+        "Scary Face"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 18,
+        "atk": 7,
+        "def": 0,
+        "spa": 28,
+        "spd": 28,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 36,
+        "spa": 48,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Surf",
+        "Dive",
+        "Double Team",
+        "Facade"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 1,
+        "atk": 15,
+        "def": 25,
+        "spa": 5,
+        "spd": 0,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 52,
+        "spa": 84,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Secret Power",
+        "Thunder Wave",
+        "Flamethrower",
+        "Fake Tears"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 1,
+        "def": 31,
+        "spa": 26,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 20,
+        "spa": 12,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Substitute",
+        "Facade",
+        "Earthquake",
+        "Bone Rush"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 9,
+        "atk": 10,
+        "def": 16,
+        "spa": 18,
+        "spd": 0,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 64,
+        "def": 80,
+        "spa": 48,
+        "spd": 48,
+        "spe": 72
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

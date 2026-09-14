@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_125",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Sharpen",
+        "Secret Power",
+        "Aerial Ace",
+        "Shock Wave"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 2,
+        "spa": 14,
+        "spd": 5,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 32,
+        "spa": 28,
+        "spd": 20,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Swift",
+        "Blizzard",
+        "Psychic",
+        "Confuse Ray"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 16,
+        "atk": 9,
+        "def": 17,
+        "spa": 11,
+        "spd": 8,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 48,
+        "spa": 40,
+        "spd": 68,
+        "spe": 36
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

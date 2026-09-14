@@ -1,0 +1,96 @@
+{
+  "name": "random_3_018",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Seismic Toss",
+        "Hypnosis",
+        "Bone Rush",
+        "Volt Tackle"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 23,
+        "atk": 4,
+        "def": 22,
+        "spa": 8,
+        "spd": 16,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 72,
+        "spa": 64,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Bide",
+        "Confusion",
+        "Charge",
+        "Rock Blast"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 31,
+        "spa": 6,
+        "spd": 13,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 24,
+        "spa": 28,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Strength",
+        "Secret Power",
+        "Cut",
+        "Pin Missile"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 27,
+        "atk": 19,
+        "def": 24,
+        "spa": 23,
+        "spd": 3,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 68,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

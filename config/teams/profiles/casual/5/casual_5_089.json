@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_089",
+  "party": [
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Agility",
+        "Double Edge",
+        "Heat Wave",
+        "Strength"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 15,
+        "atk": 10,
+        "def": 23,
+        "spa": 29,
+        "spd": 24,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 48,
+        "def": 56,
+        "spa": 68,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Spearow",
+      "moves": [
+        "Growl",
+        "Fly",
+        "Secret Power",
+        "Rest"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 21,
+        "atk": 31,
+        "def": 0,
+        "spa": 15,
+        "spd": 9,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 8,
+        "spa": 8,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Toxic",
+        "Feather Dance",
+        "Fly",
+        "Quick Attack"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 27,
+        "atk": 3,
+        "def": 12,
+        "spa": 8,
+        "spd": 8,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 40,
+        "spa": 44,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Dream Eater",
+        "Facade",
+        "Water Pulse",
+        "Thunder Wave"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 14,
+        "def": 7,
+        "spa": 26,
+        "spd": 2,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 12,
+        "spa": 16,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Shock Wave",
+        "Toxic",
+        "Body Slam",
+        "Mimic"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 23,
+        "atk": 8,
+        "def": 4,
+        "spa": 9,
+        "spd": 17,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 32,
+        "spa": 40,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

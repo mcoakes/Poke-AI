@@ -1,0 +1,96 @@
+{
+  "name": "random_3_022",
+  "party": [
+    {
+      "species": "Paras",
+      "moves": [
+        "Sludge Bomb",
+        "Fake Out",
+        "Focus Punch",
+        "Stockpile"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 6,
+        "atk": 14,
+        "def": 19,
+        "spa": 29,
+        "spd": 30,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Harden",
+        "Body Slam",
+        "Encore",
+        "Vital Throw"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 30,
+        "atk": 25,
+        "def": 16,
+        "spa": 26,
+        "spd": 6,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 60,
+        "spa": 44,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Bide",
+        "Rolling Kick",
+        "Milk Drink",
+        "Rock Throw"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 2,
+        "atk": 25,
+        "def": 13,
+        "spa": 26,
+        "spd": 7,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 76,
+        "spa": 52,
+        "spd": 80,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

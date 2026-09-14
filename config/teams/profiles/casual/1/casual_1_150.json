@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_150",
+  "party": [
+    {
+      "species": "Azurill",
+      "moves": [
+        "Slam",
+        "Secret Power",
+        "Substitute",
+        "Surf"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 21,
+        "atk": 21,
+        "def": 9,
+        "spa": 7,
+        "spd": 11,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 32,
+        "spa": 24,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

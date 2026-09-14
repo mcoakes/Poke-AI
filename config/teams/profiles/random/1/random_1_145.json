@@ -1,0 +1,40 @@
+{
+  "name": "random_1_145",
+  "party": [
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Ancient Power",
+        "Strength",
+        "Thunder Wave",
+        "Swagger"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 5,
+        "atk": 28,
+        "def": 14,
+        "spa": 28,
+        "spd": 22,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 40,
+        "def": 84,
+        "spa": 64,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

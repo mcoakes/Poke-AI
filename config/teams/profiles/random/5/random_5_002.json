@@ -1,0 +1,152 @@
+{
+  "name": "random_5_002",
+  "party": [
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Kinesis",
+        "Hyper Fang",
+        "Wing Attack",
+        "Spider Web"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 13,
+        "atk": 10,
+        "def": 17,
+        "spa": 18,
+        "spd": 8,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 52,
+        "spa": 68,
+        "spd": 88,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Doom Desire",
+        "Supersonic",
+        "Sleep Talk",
+        "Detect"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 4,
+        "spa": 31,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 64,
+        "def": 60,
+        "spa": 64,
+        "spd": 96,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Dragon Rage",
+        "Tail Whip",
+        "Calm Mind",
+        "Volt Tackle"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 14,
+        "atk": 29,
+        "def": 25,
+        "spa": 31,
+        "spd": 5,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 40,
+        "spa": 60,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Return",
+        "Wish",
+        "Perish Song",
+        "Flail"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 31,
+        "spa": 3,
+        "spd": 15,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tangela",
+      "moves": [
+        "Heal Bell",
+        "Barrage",
+        "Waterfall",
+        "Splash"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 9,
+        "atk": 24,
+        "def": 11,
+        "spa": 6,
+        "spd": 28,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

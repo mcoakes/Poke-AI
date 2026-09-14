@@ -1,0 +1,40 @@
+{
+  "name": "random_1_070",
+  "party": [
+    {
+      "species": "Rattata",
+      "moves": [
+        "Aurora Beam",
+        "Petal Dance",
+        "Rolling Kick",
+        "Rock Blast"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 1,
+        "spa": 7,
+        "spd": 4,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 76,
+        "def": 36,
+        "spa": 88,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

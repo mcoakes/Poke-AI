@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_115",
+  "party": [
+    {
+      "species": "Marill",
+      "moves": [
+        "Hidden Power",
+        "Tickle",
+        "Brick Break",
+        "Surf"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 8,
+        "atk": 11,
+        "def": 29,
+        "spa": 8,
+        "spd": 14,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 56,
+        "spa": 40,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Dive",
+        "Refresh",
+        "Ice Beam",
+        "Body Slam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 4,
+        "atk": 9,
+        "def": 15,
+        "spa": 11,
+        "spd": 13,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 16,
+        "spa": 24,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Drill Peck",
+        "Mimic",
+        "Rest",
+        "Body Slam"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 17,
+        "def": 19,
+        "spa": 0,
+        "spd": 2,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 44,
+        "spa": 32,
+        "spd": 84,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Confusion",
+        "Protect",
+        "Egg Bomb",
+        "Explosion"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 9,
+        "atk": 31,
+        "def": 22,
+        "spa": 20,
+        "spd": 11,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 36,
+        "spa": 40,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Secret Power",
+        "Shadow Ball",
+        "Faint Attack",
+        "Taunt"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 19,
+        "atk": 7,
+        "def": 10,
+        "spa": 3,
+        "spd": 31,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 32,
+        "def": 68,
+        "spa": 64,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Mimic",
+        "Aerial Ace",
+        "Psychic",
+        "Rain Dance"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 5,
+        "atk": 28,
+        "def": 4,
+        "spa": 8,
+        "spd": 30,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 20,
+        "def": 8,
+        "spa": 24,
+        "spd": 40,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

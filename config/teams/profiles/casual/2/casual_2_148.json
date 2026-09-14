@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_148",
+  "party": [
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Rain Dance",
+        "Revenge",
+        "Earthquake",
+        "Belly Drum"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 11,
+        "atk": 1,
+        "def": 18,
+        "spa": 30,
+        "spd": 2,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 68,
+        "spa": 56,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snubbull",
+      "moves": [
+        "Hidden Power",
+        "Secret Power",
+        "Thief",
+        "Metronome"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 11,
+        "atk": 15,
+        "def": 22,
+        "spa": 7,
+        "spd": 5,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 16,
+        "spa": 20,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

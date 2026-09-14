@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_028",
+  "party": [
+    {
+      "species": "Seedot",
+      "moves": [
+        "Solar Beam",
+        "Facade",
+        "Giga Drain",
+        "Harden"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 31,
+        "atk": 18,
+        "def": 30,
+        "spa": 23,
+        "spd": 27,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 40,
+        "spa": 32,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

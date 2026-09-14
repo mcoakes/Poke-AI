@@ -1,0 +1,40 @@
+{
+  "name": "random_1_138",
+  "party": [
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Petal Dance",
+        "Scary Face",
+        "Clamp",
+        "Slash"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 13,
+        "atk": 21,
+        "def": 12,
+        "spa": 8,
+        "spd": 24,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 48,
+        "spa": 44,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

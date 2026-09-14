@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_135",
+  "party": [
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Ice Beam",
+        "Facade",
+        "Octazooka",
+        "Protect"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 1,
+        "atk": 28,
+        "def": 19,
+        "spa": 8,
+        "spd": 21,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 68,
+        "def": 56,
+        "spa": 52,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Destiny Bond",
+        "Encore",
+        "Counter",
+        "Mirror Coat"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 7,
+        "atk": 6,
+        "def": 31,
+        "spa": 16,
+        "spd": 22,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 16,
+        "spa": 12,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Air Cutter",
+        "Poison Fang",
+        "Quick Attack",
+        "Taunt"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 19,
+        "atk": 11,
+        "def": 17,
+        "spa": 27,
+        "spd": 6,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 64,
+        "spa": 32,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Foresight",
+        "Cross Chop",
+        "Rock Tomb",
+        "Substitute"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 30,
+        "atk": 2,
+        "def": 19,
+        "spa": 16,
+        "spd": 23,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Ember",
+        "Double Team",
+        "Iron Tail",
+        "Fire Blast"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 30,
+        "atk": 17,
+        "def": 30,
+        "spa": 17,
+        "spd": 10,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 12,
+        "spa": 16,
+        "spd": 24,
+        "spe": 8
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

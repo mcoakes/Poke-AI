@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_094",
+  "party": [
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Toxic",
+        "Shadow Ball",
+        "Crunch",
+        "Take Down"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 30,
+        "atk": 4,
+        "def": 5,
+        "spa": 6,
+        "spd": 20,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 56,
+        "spa": 60,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

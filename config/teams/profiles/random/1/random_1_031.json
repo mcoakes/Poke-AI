@@ -1,0 +1,40 @@
+{
+  "name": "random_1_031",
+  "party": [
+    {
+      "species": "Absol",
+      "moves": [
+        "Camouflage",
+        "Fly",
+        "Amnesia",
+        "Secret Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 4,
+        "atk": 26,
+        "def": 10,
+        "spa": 16,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 80,
+        "def": 76,
+        "spa": 60,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

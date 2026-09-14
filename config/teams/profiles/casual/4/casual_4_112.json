@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_112",
+  "party": [
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Rest",
+        "Reflect",
+        "Sludge Bomb",
+        "Razor Leaf"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 13,
+        "def": 28,
+        "spa": 25,
+        "spd": 1,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 40,
+        "spa": 52,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrode",
+      "moves": [
+        "Thunderbolt",
+        "Secret Power",
+        "Screech",
+        "Facade"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 8,
+        "atk": 26,
+        "def": 2,
+        "spa": 16,
+        "spd": 21,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 72,
+        "spa": 44,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Wing Attack",
+        "Agility",
+        "Aerial Ace",
+        "Quick Attack"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 5,
+        "atk": 21,
+        "def": 20,
+        "spa": 21,
+        "spd": 30,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 32,
+        "spa": 52,
+        "spd": 64,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Skill Swap",
+        "Gust",
+        "Screech",
+        "Signal Beam"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 13,
+        "atk": 8,
+        "def": 5,
+        "spa": 17,
+        "spd": 2,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 32,
+        "spa": 20,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

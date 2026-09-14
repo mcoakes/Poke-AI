@@ -1,0 +1,68 @@
+{
+  "name": "random_2_143",
+  "party": [
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Bonemerang",
+        "Metronome",
+        "Muddy Water",
+        "Sharpen"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 4,
+        "atk": 23,
+        "def": 16,
+        "spa": 7,
+        "spd": 8,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 84,
+        "spa": 72,
+        "spd": 92,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Fury Attack",
+        "Dream Eater",
+        "Metronome",
+        "Crush Claw"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 14,
+        "def": 24,
+        "spa": 8,
+        "spd": 14,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 88,
+        "spa": 84,
+        "spd": 88,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

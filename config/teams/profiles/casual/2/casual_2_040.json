@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_040",
+  "party": [
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Secret Power",
+        "Dream Eater",
+        "Sunny Day",
+        "Toxic"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "spa": 19,
+        "spd": 24,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 16,
+        "def": 12,
+        "spa": 16,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Revenge",
+        "Secret Power",
+        "Rain Dance",
+        "Frustration"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 22,
+        "def": 4,
+        "spa": 20,
+        "spd": 18,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

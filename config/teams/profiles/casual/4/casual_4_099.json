@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_099",
+  "party": [
+    {
+      "species": "Slugma",
+      "moves": [
+        "Ember",
+        "Secret Power",
+        "Heat Wave",
+        "Yawn"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 8,
+        "atk": 3,
+        "def": 29,
+        "spa": 29,
+        "spd": 31,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 32,
+        "spa": 20,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magneton",
+      "moves": [
+        "Facade",
+        "Thunder Shock",
+        "Secret Power",
+        "Protect"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 11,
+        "def": 4,
+        "spa": 7,
+        "spd": 22,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 48,
+        "def": 52,
+        "spa": 32,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Substitute",
+        "Extrasensory",
+        "Stomp",
+        "Howl"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 2,
+        "def": 7,
+        "spa": 18,
+        "spd": 15,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 28,
+        "spa": 60,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Attract",
+        "Shock Wave",
+        "Confusion",
+        "Dream Eater"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 9,
+        "atk": 25,
+        "def": 0,
+        "spa": 27,
+        "spd": 23,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 72,
+        "spa": 76,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

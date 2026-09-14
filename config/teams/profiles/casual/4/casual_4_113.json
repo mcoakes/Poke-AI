@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_113",
+  "party": [
+    {
+      "species": "Silcoon",
+      "moves": [
+        "String Shot",
+        "Poison Sting",
+        "Tackle",
+        "Harden"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 6,
+        "atk": 14,
+        "def": 13,
+        "spa": 5,
+        "spd": 21,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 32,
+        "spa": 40,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Cut",
+        "Attract",
+        "Ember",
+        "Outrage"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 18,
+        "def": 24,
+        "spa": 31,
+        "spd": 23,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 36,
+        "spa": 24,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Reflect",
+        "Protect",
+        "Strength",
+        "Water Pulse"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 16,
+        "atk": 2,
+        "def": 3,
+        "spa": 13,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 12,
+        "spa": 24,
+        "spd": 40,
+        "spe": 20
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Revenge",
+        "Surf",
+        "Rock Smash",
+        "Metronome"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 8,
+        "atk": 21,
+        "def": 3,
+        "spa": 11,
+        "spd": 11,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 12,
+        "spa": 20,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

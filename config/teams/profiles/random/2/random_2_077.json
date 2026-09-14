@@ -1,0 +1,68 @@
+{
+  "name": "random_2_077",
+  "party": [
+    {
+      "species": "Ninjask",
+      "moves": [
+        "Destiny Bond",
+        "Bulk Up",
+        "Nightmare",
+        "Double Edge"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 27,
+        "atk": 18,
+        "def": 26,
+        "spa": 18,
+        "spd": 8,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 80,
+        "def": 84,
+        "spa": 92,
+        "spd": 96,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Swords Dance",
+        "Snore",
+        "Strength",
+        "Meteor Mash"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 27,
+        "atk": 31,
+        "def": 19,
+        "spa": 17,
+        "spd": 13,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 96,
+        "spa": 64,
+        "spd": 88,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

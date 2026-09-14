@@ -1,0 +1,124 @@
+{
+  "name": "random_4_005",
+  "party": [
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Bite",
+        "Tickle",
+        "Minimize",
+        "Rock Throw"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 29,
+        "spa": 30,
+        "spd": 31,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 24,
+        "spa": 52,
+        "spd": 56,
+        "spe": 84
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Psychic",
+        "Fissure",
+        "Mega Punch",
+        "Sleep Talk"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 17,
+        "atk": 27,
+        "def": 2,
+        "spa": 5,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 40,
+        "spa": 48,
+        "spd": 88,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cleffa",
+      "moves": [
+        "Peck",
+        "Rock Throw",
+        "Arm Thrust",
+        "Guillotine"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 21,
+        "atk": 18,
+        "def": 10,
+        "spa": 26,
+        "spd": 7,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 36,
+        "spa": 60,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Heal Bell",
+        "Horn Drill",
+        "Rapid Spin",
+        "Present"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 4,
+        "atk": 31,
+        "def": 8,
+        "spa": 18,
+        "spd": 20,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 4,
+        "spa": 8,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

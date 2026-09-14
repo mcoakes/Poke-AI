@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_036",
+  "party": [
+    {
+      "species": "Nidoqueen",
+      "moves": [
+        "Poison Sting",
+        "Earthquake",
+        "Taunt",
+        "Ice Beam"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 4,
+        "def": 11,
+        "spa": 27,
+        "spd": 16,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 36,
+        "spa": 40,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

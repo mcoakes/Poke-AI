@@ -1,0 +1,180 @@
+{
+  "name": "random_6_127",
+  "party": [
+    {
+      "species": "Solrock",
+      "moves": [
+        "Pound",
+        "Smog",
+        "Sludge",
+        "Lick"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 23,
+        "spa": 11,
+        "spd": 17,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 20,
+        "def": 52,
+        "spa": 60,
+        "spd": 40,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pupitar",
+      "moves": [
+        "Hyper Beam",
+        "Pay Day",
+        "Bubble",
+        "Bullet Seed"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 7,
+        "atk": 11,
+        "def": 26,
+        "spa": 21,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 44,
+        "spa": 24,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Metal Claw",
+        "Spit Up",
+        "False Swipe",
+        "Swallow"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 3,
+        "atk": 19,
+        "def": 17,
+        "spa": 27,
+        "spd": 31,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 16,
+        "spa": 12,
+        "spd": 0,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Earthquake",
+        "Skill Swap",
+        "Splash",
+        "Water Pulse"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 21,
+        "atk": 3,
+        "def": 25,
+        "spa": 13,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 64,
+        "def": 100,
+        "spa": 76,
+        "spd": 96,
+        "spe": 68
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Hyper Fang",
+        "Ice Beam",
+        "Wish",
+        "Razor Leaf"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 17,
+        "atk": 14,
+        "def": 6,
+        "spa": 0,
+        "spd": 27,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 36,
+        "spa": 40,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Hyper Voice",
+        "Metal Sound",
+        "Mist Ball",
+        "Conversion"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 8,
+        "atk": 11,
+        "def": 27,
+        "spa": 0,
+        "spd": 18,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 56,
+        "spa": 36,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

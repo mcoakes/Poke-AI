@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_125",
+  "party": [
+    {
+      "species": "Lileep",
+      "moves": [
+        "Recover",
+        "Secret Power",
+        "Double Team",
+        "Rock Slide"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 5,
+        "atk": 1,
+        "def": 11,
+        "spa": 2,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 80,
+        "spa": 52,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Thief",
+        "String Shot",
+        "Giga Drain",
+        "Aerial Ace"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 7,
+        "atk": 25,
+        "def": 30,
+        "spa": 1,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 16,
+        "spa": 32,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Crunch",
+        "Seismic Toss",
+        "Giga Drain",
+        "Mud Sport"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 11,
+        "def": 18,
+        "spa": 11,
+        "spd": 22,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 48,
+        "spa": 28,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Machop",
+      "moves": [
+        "Dig",
+        "Submission",
+        "Return",
+        "Encore"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 1,
+        "atk": 3,
+        "def": 10,
+        "spa": 4,
+        "spd": 14,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 44,
+        "def": 36,
+        "spa": 56,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Brick Break",
+        "Toxic",
+        "Flamethrower",
+        "Quick Attack"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 11,
+        "atk": 15,
+        "def": 16,
+        "spa": 26,
+        "spd": 19,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 44,
+        "spa": 52,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

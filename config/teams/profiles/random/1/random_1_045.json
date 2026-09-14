@@ -1,0 +1,40 @@
+{
+  "name": "random_1_045",
+  "party": [
+    {
+      "species": "Aggron",
+      "moves": [
+        "Psybeam",
+        "Horn Attack",
+        "Destiny Bond",
+        "Spite"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 25,
+        "spa": 30,
+        "spd": 6,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 60,
+        "spa": 64,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

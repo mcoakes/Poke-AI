@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_108",
+  "party": [
+    {
+      "species": "Metang",
+      "moves": [
+        "Light Screen",
+        "Meteor Mash",
+        "Pursuit",
+        "Body Slam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 25,
+        "def": 4,
+        "spa": 2,
+        "spd": 4,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 40,
+        "spa": 24,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Gust",
+        "Supersonic",
+        "Secret Power",
+        "Frustration"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 13,
+        "atk": 24,
+        "def": 18,
+        "spa": 8,
+        "spd": 13,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 28,
+        "def": 32,
+        "spa": 32,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

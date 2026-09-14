@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_140",
+  "party": [
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Sunny Day",
+        "Thunderbolt",
+        "Secret Power",
+        "Return"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 15,
+        "def": 4,
+        "spa": 17,
+        "spd": 15,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 40,
+        "def": 68,
+        "spa": 44,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cleffa",
+      "moves": [
+        "Rest",
+        "Pound",
+        "Present",
+        "Shock Wave"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 15,
+        "atk": 18,
+        "def": 0,
+        "spa": 19,
+        "spd": 17,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 20,
+        "spa": 52,
+        "spd": 68,
+        "spe": 32
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Confusion",
+        "Psychic",
+        "Secret Power",
+        "Double Team"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 23,
+        "def": 26,
+        "spa": 0,
+        "spd": 22,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 16,
+        "spa": 44,
+        "spd": 28,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

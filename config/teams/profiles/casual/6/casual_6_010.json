@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_010",
+  "party": [
+    {
+      "species": "Raticate",
+      "moves": [
+        "Hyper Fang",
+        "Mimic",
+        "Shadow Ball",
+        "Double Team"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 15,
+        "spa": 16,
+        "spd": 7,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 96,
+        "spa": 64,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Surf",
+        "Block",
+        "Snore",
+        "Mimic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 3,
+        "def": 3,
+        "spa": 22,
+        "spd": 11,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 20,
+        "spa": 16,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Thunderbolt",
+        "Skill Swap",
+        "Sludge Bomb",
+        "Night Shade"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 3,
+        "atk": 25,
+        "def": 30,
+        "spa": 0,
+        "spd": 2,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 48,
+        "def": 80,
+        "spa": 52,
+        "spd": 80,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Thief",
+        "Iron Tail",
+        "Rain Dance",
+        "Double Team"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 13,
+        "atk": 8,
+        "def": 12,
+        "spa": 22,
+        "spd": 22,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 56,
+        "spa": 60,
+        "spd": 64,
+        "spe": 96
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Dig",
+        "Faint Attack",
+        "Tri Attack",
+        "Sunny Day"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 4,
+        "atk": 7,
+        "def": 23,
+        "spa": 24,
+        "spd": 5,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 24,
+        "spa": 12,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    },
+    {
+      "species": "Ekans",
+      "moves": [
+        "Acid",
+        "Haze",
+        "Strength",
+        "Bite"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 4,
+        "def": 18,
+        "spa": 13,
+        "spd": 12,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 52,
+        "spa": 48,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

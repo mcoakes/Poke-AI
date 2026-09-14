@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_038",
+  "party": [
+    {
+      "species": "Totodile",
+      "moves": [
+        "Swords Dance",
+        "Scary Face",
+        "Iron Tail",
+        "Surf"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 2,
+        "atk": 13,
+        "def": 11,
+        "spa": 31,
+        "spd": 14,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 28,
+        "spa": 48,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Sandstorm",
+        "Protect",
+        "Metal Claw",
+        "Shock Wave"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 16,
+        "atk": 6,
+        "def": 11,
+        "spa": 12,
+        "spd": 28,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 40,
+        "spa": 40,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Razor Leaf",
+        "Flash",
+        "Cut",
+        "Body Slam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 2,
+        "atk": 6,
+        "def": 28,
+        "spa": 9,
+        "spd": 23,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 12,
+        "spa": 16,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

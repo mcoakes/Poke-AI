@@ -1,0 +1,40 @@
+{
+  "name": "random_1_086",
+  "party": [
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Double Kick",
+        "Frenzy Plant",
+        "Waterfall",
+        "Dragon Rage"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 19,
+        "spa": 6,
+        "spd": 14,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 0,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

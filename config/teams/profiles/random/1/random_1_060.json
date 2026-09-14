@@ -1,0 +1,40 @@
+{
+  "name": "random_1_060",
+  "party": [
+    {
+      "species": "Banette",
+      "moves": [
+        "Wrap",
+        "Nature Power",
+        "Drill Peck",
+        "Dream Eater"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 23,
+        "atk": 26,
+        "def": 16,
+        "spa": 8,
+        "spd": 17,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 4,
+        "spa": 12,
+        "spd": 0,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

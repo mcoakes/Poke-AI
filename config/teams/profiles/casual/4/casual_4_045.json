@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_045",
+  "party": [
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Icy Wind",
+        "Spikes",
+        "Double Team",
+        "Crunch"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 16,
+        "atk": 15,
+        "def": 2,
+        "spa": 24,
+        "spd": 7,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 36,
+        "spa": 16,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Spit Up",
+        "Poison Fang",
+        "Stockpile",
+        "Swords Dance"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 9,
+        "atk": 17,
+        "def": 25,
+        "spa": 15,
+        "spd": 8,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 68,
+        "spa": 40,
+        "spd": 64,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Secret Power",
+        "Attract",
+        "Flame Wheel",
+        "Hidden Power"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 11,
+        "atk": 17,
+        "def": 25,
+        "spa": 10,
+        "spd": 17,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 28,
+        "spa": 52,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Strength",
+        "Psychic",
+        "Ancient Power",
+        "Toxic"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 1,
+        "atk": 16,
+        "def": 2,
+        "spa": 0,
+        "spd": 11,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 8,
+        "spa": 36,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

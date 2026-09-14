@@ -1,0 +1,180 @@
+{
+  "name": "random_6_092",
+  "party": [
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "String Shot",
+        "Light Screen",
+        "Drill Peck",
+        "Perish Song"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 23,
+        "spa": 29,
+        "spd": 28,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 40,
+        "spa": 36,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Dragon Claw",
+        "Submission",
+        "Fire Blast",
+        "Quick Attack"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 30,
+        "atk": 6,
+        "def": 27,
+        "spa": 9,
+        "spd": 16,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 52,
+        "def": 68,
+        "spa": 48,
+        "spd": 24,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ariados",
+      "moves": [
+        "Dizzy Punch",
+        "Charm",
+        "Mega Drain",
+        "Mud Sport"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 5,
+        "atk": 29,
+        "def": 23,
+        "spa": 0,
+        "spd": 11,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 100,
+        "def": 72,
+        "spa": 96,
+        "spd": 44,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Sheer Cold",
+        "Clamp",
+        "Ancient Power",
+        "Agility"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 14,
+        "atk": 20,
+        "def": 14,
+        "spa": 6,
+        "spd": 4,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Leech Life",
+        "Bulk Up",
+        "Psych Up",
+        "Fury Cutter"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 30,
+        "atk": 15,
+        "def": 3,
+        "spa": 20,
+        "spd": 23,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 20,
+        "spa": 20,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Detect",
+        "Jump Kick",
+        "Revenge",
+        "Pay Day"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 27,
+        "atk": 8,
+        "def": 11,
+        "spa": 19,
+        "spd": 10,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 36,
+        "def": 40,
+        "spa": 56,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

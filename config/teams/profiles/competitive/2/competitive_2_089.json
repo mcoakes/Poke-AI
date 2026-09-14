@@ -1,0 +1,68 @@
+{
+  "name": "competitive_2_089",
+  "party": [
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Substitute",
+        "Dragon Claw",
+        "Leaf Blade",
+        "Crunch"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Slash",
+        "Earthquake",
+        "Rock Slide",
+        "Aerial Ace"
+      ],
+      "nature": "Jolly",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 20262931,
+    "archetype": "offense"
+  }
+}

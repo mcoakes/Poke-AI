@@ -1,0 +1,96 @@
+{
+  "name": "random_3_073",
+  "party": [
+    {
+      "species": "Swalot",
+      "moves": [
+        "Magical Leaf",
+        "Flame Wheel",
+        "Nightmare",
+        "Double Edge"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 29,
+        "spa": 13,
+        "spd": 19,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 100,
+        "def": 60,
+        "spa": 88,
+        "spd": 88,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Totodile",
+      "moves": [
+        "Covet",
+        "Foresight",
+        "Poison Tail",
+        "Flail"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 12,
+        "spa": 2,
+        "spd": 26,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Drill Peck",
+        "Shock Wave",
+        "Recover",
+        "Sonic Boom"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 16,
+        "def": 30,
+        "spa": 9,
+        "spd": 14,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 8,
+        "spa": 20,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

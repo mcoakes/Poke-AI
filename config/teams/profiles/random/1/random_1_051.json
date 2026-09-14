@@ -1,0 +1,40 @@
+{
+  "name": "random_1_051",
+  "party": [
+    {
+      "species": "Cradily",
+      "moves": [
+        "Flash",
+        "Recycle",
+        "Protect",
+        "Sonic Boom"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 10,
+        "atk": 26,
+        "def": 27,
+        "spa": 24,
+        "spd": 3,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 16,
+        "spa": 12,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

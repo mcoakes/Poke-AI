@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_053",
+  "party": [
+    {
+      "species": "Sableye",
+      "moves": [
+        "Night Shade",
+        "Shadow Ball",
+        "Toxic",
+        "Facade"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 8,
+        "spa": 13,
+        "spd": 11,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 60,
+        "spa": 68,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    },
+    {
+      "species": "Houndour",
+      "moves": [
+        "Faint Attack",
+        "Attract",
+        "Iron Tail",
+        "Fire Blast"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 23,
+        "atk": 13,
+        "def": 9,
+        "spa": 7,
+        "spd": 21,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 32,
+        "spa": 16,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Meditite",
+      "moves": [
+        "Light Screen",
+        "Psych Up",
+        "Hi Jump Kick",
+        "Thunder Punch"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 22,
+        "atk": 20,
+        "def": 5,
+        "spa": 22,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 52,
+        "spa": 44,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

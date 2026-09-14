@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_028",
+  "party": [
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Double Team",
+        "Thief",
+        "Astonish",
+        "Facade"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 27,
+        "atk": 4,
+        "def": 6,
+        "spa": 27,
+        "spd": 22,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 36,
+        "spa": 60,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Petal Dance",
+        "Cut",
+        "Sweet Scent",
+        "Mimic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 2,
+        "spa": 27,
+        "spd": 16,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 52,
+        "spa": 44,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Mimic",
+        "Ancient Power",
+        "Iron Tail",
+        "Giga Drain"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 28,
+        "atk": 10,
+        "def": 27,
+        "spa": 13,
+        "spd": 4,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 72,
+        "def": 60,
+        "spa": 32,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

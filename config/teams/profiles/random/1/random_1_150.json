@@ -1,0 +1,40 @@
+{
+  "name": "random_1_150",
+  "party": [
+    {
+      "species": "Haunter",
+      "moves": [
+        "Pursuit",
+        "Skull Bash",
+        "Hyper Beam",
+        "Icicle Spear"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 29,
+        "spa": 1,
+        "spd": 2,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 68,
+        "def": 36,
+        "spa": 16,
+        "spd": 60,
+        "spe": 32
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

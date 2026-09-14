@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_117",
+  "party": [
+    {
+      "species": "Seaking",
+      "moves": [
+        "Water Pulse",
+        "Supersonic",
+        "Hail",
+        "Ice Beam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 25,
+        "atk": 31,
+        "def": 19,
+        "spa": 25,
+        "spd": 17,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 56,
+        "spa": 64,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Pay Day",
+        "Attract",
+        "Fake Out",
+        "Thief"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 15,
+        "atk": 21,
+        "def": 21,
+        "spa": 19,
+        "spd": 4,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 72,
+        "spa": 40,
+        "spd": 44,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

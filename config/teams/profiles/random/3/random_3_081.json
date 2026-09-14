@@ -1,0 +1,96 @@
+{
+  "name": "random_3_081",
+  "party": [
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Destiny Bond",
+        "Leech Seed",
+        "Psybeam",
+        "Fly"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 3,
+        "atk": 5,
+        "def": 14,
+        "spa": 27,
+        "spd": 8,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 8,
+        "spa": 4,
+        "spd": 16,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Dig",
+        "Shock Wave",
+        "Icy Wind",
+        "Stockpile"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 26,
+        "atk": 29,
+        "def": 18,
+        "spa": 15,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 16,
+        "spa": 16,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Bubble Beam",
+        "Headbutt",
+        "Withdraw",
+        "Skill Swap"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 28,
+        "atk": 22,
+        "def": 7,
+        "spa": 8,
+        "spd": 16,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 48,
+        "spa": 44,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

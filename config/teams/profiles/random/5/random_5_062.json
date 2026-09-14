@@ -1,0 +1,152 @@
+{
+  "name": "random_5_062",
+  "party": [
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Sand Attack",
+        "Muddy Water",
+        "Tri Attack",
+        "Flamethrower"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 9,
+        "atk": 6,
+        "def": 24,
+        "spa": 11,
+        "spd": 16,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 32,
+        "spa": 40,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Bone Club",
+        "Fake Tears",
+        "Smokescreen",
+        "False Swipe"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 4,
+        "spa": 17,
+        "spd": 27,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 24,
+        "spa": 32,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Chansey",
+      "moves": [
+        "Water Spout",
+        "Poison Tail",
+        "Volt Tackle",
+        "Twineedle"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 28,
+        "atk": 30,
+        "def": 28,
+        "spa": 11,
+        "spd": 22,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 12,
+        "spa": 20,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Flash",
+        "Minimize",
+        "Roar",
+        "Bind"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 9,
+        "def": 2,
+        "spa": 27,
+        "spd": 15,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 72,
+        "spa": 76,
+        "spd": 100,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Icicle Spear",
+        "Snatch",
+        "Perish Song",
+        "Sunny Day"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 26,
+        "atk": 23,
+        "def": 22,
+        "spa": 16,
+        "spd": 23,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 72,
+        "spa": 56,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_065",
+  "party": [
+    {
+      "species": "Gastly",
+      "moves": [
+        "Explosion",
+        "Arm Thrust",
+        "Psycho Boost",
+        "Giga Drain"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 5,
+        "atk": 17,
+        "def": 19,
+        "spa": 23,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 112,
+        "atk": 56,
+        "def": 56,
+        "spa": 80,
+        "spd": 72,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Gust",
+        "Water Pulse",
+        "Dream Eater",
+        "Blizzard"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 27,
+        "spa": 19,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 20,
+        "spa": 8,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Aurora Beam",
+        "Sweet Scent",
+        "Hydro Pump",
+        "Acid"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 2,
+        "atk": 29,
+        "def": 30,
+        "spa": 10,
+        "spd": 21,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 0,
+        "spa": 24,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

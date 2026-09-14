@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "name": "type_progression",
+  "stages": [
+    {
+      "stage": 1,
+      "team": "teams/01_six_types.json",
+      "focus": "Original six-type team; learn type matchups and switching."
+    },
+    {
+      "stage": 2,
+      "team": "teams/02_water_lead_reordered.json",
+      "focus": "Same species with a different lead, party order and move slots."
+    },
+    {
+      "stage": 3,
+      "team": "teams/03_familiar_types_new_species.json",
+      "focus": "Familiar attack types on different species, including dual types."
+    },
+    {
+      "stage": 4,
+      "team": "teams/04_familiar_species_coverage.json",
+      "focus": "Coverage attacks break the one-species/one-attack-type pattern."
+    },
+    {
+      "stage": 5,
+      "team": "teams/05_new_types_and_immunities.json",
+      "focus": "Ground, Psychic, Rock, Normal, Flying, Dark, Bug and Steel matchups."
+    },
+    {
+      "stage": 6,
+      "team": "teams/06_status_and_items.json",
+      "focus": "Status, setup, Substitute, hazards and simple held items."
+    },
+    {
+      "stage": 7,
+      "team": "teams/07_three_member_offense.json",
+      "focus": "Three-member party, recovery and faster offensive games."
+    },
+    {
+      "stage": 8,
+      "team": "teams/08_four_member_balance.json",
+      "focus": "Four-member party, Choice Band, Rest and bulky switching."
+    },
+    {
+      "stage": 9,
+      "team": "teams/09_five_member_roles.json",
+      "focus": "Five-member party, sand, hazards, forced switches and sleep."
+    },
+    {
+      "stage": 10,
+      "team": "teams/10_six_member_mixed_roles.json",
+      "focus": "Six-member roles with recovery, hazards, setup and Baton Pass."
+    }
+  ],
+  "next_team": "teams/11_final_validation.json"
+}

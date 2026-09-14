@@ -1,0 +1,180 @@
+{
+  "name": "random_6_048",
+  "party": [
+    {
+      "species": "Elekid",
+      "moves": [
+        "Vice Grip",
+        "Ice Beam",
+        "Spike Cannon",
+        "Horn Drill"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 18,
+        "atk": 10,
+        "def": 11,
+        "spa": 15,
+        "spd": 2,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Stomp",
+        "Double Kick",
+        "Poison Powder",
+        "Flame Wheel"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 12,
+        "def": 14,
+        "spa": 1,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 68,
+        "spa": 80,
+        "spd": 60,
+        "spe": 108
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Ember",
+        "Bonemerang",
+        "Absorb",
+        "Fury Attack"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 26,
+        "spa": 14,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 12,
+        "spa": 16,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Metal Claw",
+        "Follow Me",
+        "Nature Power",
+        "Rest"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 21,
+        "atk": 8,
+        "def": 20,
+        "spa": 24,
+        "spd": 25,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 56,
+        "spa": 52,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Recycle",
+        "Toxic",
+        "Faint Attack",
+        "Ancient Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 26,
+        "def": 27,
+        "spa": 7,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 20,
+        "spa": 24,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Double Team",
+        "Hi Jump Kick",
+        "Pound",
+        "Sandstorm"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 18,
+        "spa": 11,
+        "spd": 4,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 40,
+        "spa": 32,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_052",
+  "party": [
+    {
+      "species": "Lombre",
+      "moves": [
+        "Razor Leaf",
+        "Water Pulse",
+        "Rain Dance",
+        "Hydro Pump"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 21,
+        "def": 30,
+        "spa": 28,
+        "spd": 22,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 52,
+        "spa": 40,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tropius",
+      "moves": [
+        "Aerial Ace",
+        "Toxic",
+        "Synthesis",
+        "Earthquake"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 1,
+        "atk": 31,
+        "def": 27,
+        "spa": 17,
+        "spd": 23,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 20,
+        "spa": 16,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    },
+    {
+      "species": "Pineco",
+      "moves": [
+        "Rest",
+        "Dig",
+        "Secret Power",
+        "Swift"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 3,
+        "spa": 24,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 20,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Rock Throw",
+        "Secret Power",
+        "Mimic",
+        "Sunny Day"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 3,
+        "atk": 6,
+        "def": 30,
+        "spa": 22,
+        "spd": 21,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 48,
+        "spa": 44,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Shock Wave",
+        "Baton Pass",
+        "Confusion",
+        "Magic Coat"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 3,
+        "atk": 0,
+        "def": 20,
+        "spa": 17,
+        "spd": 27,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 24,
+        "def": 44,
+        "spa": 52,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Mimic",
+        "Facade",
+        "Thief",
+        "Earthquake"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 21,
+        "atk": 10,
+        "def": 12,
+        "spa": 10,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 36,
+        "spa": 16,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

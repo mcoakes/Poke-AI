@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_008",
+  "party": [
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Splash",
+        "Dig",
+        "Bubble",
+        "Water Pulse"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 27,
+        "atk": 25,
+        "def": 3,
+        "spa": 17,
+        "spd": 13,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 40,
+        "spa": 72,
+        "spd": 76,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Natu",
+      "moves": [
+        "Thief",
+        "Psych Up",
+        "Drill Peck",
+        "Aerial Ace"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 19,
+        "atk": 25,
+        "def": 18,
+        "spa": 14,
+        "spd": 2,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 64,
+        "spa": 52,
+        "spd": 48,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hitmontop",
+      "moves": [
+        "Return",
+        "Agility",
+        "Mach Punch",
+        "Dig"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 19,
+        "atk": 17,
+        "def": 22,
+        "spa": 8,
+        "spd": 23,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 12,
+        "spa": 20,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Smelling Salt",
+        "Secret Power",
+        "Iron Defense",
+        "Iron Tail"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 5,
+        "atk": 17,
+        "def": 15,
+        "spa": 22,
+        "spd": 3,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 76,
+        "def": 60,
+        "spa": 60,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

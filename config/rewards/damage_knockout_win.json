@@ -1,0 +1,10 @@
+{
+  "damage": 100,
+  "damage_exponent": 2,
+  "knockout": 500,
+  "win": 5000,
+  "loss": -5000,
+  "turn_penalty": 50,
+  "damage_cap_per_pokemon": 100,
+  "scale": 0.001
+}

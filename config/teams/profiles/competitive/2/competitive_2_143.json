@@ -1,0 +1,68 @@
+{
+  "name": "competitive_2_143",
+  "party": [
+    {
+      "species": "Scizor",
+      "moves": [
+        "Swords Dance",
+        "Silver Wind",
+        "Steel Wing",
+        "Baton Pass"
+      ],
+      "nature": "Adamant",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Thunderbolt",
+        "Calm Mind",
+        "Will O Wisp",
+        "Psychic"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 20262931,
+    "archetype": "offense"
+  }
+}

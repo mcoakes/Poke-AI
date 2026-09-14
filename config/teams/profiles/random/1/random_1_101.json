@@ -1,0 +1,40 @@
+{
+  "name": "random_1_101",
+  "party": [
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Horn Attack",
+        "Earthquake",
+        "Dragon Dance",
+        "Spider Web"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 29,
+        "atk": 4,
+        "def": 3,
+        "spa": 25,
+        "spd": 4,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 64,
+        "spa": 100,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

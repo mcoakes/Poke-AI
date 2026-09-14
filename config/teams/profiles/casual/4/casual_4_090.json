@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_090",
+  "party": [
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Tackle",
+        "Psybeam",
+        "Whirlwind",
+        "Gust"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 11,
+        "atk": 10,
+        "def": 25,
+        "spa": 19,
+        "spd": 14,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 8,
+        "spa": 20,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Mega Punch",
+        "Waterfall",
+        "Aerial Ace",
+        "Hypnosis"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 23,
+        "def": 15,
+        "spa": 19,
+        "spd": 18,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 20,
+        "spa": 24,
+        "spd": 32,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kangaskhan",
+      "moves": [
+        "Iron Tail",
+        "Secret Power",
+        "Sandstorm",
+        "Safeguard"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 24,
+        "atk": 11,
+        "def": 1,
+        "spa": 21,
+        "spd": 2,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 36,
+        "def": 36,
+        "spa": 24,
+        "spd": 20,
+        "spe": 60
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Flail",
+        "Waterfall",
+        "Leer",
+        "Body Slam"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 6,
+        "atk": 31,
+        "def": 1,
+        "spa": 26,
+        "spd": 14,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 20,
+        "spa": 32,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

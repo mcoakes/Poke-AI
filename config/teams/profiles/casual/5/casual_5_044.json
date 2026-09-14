@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_044",
+  "party": [
+    {
+      "species": "Flareon",
+      "moves": [
+        "Ember",
+        "Hidden Power",
+        "Iron Tail",
+        "Growl"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 2,
+        "atk": 28,
+        "def": 27,
+        "spa": 0,
+        "spd": 31,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 4,
+        "spa": 24,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Tropius",
+      "moves": [
+        "Strength",
+        "Fly",
+        "Protect",
+        "Magical Leaf"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 22,
+        "atk": 10,
+        "def": 9,
+        "spa": 16,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 32,
+        "spa": 32,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Psych Up",
+        "Ice Punch",
+        "Substitute",
+        "Fake Out"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 19,
+        "spa": 22,
+        "spd": 25,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 44,
+        "spa": 28,
+        "spd": 36,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Earthquake",
+        "Sandstorm",
+        "Rock Tomb",
+        "Focus Energy"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 21,
+        "atk": 0,
+        "def": 9,
+        "spa": 21,
+        "spd": 28,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 80,
+        "def": 36,
+        "spa": 72,
+        "spd": 48,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "False Swipe",
+        "Metal Claw",
+        "Silver Wind",
+        "Attract"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 26,
+        "spa": 2,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 28,
+        "def": 44,
+        "spa": 48,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_105",
+  "party": [
+    {
+      "species": "Registeel",
+      "moves": [
+        "Defense Curl",
+        "Bubble Beam",
+        "Fake Out",
+        "String Shot"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 19,
+        "atk": 24,
+        "def": 13,
+        "spa": 1,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 76,
+        "def": 64,
+        "spa": 64,
+        "spd": 68,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Comet Punch",
+        "Present",
+        "Howl",
+        "Tail Glow"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 11,
+        "def": 26,
+        "spa": 13,
+        "spd": 24,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 108,
+        "atk": 68,
+        "def": 56,
+        "spa": 56,
+        "spd": 76,
+        "spe": 84
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Magic Coat",
+        "Growth",
+        "Horn Drill",
+        "Megahorn"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 28,
+        "atk": 26,
+        "def": 2,
+        "spa": 25,
+        "spd": 5,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Endeavor",
+        "Tail Whip",
+        "Slam",
+        "Spark"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 22,
+        "atk": 1,
+        "def": 29,
+        "spa": 20,
+        "spd": 2,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 12,
+        "spa": 32,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

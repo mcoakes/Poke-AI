@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_091",
+  "party": [
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Dive",
+        "Hail",
+        "Body Slam",
+        "Bite"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 17,
+        "atk": 29,
+        "def": 2,
+        "spa": 5,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 100,
+        "def": 32,
+        "spa": 64,
+        "spd": 44,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Refresh",
+        "Uproar",
+        "Rest",
+        "Water Pulse"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 18,
+        "spa": 17,
+        "spd": 31,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 64,
+        "def": 52,
+        "spa": 40,
+        "spd": 52,
+        "spe": 84
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Muk",
+      "moves": [
+        "Mean Look",
+        "Sludge",
+        "Shadow Punch",
+        "Memento"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 20,
+        "spa": 0,
+        "spd": 6,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 12,
+        "spa": 36,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

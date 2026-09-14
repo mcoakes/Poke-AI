@@ -1,0 +1,68 @@
+{
+  "name": "random_2_080",
+  "party": [
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Body Slam",
+        "Spore",
+        "Dragon Claw",
+        "Focus Energy"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 28,
+        "spa": 5,
+        "spd": 27,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 4,
+        "spa": 4,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Milk Drink",
+        "Megahorn",
+        "Flash",
+        "Thunder Punch"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 6,
+        "atk": 18,
+        "def": 6,
+        "spa": 2,
+        "spd": 23,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 20,
+        "spa": 24,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_009",
+  "party": [
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Double Team",
+        "Waterfall",
+        "Calm Mind",
+        "Psychic"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 4,
+        "atk": 21,
+        "def": 21,
+        "spa": 22,
+        "spd": 25,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 84,
+        "spa": 76,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Faint Attack",
+        "Giga Drain",
+        "Toxic",
+        "Return"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 3,
+        "spa": 15,
+        "spd": 23,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 36,
+        "def": 40,
+        "spa": 16,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

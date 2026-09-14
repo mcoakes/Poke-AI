@@ -1,0 +1,40 @@
+{
+  "name": "random_1_043",
+  "party": [
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Fire Blast",
+        "Double Edge",
+        "Muddy Water",
+        "Bubble"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 5,
+        "atk": 9,
+        "def": 19,
+        "spa": 31,
+        "spd": 30,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 24,
+        "def": 40,
+        "spa": 44,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

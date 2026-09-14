@@ -1,0 +1,96 @@
+{
+  "name": "random_3_079",
+  "party": [
+    {
+      "species": "Groudon",
+      "moves": [
+        "Conversion",
+        "Magic Coat",
+        "Fire Spin",
+        "Psybeam"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 16,
+        "atk": 3,
+        "def": 25,
+        "spa": 20,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 20,
+        "spa": 20,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Night Shade",
+        "Rapid Spin",
+        "Bullet Seed",
+        "Ancient Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 21,
+        "atk": 8,
+        "def": 11,
+        "spa": 16,
+        "spd": 23,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 80,
+        "spa": 72,
+        "spd": 36,
+        "spe": 76
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Flail",
+        "Dragon Rage",
+        "Follow Me",
+        "Ingrain"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 22,
+        "def": 9,
+        "spa": 31,
+        "spd": 17,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_066",
+  "party": [
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Confuse Ray",
+        "Rock Blast",
+        "Trick",
+        "Hidden Power"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 14,
+        "atk": 31,
+        "def": 0,
+        "spa": 24,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 44,
+        "def": 88,
+        "spa": 80,
+        "spd": 96,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Superpower",
+        "Surf",
+        "Ice Beam",
+        "Present"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 22,
+        "atk": 6,
+        "def": 30,
+        "spa": 3,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 8,
+        "spa": 32,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Shadow Punch",
+        "Vine Whip",
+        "Focus Punch",
+        "Agility"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 15,
+        "atk": 20,
+        "def": 16,
+        "spa": 12,
+        "spd": 2,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 64,
+        "def": 72,
+        "spa": 92,
+        "spd": 88,
+        "spe": 76
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Sing",
+        "Night Shade",
+        "Drill Peck",
+        "Foresight"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 21,
+        "atk": 2,
+        "def": 5,
+        "spa": 0,
+        "spd": 19,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 36,
+        "def": 80,
+        "spa": 48,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellsprout",
+      "moves": [
+        "Fire Punch",
+        "Howl",
+        "Rain Dance",
+        "Curse"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 13,
+        "spa": 19,
+        "spd": 15,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 76,
+        "def": 60,
+        "spa": 84,
+        "spd": 68,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ledyba",
+      "moves": [
+        "Sandstorm",
+        "Assist",
+        "Steel Wing",
+        "Heal Bell"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 25,
+        "atk": 15,
+        "def": 5,
+        "spa": 6,
+        "spd": 30,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 20,
+        "spa": 24,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

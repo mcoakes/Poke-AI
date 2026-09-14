@@ -1,0 +1,68 @@
+{
+  "name": "random_2_088",
+  "party": [
+    {
+      "species": "Gloom",
+      "moves": [
+        "Knock Off",
+        "Soft Boiled",
+        "Hail",
+        "Lovely Kiss"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 12,
+        "def": 12,
+        "spa": 17,
+        "spd": 15,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 44,
+        "spa": 24,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Fury Swipes",
+        "Thrash",
+        "Icicle Spear",
+        "Agility"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 1,
+        "atk": 29,
+        "def": 4,
+        "spa": 4,
+        "spd": 28,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 60,
+        "spa": 60,
+        "spd": 76,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

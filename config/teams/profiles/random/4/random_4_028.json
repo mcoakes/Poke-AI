@@ -1,0 +1,124 @@
+{
+  "name": "random_4_028",
+  "party": [
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Dragon Rage",
+        "Curse",
+        "Double Kick",
+        "Extrasensory"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 3,
+        "atk": 30,
+        "def": 19,
+        "spa": 8,
+        "spd": 0,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 80,
+        "def": 72,
+        "spa": 76,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Heal Bell",
+        "Growth",
+        "String Shot",
+        "Camouflage"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 24,
+        "atk": 1,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 16,
+        "spa": 8,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Metronome",
+        "Refresh",
+        "Psycho Boost",
+        "Covet"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 11,
+        "atk": 2,
+        "def": 21,
+        "spa": 4,
+        "spd": 1,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 16,
+        "spa": 8,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Relicanth",
+      "moves": [
+        "Leer",
+        "Belly Drum",
+        "Dragon Rage",
+        "Recover"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 18,
+        "atk": 31,
+        "def": 31,
+        "spa": 20,
+        "spd": 4,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 36,
+        "spa": 36,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

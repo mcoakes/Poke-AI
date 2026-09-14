@@ -1,0 +1,152 @@
+{
+  "name": "random_5_148",
+  "party": [
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Reversal",
+        "Stockpile",
+        "Leech Life",
+        "Recycle"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 27,
+        "spa": 11,
+        "spd": 23,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 28,
+        "def": 56,
+        "spa": 56,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Cross Chop",
+        "Charge",
+        "Bulk Up",
+        "Mud Sport"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 11,
+        "def": 18,
+        "spa": 11,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 36,
+        "spa": 32,
+        "spd": 56,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Regice",
+      "moves": [
+        "Growth",
+        "Sand Attack",
+        "Weather Ball",
+        "Whirlpool"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 27,
+        "def": 5,
+        "spa": 13,
+        "spd": 1,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 76,
+        "spa": 56,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Headbutt",
+        "Ancient Power",
+        "Ice Punch",
+        "Take Down"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 19,
+        "atk": 9,
+        "def": 2,
+        "spa": 0,
+        "spd": 25,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 40,
+        "spa": 56,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Leaf Blade",
+        "Cotton Spore",
+        "Shadow Ball",
+        "Baton Pass"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 15,
+        "atk": 10,
+        "def": 21,
+        "spa": 11,
+        "spd": 30,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

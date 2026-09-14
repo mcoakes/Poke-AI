@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_062",
+  "party": [
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Reflect",
+        "Protect",
+        "Facade",
+        "Mega Drain"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 11,
+        "atk": 2,
+        "def": 27,
+        "spa": 21,
+        "spd": 23,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 80,
+        "def": 48,
+        "spa": 56,
+        "spd": 48,
+        "spe": 84
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Solrock",
+      "moves": [
+        "Confusion",
+        "Dream Eater",
+        "Rock Slide",
+        "Toxic"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 2,
+        "atk": 28,
+        "def": 29,
+        "spa": 16,
+        "spd": 30,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 28,
+        "spa": 56,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Dragon Claw",
+        "Flamethrower",
+        "Sunny Day",
+        "Seismic Toss"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 18,
+        "atk": 11,
+        "def": 10,
+        "spa": 6,
+        "spd": 28,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 36,
+        "spa": 48,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Faint Attack",
+        "Focus Energy",
+        "Earthquake",
+        "Bulk Up"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 4,
+        "def": 14,
+        "spa": 19,
+        "spd": 31,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 44,
+        "spa": 40,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Curse",
+        "Earthquake",
+        "Brick Break",
+        "Rock Smash"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 27,
+        "spa": 14,
+        "spd": 31,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 68,
+        "spa": 68,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

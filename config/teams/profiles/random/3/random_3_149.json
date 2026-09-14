@@ -1,0 +1,96 @@
+{
+  "name": "random_3_149",
+  "party": [
+    {
+      "species": "Loudred",
+      "moves": [
+        "Silver Wind",
+        "Acid",
+        "Mist",
+        "Focus Energy"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 7,
+        "atk": 23,
+        "def": 18,
+        "spa": 16,
+        "spd": 18,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 108,
+        "def": 80,
+        "spa": 100,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Frenzy Plant",
+        "Dive",
+        "Metronome",
+        "Role Play"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 8,
+        "atk": 29,
+        "def": 8,
+        "spa": 11,
+        "spd": 6,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 24,
+        "spa": 8,
+        "spd": 12,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Rollout",
+        "Pay Day",
+        "Double Edge",
+        "Metronome"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 13,
+        "atk": 10,
+        "def": 11,
+        "spa": 3,
+        "spd": 8,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 8,
+        "spa": 4,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

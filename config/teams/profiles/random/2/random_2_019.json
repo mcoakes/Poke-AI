@@ -1,0 +1,68 @@
+{
+  "name": "random_2_019",
+  "party": [
+    {
+      "species": "Taillow",
+      "moves": [
+        "Rest",
+        "Poison Tail",
+        "Fissure",
+        "Endeavor"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 29,
+        "atk": 10,
+        "def": 28,
+        "spa": 29,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 76,
+        "spa": 48,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Follow Me",
+        "Bubble",
+        "Hyper Beam",
+        "Bonemerang"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 26,
+        "spa": 11,
+        "spd": 27,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 32,
+        "def": 28,
+        "spa": 28,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

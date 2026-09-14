@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_144",
+  "party": [
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Hypnosis",
+        "Strength",
+        "Stun Spore",
+        "Psychic"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 24,
+        "atk": 26,
+        "def": 6,
+        "spa": 9,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 40,
+        "spa": 52,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

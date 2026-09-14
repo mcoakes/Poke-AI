@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_010",
+  "party": [
+    {
+      "species": "Sableye",
+      "moves": [
+        "Metronome",
+        "Brick Break",
+        "Shadow Ball",
+        "Mimic"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 31,
+        "atk": 12,
+        "def": 6,
+        "spa": 0,
+        "spd": 27,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Haze",
+        "Wing Attack",
+        "Dragon Breath",
+        "Rest"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 8,
+        "atk": 31,
+        "def": 8,
+        "spa": 3,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 48,
+        "def": 28,
+        "spa": 48,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Toxic",
+        "Attract",
+        "Shock Wave",
+        "Surf"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 3,
+        "atk": 28,
+        "def": 27,
+        "spa": 6,
+        "spd": 0,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 72,
+        "def": 68,
+        "spa": 60,
+        "spd": 76,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Flamethrower",
+        "Double Team",
+        "Splash",
+        "Surf"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 18,
+        "atk": 1,
+        "def": 26,
+        "spa": 7,
+        "spd": 20,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 40,
+        "spa": 92,
+        "spd": 88,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

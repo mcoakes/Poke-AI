@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_088",
+  "party": [
+    {
+      "species": "Swinub",
+      "moves": [
+        "Amnesia",
+        "Protect",
+        "Dig",
+        "Powder Snow"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 17,
+        "atk": 29,
+        "def": 18,
+        "spa": 10,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 16,
+        "spa": 32,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Body Slam",
+        "Crunch",
+        "Rest",
+        "Mimic"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 14,
+        "def": 15,
+        "spa": 14,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 16,
+        "def": 40,
+        "spa": 40,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cascoon",
+      "moves": [
+        "Harden",
+        "Tackle",
+        "String Shot",
+        "Poison Sting"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 17,
+        "atk": 15,
+        "def": 20,
+        "spa": 13,
+        "spd": 28,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 64,
+        "spa": 60,
+        "spd": 36,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

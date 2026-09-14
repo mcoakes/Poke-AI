@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_046",
+  "party": [
+    {
+      "species": "Porygon",
+      "moves": [
+        "Tri Attack",
+        "Dream Eater",
+        "Lock On",
+        "Toxic"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 6,
+        "atk": 11,
+        "def": 27,
+        "spa": 10,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 44,
+        "spa": 36,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Seismic Toss",
+        "Mega Punch",
+        "Ice Beam",
+        "Double Team"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 12,
+        "spa": 6,
+        "spd": 24,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 60,
+        "spa": 28,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tangela",
+      "moves": [
+        "Absorb",
+        "Mega Drain",
+        "Cut",
+        "Poison Powder"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 22,
+        "def": 27,
+        "spa": 24,
+        "spd": 3,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 56,
+        "spa": 60,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Roar",
+        "Body Slam",
+        "Counter",
+        "Ancient Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 28,
+        "atk": 13,
+        "def": 19,
+        "spa": 26,
+        "spd": 15,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 88,
+        "def": 48,
+        "spa": 40,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_027",
+  "party": [
+    {
+      "species": "Aron",
+      "moves": [
+        "Take Down",
+        "Iron Tail",
+        "Rock Tomb",
+        "Protect"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 20,
+        "atk": 27,
+        "def": 20,
+        "spa": 23,
+        "spd": 16,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 44,
+        "spa": 20,
+        "spd": 28,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exploud",
+      "moves": [
+        "Shadow Ball",
+        "Smelling Salt",
+        "Extrasensory",
+        "Supersonic"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 27,
+        "atk": 5,
+        "def": 26,
+        "spa": 25,
+        "spd": 3,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 40,
+        "spa": 24,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Facade",
+        "Silver Wind",
+        "Substitute",
+        "Thief"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 31,
+        "atk": 18,
+        "def": 27,
+        "spa": 30,
+        "spd": 13,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 76,
+        "spa": 52,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

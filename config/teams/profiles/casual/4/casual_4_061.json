@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_061",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Psychic",
+        "Magic Coat",
+        "Thief",
+        "Rest"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 2,
+        "def": 7,
+        "spa": 3,
+        "spd": 19,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 64,
+        "def": 28,
+        "spa": 16,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Return",
+        "Wing Attack",
+        "Feather Dance",
+        "Take Down"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 3,
+        "atk": 21,
+        "def": 8,
+        "spa": 2,
+        "spd": 8,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 76,
+        "def": 44,
+        "spa": 56,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Surf",
+        "Secret Power",
+        "Rest",
+        "Facade"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 11,
+        "atk": 2,
+        "def": 18,
+        "spa": 16,
+        "spd": 16,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 76,
+        "spa": 48,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Ember",
+        "Fire Spin",
+        "Slash",
+        "Attract"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 13,
+        "atk": 28,
+        "def": 23,
+        "spa": 2,
+        "spd": 6,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 32,
+        "spa": 40,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

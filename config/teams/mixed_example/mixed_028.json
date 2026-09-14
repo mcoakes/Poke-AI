@@ -1,0 +1,208 @@
+{
+  "name": "mixed_028",
+  "party": [
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Thunderbolt",
+        "Substitute",
+        "Baton Pass",
+        "Thunder Wave"
+      ],
+      "nature": "Timid",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Noctowl",
+      "level": 50,
+      "moves": [
+        "Peck",
+        "Hypnosis",
+        "Attract",
+        "Dream Eater"
+      ],
+      "nature": "Relaxed",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Silcoon",
+      "level": 50,
+      "moves": [
+        "Rock Throw",
+        "Aromatherapy",
+        "Will O Wisp",
+        "Hyper Voice"
+      ],
+      "nature": "Bashful",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Exp Share",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Psychic",
+        "Thunderbolt",
+        "Calm Mind",
+        "Will O Wisp"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "level": 50,
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Pineco",
+      "level": 50,
+      "moves": [
+        "Rock Smash",
+        "Spikes",
+        "Protect",
+        "Frustration"
+      ],
+      "nature": "Bashful",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "species": "Swalot",
+      "level": 50,
+      "moves": [
+        "Water Spout",
+        "Secret Power",
+        "Conversion",
+        "Role Play"
+      ],
+      "nature": "Hasty",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ],
+  "generation": {
+    "seed": 42,
+    "members": [
+      {
+        "slot": 1,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 2,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 3,
+        "style": "chaos",
+        "common_item": false
+      },
+      {
+        "slot": 4,
+        "style": "competitive",
+        "common_item": true
+      },
+      {
+        "slot": 5,
+        "style": "learnable_random",
+        "common_item": true
+      },
+      {
+        "slot": 6,
+        "style": "chaos",
+        "common_item": true
+      }
+    ]
+  }
+}

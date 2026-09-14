@@ -1,0 +1,152 @@
+{
+  "name": "random_5_133",
+  "party": [
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Water Pulse",
+        "Smelling Salt",
+        "Mean Look",
+        "Fury Swipes"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 27,
+        "atk": 25,
+        "def": 3,
+        "spa": 11,
+        "spd": 21,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 132,
+        "atk": 68,
+        "def": 84,
+        "spa": 80,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chansey",
+      "moves": [
+        "Double Kick",
+        "Grass Whistle",
+        "Bullet Seed",
+        "Signal Beam"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 11,
+        "spa": 20,
+        "spd": 22,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 16,
+        "spa": 32,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Swallow",
+        "Teeter Dance",
+        "Stomp",
+        "Feather Dance"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 3,
+        "atk": 20,
+        "def": 20,
+        "spa": 23,
+        "spd": 20,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 28,
+        "spa": 24,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Gust",
+        "Drill Peck",
+        "Luster Purge",
+        "Air Cutter"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 0,
+        "atk": 3,
+        "def": 18,
+        "spa": 11,
+        "spd": 21,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 32,
+        "def": 8,
+        "spa": 20,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Regice",
+      "moves": [
+        "Swallow",
+        "Razor Wind",
+        "Poison Sting",
+        "Bonemerang"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 0,
+        "atk": 2,
+        "def": 16,
+        "spa": 19,
+        "spd": 22,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 52,
+        "spa": 52,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "random_2_074",
+  "party": [
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Endeavor",
+        "Roar",
+        "Spite",
+        "Sweet Kiss"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 3,
+        "def": 22,
+        "spa": 10,
+        "spd": 10,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 72,
+        "def": 52,
+        "spa": 80,
+        "spd": 88,
+        "spe": 48
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Smokescreen",
+        "Tackle",
+        "Fake Out",
+        "Barrier"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 13,
+        "def": 29,
+        "spa": 26,
+        "spd": 22,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 20,
+        "spa": 0,
+        "spd": 24,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

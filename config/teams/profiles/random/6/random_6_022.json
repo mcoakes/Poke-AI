@@ -1,0 +1,180 @@
+{
+  "name": "random_6_022",
+  "party": [
+    {
+      "species": "Deoxys",
+      "moves": [
+        "Charge",
+        "Flatter",
+        "Slash",
+        "Fury Attack"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 14,
+        "atk": 28,
+        "def": 21,
+        "spa": 17,
+        "spd": 9,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 8,
+        "spa": 16,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Thrash",
+        "Hail",
+        "Refresh",
+        "Uproar"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 5,
+        "atk": 3,
+        "def": 1,
+        "spa": 11,
+        "spd": 27,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 72,
+        "def": 88,
+        "spa": 80,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Facade",
+        "Wrap",
+        "Leaf Blade",
+        "Dragon Claw"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 5,
+        "def": 16,
+        "spa": 4,
+        "spd": 19,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 104,
+        "spa": 76,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Cleffa",
+      "moves": [
+        "Sleep Powder",
+        "Magical Leaf",
+        "Steel Wing",
+        "Slack Off"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 28,
+        "atk": 18,
+        "def": 3,
+        "spa": 19,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 24,
+        "spa": 40,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Block",
+        "Tail Glow",
+        "Screech",
+        "Recycle"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 5,
+        "atk": 20,
+        "def": 1,
+        "spa": 28,
+        "spd": 20,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 88,
+        "def": 84,
+        "spa": 68,
+        "spd": 76,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Uproar",
+        "Mean Look",
+        "Camouflage",
+        "Mist Ball"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 12,
+        "spa": 7,
+        "spd": 20,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 32,
+        "spa": 32,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

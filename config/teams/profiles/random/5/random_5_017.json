@@ -1,0 +1,152 @@
+{
+  "name": "random_5_017",
+  "party": [
+    {
+      "species": "Ralts",
+      "moves": [
+        "Clamp",
+        "Swallow",
+        "Conversion 2",
+        "Body Slam"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 20,
+        "spa": 6,
+        "spd": 19,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 68,
+        "spa": 64,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Fury Swipes",
+        "Rock Tomb",
+        "Sandstorm",
+        "Heat Wave"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 17,
+        "spa": 19,
+        "spd": 11,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Ancient Power",
+        "Sheer Cold",
+        "Blizzard",
+        "Bone Club"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 24,
+        "spa": 23,
+        "spd": 5,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 28,
+        "spa": 8,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Rapid Spin",
+        "Pay Day",
+        "Bullet Seed",
+        "Needle Arm"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 20,
+        "spa": 23,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 20,
+        "spa": 4,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Mirror Move",
+        "Hypnosis",
+        "Snore",
+        "Spider Web"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 5,
+        "atk": 1,
+        "def": 3,
+        "spa": 16,
+        "spd": 11,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 52,
+        "spa": 40,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

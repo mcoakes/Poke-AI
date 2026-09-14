@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_001",
+  "party": [
+    {
+      "species": "Crobat",
+      "moves": [
+        "Substitute",
+        "Aerial Ace",
+        "Poison Fang",
+        "Leech Life"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 23,
+        "spa": 13,
+        "spd": 30,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 68,
+        "spa": 96,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Secret Power",
+        "Scary Face",
+        "Dragon Claw",
+        "Toxic"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 7,
+        "atk": 24,
+        "def": 30,
+        "spa": 12,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 28,
+        "spa": 24,
+        "spd": 20,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

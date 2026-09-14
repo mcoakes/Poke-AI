@@ -1,0 +1,124 @@
+{
+  "name": "random_4_108",
+  "party": [
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Air Cutter",
+        "Dragon Claw",
+        "Pain Split",
+        "Slack Off"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 24,
+        "atk": 22,
+        "def": 0,
+        "spa": 21,
+        "spd": 16,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 52,
+        "spa": 76,
+        "spd": 84,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Blizzard",
+        "Destiny Bond",
+        "Mimic",
+        "Return"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 8,
+        "spa": 21,
+        "spd": 6,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 100,
+        "spa": 40,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Pain Split",
+        "Flatter",
+        "Thunderbolt",
+        "Thunder"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 7,
+        "atk": 11,
+        "def": 9,
+        "spa": 12,
+        "spd": 6,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 36,
+        "def": 40,
+        "spa": 56,
+        "spd": 52,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Leaf Blade",
+        "Mist",
+        "Sludge",
+        "Psybeam"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 8,
+        "atk": 17,
+        "def": 3,
+        "spa": 17,
+        "spd": 12,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 76,
+        "def": 56,
+        "spa": 76,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

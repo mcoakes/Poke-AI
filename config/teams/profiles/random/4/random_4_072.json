@@ -1,0 +1,124 @@
+{
+  "name": "random_4_072",
+  "party": [
+    {
+      "species": "Slowking",
+      "moves": [
+        "Sleep Talk",
+        "Amnesia",
+        "Facade",
+        "Flatter"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 26,
+        "atk": 14,
+        "def": 10,
+        "spa": 4,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 48,
+        "spa": 44,
+        "spd": 60,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Magical Leaf",
+        "Bide",
+        "Spark",
+        "Poison Powder"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 10,
+        "spa": 16,
+        "spd": 0,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 16,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Muddy Water",
+        "Perish Song",
+        "Skill Swap",
+        "Whirlpool"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 9,
+        "atk": 0,
+        "def": 29,
+        "spa": 21,
+        "spd": 15,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 44,
+        "def": 68,
+        "spa": 112,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Thunder",
+        "Recover",
+        "Hyper Beam",
+        "Sleep Talk"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 13,
+        "atk": 28,
+        "def": 30,
+        "spa": 14,
+        "spd": 16,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 68,
+        "spa": 40,
+        "spd": 72,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

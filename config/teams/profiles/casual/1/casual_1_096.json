@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_096",
+  "party": [
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Sludge Bomb",
+        "Waterfall",
+        "Tail Whip",
+        "Hidden Power"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 7,
+        "atk": 24,
+        "def": 9,
+        "spa": 16,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 32,
+        "spa": 44,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

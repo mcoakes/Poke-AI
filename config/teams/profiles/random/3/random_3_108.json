@@ -1,0 +1,96 @@
+{
+  "name": "random_3_108",
+  "party": [
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Constrict",
+        "Mirror Move",
+        "Psybeam",
+        "Mega Drain"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 11,
+        "spa": 28,
+        "spd": 7,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 56,
+        "spa": 44,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Calm Mind",
+        "Rock Throw",
+        "Psych Up",
+        "Headbutt"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 6,
+        "atk": 21,
+        "def": 23,
+        "spa": 23,
+        "spd": 30,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 112,
+        "atk": 68,
+        "def": 96,
+        "spa": 48,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Shock Wave",
+        "Horn Drill",
+        "Psychic",
+        "Double Slap"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 31,
+        "atk": 15,
+        "def": 31,
+        "spa": 27,
+        "spd": 9,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 0,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

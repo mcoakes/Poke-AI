@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_031",
+  "party": [
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Rain Dance",
+        "Snore",
+        "Water Gun",
+        "Mimic"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 24,
+        "def": 22,
+        "spa": 7,
+        "spd": 0,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 52,
+        "spa": 44,
+        "spd": 60,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

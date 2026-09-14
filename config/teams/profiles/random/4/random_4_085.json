@@ -1,0 +1,124 @@
+{
+  "name": "random_4_085",
+  "party": [
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Octazooka",
+        "Twister",
+        "Detect",
+        "Absorb"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 9,
+        "atk": 7,
+        "def": 20,
+        "spa": 11,
+        "spd": 15,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 36,
+        "spa": 60,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Reflect",
+        "Pound",
+        "Extrasensory",
+        "Splash"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 12,
+        "atk": 23,
+        "def": 30,
+        "spa": 0,
+        "spd": 3,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 76,
+        "def": 44,
+        "spa": 52,
+        "spd": 92,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Muk",
+      "moves": [
+        "Metal Claw",
+        "Rest",
+        "Dizzy Punch",
+        "Slam"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 4,
+        "spa": 13,
+        "spd": 0,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 88,
+        "def": 48,
+        "spa": 60,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Magneton",
+      "moves": [
+        "Attract",
+        "Transform",
+        "Double Kick",
+        "Conversion 2"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 15,
+        "spa": 3,
+        "spd": 12,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 40,
+        "spa": 56,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

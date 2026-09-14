@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_117",
+  "party": [
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Dragon Breath",
+        "Ember",
+        "Frustration",
+        "Mimic"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 13,
+        "atk": 28,
+        "def": 5,
+        "spa": 7,
+        "spd": 16,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 16,
+        "spa": 28,
+        "spd": 36,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

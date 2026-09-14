@@ -1,0 +1,68 @@
+{
+  "name": "random_2_090",
+  "party": [
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Sand Tomb",
+        "Iron Defense",
+        "Jump Kick",
+        "Nature Power"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 3,
+        "def": 14,
+        "spa": 2,
+        "spd": 16,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 72,
+        "def": 96,
+        "spa": 112,
+        "spd": 56,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Metronome",
+        "Egg Bomb",
+        "Perish Song",
+        "Milk Drink"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 19,
+        "atk": 18,
+        "def": 29,
+        "spa": 24,
+        "spd": 6,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 64,
+        "def": 108,
+        "spa": 76,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

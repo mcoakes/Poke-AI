@@ -1,0 +1,40 @@
+{
+  "name": "random_1_140",
+  "party": [
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Ancient Power",
+        "Dynamic Punch",
+        "Grass Whistle",
+        "Knock Off"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 22,
+        "atk": 3,
+        "def": 17,
+        "spa": 20,
+        "spd": 22,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

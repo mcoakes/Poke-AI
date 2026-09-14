@@ -1,0 +1,152 @@
+{
+  "name": "random_5_034",
+  "party": [
+    {
+      "species": "Porygon",
+      "moves": [
+        "Cross Chop",
+        "Frustration",
+        "Double Team",
+        "Knock Off"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 24,
+        "atk": 11,
+        "def": 12,
+        "spa": 13,
+        "spd": 28,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 76,
+        "def": 68,
+        "spa": 60,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Volt Tackle",
+        "Endeavor",
+        "Barrage",
+        "Gust"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 6,
+        "atk": 18,
+        "def": 10,
+        "spa": 16,
+        "spd": 13,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 88,
+        "def": 52,
+        "spa": 92,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Double Kick",
+        "Vital Throw",
+        "Acid Armor",
+        "Sunny Day"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 14,
+        "def": 12,
+        "spa": 22,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 12,
+        "spa": 48,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Sweet Scent",
+        "Mist Ball",
+        "Fake Out",
+        "Shadow Ball"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 4,
+        "atk": 2,
+        "def": 30,
+        "spa": 30,
+        "spd": 9,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 56,
+        "spa": 48,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Hidden Power",
+        "Doom Desire",
+        "Pound",
+        "Ice Ball"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 9,
+        "spa": 24,
+        "spd": 15,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 80,
+        "spa": 104,
+        "spd": 76,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_097",
+  "party": [
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Sunny Day",
+        "Withdraw",
+        "Rock Slide",
+        "Sludge Bomb"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 28,
+        "atk": 26,
+        "def": 1,
+        "spa": 7,
+        "spd": 27,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 20,
+        "spa": 36,
+        "spd": 40,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Defense Curl",
+        "Aurora Beam",
+        "Protect",
+        "Secret Power"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 27,
+        "atk": 12,
+        "def": 27,
+        "spa": 7,
+        "spd": 24,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 56,
+        "spa": 40,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

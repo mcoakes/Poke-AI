@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_064",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Sharpen",
+        "Shock Wave",
+        "Tri Attack",
+        "Rest"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 10,
+        "def": 12,
+        "spa": 22,
+        "spd": 29,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 24,
+        "spa": 24,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Bite",
+        "Dive",
+        "Toxic",
+        "Foresight"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 18,
+        "spa": 30,
+        "spd": 26,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_083",
+  "party": [
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Mega Drain",
+        "Constrict",
+        "Howl",
+        "Safeguard"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 22,
+        "atk": 2,
+        "def": 22,
+        "spa": 15,
+        "spd": 10,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 72,
+        "def": 44,
+        "spa": 60,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

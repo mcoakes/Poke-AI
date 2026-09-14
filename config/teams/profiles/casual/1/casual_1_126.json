@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_126",
+  "party": [
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Waterfall",
+        "Mist",
+        "Body Slam",
+        "Water Pulse"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 11,
+        "def": 9,
+        "spa": 27,
+        "spd": 23,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 20,
+        "spa": 16,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

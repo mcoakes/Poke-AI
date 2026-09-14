@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_030",
+  "party": [
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Protect",
+        "Powder Snow",
+        "Safeguard",
+        "Secret Power"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 1,
+        "atk": 22,
+        "def": 28,
+        "spa": 22,
+        "spd": 21,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 28,
+        "spa": 44,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latios",
+      "moves": [
+        "Body Slam",
+        "Light Screen",
+        "Earthquake",
+        "Dream Eater"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 7,
+        "atk": 24,
+        "def": 8,
+        "spa": 12,
+        "spd": 1,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 76,
+        "spa": 60,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Cut",
+        "Dig",
+        "Toxic",
+        "Sunny Day"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 13,
+        "atk": 19,
+        "def": 26,
+        "spa": 6,
+        "spd": 16,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 60,
+        "spa": 68,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

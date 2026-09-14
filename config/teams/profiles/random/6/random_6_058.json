@@ -1,0 +1,180 @@
+{
+  "name": "random_6_058",
+  "party": [
+    {
+      "species": "Xatu",
+      "moves": [
+        "Grass Whistle",
+        "Pin Missile",
+        "Drill Peck",
+        "Future Sight"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 25,
+        "spa": 30,
+        "spd": 9,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 52,
+        "spa": 48,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Confuse Ray",
+        "Sky Uppercut",
+        "Double Kick",
+        "Stockpile"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 6,
+        "atk": 18,
+        "def": 28,
+        "spa": 18,
+        "spd": 14,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 80,
+        "def": 60,
+        "spa": 68,
+        "spd": 88,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Primeape",
+      "moves": [
+        "Leer",
+        "Drill Peck",
+        "Snore",
+        "Overheat"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 9,
+        "atk": 17,
+        "def": 10,
+        "spa": 16,
+        "spd": 11,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Delcatty",
+      "moves": [
+        "Megahorn",
+        "Rain Dance",
+        "Thunder Punch",
+        "Focus Punch"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 17,
+        "def": 17,
+        "spa": 6,
+        "spd": 22,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 32,
+        "spa": 56,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Low Kick",
+        "Metronome",
+        "Doom Desire",
+        "Destiny Bond"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 0,
+        "spa": 19,
+        "spd": 18,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 12,
+        "spa": 8,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Dragon Breath",
+        "Sludge",
+        "Steel Wing",
+        "Mega Punch"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 11,
+        "spa": 14,
+        "spd": 27,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 20,
+        "spa": 12,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

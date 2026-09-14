@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_029",
+  "party": [
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Surf",
+        "Dig",
+        "Strength",
+        "Double Team"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 14,
+        "atk": 16,
+        "def": 5,
+        "spa": 10,
+        "spd": 12,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 56,
+        "def": 32,
+        "spa": 40,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

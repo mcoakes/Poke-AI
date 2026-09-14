@@ -1,0 +1,152 @@
+{
+  "name": "random_5_024",
+  "party": [
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Crush Claw",
+        "Stockpile",
+        "Bide",
+        "Needle Arm"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 11,
+        "atk": 6,
+        "def": 1,
+        "spa": 29,
+        "spd": 21,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 28,
+        "spa": 32,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Aurora Beam",
+        "Bone Club",
+        "Spike Cannon",
+        "Acid Armor"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 5,
+        "atk": 2,
+        "def": 21,
+        "spa": 15,
+        "spd": 4,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 24,
+        "def": 56,
+        "spa": 76,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Doom Desire",
+        "Mist",
+        "Attract",
+        "Hail"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 7,
+        "def": 15,
+        "spa": 15,
+        "spd": 5,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 24,
+        "spa": 36,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Sky Attack",
+        "Hail",
+        "Doom Desire",
+        "Frenzy Plant"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 7,
+        "spa": 7,
+        "spd": 15,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 108,
+        "atk": 76,
+        "def": 92,
+        "spa": 52,
+        "spd": 80,
+        "spe": 88
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Minimize",
+        "Teleport",
+        "Brick Break",
+        "Giga Drain"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 26,
+        "spa": 1,
+        "spd": 7,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 64,
+        "spa": 48,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

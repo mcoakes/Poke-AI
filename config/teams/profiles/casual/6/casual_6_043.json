@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_043",
+  "party": [
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Dive",
+        "Hypnosis",
+        "Hail",
+        "Thief"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 24,
+        "atk": 27,
+        "def": 25,
+        "spa": 2,
+        "spd": 20,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 76,
+        "spa": 72,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Rest",
+        "Harden",
+        "Strength",
+        "Rock Slide"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 26,
+        "spa": 2,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 28,
+        "spa": 40,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Bulk Up",
+        "Aerial Ace",
+        "Twister",
+        "Mimic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 23,
+        "atk": 3,
+        "def": 19,
+        "spa": 13,
+        "spd": 11,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 40,
+        "spa": 24,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Double Team",
+        "Flame Wheel",
+        "Crunch",
+        "Aerial Ace"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 11,
+        "atk": 0,
+        "def": 26,
+        "spa": 10,
+        "spd": 24,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 72,
+        "def": 48,
+        "spa": 60,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Relicanth",
+      "moves": [
+        "Ancient Power",
+        "Sleep Talk",
+        "Surf",
+        "Calm Mind"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 10,
+        "spa": 1,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 32,
+        "spa": 48,
+        "spd": 48,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Roar",
+        "Mist Ball",
+        "Helping Hand",
+        "Waterfall"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 18,
+        "def": 25,
+        "spa": 1,
+        "spd": 13,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 44,
+        "spa": 36,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_005",
+  "party": [
+    {
+      "species": "Parasect",
+      "moves": [
+        "Scratch",
+        "Toxic",
+        "Giga Drain",
+        "Slash"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 23,
+        "atk": 10,
+        "def": 27,
+        "spa": 17,
+        "spd": 1,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 8,
+        "spa": 52,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

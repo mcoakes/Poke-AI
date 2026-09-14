@@ -1,0 +1,152 @@
+{
+  "name": "random_5_101",
+  "party": [
+    {
+      "species": "Surskit",
+      "moves": [
+        "Sand Attack",
+        "Aeroblast",
+        "Earthquake",
+        "Snore"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 1,
+        "atk": 28,
+        "def": 20,
+        "spa": 24,
+        "spd": 9,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 72,
+        "def": 80,
+        "spa": 60,
+        "spd": 52,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pineco",
+      "moves": [
+        "Morning Sun",
+        "Leech Life",
+        "Scratch",
+        "Roar"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 30,
+        "atk": 6,
+        "def": 24,
+        "spa": 23,
+        "spd": 2,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 64,
+        "def": 64,
+        "spa": 68,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Solar Beam",
+        "Aromatherapy",
+        "Skill Swap",
+        "Cosmic Power"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 30,
+        "atk": 5,
+        "def": 12,
+        "spa": 24,
+        "spd": 12,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 12,
+        "spa": 24,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Double Edge",
+        "Torment",
+        "Aromatherapy",
+        "False Swipe"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 20,
+        "spa": 30,
+        "spd": 14,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 32,
+        "def": 60,
+        "spa": 64,
+        "spd": 76,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Growl",
+        "Tackle",
+        "Quick Attack",
+        "Hi Jump Kick"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 16,
+        "atk": 3,
+        "def": 14,
+        "spa": 3,
+        "spd": 11,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 24,
+        "spa": 32,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

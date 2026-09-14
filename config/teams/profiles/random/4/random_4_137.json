@@ -1,0 +1,124 @@
+{
+  "name": "random_4_137",
+  "party": [
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Foresight",
+        "Sky Uppercut",
+        "Flail",
+        "Flamethrower"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 2,
+        "spa": 30,
+        "spd": 17,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 100,
+        "def": 88,
+        "spa": 104,
+        "spd": 52,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Stockpile",
+        "Hyper Beam",
+        "Psycho Boost",
+        "Spark"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 0,
+        "atk": 28,
+        "def": 21,
+        "spa": 4,
+        "spd": 7,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 36,
+        "spa": 44,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Body Slam",
+        "Odor Sleuth",
+        "Mud Shot",
+        "Petal Dance"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 0,
+        "atk": 27,
+        "def": 5,
+        "spa": 13,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 44,
+        "spa": 60,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Moonlight",
+        "Ice Ball",
+        "Clamp",
+        "Heal Bell"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 15,
+        "atk": 30,
+        "def": 28,
+        "spa": 11,
+        "spd": 24,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 8,
+        "spa": 12,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

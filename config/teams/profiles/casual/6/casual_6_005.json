@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_005",
+  "party": [
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Leer",
+        "Strength",
+        "Dragon Rage",
+        "Twister"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 17,
+        "atk": 14,
+        "def": 4,
+        "spa": 20,
+        "spd": 16,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 28,
+        "spa": 16,
+        "spd": 24,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Crunch",
+        "Secret Power",
+        "Substitute",
+        "Shadow Ball"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 26,
+        "atk": 5,
+        "def": 2,
+        "spa": 22,
+        "spd": 25,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 12,
+        "spa": 52,
+        "spd": 24,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Sweet Kiss",
+        "Thunder Shock",
+        "Reversal",
+        "Strength"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 21,
+        "def": 9,
+        "spa": 22,
+        "spd": 20,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 28,
+        "spa": 36,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Take Down",
+        "Dream Eater",
+        "Hypnosis",
+        "Iron Tail"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 3,
+        "atk": 2,
+        "def": 0,
+        "spa": 1,
+        "spd": 4,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 20,
+        "spa": 12,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Cross Chop",
+        "Water Sport",
+        "Waterfall",
+        "Foresight"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 0,
+        "atk": 6,
+        "def": 27,
+        "spa": 12,
+        "spd": 16,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 60,
+        "def": 68,
+        "spa": 64,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Cut",
+        "Calm Mind",
+        "Spark",
+        "Dig"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 19,
+        "def": 19,
+        "spa": 14,
+        "spd": 28,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 8,
+        "spa": 4,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

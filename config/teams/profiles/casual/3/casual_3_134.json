@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_134",
+  "party": [
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Water Pulse",
+        "Protect",
+        "Return",
+        "Sludge Bomb"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 11,
+        "atk": 7,
+        "def": 10,
+        "spa": 17,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 16,
+        "def": 16,
+        "spa": 16,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Facade",
+        "Toxic",
+        "Brick Break",
+        "Double Team"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 16,
+        "atk": 23,
+        "def": 1,
+        "spa": 14,
+        "spd": 23,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 12,
+        "spa": 8,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Needle Arm",
+        "Secret Power",
+        "Destiny Bond",
+        "Sandstorm"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 19,
+        "def": 28,
+        "spa": 5,
+        "spd": 27,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 28,
+        "spa": 8,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

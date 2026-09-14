@@ -1,0 +1,152 @@
+{
+  "name": "random_5_096",
+  "party": [
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Flail",
+        "Feather Dance",
+        "Swords Dance",
+        "Mind Reader"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 21,
+        "spa": 15,
+        "spd": 9,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Strength",
+        "Muddy Water",
+        "Shadow Ball",
+        "Shock Wave"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 15,
+        "atk": 12,
+        "def": 9,
+        "spa": 23,
+        "spd": 10,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 12,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Leer",
+        "Mirror Coat",
+        "Role Play",
+        "Fissure"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 18,
+        "def": 18,
+        "spa": 23,
+        "spd": 25,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rhyhorn",
+      "moves": [
+        "Leech Seed",
+        "Horn Attack",
+        "Extreme Speed",
+        "Sheer Cold"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 25,
+        "atk": 10,
+        "def": 30,
+        "spa": 13,
+        "spd": 4,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 60,
+        "def": 56,
+        "spa": 40,
+        "spd": 88,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrode",
+      "moves": [
+        "Aeroblast",
+        "Ice Beam",
+        "Mist",
+        "Snore"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 15,
+        "def": 20,
+        "spa": 12,
+        "spd": 23,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 60,
+        "def": 44,
+        "spa": 44,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

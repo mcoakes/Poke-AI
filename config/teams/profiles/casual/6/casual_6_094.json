@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_094",
+  "party": [
+    {
+      "species": "Tropius",
+      "moves": [
+        "Fly",
+        "Body Slam",
+        "Magical Leaf",
+        "Swords Dance"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 15,
+        "spa": 24,
+        "spd": 13,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 16,
+        "spa": 20,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Cut",
+        "Mimic",
+        "Solar Beam",
+        "Razor Leaf"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 17,
+        "atk": 18,
+        "def": 31,
+        "spa": 3,
+        "spd": 19,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 12,
+        "spa": 12,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Protect",
+        "Double Team",
+        "Facade",
+        "Flamethrower"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 0,
+        "atk": 29,
+        "def": 25,
+        "spa": 14,
+        "spd": 12,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 32,
+        "spa": 36,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Secret Power",
+        "Shock Wave",
+        "Frustration",
+        "Rest"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 15,
+        "spa": 22,
+        "spd": 4,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 28,
+        "spa": 40,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Aurora Beam",
+        "Waterfall",
+        "Rock Slide",
+        "Rain Dance"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 5,
+        "atk": 1,
+        "def": 7,
+        "spa": 8,
+        "spd": 13,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 16,
+        "spa": 12,
+        "spd": 12,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Fly",
+        "Thunder Wave",
+        "Dive",
+        "Reflect"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 5,
+        "spa": 10,
+        "spd": 16,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 20,
+        "def": 32,
+        "spa": 52,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

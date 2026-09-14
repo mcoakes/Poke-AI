@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_076",
+  "party": [
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Surf",
+        "Substitute",
+        "Slash",
+        "Secret Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 7,
+        "atk": 12,
+        "def": 20,
+        "spa": 11,
+        "spd": 6,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 32,
+        "spa": 52,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Snore",
+        "Rain Dance",
+        "Waterfall",
+        "Growl"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 4,
+        "def": 16,
+        "spa": 4,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 64,
+        "spa": 56,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Torment",
+        "Ember",
+        "Crunch",
+        "Attract"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 9,
+        "atk": 5,
+        "def": 5,
+        "spa": 25,
+        "spd": 24,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 28,
+        "def": 32,
+        "spa": 12,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Rock Slide",
+        "Growl",
+        "Dive",
+        "Double Edge"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 9,
+        "def": 14,
+        "spa": 30,
+        "spd": 7,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 32,
+        "spa": 28,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Cut",
+        "Dragon Dance",
+        "Ember",
+        "Bite"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 1,
+        "atk": 16,
+        "def": 13,
+        "spa": 2,
+        "spd": 3,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 4,
+        "spa": 16,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

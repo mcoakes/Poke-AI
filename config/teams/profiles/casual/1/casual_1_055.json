@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_055",
+  "party": [
+    {
+      "species": "Donphan",
+      "moves": [
+        "Strength",
+        "Earthquake",
+        "Ancient Power",
+        "Mimic"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 22,
+        "atk": 20,
+        "def": 3,
+        "spa": 25,
+        "spd": 19,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 32,
+        "spa": 32,
+        "spd": 28,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

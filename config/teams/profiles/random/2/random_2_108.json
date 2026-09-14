@@ -1,0 +1,68 @@
+{
+  "name": "random_2_108",
+  "party": [
+    {
+      "species": "Banette",
+      "moves": [
+        "Dragon Dance",
+        "Psycho Boost",
+        "Rest",
+        "Dragon Rage"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 16,
+        "atk": 3,
+        "def": 10,
+        "spa": 20,
+        "spd": 5,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 68,
+        "spa": 32,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Rock Tomb",
+        "Mirror Move",
+        "Take Down",
+        "Fly"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 12,
+        "atk": 18,
+        "def": 21,
+        "spa": 4,
+        "spd": 17,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 36,
+        "spa": 60,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

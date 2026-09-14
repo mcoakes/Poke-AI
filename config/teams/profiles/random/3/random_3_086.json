@@ -1,0 +1,96 @@
+{
+  "name": "random_3_086",
+  "party": [
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Growl",
+        "Sing",
+        "Brick Break",
+        "Dream Eater"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 12,
+        "atk": 14,
+        "def": 30,
+        "spa": 1,
+        "spd": 2,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 12,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Thunder Wave",
+        "String Shot",
+        "Tickle",
+        "Return"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 6,
+        "def": 5,
+        "spa": 28,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 20,
+        "spa": 24,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Registeel",
+      "moves": [
+        "Mud Slap",
+        "Refresh",
+        "Hydro Cannon",
+        "Encore"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 9,
+        "atk": 9,
+        "def": 27,
+        "spa": 21,
+        "spd": 29,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 44,
+        "spa": 40,
+        "spd": 52,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

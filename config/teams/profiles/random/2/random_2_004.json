@@ -1,0 +1,68 @@
+{
+  "name": "random_2_004",
+  "party": [
+    {
+      "species": "Haunter",
+      "moves": [
+        "Double Edge",
+        "Fire Blast",
+        "Dizzy Punch",
+        "Substitute"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 23,
+        "def": 25,
+        "spa": 11,
+        "spd": 1,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 88,
+        "def": 84,
+        "spa": 104,
+        "spd": 88,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Reversal",
+        "Octazooka",
+        "Fury Swipes",
+        "Poison Powder"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 22,
+        "atk": 13,
+        "def": 25,
+        "spa": 2,
+        "spd": 15,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 32,
+        "spa": 48,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

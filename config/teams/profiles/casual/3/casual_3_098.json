@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_098",
+  "party": [
+    {
+      "species": "Swellow",
+      "moves": [
+        "Fly",
+        "Secret Power",
+        "Rest",
+        "Aerial Ace"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 12,
+        "atk": 7,
+        "def": 14,
+        "spa": 4,
+        "spd": 26,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 80,
+        "def": 56,
+        "spa": 44,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Secret Power",
+        "Toxic",
+        "Psybeam",
+        "Double Edge"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 18,
+        "atk": 2,
+        "def": 24,
+        "spa": 9,
+        "spd": 16,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 44,
+        "def": 44,
+        "spa": 32,
+        "spd": 64,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Ember",
+        "Scratch",
+        "Smokescreen",
+        "Sunny Day"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 15,
+        "def": 16,
+        "spa": 11,
+        "spd": 0,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 24,
+        "spa": 16,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_023",
+  "party": [
+    {
+      "species": "Graveler",
+      "moves": [
+        "Rest",
+        "Facade",
+        "Rock Slide",
+        "Sandstorm"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 9,
+        "atk": 24,
+        "def": 7,
+        "spa": 5,
+        "spd": 6,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 28,
+        "def": 44,
+        "spa": 40,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seel",
+      "moves": [
+        "Thief",
+        "Icy Wind",
+        "Disable",
+        "Water Pulse"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 30,
+        "atk": 11,
+        "def": 12,
+        "spa": 29,
+        "spd": 17,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 12,
+        "spa": 24,
+        "spd": 24,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Giga Drain",
+        "Protect",
+        "Strength",
+        "Mega Punch"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 10,
+        "def": 27,
+        "spa": 18,
+        "spd": 9,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 44,
+        "spa": 32,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Memento",
+        "Sludge Bomb",
+        "Return",
+        "Thief"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 14,
+        "def": 5,
+        "spa": 24,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 68,
+        "def": 52,
+        "spa": 44,
+        "spd": 52,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Secret Power",
+        "Substitute",
+        "Toxic",
+        "Ancient Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 5,
+        "atk": 26,
+        "def": 0,
+        "spa": 10,
+        "spd": 4,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 32,
+        "def": 40,
+        "spa": 28,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ninetales",
+      "moves": [
+        "Faint Attack",
+        "Spite",
+        "Flamethrower",
+        "Quick Attack"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 13,
+        "atk": 12,
+        "def": 30,
+        "spa": 15,
+        "spd": 18,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 36,
+        "spa": 32,
+        "spd": 24,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

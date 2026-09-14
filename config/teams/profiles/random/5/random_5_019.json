@@ -1,0 +1,152 @@
+{
+  "name": "random_5_019",
+  "party": [
+    {
+      "species": "Machamp",
+      "moves": [
+        "Ice Beam",
+        "Cut",
+        "Light Screen",
+        "Assist"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 30,
+        "atk": 9,
+        "def": 28,
+        "spa": 22,
+        "spd": 28,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 80,
+        "def": 76,
+        "spa": 76,
+        "spd": 60,
+        "spe": 104
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Triple Kick",
+        "Leech Seed",
+        "Pain Split",
+        "Leaf Blade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 22,
+        "atk": 27,
+        "def": 14,
+        "spa": 12,
+        "spd": 28,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 44,
+        "spa": 60,
+        "spd": 80,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Luvdisc",
+      "moves": [
+        "Snatch",
+        "Water Pulse",
+        "Outrage",
+        "Hyper Beam"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 26,
+        "atk": 21,
+        "def": 16,
+        "spa": 5,
+        "spd": 13,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 16,
+        "spa": 36,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Extreme Speed",
+        "Confusion",
+        "Fury Cutter",
+        "Double Edge"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 26,
+        "atk": 4,
+        "def": 9,
+        "spa": 11,
+        "spd": 0,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 84,
+        "spa": 76,
+        "spd": 76,
+        "spe": 104
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Grass Whistle",
+        "Haze",
+        "Skull Bash",
+        "Spore"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 17,
+        "spa": 13,
+        "spd": 21,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 60,
+        "def": 56,
+        "spa": 60,
+        "spd": 84,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

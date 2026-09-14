@@ -1,0 +1,68 @@
+{
+  "name": "random_2_070",
+  "party": [
+    {
+      "species": "Suicune",
+      "moves": [
+        "Stun Spore",
+        "Iron Defense",
+        "Wing Attack",
+        "Ice Ball"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 8,
+        "spa": 9,
+        "spd": 16,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 48,
+        "def": 60,
+        "spa": 56,
+        "spd": 64,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cradily",
+      "moves": [
+        "Crabhammer",
+        "Ice Punch",
+        "Role Play",
+        "Petal Dance"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 25,
+        "atk": 21,
+        "def": 3,
+        "spa": 6,
+        "spd": 12,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 104,
+        "spa": 64,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

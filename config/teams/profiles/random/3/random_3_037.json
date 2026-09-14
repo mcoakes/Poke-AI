@@ -1,0 +1,96 @@
+{
+  "name": "random_3_037",
+  "party": [
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Teeter Dance",
+        "Thunder Shock",
+        "Headbutt",
+        "Confusion"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 14,
+        "atk": 6,
+        "def": 16,
+        "spa": 0,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 92,
+        "def": 72,
+        "spa": 56,
+        "spd": 44,
+        "spe": 72
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Water Pulse",
+        "Uproar",
+        "Return",
+        "Muddy Water"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 27,
+        "atk": 18,
+        "def": 28,
+        "spa": 29,
+        "spd": 1,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 96,
+        "def": 56,
+        "spa": 68,
+        "spd": 80,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Sleep Powder",
+        "Fire Blast",
+        "Sludge Bomb",
+        "Skill Swap"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 15,
+        "atk": 14,
+        "def": 6,
+        "spa": 25,
+        "spd": 24,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 48,
+        "spa": 60,
+        "spd": 64,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

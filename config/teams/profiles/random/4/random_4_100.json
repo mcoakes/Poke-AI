@@ -1,0 +1,124 @@
+{
+  "name": "random_4_100",
+  "party": [
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Blaze Kick",
+        "Hail",
+        "String Shot",
+        "Present"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 3,
+        "spa": 15,
+        "spd": 8,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 52,
+        "spa": 32,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Withdraw",
+        "Mud Sport",
+        "Reversal",
+        "Role Play"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 3,
+        "atk": 30,
+        "def": 10,
+        "spa": 1,
+        "spd": 26,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 36,
+        "spa": 44,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Espeon",
+      "moves": [
+        "Egg Bomb",
+        "Doom Desire",
+        "Superpower",
+        "Growl"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 3,
+        "atk": 28,
+        "def": 11,
+        "spa": 7,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 88,
+        "spa": 108,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Milk Drink",
+        "Encore",
+        "Thrash",
+        "Aeroblast"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 14,
+        "def": 30,
+        "spa": 17,
+        "spd": 13,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 12,
+        "spa": 12,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

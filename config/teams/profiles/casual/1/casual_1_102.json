@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_102",
+  "party": [
+    {
+      "species": "Breloom",
+      "moves": [
+        "Mega Drain",
+        "Giga Drain",
+        "Dynamic Punch",
+        "Stun Spore"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 2,
+        "spa": 4,
+        "spd": 22,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 36,
+        "spa": 28,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

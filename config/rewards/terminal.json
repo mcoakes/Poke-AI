@@ -1,0 +1,8 @@
+{
+  "damage": 0,
+  "damage_exponent": 2,
+  "knockout": 0,
+  "win": 1,
+  "loss": -1,
+  "scale": 1
+}

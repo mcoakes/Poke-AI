@@ -1,0 +1,152 @@
+{
+  "name": "random_5_104",
+  "party": [
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Hyper Voice",
+        "Follow Me",
+        "Lovely Kiss",
+        "Bide"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 5,
+        "atk": 22,
+        "def": 7,
+        "spa": 14,
+        "spd": 0,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 40,
+        "spa": 52,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cloyster",
+      "moves": [
+        "Twister",
+        "Shock Wave",
+        "Conversion",
+        "Vine Whip"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 6,
+        "def": 21,
+        "spa": 1,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 12,
+        "spa": 8,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Agility",
+        "Wrap",
+        "Nature Power",
+        "Sludge Bomb"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 2,
+        "atk": 4,
+        "def": 25,
+        "spa": 30,
+        "spd": 24,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 36,
+        "spa": 52,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Hydro Cannon",
+        "Yawn",
+        "Moonlight",
+        "Fake Out"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 31,
+        "spa": 24,
+        "spd": 26,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 36,
+        "def": 64,
+        "spa": 68,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Hitmontop",
+      "moves": [
+        "Dragon Dance",
+        "Needle Arm",
+        "Egg Bomb",
+        "Constrict"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 29,
+        "spa": 17,
+        "spd": 7,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 44,
+        "spa": 36,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

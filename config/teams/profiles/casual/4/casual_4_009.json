@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_009",
+  "party": [
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Supersonic",
+        "Brick Break",
+        "Seismic Toss",
+        "Water Pulse"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 1,
+        "atk": 11,
+        "def": 23,
+        "spa": 31,
+        "spd": 13,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 48,
+        "spa": 76,
+        "spd": 36,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Sludge Bomb",
+        "Harden",
+        "Thief",
+        "Toxic"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 31,
+        "atk": 19,
+        "def": 21,
+        "spa": 3,
+        "spd": 17,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 12,
+        "spa": 44,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Natu",
+      "moves": [
+        "Drill Peck",
+        "Confuse Ray",
+        "Faint Attack",
+        "Facade"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 20,
+        "spa": 7,
+        "spd": 4,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 60,
+        "spa": 44,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Aurora Beam",
+        "Strength",
+        "Ice Beam",
+        "Growl"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 0,
+        "atk": 25,
+        "def": 22,
+        "spa": 24,
+        "spd": 19,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 52,
+        "spa": 24,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

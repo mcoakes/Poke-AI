@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_086",
+  "party": [
+    {
+      "species": "Houndour",
+      "moves": [
+        "Facade",
+        "Crunch",
+        "Toxic",
+        "Body Slam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 13,
+        "atk": 18,
+        "def": 26,
+        "spa": 7,
+        "spd": 25,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 28,
+        "spa": 24,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

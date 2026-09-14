@@ -1,0 +1,96 @@
+{
+  "name": "random_3_126",
+  "party": [
+    {
+      "species": "Arbok",
+      "moves": [
+        "Dragon Dance",
+        "Helping Hand",
+        "Psybeam",
+        "Future Sight"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 12,
+        "atk": 1,
+        "def": 14,
+        "spa": 27,
+        "spd": 24,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 92,
+        "spa": 76,
+        "spd": 108,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metapod",
+      "moves": [
+        "Baton Pass",
+        "Icy Wind",
+        "Smokescreen",
+        "Toxic"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 27,
+        "spa": 12,
+        "spd": 18,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 12,
+        "spa": 16,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Milotic",
+      "moves": [
+        "Fury Swipes",
+        "Moonlight",
+        "Curse",
+        "Dive"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 9,
+        "spa": 24,
+        "spd": 10,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 8,
+        "spa": 8,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_146",
+  "party": [
+    {
+      "species": "Starmie",
+      "moves": [
+        "Arm Thrust",
+        "Sonic Boom",
+        "Return",
+        "Triple Kick"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 10,
+        "atk": 1,
+        "def": 30,
+        "spa": 10,
+        "spd": 22,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 20,
+        "spa": 16,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Arbok",
+      "moves": [
+        "Bubble",
+        "Conversion 2",
+        "Lick",
+        "Stockpile"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 15,
+        "atk": 6,
+        "def": 7,
+        "spa": 8,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Spite",
+        "Muddy Water",
+        "Solar Beam",
+        "Leaf Blade"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 26,
+        "atk": 1,
+        "def": 4,
+        "spa": 6,
+        "spd": 19,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 60,
+        "spa": 80,
+        "spd": 88,
+        "spe": 116
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

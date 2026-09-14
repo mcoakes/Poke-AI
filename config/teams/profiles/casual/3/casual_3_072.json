@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_072",
+  "party": [
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Psybeam",
+        "Toxic",
+        "Skill Swap",
+        "Dig"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 6,
+        "atk": 5,
+        "def": 11,
+        "spa": 21,
+        "spd": 14,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 32,
+        "spa": 40,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Aerial Ace",
+        "Thief",
+        "Substitute",
+        "Sky Attack"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 5,
+        "atk": 15,
+        "def": 23,
+        "spa": 11,
+        "spd": 24,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 40,
+        "spa": 40,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Banette",
+      "moves": [
+        "Shadow Ball",
+        "Foresight",
+        "Astonish",
+        "Psychic"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 21,
+        "spa": 16,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 44,
+        "spa": 16,
+        "spd": 8,
+        "spe": 40
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

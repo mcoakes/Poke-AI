@@ -1,0 +1,152 @@
+{
+  "name": "random_5_064",
+  "party": [
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Mach Punch",
+        "Mega Punch",
+        "Magical Leaf",
+        "Block"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 23,
+        "def": 26,
+        "spa": 11,
+        "spd": 19,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 28,
+        "spa": 24,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nuzleaf",
+      "moves": [
+        "Mimic",
+        "Rollout",
+        "Slack Off",
+        "Extrasensory"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 16,
+        "atk": 9,
+        "def": 19,
+        "spa": 7,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 72,
+        "spa": 64,
+        "spd": 76,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Bone Club",
+        "Magic Coat",
+        "Facade",
+        "Rock Throw"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 22,
+        "atk": 27,
+        "def": 26,
+        "spa": 2,
+        "spd": 1,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 40,
+        "spa": 64,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Zap Cannon",
+        "Growth",
+        "Poison Sting",
+        "Endeavor"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 2,
+        "atk": 28,
+        "def": 11,
+        "spa": 0,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 4,
+        "spa": 12,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Sky Attack",
+        "Mist",
+        "Tickle",
+        "Tail Glow"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 15,
+        "spa": 9,
+        "spd": 16,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 28,
+        "spa": 20,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

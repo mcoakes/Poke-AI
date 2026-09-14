@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_022",
+  "party": [
+    {
+      "species": "Lileep",
+      "moves": [
+        "Toxic",
+        "Rock Slide",
+        "Sunny Day",
+        "Body Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 3,
+        "def": 30,
+        "spa": 7,
+        "spd": 28,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 76,
+        "spa": 36,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Toxic",
+        "Water Gun",
+        "Bite",
+        "Dive"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 23,
+        "def": 24,
+        "spa": 8,
+        "spd": 1,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 52,
+        "spa": 60,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Flamethrower",
+        "Toxic",
+        "Secret Power",
+        "Rain Dance"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 14,
+        "atk": 4,
+        "def": 19,
+        "spa": 1,
+        "spd": 17,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 40,
+        "spa": 44,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Spinda",
+      "moves": [
+        "Baton Pass",
+        "Body Slam",
+        "Psybeam",
+        "Secret Power"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 0,
+        "atk": 29,
+        "def": 0,
+        "spa": 11,
+        "spd": 21,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 32,
+        "spa": 44,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Facade",
+        "Flash",
+        "Wrap",
+        "Rock Tomb"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 2,
+        "spa": 19,
+        "spd": 6,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 20,
+        "spa": 12,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Headbutt",
+        "Swagger",
+        "Leech Seed",
+        "Sky Uppercut"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 17,
+        "atk": 22,
+        "def": 5,
+        "spa": 23,
+        "spd": 10,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 32,
+        "spa": 40,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

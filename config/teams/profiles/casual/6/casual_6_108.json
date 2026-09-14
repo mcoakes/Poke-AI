@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_108",
+  "party": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Toxic",
+        "Fire Blast",
+        "Strength",
+        "Flamethrower"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 6,
+        "atk": 7,
+        "def": 14,
+        "spa": 26,
+        "spd": 30,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 60,
+        "def": 52,
+        "spa": 44,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Groudon",
+      "moves": [
+        "Earthquake",
+        "Mega Punch",
+        "Double Team",
+        "Toxic"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 25,
+        "spa": 9,
+        "spd": 17,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 28,
+        "spa": 24,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pupitar",
+      "moves": [
+        "Double Team",
+        "Bite",
+        "Facade",
+        "Dig"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 31,
+        "atk": 9,
+        "def": 20,
+        "spa": 3,
+        "spd": 12,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 40,
+        "spa": 52,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Water Pulse",
+        "Facade",
+        "Brick Break",
+        "Protect"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 19,
+        "spa": 25,
+        "spd": 24,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 68,
+        "spa": 52,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Geodude",
+      "moves": [
+        "Metronome",
+        "Earthquake",
+        "Rock Tomb",
+        "Defense Curl"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 20,
+        "atk": 10,
+        "def": 31,
+        "spa": 26,
+        "spd": 23,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 44,
+        "spa": 68,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slakoth",
+      "moves": [
+        "Brick Break",
+        "Sunny Day",
+        "Strength",
+        "Snore"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 3,
+        "atk": 23,
+        "def": 0,
+        "spa": 27,
+        "spd": 19,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 40,
+        "def": 52,
+        "spa": 60,
+        "spd": 56,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

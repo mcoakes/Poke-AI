@@ -1,0 +1,180 @@
+{
+  "name": "random_6_138",
+  "party": [
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Growth",
+        "Dig",
+        "Mean Look",
+        "Protect"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 16,
+        "atk": 29,
+        "def": 10,
+        "spa": 6,
+        "spd": 25,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 28,
+        "spa": 20,
+        "spd": 4,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Magic Coat",
+        "Sandstorm",
+        "Sand Tomb",
+        "Grass Whistle"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 20,
+        "spa": 13,
+        "spd": 22,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ninjask",
+      "moves": [
+        "Fire Spin",
+        "Mean Look",
+        "Bullet Seed",
+        "Sky Uppercut"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 11,
+        "atk": 28,
+        "def": 7,
+        "spa": 12,
+        "spd": 26,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Return",
+        "Megahorn",
+        "Curse",
+        "Thunder Wave"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 13,
+        "atk": 20,
+        "def": 9,
+        "spa": 26,
+        "spd": 2,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 32,
+        "spa": 16,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Detect",
+        "Imprison",
+        "Sleep Powder",
+        "Aurora Beam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 8,
+        "spa": 19,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 4,
+        "spa": 4,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Smog",
+        "Skill Swap",
+        "Magical Leaf",
+        "Fissure"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 16,
+        "atk": 21,
+        "def": 14,
+        "spa": 18,
+        "spd": 16,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 36,
+        "spa": 20,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_110",
+  "party": [
+    {
+      "species": "Gastly",
+      "moves": [
+        "Dragon Claw",
+        "Outrage",
+        "Morning Sun",
+        "Substitute"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 30,
+        "atk": 28,
+        "def": 0,
+        "spa": 15,
+        "spd": 21,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 20,
+        "spa": 32,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Spike Cannon",
+        "Rest",
+        "Spider Web",
+        "Glare"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 31,
+        "spa": 24,
+        "spd": 9,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 36,
+        "def": 40,
+        "spa": 36,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Surf",
+        "Rock Smash",
+        "Slam",
+        "Sunny Day"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 21,
+        "spa": 18,
+        "spd": 7,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_110",
+  "party": [
+    {
+      "species": "Solrock",
+      "moves": [
+        "Dream Eater",
+        "Secret Power",
+        "Solar Beam",
+        "Mimic"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 10,
+        "spa": 30,
+        "spd": 11,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Toxic",
+        "Leech Seed",
+        "Take Down",
+        "Giga Drain"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 2,
+        "spa": 7,
+        "spd": 11,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 20,
+        "spa": 20,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corphish",
+      "moves": [
+        "Crabhammer",
+        "Water Pulse",
+        "Cut",
+        "Mimic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 25,
+        "atk": 23,
+        "def": 17,
+        "spa": 8,
+        "spd": 12,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 28,
+        "spa": 44,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Tail Whip",
+        "Water Gun",
+        "Body Slam",
+        "Hail"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 31,
+        "atk": 4,
+        "def": 11,
+        "spa": 26,
+        "spd": 25,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 32,
+        "spa": 32,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ninjask",
+      "moves": [
+        "Substitute",
+        "Cut",
+        "Aerial Ace",
+        "Silver Wind"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 27,
+        "atk": 1,
+        "def": 30,
+        "spa": 7,
+        "spd": 8,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 36,
+        "spa": 16,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Espeon",
+      "moves": [
+        "Secret Power",
+        "Curse",
+        "Psychic",
+        "Rest"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 7,
+        "def": 20,
+        "spa": 4,
+        "spd": 7,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 56,
+        "spa": 52,
+        "spd": 20,
+        "spe": 76
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

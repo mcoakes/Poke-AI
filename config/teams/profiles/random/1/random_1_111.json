@@ -1,0 +1,40 @@
+{
+  "name": "random_1_111",
+  "party": [
+    {
+      "species": "Geodude",
+      "moves": [
+        "Fake Tears",
+        "Magnitude",
+        "Bone Rush",
+        "Counter"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 28,
+        "atk": 19,
+        "def": 17,
+        "spa": 11,
+        "spd": 0,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 32,
+        "spa": 36,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

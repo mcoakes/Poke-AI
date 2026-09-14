@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_090",
+  "party": [
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Ice Beam",
+        "Protect",
+        "Supersonic",
+        "Dive"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 2,
+        "atk": 17,
+        "def": 9,
+        "spa": 10,
+        "spd": 29,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 20,
+        "spa": 16,
+        "spd": 28,
+        "spe": 8
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Pineco",
+      "moves": [
+        "Substitute",
+        "Swift",
+        "Rest",
+        "Dig"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 26,
+        "atk": 10,
+        "def": 18,
+        "spa": 2,
+        "spd": 7,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 84,
+        "spa": 84,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_124",
+  "party": [
+    {
+      "species": "Illumise",
+      "moves": [
+        "Splash",
+        "Dream Eater",
+        "Growth",
+        "Thunder Punch"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 3,
+        "def": 4,
+        "spa": 2,
+        "spd": 13,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 16,
+        "spa": 32,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Slash",
+        "Razor Leaf",
+        "Sand Tomb",
+        "Imprison"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 30,
+        "atk": 8,
+        "def": 19,
+        "spa": 10,
+        "spd": 2,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 84,
+        "def": 52,
+        "spa": 68,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Withdraw",
+        "Double Kick",
+        "Spikes",
+        "Soft Boiled"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 25,
+        "spa": 20,
+        "spd": 5,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 72,
+        "def": 64,
+        "spa": 80,
+        "spd": 60,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Mud Slap",
+        "Howl",
+        "Counter",
+        "Refresh"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 22,
+        "spa": 1,
+        "spd": 16,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

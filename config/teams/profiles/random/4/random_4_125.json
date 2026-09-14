@@ -1,0 +1,124 @@
+{
+  "name": "random_4_125",
+  "party": [
+    {
+      "species": "Arbok",
+      "moves": [
+        "Quick Attack",
+        "Rolling Kick",
+        "Magnitude",
+        "Gust"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 19,
+        "atk": 14,
+        "def": 12,
+        "spa": 18,
+        "spd": 24,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 36,
+        "spa": 8,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wurmple",
+      "moves": [
+        "Psychic",
+        "Counter",
+        "Hydro Pump",
+        "Sandstorm"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 27,
+        "atk": 13,
+        "def": 27,
+        "spa": 20,
+        "spd": 14,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 36,
+        "spa": 24,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Block",
+        "Fire Spin",
+        "Reversal",
+        "Thunder"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 6,
+        "spa": 28,
+        "spd": 6,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 80,
+        "def": 60,
+        "spa": 76,
+        "spd": 80,
+        "spe": 124
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Spike Cannon",
+        "Block",
+        "Dragon Claw",
+        "Mist Ball"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 4,
+        "atk": 27,
+        "def": 28,
+        "spa": 17,
+        "spd": 6,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 12,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

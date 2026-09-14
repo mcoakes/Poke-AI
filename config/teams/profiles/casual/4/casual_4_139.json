@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_139",
+  "party": [
+    {
+      "species": "Torchic",
+      "moves": [
+        "Sunny Day",
+        "Flamethrower",
+        "Strength",
+        "Swagger"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 28,
+        "spa": 9,
+        "spd": 10,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 32,
+        "spa": 36,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Earthquake",
+        "Belly Drum",
+        "Surf",
+        "Mega Kick"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 23,
+        "def": 0,
+        "spa": 6,
+        "spd": 8,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 28,
+        "spa": 44,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Flail",
+        "Thief",
+        "Nature Power",
+        "Water Gun"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 30,
+        "atk": 3,
+        "def": 2,
+        "spa": 17,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 4,
+        "spa": 12,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Body Slam",
+        "Dragon Dance",
+        "Ember",
+        "Overheat"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 18,
+        "def": 26,
+        "spa": 2,
+        "spd": 8,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 48,
+        "spa": 20,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

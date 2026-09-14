@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_140",
+  "party": [
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Sandstorm",
+        "Water Pulse",
+        "Strength",
+        "Body Slam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 23,
+        "atk": 18,
+        "def": 25,
+        "spa": 31,
+        "spd": 0,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 40,
+        "spa": 28,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Stomp",
+        "Strength",
+        "Rock Slide",
+        "Thunder Wave"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 15,
+        "def": 16,
+        "spa": 30,
+        "spd": 26,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 40,
+        "spa": 36,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

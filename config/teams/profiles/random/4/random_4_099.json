@@ -1,0 +1,124 @@
+{
+  "name": "random_4_099",
+  "party": [
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Swords Dance",
+        "Slash",
+        "Hi Jump Kick",
+        "Howl"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 6,
+        "atk": 10,
+        "def": 16,
+        "spa": 10,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 56,
+        "def": 72,
+        "spa": 100,
+        "spd": 100,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Minimize",
+        "Gust",
+        "Psych Up",
+        "Faint Attack"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 23,
+        "def": 30,
+        "spa": 13,
+        "spd": 31,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 4,
+        "spa": 0,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marowak",
+      "moves": [
+        "Heat Wave",
+        "Transform",
+        "Icicle Spear",
+        "Fire Blast"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 20,
+        "atk": 14,
+        "def": 24,
+        "spa": 29,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 32,
+        "spa": 52,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Tangela",
+      "moves": [
+        "Rock Throw",
+        "Fury Cutter",
+        "Thunder Wave",
+        "Counter"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 29,
+        "atk": 6,
+        "def": 24,
+        "spa": 21,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

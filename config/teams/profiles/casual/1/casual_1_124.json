@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_124",
+  "party": [
+    {
+      "species": "Horsea",
+      "moves": [
+        "Rain Dance",
+        "Ice Beam",
+        "Water Gun",
+        "Aurora Beam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 15,
+        "spa": 12,
+        "spd": 25,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 40,
+        "spa": 48,
+        "spd": 20,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

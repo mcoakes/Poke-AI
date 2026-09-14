@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_060",
+  "party": [
+    {
+      "species": "Espeon",
+      "moves": [
+        "Curse",
+        "Shadow Ball",
+        "Rain Dance",
+        "Psychic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 0,
+        "spa": 17,
+        "spd": 1,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 28,
+        "spa": 44,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Spearow",
+      "moves": [
+        "Attract",
+        "Quick Attack",
+        "Toxic",
+        "Fly"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 0,
+        "atk": 19,
+        "def": 1,
+        "spa": 30,
+        "spd": 6,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

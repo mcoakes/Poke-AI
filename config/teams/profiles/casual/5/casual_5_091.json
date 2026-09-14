@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_091",
+  "party": [
+    {
+      "species": "Swampert",
+      "moves": [
+        "Water Gun",
+        "Rain Dance",
+        "Dig",
+        "Hail"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 26,
+        "def": 22,
+        "spa": 9,
+        "spd": 23,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 68,
+        "spa": 32,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Fly",
+        "Pursuit",
+        "Double Team",
+        "Snatch"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 1,
+        "atk": 16,
+        "def": 23,
+        "spa": 2,
+        "spd": 13,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 36,
+        "def": 12,
+        "spa": 32,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Substitute",
+        "Aurora Beam",
+        "Dragon Dance",
+        "Waterfall"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 15,
+        "atk": 17,
+        "def": 5,
+        "spa": 16,
+        "spd": 15,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 56,
+        "spa": 80,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Body Slam",
+        "Earthquake",
+        "Double Team",
+        "Strength"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 25,
+        "atk": 7,
+        "def": 2,
+        "spa": 3,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 44,
+        "def": 28,
+        "spa": 24,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Wing Attack",
+        "Agility",
+        "Iron Tail",
+        "Dragon Claw"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 30,
+        "atk": 16,
+        "def": 27,
+        "spa": 3,
+        "spd": 14,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 56,
+        "def": 72,
+        "spa": 64,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

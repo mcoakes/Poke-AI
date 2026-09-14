@@ -1,0 +1,152 @@
+{
+  "name": "random_5_113",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Slash",
+        "Wish",
+        "Mud Slap",
+        "Fury Attack"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 13,
+        "atk": 28,
+        "def": 17,
+        "spa": 1,
+        "spd": 25,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 108,
+        "def": 96,
+        "spa": 84,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Milk Drink",
+        "Ancient Power",
+        "Rollout",
+        "Foresight"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 26,
+        "spa": 9,
+        "spd": 25,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 64,
+        "spa": 52,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Bide",
+        "Double Edge",
+        "Encore",
+        "Doom Desire"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 22,
+        "def": 23,
+        "spa": 13,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 72,
+        "spa": 56,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Shadow Ball",
+        "Charm",
+        "Rock Blast",
+        "Hydro Cannon"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 25,
+        "def": 20,
+        "spa": 27,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 8,
+        "spa": 4,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Lick",
+        "Conversion 2",
+        "Bubble Beam",
+        "Spider Web"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 26,
+        "atk": 2,
+        "def": 8,
+        "spa": 6,
+        "spd": 15,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

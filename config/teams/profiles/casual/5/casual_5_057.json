@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_057",
+  "party": [
+    {
+      "species": "Electabuzz",
+      "moves": [
+        "Karate Chop",
+        "Rest",
+        "Shock Wave",
+        "Mega Kick"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 19,
+        "atk": 11,
+        "def": 0,
+        "spa": 13,
+        "spd": 13,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 16,
+        "spa": 28,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Protect",
+        "Strength",
+        "Petal Dance",
+        "Synthesis"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 8,
+        "atk": 31,
+        "def": 11,
+        "spa": 17,
+        "spd": 18,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 68,
+        "def": 72,
+        "spa": 76,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Thief",
+        "Spark",
+        "Charge",
+        "Body Slam"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 5,
+        "def": 27,
+        "spa": 30,
+        "spd": 29,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 44,
+        "spa": 32,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Taillow",
+      "moves": [
+        "Facade",
+        "Rest",
+        "Fly",
+        "Peck"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 22,
+        "atk": 3,
+        "def": 1,
+        "spa": 19,
+        "spd": 30,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 20,
+        "spa": 64,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seviper",
+      "moves": [
+        "Sludge Bomb",
+        "Body Slam",
+        "Earthquake",
+        "Protect"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 7,
+        "atk": 29,
+        "def": 7,
+        "spa": 0,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 88,
+        "spa": 60,
+        "spd": 52,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_098",
+  "party": [
+    {
+      "species": "Torchic",
+      "moves": [
+        "Mega Punch",
+        "Swords Dance",
+        "Swagger",
+        "Flamethrower"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 2,
+        "atk": 26,
+        "def": 20,
+        "spa": 17,
+        "spd": 3,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 52,
+        "spa": 44,
+        "spd": 36,
+        "spe": 104
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

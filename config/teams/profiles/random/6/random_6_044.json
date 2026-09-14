@@ -1,0 +1,180 @@
+{
+  "name": "random_6_044",
+  "party": [
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Mirror Coat",
+        "Powder Snow",
+        "Skull Bash",
+        "Rolling Kick"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 21,
+        "atk": 9,
+        "def": 28,
+        "spa": 21,
+        "spd": 31,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 36,
+        "spa": 40,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Breloom",
+      "moves": [
+        "Mud Shot",
+        "Night Shade",
+        "Karate Chop",
+        "Sand Attack"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 19,
+        "spa": 29,
+        "spd": 19,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 36,
+        "def": 40,
+        "spa": 36,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swellow",
+      "moves": [
+        "Rock Throw",
+        "Growth",
+        "Swords Dance",
+        "Sand Tomb"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 6,
+        "atk": 13,
+        "def": 1,
+        "spa": 7,
+        "spd": 4,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 52,
+        "def": 76,
+        "spa": 64,
+        "spd": 68,
+        "spe": 100
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Camouflage",
+        "Transform",
+        "Submission",
+        "Metal Claw"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 4,
+        "atk": 19,
+        "def": 21,
+        "spa": 3,
+        "spd": 7,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Constrict",
+        "Sleep Talk",
+        "Water Gun",
+        "Calm Mind"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 9,
+        "atk": 23,
+        "def": 9,
+        "spa": 28,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 48,
+        "spa": 56,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mew",
+      "moves": [
+        "Torment",
+        "Spikes",
+        "Nightmare",
+        "Fake Out"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 10,
+        "spa": 13,
+        "spd": 31,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 72,
+        "def": 40,
+        "spa": 56,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

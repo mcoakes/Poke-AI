@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_018",
+  "party": [
+    {
+      "species": "Porygon",
+      "moves": [
+        "Protect",
+        "Shock Wave",
+        "Lock On",
+        "Facade"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 10,
+        "spa": 4,
+        "spd": 4,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 32,
+        "spa": 20,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

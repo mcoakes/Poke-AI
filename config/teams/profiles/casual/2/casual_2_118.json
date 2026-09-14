@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_118",
+  "party": [
+    {
+      "species": "Gligar",
+      "moves": [
+        "Rock Slide",
+        "Protect",
+        "Dig",
+        "Attract"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 22,
+        "atk": 4,
+        "def": 10,
+        "spa": 6,
+        "spd": 28,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 60,
+        "spa": 44,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Whirlwind",
+        "Aerial Ace",
+        "Foresight",
+        "Steel Wing"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 9,
+        "spa": 24,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 44,
+        "spa": 40,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

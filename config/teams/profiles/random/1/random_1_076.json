@@ -1,0 +1,40 @@
+{
+  "name": "random_1_076",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Conversion 2",
+        "Outrage",
+        "Helping Hand",
+        "Encore"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 15,
+        "atk": 25,
+        "def": 26,
+        "spa": 23,
+        "spd": 30,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 48,
+        "spa": 60,
+        "spd": 60,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

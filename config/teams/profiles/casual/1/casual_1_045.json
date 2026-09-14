@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_045",
+  "party": [
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Flamethrower",
+        "Leer",
+        "Twister",
+        "Sunny Day"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 31,
+        "atk": 8,
+        "def": 27,
+        "spa": 9,
+        "spd": 22,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 92,
+        "spa": 84,
+        "spd": 64,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

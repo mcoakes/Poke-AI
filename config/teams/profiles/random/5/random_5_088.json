@@ -1,0 +1,152 @@
+{
+  "name": "random_5_088",
+  "party": [
+    {
+      "species": "Altaria",
+      "moves": [
+        "Fury Attack",
+        "Torment",
+        "Feather Dance",
+        "Vital Throw"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 19,
+        "atk": 28,
+        "def": 21,
+        "spa": 3,
+        "spd": 14,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 68,
+        "spa": 52,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Fly",
+        "Gust",
+        "Magical Leaf",
+        "Covet"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 21,
+        "atk": 29,
+        "def": 14,
+        "spa": 27,
+        "spd": 11,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 8,
+        "spa": 20,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Bide",
+        "Cotton Spore",
+        "Assist",
+        "Poison Gas"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 3,
+        "atk": 14,
+        "def": 29,
+        "spa": 3,
+        "spd": 1,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Conversion 2",
+        "Icicle Spear",
+        "Disable",
+        "Mean Look"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 0,
+        "atk": 17,
+        "def": 6,
+        "spa": 29,
+        "spd": 8,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 140,
+        "spa": 60,
+        "spd": 100,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Lovely Kiss",
+        "Flame Wheel",
+        "Crush Claw",
+        "Mud Slap"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 2,
+        "spa": 23,
+        "spd": 22,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 56,
+        "spa": 64,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

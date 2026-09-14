@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_011",
+  "party": [
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Fake Tears",
+        "Ice Punch",
+        "Reflect",
+        "Pound"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 29,
+        "def": 21,
+        "spa": 26,
+        "spd": 2,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 24,
+        "spa": 28,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

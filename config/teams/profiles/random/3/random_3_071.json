@@ -1,0 +1,96 @@
+{
+  "name": "random_3_071",
+  "party": [
+    {
+      "species": "Spearow",
+      "moves": [
+        "Endure",
+        "Nature Power",
+        "Comet Punch",
+        "Roar"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 2,
+        "spa": 18,
+        "spd": 6,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 64,
+        "spa": 28,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Xatu",
+      "moves": [
+        "Super Fang",
+        "Helping Hand",
+        "Stomp",
+        "Barrier"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 23,
+        "atk": 24,
+        "def": 9,
+        "spa": 19,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Stun Spore",
+        "Twister",
+        "Hydro Pump",
+        "Shadow Ball"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 14,
+        "atk": 21,
+        "def": 17,
+        "spa": 27,
+        "spd": 29,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 12,
+        "spa": 32,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

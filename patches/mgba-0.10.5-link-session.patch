@@ -1,0 +1,103 @@
+--- a/src/platform/qt/main.cpp
++++ b/src/platform/qt/main.cpp
+@@ -16,6 +16,12 @@
+ 
+ #include <QLibraryInfo>
+ #include <QTranslator>
++#include <QFile>
++#include <QFileInfo>
++#include <QJsonArray>
++#include <QJsonDocument>
++#include <QJsonObject>
++#include <QDebug>
+ 
+ #ifdef BUILD_GLES2
+ #include <QSurfaceFormat>
+@@ -119,7 +125,39 @@
+ 
+ 	Window* w = application.newWindow();
+ 	w->loadConfig();
+-	w->argumentsPassed();
++	QByteArray linkManifest = qgetenv("MGBA_LINK_MANIFEST");
++	if (linkManifest.isEmpty()) {
++		w->argumentsPassed();
++	} else {
++		QFile manifest(QString::fromLocal8Bit(linkManifest));
++		if (!manifest.open(QIODevice::ReadOnly)) {
++			qCritical() << "Cannot open MGBA_LINK_MANIFEST";
++			return 2;
++		}
++		QJsonDocument document = QJsonDocument::fromJson(manifest.readAll());
++		QJsonArray players = document.array();
++		if (!document.isArray() || players.size() != 2) {
++			qCritical() << "Link manifest must contain exactly two players";
++			return 2;
++		}
++		for (const QJsonValue& value : players) {
++			QJsonObject player = value.toObject();
++			for (const char* key : {"rom", "state", "script"}) {
++				if (!QFileInfo(player.value(QLatin1String(key)).toString()).isFile()) {
++					qCritical() << "Missing link player file:" << key;
++					return 2;
++				}
++			}
++		}
++		for (int i = 0; i < players.size(); ++i) {
++			Window* playerWindow = i == 0 ? w : application.newWindow();
++			QJsonObject player = players[i].toObject();
++			playerWindow->setProperty("fireredLinkRom", player.value("rom").toString());
++			playerWindow->setProperty("fireredLinkState", player.value("state").toString());
++			playerWindow->setProperty("fireredLinkScript", player.value("script").toString());
++			playerWindow->argumentsPassed();
++		}
++	}
+ 
+ 	w->show();
+ 
+--- a/src/platform/qt/Window.cpp
++++ b/src/platform/qt/Window.cpp
+@@ -6,6 +6,7 @@
+ #include "Window.h"
+ 
+ #include <QKeyEvent>
++#include <QDebug>
+ #include <QKeySequence>
+ #include <QMenuBar>
+ #include <QMessageBox>
+@@ -222,7 +223,11 @@
+ 		m_initialSize = size * m_savedScale;
+ 	}
+ 
+-	if (args->fname) {
++	if (!property("fireredLinkRom").toString().isEmpty()) {
++		QString rom = property("fireredLinkRom").toString();
++		m_pendingState = property("fireredLinkState").toString();
++		setController(m_manager->loadGame(rom), rom);
++	} else if (args->fname) {
+ 		setController(m_manager->loadGame(args->fname), args->fname);
+ 	}
+ 
+@@ -2163,13 +2168,21 @@
+ 	m_controller->start();
+ 
+ #ifdef ENABLE_SCRIPTING
+-	QByteArray startupScript = qgetenv("MGBA_LUA_SCRIPT");
++	QString startupScript = property("fireredLinkScript").toString();
++	if (startupScript.isEmpty()) {
++		startupScript = QString::fromLocal8Bit(qgetenv("MGBA_LUA_SCRIPT"));
++	}
+ 	if (!startupScript.isEmpty()) {
+ 		if (!m_scripting) {
+ 			m_scripting = std::make_unique<ScriptingController>();
+ 			m_scripting->setController(m_controller);
+ 		}
+-		m_scripting->loadFile(QString::fromLocal8Bit(startupScript));
++		if (!property("fireredLinkScript").toString().isEmpty()) {
++			m_scripting->runCode("FIRERED_RL_NATIVE_LINK_SESSION = true");
++		}
++		if (!m_scripting->loadFile(startupScript)) {
++			qCritical() << "Cannot load startup Lua script:" << startupScript;
++		}
+ 	}
+ #endif
+ 

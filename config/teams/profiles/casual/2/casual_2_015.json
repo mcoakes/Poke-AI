@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_015",
+  "party": [
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Mimic",
+        "Flash",
+        "Mega Punch",
+        "Thunder Punch"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 6,
+        "def": 21,
+        "spa": 20,
+        "spd": 15,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 12,
+        "spa": 24,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Mind Reader",
+        "Mega Punch",
+        "Revenge",
+        "Protect"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 27,
+        "def": 16,
+        "spa": 21,
+        "spd": 5,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 36,
+        "def": 12,
+        "spa": 40,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

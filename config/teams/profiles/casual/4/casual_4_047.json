@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_047",
+  "party": [
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Strength",
+        "Surf",
+        "Blizzard",
+        "Focus Energy"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 13,
+        "atk": 31,
+        "def": 7,
+        "spa": 3,
+        "spd": 30,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 20,
+        "spa": 8,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Water Gun",
+        "Secret Power",
+        "Protect",
+        "Hyper Beam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 11,
+        "spa": 10,
+        "spd": 13,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 72,
+        "spa": 48,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Dragon Claw",
+        "Return",
+        "Taunt",
+        "Iron Tail"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 10,
+        "def": 24,
+        "spa": 13,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 16,
+        "spa": 16,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Rapid Spin",
+        "Waterfall",
+        "Facade",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 9,
+        "def": 15,
+        "spa": 4,
+        "spd": 7,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 24,
+        "spa": 60,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Water Lead Reordered",
+  "party": [
+    {
+      "species": "Blastoise",
+      "level": 50,
+      "moves": [
+        "Hydro Pump",
+        "Water Pulse",
+        "Water Gun",
+        "Surf"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Shock Wave",
+        "Thunder Shock",
+        "Thunderbolt",
+        "Thunder"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Machamp",
+      "level": 50,
+      "moves": [
+        "Low Kick",
+        "Cross Chop",
+        "Brick Break",
+        "Karate Chop"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Arcanine",
+      "level": 50,
+      "moves": [
+        "Fire Blast",
+        "Flame Wheel",
+        "Ember",
+        "Flamethrower"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Sceptile",
+      "level": 50,
+      "moves": [
+        "Mega Drain",
+        "Absorb",
+        "Leaf Blade",
+        "Giga Drain"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    },
+    {
+      "species": "Glalie",
+      "level": 50,
+      "moves": [
+        "Powder Snow",
+        "Ice Beam",
+        "Blizzard",
+        "Icy Wind"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252,
+        "def": 0
+      }
+    }
+  ]
+}

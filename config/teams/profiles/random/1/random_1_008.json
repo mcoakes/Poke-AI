@@ -1,0 +1,40 @@
+{
+  "name": "random_1_008",
+  "party": [
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Sand Attack",
+        "Ice Ball",
+        "Whirlwind",
+        "Assist"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 11,
+        "atk": 10,
+        "def": 27,
+        "spa": 12,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 64,
+        "spa": 60,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_034",
+  "party": [
+    {
+      "species": "Golduck",
+      "moves": [
+        "Surf",
+        "Rain Dance",
+        "Strength",
+        "Iron Tail"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 14,
+        "atk": 3,
+        "def": 0,
+        "spa": 1,
+        "spd": 10,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 40,
+        "spa": 48,
+        "spd": 52,
+        "spe": 20
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Poison Sting",
+        "String Shot",
+        "Harden",
+        "Tackle"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 12,
+        "spa": 15,
+        "spd": 12,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 36,
+        "spa": 80,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "False Swipe",
+        "Mirror Move",
+        "Thief",
+        "Flail"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 14,
+        "atk": 23,
+        "def": 27,
+        "spa": 28,
+        "spd": 30,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 28,
+        "spa": 12,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Shock Wave",
+        "Thunderbolt",
+        "Amnesia",
+        "Take Down"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 1,
+        "spa": 27,
+        "spd": 9,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 68,
+        "spa": 40,
+        "spd": 72,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Mega Drain",
+        "Body Slam",
+        "Double Team",
+        "Frustration"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 15,
+        "def": 12,
+        "spa": 9,
+        "spd": 13,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 20,
+        "spa": 52,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_122",
+  "party": [
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Charge",
+        "Ingrain",
+        "Spikes",
+        "Overheat"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 23,
+        "spa": 18,
+        "spd": 11,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 20,
+        "spa": 12,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

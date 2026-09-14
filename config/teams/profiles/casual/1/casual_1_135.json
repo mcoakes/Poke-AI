@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_135",
+  "party": [
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Destiny Bond",
+        "Mirror Coat",
+        "Safeguard",
+        "Counter"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 5,
+        "atk": 18,
+        "def": 4,
+        "spa": 9,
+        "spd": 5,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 68,
+        "spa": 48,
+        "spd": 76,
+        "spe": 28
+      },
+      "held_item": "White Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_012",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Drill Peck",
+        "Substitute",
+        "Pursuit",
+        "Leer"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 8,
+        "def": 25,
+        "spa": 11,
+        "spd": 6,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 52,
+        "spa": 52,
+        "spd": 28,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Drill Peck",
+        "Secret Power",
+        "Hidden Power",
+        "Mimic"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 2,
+        "spa": 12,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 28,
+        "def": 60,
+        "spa": 36,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Wing Attack",
+        "Pursuit",
+        "Poison Fang",
+        "Curse"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 5,
+        "atk": 27,
+        "def": 3,
+        "spa": 29,
+        "spd": 13,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 8,
+        "spa": 16,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Poison Sting",
+        "Waterfall",
+        "Double Team",
+        "Aurora Beam"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 12,
+        "def": 10,
+        "spa": 17,
+        "spd": 15,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 68,
+        "spa": 60,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Dive",
+        "Water Pulse",
+        "Water Sport",
+        "Body Slam"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 30,
+        "spa": 23,
+        "spd": 28,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 60,
+        "def": 56,
+        "spa": 40,
+        "spd": 32,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magmar",
+      "moves": [
+        "Strength",
+        "Protect",
+        "Double Team",
+        "Flamethrower"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 12,
+        "atk": 27,
+        "def": 26,
+        "spa": 30,
+        "spd": 10,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 4,
+        "spa": 24,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

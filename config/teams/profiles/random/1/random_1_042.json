@@ -1,0 +1,40 @@
+{
+  "name": "random_1_042",
+  "party": [
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Sky Uppercut",
+        "Rock Blast",
+        "Giga Drain",
+        "Hydro Cannon"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 1,
+        "atk": 3,
+        "def": 6,
+        "spa": 22,
+        "spd": 27,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 56,
+        "def": 64,
+        "spa": 40,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_094",
+  "party": [
+    {
+      "species": "Hypno",
+      "moves": [
+        "Spike Cannon",
+        "Transform",
+        "Fly",
+        "Pay Day"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 0,
+        "spa": 16,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 36,
+        "spa": 24,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_023",
+  "party": [
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Gust",
+        "Water Gun",
+        "Bone Club",
+        "Powder Snow"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 9,
+        "def": 6,
+        "spa": 25,
+        "spd": 27,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 16,
+        "spa": 28,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

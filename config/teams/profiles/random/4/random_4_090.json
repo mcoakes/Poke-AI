@@ -1,0 +1,124 @@
+{
+  "name": "random_4_090",
+  "party": [
+    {
+      "species": "Ariados",
+      "moves": [
+        "Powder Snow",
+        "Spike Cannon",
+        "Petal Dance",
+        "Fissure"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 27,
+        "atk": 25,
+        "def": 5,
+        "spa": 6,
+        "spd": 13,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 92,
+        "def": 100,
+        "spa": 64,
+        "spd": 64,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Roar",
+        "Absorb",
+        "Arm Thrust",
+        "Whirlpool"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 17,
+        "def": 14,
+        "spa": 30,
+        "spd": 13,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 68,
+        "spa": 84,
+        "spd": 76,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Celebi",
+      "moves": [
+        "Rock Blast",
+        "Thunder",
+        "Doom Desire",
+        "Rock Tomb"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 11,
+        "atk": 31,
+        "def": 25,
+        "spa": 1,
+        "spd": 27,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 68,
+        "spa": 76,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Curse",
+        "Howl",
+        "Peck",
+        "Mud Sport"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 13,
+        "atk": 14,
+        "def": 19,
+        "spa": 3,
+        "spd": 27,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 40,
+        "spa": 84,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

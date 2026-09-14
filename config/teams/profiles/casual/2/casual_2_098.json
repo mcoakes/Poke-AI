@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_098",
+  "party": [
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Strength",
+        "Aerial Ace",
+        "Fire Blast",
+        "Protect"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 17,
+        "spa": 28,
+        "spd": 16,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 68,
+        "spa": 36,
+        "spd": 32,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Thunderbolt",
+        "Sludge Bomb",
+        "Water Pulse",
+        "Charm"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 20,
+        "spa": 29,
+        "spd": 5,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 72,
+        "def": 40,
+        "spa": 44,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

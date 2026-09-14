@@ -1,0 +1,167 @@
+{
+  "name": "Final Validation",
+  "party": [
+    {
+      "species": "Aerodactyl",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Double Edge",
+        "Aerial Ace"
+      ],
+      "nature": "Jolly",
+      "held_item": "Choice Band",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Slowbro",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Psychic",
+        "Calm Mind",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Ludicolo",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Giga Drain",
+        "Leech Seed"
+      ],
+      "nature": "Calm",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Weezing",
+      "level": 50,
+      "moves": [
+        "Sludge Bomb",
+        "Flamethrower",
+        "Will O Wisp",
+        "Haze"
+      ],
+      "nature": "Relaxed",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Houndoom",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Crunch",
+        "Sunny Day",
+        "Solar Beam"
+      ],
+      "nature": "Timid",
+      "held_item": "Lum Berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ursaring",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Earthquake",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "nature": "Adamant",
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "random_2_150",
+  "party": [
+    {
+      "species": "Espeon",
+      "moves": [
+        "Hydro Cannon",
+        "Arm Thrust",
+        "Sweet Kiss",
+        "Mud Sport"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 14,
+        "atk": 4,
+        "def": 23,
+        "spa": 6,
+        "spd": 6,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 52,
+        "spa": 52,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Castform",
+      "moves": [
+        "Poison Tail",
+        "Memento",
+        "Role Play",
+        "Crush Claw"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 8,
+        "atk": 13,
+        "def": 16,
+        "spa": 20,
+        "spd": 6,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 40,
+        "spa": 20,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

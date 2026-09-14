@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_011",
+  "party": [
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Shock Wave",
+        "Lock On",
+        "Secret Power",
+        "Mimic"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 26,
+        "atk": 24,
+        "def": 3,
+        "spa": 14,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 40,
+        "spa": 24,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Protect",
+        "Focus Energy",
+        "Ice Beam",
+        "Body Slam"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 10,
+        "atk": 19,
+        "def": 22,
+        "spa": 24,
+        "spd": 14,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 16,
+        "spa": 12,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Toxic",
+        "Fury Swipes",
+        "Facade",
+        "Faint Attack"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 15,
+        "atk": 22,
+        "def": 18,
+        "spa": 15,
+        "spd": 5,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 28,
+        "spa": 48,
+        "spd": 56,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Brick Break",
+        "Seismic Toss",
+        "Mimic",
+        "Razor Leaf"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 0,
+        "atk": 16,
+        "def": 28,
+        "spa": 27,
+        "spd": 0,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 20,
+        "spa": 24,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

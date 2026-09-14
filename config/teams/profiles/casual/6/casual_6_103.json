@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_103",
+  "party": [
+    {
+      "species": "Wingull",
+      "moves": [
+        "Attract",
+        "Aerial Ace",
+        "Steel Wing",
+        "Water Sport"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 2,
+        "atk": 8,
+        "def": 4,
+        "spa": 29,
+        "spd": 15,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 56,
+        "spa": 76,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ekans",
+      "moves": [
+        "Poison Fang",
+        "Poison Sting",
+        "Rock Slide",
+        "Spite"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 28,
+        "spa": 16,
+        "spd": 4,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 32,
+        "spa": 48,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Elekid",
+      "moves": [
+        "Thunder Wave",
+        "Counter",
+        "Thunder Punch",
+        "Quick Attack"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 30,
+        "atk": 12,
+        "def": 5,
+        "spa": 14,
+        "spd": 2,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 52,
+        "spa": 52,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Mega Punch",
+        "Rock Throw",
+        "Protect",
+        "Secret Power"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 21,
+        "atk": 16,
+        "def": 24,
+        "spa": 19,
+        "spd": 21,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 76,
+        "spa": 32,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Medicham",
+      "moves": [
+        "Toxic",
+        "Hi Jump Kick",
+        "Mega Punch",
+        "Protect"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 3,
+        "spa": 1,
+        "spd": 25,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 56,
+        "spa": 24,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mewtwo",
+      "moves": [
+        "Metronome",
+        "Dream Eater",
+        "Strength",
+        "Body Slam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 17,
+        "def": 7,
+        "spa": 6,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 52,
+        "spa": 12,
+        "spd": 32,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

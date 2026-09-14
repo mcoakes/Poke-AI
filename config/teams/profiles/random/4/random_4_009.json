@@ -1,0 +1,124 @@
+{
+  "name": "random_4_009",
+  "party": [
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Acid",
+        "Whirlwind",
+        "Fly",
+        "Flame Wheel"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 2,
+        "spa": 11,
+        "spd": 18,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 44,
+        "def": 48,
+        "spa": 92,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exploud",
+      "moves": [
+        "Signal Beam",
+        "Mega Drain",
+        "Mean Look",
+        "Crush Claw"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 27,
+        "spa": 12,
+        "spd": 23,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 36,
+        "spa": 28,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Meditite",
+      "moves": [
+        "Pursuit",
+        "Frenzy Plant",
+        "Earthquake",
+        "Flash"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 27,
+        "spa": 17,
+        "spd": 9,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 56,
+        "spa": 44,
+        "spd": 104,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Poison Tail",
+        "Fire Blast",
+        "Astonish",
+        "Defense Curl"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 9,
+        "atk": 23,
+        "def": 3,
+        "spa": 7,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 92,
+        "spa": 44,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_064",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Smelling Salt",
+        "Flamethrower",
+        "Rest",
+        "Rock Slide"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 1,
+        "atk": 10,
+        "def": 27,
+        "spa": 27,
+        "spd": 16,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 40,
+        "spa": 52,
+        "spd": 52,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

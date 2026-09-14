@@ -1,0 +1,124 @@
+{
+  "name": "random_4_018",
+  "party": [
+    {
+      "species": "Yanma",
+      "moves": [
+        "Water Gun",
+        "Spark",
+        "Iron Tail",
+        "Barrage"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 2,
+        "spa": 11,
+        "spd": 19,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 8,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Smelling Salt",
+        "Cross Chop",
+        "Rapid Spin",
+        "Helping Hand"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 5,
+        "atk": 4,
+        "def": 30,
+        "spa": 6,
+        "spd": 7,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 52,
+        "spa": 52,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Psybeam",
+        "Lovely Kiss",
+        "Octazooka",
+        "Body Slam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 26,
+        "atk": 7,
+        "def": 12,
+        "spa": 1,
+        "spd": 15,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 60,
+        "def": 96,
+        "spa": 72,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Cosmic Power",
+        "Brick Break",
+        "Tickle",
+        "Octazooka"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 0,
+        "def": 0,
+        "spa": 23,
+        "spd": 1,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 52,
+        "spa": 40,
+        "spd": 48,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "random_2_044",
+  "party": [
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Fury Swipes",
+        "Jump Kick",
+        "Vice Grip",
+        "Screech"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 9,
+        "atk": 27,
+        "def": 24,
+        "spa": 19,
+        "spd": 28,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 16,
+        "spa": 24,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Fake Tears",
+        "Sonic Boom",
+        "Mud Slap",
+        "Protect"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 9,
+        "atk": 4,
+        "def": 11,
+        "spa": 14,
+        "spd": 27,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 24,
+        "spa": 24,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

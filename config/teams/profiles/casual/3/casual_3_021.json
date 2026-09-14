@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_021",
+  "party": [
+    {
+      "species": "Miltank",
+      "moves": [
+        "Shadow Ball",
+        "Rain Dance",
+        "Surf",
+        "Mega Punch"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 10,
+        "spa": 29,
+        "spd": 10,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 72,
+        "def": 56,
+        "spa": 44,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Mimic",
+        "Secret Power",
+        "Fly",
+        "Iron Tail"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 22,
+        "spa": 10,
+        "spd": 1,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 52,
+        "def": 72,
+        "spa": 68,
+        "spd": 52,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Fly",
+        "Strength",
+        "Rain Dance",
+        "Frustration"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 4,
+        "atk": 21,
+        "def": 9,
+        "spa": 22,
+        "spd": 15,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 32,
+        "spa": 48,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

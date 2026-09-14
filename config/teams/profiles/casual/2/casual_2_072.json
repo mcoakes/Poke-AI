@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_072",
+  "party": [
+    {
+      "species": "Parasect",
+      "moves": [
+        "Slash",
+        "Flash",
+        "Giga Drain",
+        "Facade"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 14,
+        "atk": 7,
+        "def": 15,
+        "spa": 24,
+        "spd": 27,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 36,
+        "spa": 32,
+        "spd": 28,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Water Pulse",
+        "Facade",
+        "Rain Dance",
+        "Shock Wave"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 15,
+        "atk": 19,
+        "def": 10,
+        "spa": 16,
+        "spd": 5,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 12,
+        "spa": 20,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

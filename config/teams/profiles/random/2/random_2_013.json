@@ -1,0 +1,68 @@
+{
+  "name": "random_2_013",
+  "party": [
+    {
+      "species": "Aggron",
+      "moves": [
+        "Assist",
+        "Yawn",
+        "Metronome",
+        "Endeavor"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 1,
+        "spa": 30,
+        "spd": 19,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 48,
+        "def": 32,
+        "spa": 28,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Comet Punch",
+        "Bubble",
+        "Focus Energy",
+        "Torment"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 15,
+        "spa": 10,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 24,
+        "spa": 16,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

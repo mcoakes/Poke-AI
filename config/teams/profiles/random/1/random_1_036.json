@@ -1,0 +1,40 @@
+{
+  "name": "random_1_036",
+  "party": [
+    {
+      "species": "Togepi",
+      "moves": [
+        "Will O Wisp",
+        "Memento",
+        "Mind Reader",
+        "Wish"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 31,
+        "def": 10,
+        "spa": 31,
+        "spd": 21,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 44,
+        "spa": 36,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

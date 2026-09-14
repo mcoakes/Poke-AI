@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_109",
+  "party": [
+    {
+      "species": "Togetic",
+      "moves": [
+        "Facade",
+        "Psych Up",
+        "Secret Power",
+        "Ancient Power"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 18,
+        "atk": 4,
+        "def": 5,
+        "spa": 12,
+        "spd": 16,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 52,
+        "def": 48,
+        "spa": 52,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Roar",
+        "Brick Break",
+        "Flamethrower",
+        "Rock Slide"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 29,
+        "atk": 3,
+        "def": 31,
+        "spa": 25,
+        "spd": 10,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 28,
+        "spa": 20,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_107",
+  "party": [
+    {
+      "species": "Dratini",
+      "moves": [
+        "Blizzard",
+        "Leer",
+        "Outrage",
+        "Body Slam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 11,
+        "atk": 23,
+        "def": 14,
+        "spa": 14,
+        "spd": 22,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 28,
+        "spa": 8,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Foresight",
+        "Dynamic Punch",
+        "Earthquake",
+        "Submission"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 28,
+        "spa": 1,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 48,
+        "spa": 52,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowking",
+      "moves": [
+        "Future Sight",
+        "Belly Drum",
+        "Secret Power",
+        "Brick Break"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 5,
+        "def": 8,
+        "spa": 16,
+        "spd": 10,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 52,
+        "spa": 44,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Fearow",
+      "moves": [
+        "Leer",
+        "Drill Peck",
+        "Tri Attack",
+        "Toxic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 16,
+        "atk": 13,
+        "def": 25,
+        "spa": 31,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 36,
+        "spa": 52,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Hidden Power",
+        "Dig",
+        "Slash",
+        "Sunny Day"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 22,
+        "spa": 29,
+        "spd": 17,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 28,
+        "def": 88,
+        "spa": 52,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jigglypuff",
+      "moves": [
+        "Strength",
+        "Attract",
+        "Dig",
+        "Focus Punch"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 15,
+        "def": 2,
+        "spa": 21,
+        "spd": 23,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 28,
+        "def": 40,
+        "spa": 40,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

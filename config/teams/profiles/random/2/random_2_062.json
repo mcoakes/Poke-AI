@@ -1,0 +1,68 @@
+{
+  "name": "random_2_062",
+  "party": [
+    {
+      "species": "Kyogre",
+      "moves": [
+        "Pin Missile",
+        "Bullet Seed",
+        "Hail",
+        "Swift"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 1,
+        "atk": 11,
+        "def": 5,
+        "spa": 25,
+        "spd": 29,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Ancient Power",
+        "Poison Gas",
+        "Sonic Boom",
+        "Acid Armor"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 0,
+        "atk": 31,
+        "def": 21,
+        "spa": 25,
+        "spd": 24,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 44,
+        "def": 84,
+        "spa": 96,
+        "spd": 88,
+        "spe": 84
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

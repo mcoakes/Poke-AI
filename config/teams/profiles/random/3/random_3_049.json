@@ -1,0 +1,96 @@
+{
+  "name": "random_3_049",
+  "party": [
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Mud Sport",
+        "Substitute",
+        "Needle Arm",
+        "Toxic"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 6,
+        "def": 27,
+        "spa": 14,
+        "spd": 17,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 76,
+        "def": 64,
+        "spa": 88,
+        "spd": 96,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swinub",
+      "moves": [
+        "Growth",
+        "Facade",
+        "Leech Seed",
+        "Strength"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 19,
+        "spa": 29,
+        "spd": 18,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 32,
+        "spa": 16,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Razor Wind",
+        "Slam",
+        "Flame Wheel",
+        "Bone Rush"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 8,
+        "spa": 5,
+        "spd": 29,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 60,
+        "def": 92,
+        "spa": 80,
+        "spd": 104,
+        "spe": 72
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

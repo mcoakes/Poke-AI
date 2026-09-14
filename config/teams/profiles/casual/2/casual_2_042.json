@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_042",
+  "party": [
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Wing Attack",
+        "Rest",
+        "Faint Attack",
+        "Whirlwind"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 2,
+        "def": 18,
+        "spa": 1,
+        "spd": 0,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 36,
+        "def": 76,
+        "spa": 56,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Substitute",
+        "Stomp",
+        "Flamethrower",
+        "Defense Curl"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 0,
+        "atk": 9,
+        "def": 22,
+        "spa": 9,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 72,
+        "spa": 60,
+        "spd": 80,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_014",
+  "party": [
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Magical Leaf",
+        "Astonish",
+        "Flame Wheel",
+        "Sludge Bomb"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 7,
+        "spa": 29,
+        "spd": 10,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 8,
+        "spa": 4,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Substitute",
+        "Strength",
+        "Spark",
+        "Self Destruct"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 0,
+        "atk": 31,
+        "def": 9,
+        "spa": 18,
+        "spd": 20,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 84,
+        "def": 56,
+        "spa": 36,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Safeguard",
+        "Haze",
+        "Metronome",
+        "Disable"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 27,
+        "spa": 18,
+        "spd": 19,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 48,
+        "spa": 48,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Supersonic",
+        "Fire Spin",
+        "Tail Whip",
+        "Heal Bell"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 28,
+        "atk": 2,
+        "def": 14,
+        "spa": 20,
+        "spd": 30,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 56,
+        "spa": 116,
+        "spd": 76,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

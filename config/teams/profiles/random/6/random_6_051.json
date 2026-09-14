@@ -1,0 +1,180 @@
+{
+  "name": "random_6_051",
+  "party": [
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Wish",
+        "Take Down",
+        "Dragon Dance",
+        "Focus Energy"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 13,
+        "atk": 1,
+        "def": 14,
+        "spa": 3,
+        "spd": 6,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 36,
+        "def": 76,
+        "spa": 52,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Shelgon",
+      "moves": [
+        "Grass Whistle",
+        "Meditate",
+        "Moonlight",
+        "Tail Glow"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 26,
+        "atk": 2,
+        "def": 11,
+        "spa": 6,
+        "spd": 29,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 4,
+        "spa": 12,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Volt Tackle",
+        "Mimic",
+        "Double Edge",
+        "Kinesis"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 16,
+        "atk": 30,
+        "def": 9,
+        "spa": 22,
+        "spd": 27,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 16,
+        "def": 40,
+        "spa": 44,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Seviper",
+      "moves": [
+        "Rock Tomb",
+        "Dragon Breath",
+        "Stun Spore",
+        "Meteor Mash"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 18,
+        "atk": 29,
+        "def": 28,
+        "spa": 23,
+        "spd": 5,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 92,
+        "def": 152,
+        "spa": 72,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Roselia",
+      "moves": [
+        "Amnesia",
+        "Horn Drill",
+        "Bide",
+        "Petal Dance"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 14,
+        "spa": 0,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 48,
+        "spa": 56,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Destiny Bond",
+        "Barrier",
+        "Egg Bomb",
+        "Bubble"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 3,
+        "atk": 18,
+        "def": 3,
+        "spa": 27,
+        "spd": 16,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 84,
+        "def": 72,
+        "spa": 56,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

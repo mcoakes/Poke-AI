@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_010",
+  "party": [
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Thief",
+        "Fly",
+        "Faint Attack",
+        "Agility"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 9,
+        "spa": 13,
+        "spd": 28,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 40,
+        "spa": 44,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kabuto",
+      "moves": [
+        "Harden",
+        "Hail",
+        "Rock Slide",
+        "Aerial Ace"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 1,
+        "atk": 15,
+        "def": 16,
+        "spa": 0,
+        "spd": 16,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 32,
+        "spa": 12,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_043",
+  "party": [
+    {
+      "species": "Zubat",
+      "moves": [
+        "Triple Kick",
+        "Glare",
+        "Aerial Ace",
+        "Blaze Kick"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 25,
+        "atk": 15,
+        "def": 4,
+        "spa": 5,
+        "spd": 8,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 56,
+        "def": 36,
+        "spa": 56,
+        "spd": 52,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Substitute",
+        "Tail Whip",
+        "Destiny Bond",
+        "Low Kick"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 9,
+        "atk": 13,
+        "def": 12,
+        "spa": 25,
+        "spd": 19,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 32,
+        "spa": 8,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Mean Look",
+        "Block",
+        "Poison Powder",
+        "Blaze Kick"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 29,
+        "atk": 26,
+        "def": 0,
+        "spa": 17,
+        "spd": 30,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 40,
+        "spa": 28,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Doom Desire",
+        "Will O Wisp",
+        "Bind",
+        "Roar"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 4,
+        "def": 12,
+        "spa": 10,
+        "spd": 1,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 28,
+        "spa": 16,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

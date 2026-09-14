@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_017",
+  "party": [
+    {
+      "species": "Registeel",
+      "moves": [
+        "Sunny Day",
+        "Rest",
+        "Metal Claw",
+        "Mega Punch"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 30,
+        "atk": 12,
+        "def": 15,
+        "spa": 5,
+        "spd": 26,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 24,
+        "spa": 28,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

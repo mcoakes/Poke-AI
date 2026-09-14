@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_099",
+  "party": [
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Protect",
+        "Thief",
+        "Uproar",
+        "Agility"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 10,
+        "atk": 28,
+        "def": 13,
+        "spa": 5,
+        "spd": 8,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 16,
+        "spa": 16,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Thief",
+        "Encore",
+        "Confusion",
+        "Body Slam"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 0,
+        "atk": 31,
+        "def": 27,
+        "spa": 14,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 64,
+        "def": 44,
+        "spa": 44,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ho Oh",
+      "moves": [
+        "Flamethrower",
+        "Light Screen",
+        "Secret Power",
+        "Protect"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 6,
+        "atk": 14,
+        "def": 13,
+        "spa": 25,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 64,
+        "spa": 52,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

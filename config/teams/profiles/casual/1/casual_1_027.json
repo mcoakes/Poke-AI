@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_027",
+  "party": [
+    {
+      "species": "Clefable",
+      "moves": [
+        "Ice Beam",
+        "Toxic",
+        "Body Slam",
+        "Facade"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 27,
+        "atk": 30,
+        "def": 20,
+        "spa": 20,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 80,
+        "spa": 36,
+        "spd": 72,
+        "spe": 72
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

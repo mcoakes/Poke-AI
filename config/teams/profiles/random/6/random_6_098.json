@@ -1,0 +1,180 @@
+{
+  "name": "random_6_098",
+  "party": [
+    {
+      "species": "Marshtomp",
+      "moves": [
+        "Poison Powder",
+        "Nightmare",
+        "Imprison",
+        "Psychic"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 11,
+        "atk": 6,
+        "def": 25,
+        "spa": 13,
+        "spd": 26,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 12,
+        "spa": 8,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Extreme Speed",
+        "Mega Drain",
+        "Scratch",
+        "Sludge"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 14,
+        "spa": 5,
+        "spd": 31,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 28,
+        "spa": 40,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Anorith",
+      "moves": [
+        "Barrage",
+        "Counter",
+        "Harden",
+        "Megahorn"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 29,
+        "atk": 13,
+        "def": 8,
+        "spa": 5,
+        "spd": 28,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 12,
+        "spa": 20,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Skitty",
+      "moves": [
+        "Steel Wing",
+        "Sonic Boom",
+        "Leech Seed",
+        "Megahorn"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 6,
+        "atk": 11,
+        "def": 1,
+        "spa": 17,
+        "spd": 29,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 24,
+        "spa": 8,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Smokescreen",
+        "Horn Drill",
+        "Bulk Up",
+        "Hi Jump Kick"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 19,
+        "def": 12,
+        "spa": 22,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 40,
+        "spa": 44,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Roar",
+        "Uproar",
+        "Solar Beam",
+        "Sludge Bomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 18,
+        "atk": 27,
+        "def": 28,
+        "spa": 23,
+        "spd": 4,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 104,
+        "spa": 68,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Magnet",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

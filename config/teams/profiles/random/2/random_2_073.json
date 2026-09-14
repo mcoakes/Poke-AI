@@ -1,0 +1,68 @@
+{
+  "name": "random_2_073",
+  "party": [
+    {
+      "species": "Poochyena",
+      "moves": [
+        "Sleep Powder",
+        "Curse",
+        "Bulk Up",
+        "Petal Dance"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 6,
+        "atk": 13,
+        "def": 7,
+        "spa": 30,
+        "spd": 8,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 80,
+        "spa": 76,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Teleport",
+        "Milk Drink",
+        "Hydro Pump",
+        "Dream Eater"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 19,
+        "atk": 17,
+        "def": 3,
+        "spa": 4,
+        "spd": 29,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 24,
+        "spa": 36,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

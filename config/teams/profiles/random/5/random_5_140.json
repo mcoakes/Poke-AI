@@ -1,0 +1,152 @@
+{
+  "name": "random_5_140",
+  "party": [
+    {
+      "species": "Slugma",
+      "moves": [
+        "Smokescreen",
+        "Beat Up",
+        "Bulk Up",
+        "Cosmic Power"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 9,
+        "def": 21,
+        "spa": 13,
+        "spd": 10,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 28,
+        "spa": 40,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Curse",
+        "Covet",
+        "Reflect",
+        "Follow Me"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 22,
+        "atk": 7,
+        "def": 18,
+        "spa": 5,
+        "spd": 16,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 4,
+        "spa": 8,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Night Shade",
+        "Horn Drill",
+        "Jump Kick",
+        "Confuse Ray"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 19,
+        "atk": 25,
+        "def": 18,
+        "spa": 27,
+        "spd": 25,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 32,
+        "spa": 84,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Blizzard",
+        "Rock Slide",
+        "Role Play",
+        "Odor Sleuth"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 15,
+        "atk": 0,
+        "def": 16,
+        "spa": 3,
+        "spd": 5,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Submission",
+        "Water Pulse",
+        "Twister",
+        "Gust"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 18,
+        "atk": 10,
+        "def": 1,
+        "spa": 28,
+        "spd": 23,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 12,
+        "spa": 24,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

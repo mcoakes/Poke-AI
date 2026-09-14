@@ -1,0 +1,96 @@
+{
+  "name": "random_3_069",
+  "party": [
+    {
+      "species": "Latias",
+      "moves": [
+        "Crunch",
+        "Dragon Rage",
+        "Spark",
+        "Needle Arm"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 0,
+        "spa": 16,
+        "spd": 0,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 68,
+        "spa": 36,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Vine Whip",
+        "Headbutt",
+        "Wrap",
+        "Dragon Claw"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 22,
+        "atk": 27,
+        "def": 25,
+        "spa": 16,
+        "spd": 21,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 8,
+        "spa": 28,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Poison Tail",
+        "Skill Swap",
+        "Grass Whistle",
+        "Glare"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 18,
+        "atk": 0,
+        "def": 15,
+        "spa": 31,
+        "spd": 9,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 48,
+        "def": 28,
+        "spa": 40,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

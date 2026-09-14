@@ -1,0 +1,40 @@
+{
+  "name": "random_1_088",
+  "party": [
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Milk Drink",
+        "Whirlpool",
+        "Amnesia",
+        "Disable"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 11,
+        "atk": 10,
+        "def": 26,
+        "spa": 2,
+        "spd": 24,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 28,
+        "spa": 36,
+        "spd": 40,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

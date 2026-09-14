@@ -1,0 +1,124 @@
+{
+  "name": "random_4_048",
+  "party": [
+    {
+      "species": "Xatu",
+      "moves": [
+        "Drill Peck",
+        "Hyper Fang",
+        "Thief",
+        "Flamethrower"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 11,
+        "def": 17,
+        "spa": 28,
+        "spd": 23,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 88,
+        "def": 60,
+        "spa": 104,
+        "spd": 72,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "Hypnosis",
+        "Mirror Coat",
+        "Rock Slide",
+        "Withdraw"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 17,
+        "def": 4,
+        "spa": 25,
+        "spd": 19,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 44,
+        "def": 80,
+        "spa": 40,
+        "spd": 44,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Meowth",
+      "moves": [
+        "Gust",
+        "Hyper Voice",
+        "Fury Swipes",
+        "Imprison"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 25,
+        "atk": 18,
+        "def": 14,
+        "spa": 25,
+        "spd": 28,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 20,
+        "spa": 8,
+        "spd": 36,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tropius",
+      "moves": [
+        "Tri Attack",
+        "Rock Smash",
+        "Dream Eater",
+        "Bubble Beam"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 13,
+        "atk": 13,
+        "def": 7,
+        "spa": 21,
+        "spd": 0,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 44,
+        "spa": 48,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

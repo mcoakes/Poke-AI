@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_066",
+  "party": [
+    {
+      "species": "Lapras",
+      "moves": [
+        "Dream Eater",
+        "Shock Wave",
+        "Water Gun",
+        "Mimic"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 25,
+        "atk": 6,
+        "def": 7,
+        "spa": 0,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 56,
+        "spa": 56,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Shadow Ball",
+        "Harden",
+        "False Swipe",
+        "Fury Swipes"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 11,
+        "atk": 21,
+        "def": 25,
+        "spa": 6,
+        "spd": 6,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 8,
+        "def": 20,
+        "spa": 8,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Toxic",
+        "Cut",
+        "Rock Slide",
+        "Facade"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 8,
+        "spa": 30,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 28,
+        "spa": 28,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Treecko",
+      "moves": [
+        "Brick Break",
+        "Mud Sport",
+        "Giga Drain",
+        "Detect"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 30,
+        "def": 23,
+        "spa": 28,
+        "spd": 11,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 16,
+        "spa": 32,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

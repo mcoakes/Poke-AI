@@ -1,0 +1,96 @@
+{
+  "name": "random_3_084",
+  "party": [
+    {
+      "species": "Seadra",
+      "moves": [
+        "Giga Drain",
+        "Icicle Spear",
+        "Trick",
+        "Poison Tail"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 30,
+        "atk": 13,
+        "def": 19,
+        "spa": 0,
+        "spd": 1,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 12,
+        "def": 24,
+        "spa": 44,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Tackle",
+        "Flame Wheel",
+        "Strength",
+        "Lock On"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 4,
+        "atk": 27,
+        "def": 23,
+        "spa": 28,
+        "spd": 2,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 16,
+        "def": 36,
+        "spa": 20,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Sludge Bomb",
+        "Facade",
+        "Charge",
+        "Light Screen"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 4,
+        "def": 18,
+        "spa": 18,
+        "spd": 6,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 36,
+        "spa": 88,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_140",
+  "party": [
+    {
+      "species": "Aipom",
+      "moves": [
+        "Brick Break",
+        "Hydro Cannon",
+        "Attract",
+        "Rapid Spin"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 20,
+        "atk": 27,
+        "def": 2,
+        "spa": 28,
+        "spd": 0,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 88,
+        "spa": 92,
+        "spd": 64,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Magical Leaf",
+        "Sonic Boom",
+        "Water Pulse",
+        "Ice Beam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 2,
+        "spa": 26,
+        "spd": 25,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 8,
+        "spa": 32,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metang",
+      "moves": [
+        "Dive",
+        "Egg Bomb",
+        "False Swipe",
+        "Mega Punch"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 15,
+        "atk": 31,
+        "def": 5,
+        "spa": 16,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 64,
+        "def": 48,
+        "spa": 40,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

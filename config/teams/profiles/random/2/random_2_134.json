@@ -1,0 +1,68 @@
+{
+  "name": "random_2_134",
+  "party": [
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Spikes",
+        "Magical Leaf",
+        "Endeavor",
+        "Spite"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 15,
+        "def": 22,
+        "spa": 9,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 8,
+        "spa": 8,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mantine",
+      "moves": [
+        "Sunny Day",
+        "Slam",
+        "Poison Tail",
+        "Defense Curl"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 9,
+        "atk": 2,
+        "def": 18,
+        "spa": 20,
+        "spd": 12,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 28,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_080",
+  "party": [
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Counter",
+        "Bulk Up",
+        "Dynamic Punch",
+        "Faint Attack"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 6,
+        "spa": 16,
+        "spd": 22,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 28,
+        "spa": 12,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Facade",
+        "Protect",
+        "Drill Peck",
+        "Sandstorm"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 25,
+        "def": 16,
+        "spa": 1,
+        "spd": 22,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 52,
+        "spa": 28,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Groudon",
+      "moves": [
+        "Frustration",
+        "Thunderbolt",
+        "Dig",
+        "Sunny Day"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 13,
+        "atk": 24,
+        "def": 12,
+        "spa": 21,
+        "spd": 10,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 84,
+        "def": 60,
+        "spa": 96,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

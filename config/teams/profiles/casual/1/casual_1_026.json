@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_026",
+  "party": [
+    {
+      "species": "Huntail",
+      "moves": [
+        "Body Slam",
+        "Water Gun",
+        "Protect",
+        "Screech"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 29,
+        "atk": 21,
+        "def": 6,
+        "spa": 19,
+        "spd": 6,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 60,
+        "spa": 52,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

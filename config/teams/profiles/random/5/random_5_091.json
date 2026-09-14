@@ -1,0 +1,152 @@
+{
+  "name": "random_5_091",
+  "party": [
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Horn Attack",
+        "Charge",
+        "Shock Wave",
+        "Belly Drum"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 11,
+        "atk": 8,
+        "def": 12,
+        "spa": 9,
+        "spd": 25,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 4,
+        "spa": 4,
+        "spd": 4,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Aromatherapy",
+        "Heat Wave",
+        "Charm",
+        "Thunder Shock"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 30,
+        "atk": 24,
+        "def": 0,
+        "spa": 15,
+        "spd": 18,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 12,
+        "spa": 24,
+        "spd": 4,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Stomp",
+        "Vital Throw",
+        "Overheat",
+        "Dynamic Punch"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 15,
+        "atk": 19,
+        "def": 22,
+        "spa": 1,
+        "spd": 8,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 20,
+        "spa": 8,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Flamethrower",
+        "Meditate",
+        "Bubble Beam",
+        "Night Shade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 3,
+        "atk": 13,
+        "def": 7,
+        "spa": 1,
+        "spd": 14,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 12,
+        "spa": 24,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Rhyhorn",
+      "moves": [
+        "Dive",
+        "Astonish",
+        "Heat Wave",
+        "Dynamic Punch"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 28,
+        "atk": 23,
+        "def": 20,
+        "spa": 13,
+        "spd": 31,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 24,
+        "def": 36,
+        "spa": 20,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

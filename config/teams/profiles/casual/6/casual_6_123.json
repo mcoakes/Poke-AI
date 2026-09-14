@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_123",
+  "party": [
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Toxic",
+        "Mimic",
+        "Waterfall",
+        "Ice Beam"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 24,
+        "atk": 13,
+        "def": 11,
+        "spa": 15,
+        "spd": 4,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 84,
+        "def": 84,
+        "spa": 76,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Seismic Toss",
+        "Quick Attack",
+        "Blaze Kick",
+        "Toxic"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 19,
+        "atk": 25,
+        "def": 8,
+        "spa": 19,
+        "spd": 27,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 28,
+        "spa": 44,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dewgong",
+      "moves": [
+        "Perish Song",
+        "Ice Beam",
+        "Aurora Beam",
+        "Secret Power"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 5,
+        "def": 16,
+        "spa": 6,
+        "spd": 12,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 16,
+        "spa": 32,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Sunny Day",
+        "Protect",
+        "Rock Slide",
+        "Surf"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 4,
+        "spa": 21,
+        "spd": 10,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 60,
+        "spa": 64,
+        "spd": 28,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Toxic",
+        "Submission",
+        "Thief",
+        "Body Slam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 29,
+        "def": 29,
+        "spa": 10,
+        "spd": 28,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 40,
+        "spa": 32,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kabuto",
+      "moves": [
+        "Confuse Ray",
+        "Ancient Power",
+        "Return",
+        "Aurora Beam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 18,
+        "atk": 24,
+        "def": 15,
+        "spa": 30,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 24,
+        "spa": 12,
+        "spd": 40,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

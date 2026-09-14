@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_051",
+  "party": [
+    {
+      "species": "Muk",
+      "moves": [
+        "Rock Tomb",
+        "Torment",
+        "Taunt",
+        "Sludge"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 25,
+        "spa": 25,
+        "spd": 5,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 76,
+        "def": 56,
+        "spa": 72,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Rain Dance",
+        "Facade",
+        "Shock Wave",
+        "Bite"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 12,
+        "spa": 5,
+        "spd": 2,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 44,
+        "spa": 60,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Razor Leaf",
+        "Double Team",
+        "Facade",
+        "Nature Power"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 27,
+        "atk": 12,
+        "def": 9,
+        "spa": 17,
+        "spd": 20,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 40,
+        "spa": 24,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

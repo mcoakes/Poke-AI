@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_067",
+  "party": [
+    {
+      "species": "Delibird",
+      "moves": [
+        "Protect",
+        "Double Team",
+        "Water Pulse",
+        "Ice Beam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 23,
+        "atk": 25,
+        "def": 4,
+        "spa": 14,
+        "spd": 17,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 20,
+        "spa": 36,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

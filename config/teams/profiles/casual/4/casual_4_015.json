@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_015",
+  "party": [
+    {
+      "species": "Hitmontop",
+      "moves": [
+        "Revenge",
+        "Facade",
+        "Focus Energy",
+        "Mind Reader"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 0,
+        "atk": 5,
+        "def": 18,
+        "spa": 0,
+        "spd": 23,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 20,
+        "spa": 36,
+        "spd": 32,
+        "spe": 8
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Facade",
+        "Double Edge",
+        "Calm Mind",
+        "Bite"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 28,
+        "atk": 2,
+        "def": 27,
+        "spa": 23,
+        "spd": 17,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 40,
+        "spa": 28,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Dive",
+        "Protect",
+        "Psychic",
+        "Recover"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 6,
+        "atk": 6,
+        "def": 16,
+        "spa": 4,
+        "spd": 19,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Secret Power",
+        "Water Pulse",
+        "Rain Dance",
+        "Facade"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 9,
+        "atk": 15,
+        "def": 13,
+        "spa": 4,
+        "spd": 8,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 56,
+        "spa": 32,
+        "spd": 40,
+        "spe": 80
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

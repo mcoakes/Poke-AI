@@ -1,0 +1,40 @@
+{
+  "name": "random_1_068",
+  "party": [
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Scratch",
+        "Swift",
+        "Solar Beam",
+        "Lick"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 0,
+        "def": 29,
+        "spa": 9,
+        "spd": 0,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 60,
+        "def": 64,
+        "spa": 44,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

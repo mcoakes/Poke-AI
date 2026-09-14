@@ -1,0 +1,96 @@
+{
+  "name": "random_3_088",
+  "party": [
+    {
+      "species": "Wailord",
+      "moves": [
+        "Overheat",
+        "Razor Leaf",
+        "Taunt",
+        "Silver Wind"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 12,
+        "atk": 29,
+        "def": 12,
+        "spa": 26,
+        "spd": 19,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 40,
+        "spa": 52,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Forretress",
+      "moves": [
+        "Razor Wind",
+        "Waterfall",
+        "Confusion",
+        "Body Slam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 10,
+        "atk": 27,
+        "def": 3,
+        "spa": 17,
+        "spd": 1,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 12,
+        "spa": 20,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Twister",
+        "Transform",
+        "Charge",
+        "Magnitude"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 24,
+        "atk": 22,
+        "def": 23,
+        "spa": 11,
+        "spd": 23,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 80,
+        "def": 28,
+        "spa": 56,
+        "spd": 64,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

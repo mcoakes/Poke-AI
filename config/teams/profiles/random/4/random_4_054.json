@@ -1,0 +1,124 @@
+{
+  "name": "random_4_054",
+  "party": [
+    {
+      "species": "Tropius",
+      "moves": [
+        "Poison Sting",
+        "Tail Glow",
+        "Fissure",
+        "Thunderbolt"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 3,
+        "spa": 9,
+        "spd": 30,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 52,
+        "def": 52,
+        "spa": 52,
+        "spd": 56,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Skull Bash",
+        "Counter",
+        "Bounce",
+        "Megahorn"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 8,
+        "spa": 12,
+        "spd": 5,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 108,
+        "def": 76,
+        "spa": 68,
+        "spd": 40,
+        "spe": 92
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Splash",
+        "Beat Up",
+        "Barrage",
+        "Grass Whistle"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 22,
+        "atk": 28,
+        "def": 17,
+        "spa": 11,
+        "spd": 4,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 32,
+        "spa": 0,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Self Destruct",
+        "Whirlpool",
+        "Guillotine",
+        "Outrage"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 9,
+        "atk": 29,
+        "def": 8,
+        "spa": 19,
+        "spd": 6,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 16,
+        "spa": 12,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

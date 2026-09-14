@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_049",
+  "party": [
+    {
+      "species": "Electrode",
+      "moves": [
+        "Thunderbolt",
+        "Swift",
+        "Return",
+        "Thunder Wave"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 16,
+        "spa": 10,
+        "spd": 30,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 4,
+        "def": 28,
+        "spa": 28,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Strength",
+        "Thunder Wave",
+        "Rock Slide",
+        "Sunny Day"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 0,
+        "spa": 22,
+        "spd": 8,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 32,
+        "spa": 76,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Shadow Ball",
+        "Water Gun",
+        "Toxic",
+        "Supersonic"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 30,
+        "atk": 16,
+        "def": 23,
+        "spa": 15,
+        "spd": 21,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 28,
+        "spa": 20,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

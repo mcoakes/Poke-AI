@@ -1,0 +1,180 @@
+{
+  "name": "random_6_094",
+  "party": [
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Bubble Beam",
+        "Icy Wind",
+        "Seismic Toss",
+        "Mean Look"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 23,
+        "def": 3,
+        "spa": 15,
+        "spd": 13,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 72,
+        "def": 32,
+        "spa": 72,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ditto",
+      "moves": [
+        "Fissure",
+        "Strength",
+        "Rest",
+        "Slack Off"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 9,
+        "atk": 24,
+        "def": 17,
+        "spa": 9,
+        "spd": 31,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 60,
+        "def": 36,
+        "spa": 36,
+        "spd": 36,
+        "spe": 64
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Mimic",
+        "Scary Face",
+        "Hypnosis",
+        "Whirlpool"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 0,
+        "def": 18,
+        "spa": 9,
+        "spd": 3,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 28,
+        "spa": 36,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Glalie",
+      "moves": [
+        "Absorb",
+        "Rock Smash",
+        "Mud Slap",
+        "Signal Beam"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 26,
+        "atk": 19,
+        "def": 26,
+        "spa": 0,
+        "spd": 6,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 0
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Tail Glow",
+        "Vice Grip",
+        "Smog",
+        "Mirror Move"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 26,
+        "def": 28,
+        "spa": 10,
+        "spd": 29,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 36,
+        "spa": 48,
+        "spd": 40,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Scary Face",
+        "Hydro Cannon",
+        "Double Team",
+        "Detect"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 11,
+        "atk": 19,
+        "def": 12,
+        "spa": 29,
+        "spd": 21,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 100,
+        "def": 64,
+        "spa": 64,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

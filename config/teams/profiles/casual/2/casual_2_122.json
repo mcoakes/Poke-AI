@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_122",
+  "party": [
+    {
+      "species": "Feebas",
+      "moves": [
+        "Tackle",
+        "Facade",
+        "Hail",
+        "Surf"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 8,
+        "atk": 18,
+        "def": 9,
+        "spa": 25,
+        "spd": 22,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 44,
+        "spa": 20,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Facade",
+        "Secret Power",
+        "Double Team",
+        "Giga Drain"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 2,
+        "atk": 11,
+        "def": 28,
+        "spa": 8,
+        "spd": 5,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 8,
+        "def": 36,
+        "spa": 36,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

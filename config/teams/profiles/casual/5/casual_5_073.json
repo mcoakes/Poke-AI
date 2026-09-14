@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_073",
+  "party": [
+    {
+      "species": "Stantler",
+      "moves": [
+        "Substitute",
+        "Take Down",
+        "Rain Dance",
+        "Bite"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 24,
+        "atk": 11,
+        "def": 3,
+        "spa": 24,
+        "spd": 2,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 44,
+        "spa": 32,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Steel Wing",
+        "Peck",
+        "Facade",
+        "Growl"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 17,
+        "atk": 25,
+        "def": 12,
+        "spa": 5,
+        "spd": 5,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 76,
+        "spa": 60,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Strength",
+        "Swords Dance",
+        "Attract",
+        "Brick Break"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 4,
+        "spa": 31,
+        "spd": 16,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 60,
+        "spa": 72,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Screech",
+        "Karate Chop",
+        "Thief",
+        "Rain Dance"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 25,
+        "atk": 23,
+        "def": 17,
+        "spa": 5,
+        "spd": 14,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 28,
+        "spa": 44,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Dig",
+        "Surf",
+        "Ice Beam",
+        "Hail"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 29,
+        "atk": 1,
+        "def": 5,
+        "spa": 13,
+        "spd": 11,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 56,
+        "spa": 72,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

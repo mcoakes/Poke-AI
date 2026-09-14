@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "name": "Starter-team model comparison",
+  "episodes": 1000,
+  "max_steps": 200,
+  "seed": 10001,
+  "include_random": true,
+  "scenarios": [
+    {
+      "id": "starter_pair",
+      "name": "Charizard lead versus Venusaur lead",
+      "teams": [
+        "../teams/quickstart/quickstart_charizard.json",
+        "../teams/quickstart/quickstart_venusaur.json"
+      ]
+    }
+  ]
+}

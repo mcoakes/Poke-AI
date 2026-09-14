@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_059",
+  "party": [
+    {
+      "species": "Machoke",
+      "moves": [
+        "Rain Dance",
+        "Flamethrower",
+        "Vital Throw",
+        "Rock Smash"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 24,
+        "atk": 19,
+        "def": 12,
+        "spa": 28,
+        "spd": 18,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 20,
+        "spa": 32,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

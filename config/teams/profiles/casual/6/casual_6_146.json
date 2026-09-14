@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_146",
+  "party": [
+    {
+      "species": "Aron",
+      "moves": [
+        "Metal Sound",
+        "Secret Power",
+        "Metal Claw",
+        "Sandstorm"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 16,
+        "atk": 27,
+        "def": 5,
+        "spa": 26,
+        "spd": 3,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 44,
+        "def": 44,
+        "spa": 48,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Psychic",
+        "Protect",
+        "Thief",
+        "Reflect"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 14,
+        "atk": 19,
+        "def": 10,
+        "spa": 31,
+        "spd": 7,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 68,
+        "spa": 52,
+        "spd": 40,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Rain Dance",
+        "Brick Break",
+        "Sunny Day",
+        "Earthquake"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 26,
+        "spa": 30,
+        "spd": 0,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 28,
+        "spa": 36,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Dragon Claw",
+        "Roar",
+        "Giga Drain",
+        "Swords Dance"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 22,
+        "atk": 7,
+        "def": 27,
+        "spa": 14,
+        "spd": 14,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 60,
+        "spa": 56,
+        "spd": 76,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Giga Drain",
+        "Gust",
+        "Screech",
+        "Earthquake"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 21,
+        "atk": 24,
+        "def": 29,
+        "spa": 3,
+        "spd": 20,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 68,
+        "spa": 56,
+        "spd": 88,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Rest",
+        "Substitute",
+        "Gust",
+        "Facade"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 14,
+        "atk": 28,
+        "def": 28,
+        "spa": 28,
+        "spd": 6,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 16,
+        "spa": 16,
+        "spd": 60,
+        "spe": 28
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

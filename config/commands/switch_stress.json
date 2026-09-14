@@ -1,0 +1,9 @@
+{
+  "name": "water_cycle_fire_alternating",
+  "repeats": 24,
+  "turns_per_repeat": 5,
+  "players": [
+    {"name": "fire", "cycle": [{"switch": 2}, {"switch": 1}]},
+    {"name": "water", "cycle": [{"switch": 2}, {"switch": 3}, {"switch": 4}, {"switch": 5}, {"switch": 6}]}
+  ]
+}

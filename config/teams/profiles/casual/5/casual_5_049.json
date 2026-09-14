@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_049",
+  "party": [
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Giga Drain",
+        "Sludge Bomb",
+        "Grass Whistle",
+        "Facade"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 0,
+        "atk": 16,
+        "def": 31,
+        "spa": 1,
+        "spd": 5,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 52,
+        "spa": 28,
+        "spd": 84,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Rain Dance",
+        "Aurora Beam",
+        "Frustration",
+        "Water Gun"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 19,
+        "atk": 7,
+        "def": 18,
+        "spa": 29,
+        "spd": 27,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 40,
+        "spa": 16,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Rain Dance",
+        "Spark",
+        "Swift",
+        "Hidden Power"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 26,
+        "atk": 12,
+        "def": 3,
+        "spa": 15,
+        "spd": 13,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Fly",
+        "Skill Swap",
+        "Return",
+        "Psychic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 20,
+        "def": 12,
+        "spa": 13,
+        "spd": 12,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 32,
+        "spa": 12,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jigglypuff",
+      "moves": [
+        "Blizzard",
+        "Pound",
+        "Brick Break",
+        "Defense Curl"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 1,
+        "atk": 21,
+        "def": 4,
+        "spa": 25,
+        "spd": 0,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 72,
+        "spa": 84,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

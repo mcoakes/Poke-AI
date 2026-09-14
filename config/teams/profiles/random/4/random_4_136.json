@@ -1,0 +1,124 @@
+{
+  "name": "random_4_136",
+  "party": [
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Self Destruct",
+        "Reflect",
+        "Mega Kick",
+        "Mist"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 25,
+        "atk": 12,
+        "def": 7,
+        "spa": 13,
+        "spd": 4,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 64,
+        "spa": 56,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seaking",
+      "moves": [
+        "Role Play",
+        "Night Shade",
+        "Sand Attack",
+        "Leaf Blade"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 29,
+        "spa": 16,
+        "spd": 6,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 100,
+        "spa": 56,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Poison Sting",
+        "Synthesis",
+        "Facade",
+        "Iron Tail"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 6,
+        "atk": 27,
+        "def": 7,
+        "spa": 31,
+        "spd": 28,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 20,
+        "def": 52,
+        "spa": 40,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Barrier",
+        "Waterfall",
+        "Leech Life",
+        "Water Gun"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 30,
+        "def": 11,
+        "spa": 1,
+        "spd": 0,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 88,
+        "def": 36,
+        "spa": 76,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

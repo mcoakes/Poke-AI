@@ -1,0 +1,124 @@
+{
+  "name": "random_4_118",
+  "party": [
+    {
+      "species": "Magneton",
+      "moves": [
+        "Sky Uppercut",
+        "Arm Thrust",
+        "Bulk Up",
+        "Pin Missile"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 18,
+        "atk": 3,
+        "def": 6,
+        "spa": 20,
+        "spd": 25,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 16,
+        "def": 32,
+        "spa": 32,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Pay Day",
+        "Fury Cutter",
+        "Teleport",
+        "Eruption"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 5,
+        "atk": 29,
+        "def": 8,
+        "spa": 16,
+        "spd": 10,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 48,
+        "spa": 64,
+        "spd": 44,
+        "spe": 76
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Grimer",
+      "moves": [
+        "Conversion 2",
+        "Dragon Claw",
+        "Bubble Beam",
+        "Body Slam"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 0,
+        "spa": 4,
+        "spd": 14,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Amnesia",
+        "Rock Throw",
+        "Earthquake",
+        "Mirror Coat"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 3,
+        "def": 26,
+        "spa": 15,
+        "spd": 14,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 32,
+        "spa": 16,
+        "spd": 28,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

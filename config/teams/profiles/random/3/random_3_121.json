@@ -1,0 +1,96 @@
+{
+  "name": "random_3_121",
+  "party": [
+    {
+      "species": "Gligar",
+      "moves": [
+        "Stockpile",
+        "Double Slap",
+        "Focus Punch",
+        "Twineedle"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 3,
+        "atk": 15,
+        "def": 2,
+        "spa": 24,
+        "spd": 31,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 12,
+        "spa": 24,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Hyper Beam",
+        "Roar",
+        "Stockpile",
+        "Body Slam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 21,
+        "atk": 23,
+        "def": 13,
+        "spa": 31,
+        "spd": 14,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 44,
+        "spa": 40,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Astonish",
+        "Fire Punch",
+        "Water Sport",
+        "Eruption"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 7,
+        "atk": 16,
+        "def": 20,
+        "spa": 31,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 32,
+        "spa": 20,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

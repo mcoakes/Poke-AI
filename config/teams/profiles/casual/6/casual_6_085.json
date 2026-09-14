@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_085",
+  "party": [
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Dig",
+        "Body Slam",
+        "Sludge Bomb",
+        "Disable"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 4,
+        "atk": 22,
+        "def": 2,
+        "spa": 18,
+        "spd": 3,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 44,
+        "def": 56,
+        "spa": 44,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Surf",
+        "Dream Eater",
+        "Facade",
+        "Substitute"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 17,
+        "atk": 18,
+        "def": 9,
+        "spa": 1,
+        "spd": 8,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 28,
+        "def": 16,
+        "spa": 40,
+        "spd": 24,
+        "spe": 40
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Sand Attack",
+        "Foresight",
+        "Revenge",
+        "Dig"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 3,
+        "atk": 27,
+        "def": 29,
+        "spa": 30,
+        "spd": 9,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 12,
+        "def": 28,
+        "spa": 48,
+        "spd": 24,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Dig",
+        "Water Gun",
+        "Water Pulse",
+        "Toxic"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 4,
+        "atk": 27,
+        "def": 3,
+        "spa": 21,
+        "spd": 12,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 52,
+        "def": 36,
+        "spa": 20,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seaking",
+      "moves": [
+        "Mimic",
+        "Mud Sport",
+        "Psybeam",
+        "Waterfall"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 3,
+        "atk": 4,
+        "def": 15,
+        "spa": 10,
+        "spd": 5,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 16,
+        "spa": 44,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Double Team",
+        "Shadow Ball",
+        "Ember",
+        "Pursuit"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 4,
+        "atk": 31,
+        "def": 12,
+        "spa": 8,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 8,
+        "def": 48,
+        "spa": 40,
+        "spd": 76,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

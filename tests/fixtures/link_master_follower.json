@@ -1,0 +1,1525 @@
+[
+  {
+    "profile": "firered_us_v1_0",
+    "frame": 6812,
+    "counts_valid": true,
+    "party": [
+      {
+        "current_hp": 153,
+        "base_type_ids": [
+          10,
+          2
+        ],
+        "moves": [
+          {
+            "current_pp": 15,
+            "type_id": 10,
+            "slot": 1,
+            "move_id": 53,
+            "max_pp": 15,
+            "name": "Flamethrower",
+            "type": "Fire"
+          },
+          {
+            "current_pp": 15,
+            "type_id": 2,
+            "slot": 2,
+            "move_id": 19,
+            "max_pp": 15,
+            "name": "Fly",
+            "type": "Flying"
+          },
+          {
+            "current_pp": 20,
+            "type_id": 0,
+            "slot": 3,
+            "move_id": 163,
+            "max_pp": 20,
+            "name": "Slash",
+            "type": "Normal"
+          },
+          {
+            "current_pp": 20,
+            "type_id": 0,
+            "slot": 4,
+            "move_id": 108,
+            "max_pp": 20,
+            "name": "Smokescreen",
+            "type": "Normal"
+          }
+        ],
+        "bad_egg": false,
+        "species_id": 6,
+        "checksum_valid": true,
+        "is_egg": false,
+        "max_hp": 153,
+        "status_raw": 0,
+        "level": 50,
+        "slot": 1,
+        "valid": true,
+        "occupied": true,
+        "held_item_id": 0,
+        "species": "Charizard",
+        "held_item": "None",
+        "base_types": [
+          "Fire",
+          "Flying"
+        ],
+        "status": []
+      },
+      {
+        "current_hp": 165,
+        "base_type_ids": [
+          10,
+          10
+        ],
+        "moves": [
+          {
+            "current_pp": 15,
+            "type_id": 10,
+            "slot": 1,
+            "move_id": 53,
+            "max_pp": 15,
+            "name": "Flamethrower",
+            "type": "Fire"
+          },
+          {
+            "current_pp": 25,
+            "type_id": 17,
+            "slot": 2,
+            "move_id": 44,
+            "max_pp": 25,
+            "name": "Bite",
+            "type": "Dark"
+          },
+          {
+            "current_pp": 30,
+            "type_id": 14,
+            "slot": 3,
+            "move_id": 97,
+            "max_pp": 30,
+            "name": "Agility",
+            "type": "Psychic"
+          },
+          {
+            "current_pp": 20,
+            "type_id": 0,
+            "slot": 4,
+            "move_id": 36,
+            "max_pp": 20,
+            "name": "Take Down",
+            "type": "Normal"
+          }
+        ],
+        "bad_egg": false,
+        "species_id": 59,
+        "checksum_valid": true,
+        "is_egg": false,
+        "max_hp": 165,
+        "status_raw": 0,
+        "level": 50,
+        "slot": 2,
+        "valid": true,
+        "occupied": true,
+        "held_item_id": 0,
+        "species": "Arcanine",
+        "held_item": "None",
+        "base_types": [
+          "Fire",
+          "Fire"
+        ],
+        "status": []
+      },
+      {
+        "slot": 3,
+        "occupied": false
+      },
+      {
+        "slot": 4,
+        "occupied": false
+      },
+      {
+        "slot": 5,
+        "occupied": false
+      },
+      {
+        "slot": 6,
+        "occupied": false
+      }
+    ],
+    "bag": {
+      "key_items": [],
+      "tm_hm": [],
+      "poke_balls": [
+        {
+          "slot": 1,
+          "item_id": 4,
+          "quantity": 5,
+          "name": "Poke Ball"
+        }
+      ],
+      "items": [],
+      "berries": []
+    },
+    "battle": {
+      "outcome_scope": "current_battle",
+      "battlers": [
+        {
+          "current_hp": 153,
+          "ability_id": 66,
+          "party_slot": 1,
+          "max_hp": 153,
+          "absent": false,
+          "battler_id": 0,
+          "position": 0,
+          "held_item_id": 0,
+          "moves": [
+            {
+              "base_type_id": 10,
+              "current_pp": 15,
+              "slot": 1,
+              "power": 95,
+              "move_id": 53,
+              "max_pp": 15,
+              "name": "Flamethrower",
+              "base_type": "Fire"
+            },
+            {
+              "base_type_id": 2,
+              "current_pp": 15,
+              "slot": 2,
+              "power": 70,
+              "move_id": 19,
+              "max_pp": 15,
+              "name": "Fly",
+              "base_type": "Flying"
+            },
+            {
+              "base_type_id": 0,
+              "current_pp": 20,
+              "slot": 3,
+              "power": 70,
+              "move_id": 163,
+              "max_pp": 20,
+              "name": "Slash",
+              "base_type": "Normal"
+            },
+            {
+              "base_type_id": 0,
+              "current_pp": 20,
+              "slot": 4,
+              "power": 0,
+              "move_id": 108,
+              "max_pp": 20,
+              "name": "Smokescreen",
+              "base_type": "Normal"
+            }
+          ],
+          "species_id": 6,
+          "side": "player",
+          "level": 50,
+          "type_ids": [
+            10,
+            2
+          ],
+          "stat_stages": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ],
+          "volatile_status_raw": 0,
+          "valid": true,
+          "status_raw": 0,
+          "restrictions": {
+            "status3": 0,
+            "last_move": 0,
+            "disabled_move": 0,
+            "encore_slot": 0,
+            "encore_timer": 0,
+            "taunt_timer": 0,
+            "hold_effect": 0,
+            "locked_move": 0,
+            "encored_move": 0,
+            "choice_move": 0
+          },
+          "species": "Charizard",
+          "types": [
+            "Fire",
+            "Flying"
+          ],
+          "held_item": "None"
+        },
+        {
+          "current_hp": 38,
+          "ability_id": 67,
+          "party_slot": 1,
+          "max_hp": 38,
+          "absent": false,
+          "battler_id": 1,
+          "position": 1,
+          "held_item_id": 0,
+          "moves": [
+            {
+              "base_type_id": 11,
+              "current_pp": 15,
+              "slot": 1,
+              "power": 95,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "base_type": "Water"
+            },
+            {
+              "base_type_id": 15,
+              "current_pp": 10,
+              "slot": 2,
+              "power": 95,
+              "move_id": 58,
+              "max_pp": 10,
+              "name": "Ice Beam",
+              "base_type": "Ice"
+            },
+            {
+              "base_type_id": 17,
+              "current_pp": 25,
+              "slot": 3,
+              "power": 60,
+              "move_id": 44,
+              "max_pp": 25,
+              "name": "Bite",
+              "base_type": "Dark"
+            },
+            {
+              "base_type_id": 0,
+              "current_pp": 10,
+              "slot": 4,
+              "power": 0,
+              "move_id": 182,
+              "max_pp": 10,
+              "name": "Protect",
+              "base_type": "Normal"
+            }
+          ],
+          "species_id": 9,
+          "side": "opponent",
+          "level": 10,
+          "type_ids": [
+            11,
+            11
+          ],
+          "stat_stages": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ],
+          "volatile_status_raw": 0,
+          "valid": true,
+          "status_raw": 0,
+          "restrictions": {
+            "status3": 0,
+            "last_move": 0,
+            "disabled_move": 0,
+            "encore_slot": 0,
+            "encore_timer": 0,
+            "taunt_timer": 0,
+            "hold_effect": 0,
+            "locked_move": 0,
+            "encored_move": 0,
+            "choice_move": 0
+          },
+          "species": "Blastoise",
+          "types": [
+            "Water",
+            "Water"
+          ],
+          "held_item": "None"
+        }
+      ],
+      "evaluator_only": true,
+      "controller_exec_flags": 33,
+      "callback2": 134287616,
+      "active": true,
+      "screen": "battle_or_transition",
+      "opponent_party": [
+        {
+          "current_hp": 38,
+          "base_type_ids": [
+            11,
+            11
+          ],
+          "moves": [
+            {
+              "current_pp": 15,
+              "type_id": 11,
+              "slot": 1,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "type": "Water"
+            },
+            {
+              "current_pp": 10,
+              "type_id": 15,
+              "slot": 2,
+              "move_id": 58,
+              "max_pp": 10,
+              "name": "Ice Beam",
+              "type": "Ice"
+            },
+            {
+              "current_pp": 25,
+              "type_id": 17,
+              "slot": 3,
+              "move_id": 44,
+              "max_pp": 25,
+              "name": "Bite",
+              "type": "Dark"
+            },
+            {
+              "current_pp": 10,
+              "type_id": 0,
+              "slot": 4,
+              "move_id": 182,
+              "max_pp": 10,
+              "name": "Protect",
+              "type": "Normal"
+            }
+          ],
+          "bad_egg": false,
+          "species_id": 9,
+          "checksum_valid": true,
+          "is_egg": false,
+          "max_hp": 38,
+          "status_raw": 0,
+          "level": 10,
+          "slot": 1,
+          "valid": true,
+          "occupied": true,
+          "held_item_id": 0,
+          "species": "Blastoise",
+          "held_item": "None",
+          "base_types": [
+            "Water",
+            "Water"
+          ],
+          "status": []
+        },
+        {
+          "current_hp": 205,
+          "base_type_ids": [
+            11,
+            15
+          ],
+          "moves": [
+            {
+              "current_pp": 15,
+              "type_id": 11,
+              "slot": 1,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "type": "Water"
+            },
+            {
+              "current_pp": 10,
+              "type_id": 15,
+              "slot": 2,
+              "move_id": 58,
+              "max_pp": 10,
+              "name": "Ice Beam",
+              "type": "Ice"
+            },
+            {
+              "current_pp": 15,
+              "type_id": 13,
+              "slot": 3,
+              "move_id": 85,
+              "max_pp": 15,
+              "name": "Thunderbolt",
+              "type": "Electric"
+            },
+            {
+              "current_pp": 10,
+              "type_id": 7,
+              "slot": 4,
+              "move_id": 109,
+              "max_pp": 10,
+              "name": "Confuse Ray",
+              "type": "Ghost"
+            }
+          ],
+          "bad_egg": false,
+          "species_id": 131,
+          "checksum_valid": true,
+          "is_egg": false,
+          "max_hp": 205,
+          "status_raw": 0,
+          "level": 50,
+          "slot": 2,
+          "valid": true,
+          "occupied": true,
+          "held_item_id": 0,
+          "species": "Lapras",
+          "held_item": "None",
+          "base_types": [
+            "Water",
+            "Ice"
+          ],
+          "status": []
+        },
+        {
+          "current_hp": 205,
+          "base_type_ids": [
+            11,
+            11
+          ],
+          "moves": [
+            {
+              "current_pp": 15,
+              "type_id": 11,
+              "slot": 1,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "type": "Water"
+            },
+            {
+              "current_pp": 25,
+              "type_id": 17,
+              "slot": 2,
+              "move_id": 44,
+              "max_pp": 25,
+              "name": "Bite",
+              "type": "Dark"
+            },
+            {
+              "current_pp": 30,
+              "type_id": 0,
+              "slot": 3,
+              "move_id": 98,
+              "max_pp": 30,
+              "name": "Quick Attack",
+              "type": "Normal"
+            },
+            {
+              "current_pp": 40,
+              "type_id": 3,
+              "slot": 4,
+              "move_id": 151,
+              "max_pp": 40,
+              "name": "Acid Armor",
+              "type": "Poison"
+            }
+          ],
+          "bad_egg": false,
+          "species_id": 134,
+          "checksum_valid": true,
+          "is_egg": false,
+          "max_hp": 205,
+          "status_raw": 0,
+          "level": 50,
+          "slot": 3,
+          "valid": true,
+          "occupied": true,
+          "held_item_id": 0,
+          "species": "Vaporeon",
+          "held_item": "None",
+          "base_types": [
+            "Water",
+            "Water"
+          ],
+          "status": []
+        },
+        {
+          "current_hp": 135,
+          "base_type_ids": [
+            11,
+            14
+          ],
+          "moves": [
+            {
+              "current_pp": 15,
+              "type_id": 11,
+              "slot": 1,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "type": "Water"
+            },
+            {
+              "current_pp": 10,
+              "type_id": 14,
+              "slot": 2,
+              "move_id": 94,
+              "max_pp": 10,
+              "name": "Psychic",
+              "type": "Psychic"
+            },
+            {
+              "current_pp": 20,
+              "type_id": 0,
+              "slot": 3,
+              "move_id": 105,
+              "max_pp": 20,
+              "name": "Recover",
+              "type": "Normal"
+            },
+            {
+              "current_pp": 15,
+              "type_id": 13,
+              "slot": 4,
+              "move_id": 85,
+              "max_pp": 15,
+              "name": "Thunderbolt",
+              "type": "Electric"
+            }
+          ],
+          "bad_egg": false,
+          "species_id": 121,
+          "checksum_valid": true,
+          "is_egg": false,
+          "max_hp": 135,
+          "status_raw": 0,
+          "level": 50,
+          "slot": 4,
+          "valid": true,
+          "occupied": true,
+          "held_item_id": 0,
+          "species": "Starmie",
+          "held_item": "None",
+          "base_types": [
+            "Water",
+            "Psychic"
+          ],
+          "status": []
+        },
+        {
+          "current_hp": 165,
+          "base_type_ids": [
+            11,
+            1
+          ],
+          "moves": [
+            {
+              "current_pp": 15,
+              "type_id": 11,
+              "slot": 1,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "type": "Water"
+            },
+            {
+              "current_pp": 15,
+              "type_id": 1,
+              "slot": 2,
+              "move_id": 280,
+              "max_pp": 15,
+              "name": "Brick Break",
+              "type": "Fighting"
+            },
+            {
+              "current_pp": 20,
+              "type_id": 14,
+              "slot": 3,
+              "move_id": 95,
+              "max_pp": 20,
+              "name": "Hypnosis",
+              "type": "Psychic"
+            },
+            {
+              "current_pp": 15,
+              "type_id": 0,
+              "slot": 4,
+              "move_id": 34,
+              "max_pp": 15,
+              "name": "Body Slam",
+              "type": "Normal"
+            }
+          ],
+          "bad_egg": false,
+          "species_id": 62,
+          "checksum_valid": true,
+          "is_egg": false,
+          "max_hp": 165,
+          "status_raw": 0,
+          "level": 50,
+          "slot": 5,
+          "valid": true,
+          "occupied": true,
+          "held_item_id": 0,
+          "species": "Poliwrath",
+          "held_item": "None",
+          "base_types": [
+            "Water",
+            "Fighting"
+          ],
+          "status": []
+        },
+        {
+          "current_hp": 170,
+          "base_type_ids": [
+            11,
+            2
+          ],
+          "moves": [
+            {
+              "current_pp": 15,
+              "type_id": 11,
+              "slot": 1,
+              "move_id": 57,
+              "max_pp": 15,
+              "name": "Surf",
+              "type": "Water"
+            },
+            {
+              "current_pp": 25,
+              "type_id": 17,
+              "slot": 2,
+              "move_id": 44,
+              "max_pp": 25,
+              "name": "Bite",
+              "type": "Dark"
+            },
+            {
+              "current_pp": 20,
+              "type_id": 16,
+              "slot": 3,
+              "move_id": 349,
+              "max_pp": 20,
+              "name": "Dragon Dance",
+              "type": "Dragon"
+            },
+            {
+              "current_pp": 5,
+              "type_id": 0,
+              "slot": 4,
+              "move_id": 63,
+              "max_pp": 5,
+              "name": "Hyper Beam",
+              "type": "Normal"
+            }
+          ],
+          "bad_egg": false,
+          "species_id": 130,
+          "checksum_valid": true,
+          "is_egg": false,
+          "max_hp": 170,
+          "status_raw": 0,
+          "level": 50,
+          "slot": 6,
+          "valid": true,
+          "occupied": true,
+          "held_item_id": 0,
+          "species": "Gyarados",
+          "held_item": "None",
+          "base_types": [
+            "Water",
+            "Flying"
+          ],
+          "status": []
+        }
+      ],
+      "opponent_counts": {
+        "fainted": 0,
+        "remaining": 6,
+        "valid": true,
+        "cached_party_count": 0,
+        "warnings": []
+      },
+      "text_waiting": false,
+      "terminal": false,
+      "revealed_active_index": 1,
+      "revealed_opponents": [
+        {
+          "species_id": 9,
+          "moves": []
+        }
+      ],
+      "menus": [
+        {
+          "controller": 134407224,
+          "battler_id": 0,
+          "state": "command",
+          "cursor_raw": 0,
+          "selected": "Fight"
+        }
+      ],
+      "outcome_raw": 0,
+      "link_battle_ran": false,
+      "outcome": "ongoing",
+      "player_counts": {
+        "remaining": 2,
+        "fainted": 0,
+        "valid": true
+      },
+      "type_flags": 46,
+      "turn": 0
+    },
+    "warnings": [],
+    "remaining": 2,
+    "fainted": 0,
+    "party_count": 2
+  },
+  {
+    "profile": "firered_us_v1_0",
+    "frame": 6731,
+    "counts_valid": true,
+    "party": [
+      {
+        "slot": 1,
+        "species_id": 9,
+        "base_type_ids": [
+          11,
+          11
+        ],
+        "current_hp": 38,
+        "moves": [
+          {
+            "slot": 1,
+            "max_pp": 15,
+            "move_id": 57,
+            "type_id": 11,
+            "current_pp": 15,
+            "name": "Surf",
+            "type": "Water"
+          },
+          {
+            "slot": 2,
+            "max_pp": 10,
+            "move_id": 58,
+            "type_id": 15,
+            "current_pp": 10,
+            "name": "Ice Beam",
+            "type": "Ice"
+          },
+          {
+            "slot": 3,
+            "max_pp": 25,
+            "move_id": 44,
+            "type_id": 17,
+            "current_pp": 25,
+            "name": "Bite",
+            "type": "Dark"
+          },
+          {
+            "slot": 4,
+            "max_pp": 10,
+            "move_id": 182,
+            "type_id": 0,
+            "current_pp": 10,
+            "name": "Protect",
+            "type": "Normal"
+          }
+        ],
+        "valid": true,
+        "status_raw": 0,
+        "level": 10,
+        "bad_egg": false,
+        "occupied": true,
+        "checksum_valid": true,
+        "held_item_id": 0,
+        "is_egg": false,
+        "max_hp": 38,
+        "species": "Blastoise",
+        "held_item": "None",
+        "base_types": [
+          "Water",
+          "Water"
+        ],
+        "status": []
+      },
+      {
+        "slot": 2,
+        "species_id": 131,
+        "base_type_ids": [
+          11,
+          15
+        ],
+        "current_hp": 205,
+        "moves": [
+          {
+            "slot": 1,
+            "max_pp": 15,
+            "move_id": 57,
+            "type_id": 11,
+            "current_pp": 15,
+            "name": "Surf",
+            "type": "Water"
+          },
+          {
+            "slot": 2,
+            "max_pp": 10,
+            "move_id": 58,
+            "type_id": 15,
+            "current_pp": 10,
+            "name": "Ice Beam",
+            "type": "Ice"
+          },
+          {
+            "slot": 3,
+            "max_pp": 15,
+            "move_id": 85,
+            "type_id": 13,
+            "current_pp": 15,
+            "name": "Thunderbolt",
+            "type": "Electric"
+          },
+          {
+            "slot": 4,
+            "max_pp": 10,
+            "move_id": 109,
+            "type_id": 7,
+            "current_pp": 10,
+            "name": "Confuse Ray",
+            "type": "Ghost"
+          }
+        ],
+        "valid": true,
+        "status_raw": 0,
+        "level": 50,
+        "bad_egg": false,
+        "occupied": true,
+        "checksum_valid": true,
+        "held_item_id": 0,
+        "is_egg": false,
+        "max_hp": 205,
+        "species": "Lapras",
+        "held_item": "None",
+        "base_types": [
+          "Water",
+          "Ice"
+        ],
+        "status": []
+      },
+      {
+        "slot": 3,
+        "species_id": 134,
+        "base_type_ids": [
+          11,
+          11
+        ],
+        "current_hp": 205,
+        "moves": [
+          {
+            "slot": 1,
+            "max_pp": 15,
+            "move_id": 57,
+            "type_id": 11,
+            "current_pp": 15,
+            "name": "Surf",
+            "type": "Water"
+          },
+          {
+            "slot": 2,
+            "max_pp": 25,
+            "move_id": 44,
+            "type_id": 17,
+            "current_pp": 25,
+            "name": "Bite",
+            "type": "Dark"
+          },
+          {
+            "slot": 3,
+            "max_pp": 30,
+            "move_id": 98,
+            "type_id": 0,
+            "current_pp": 30,
+            "name": "Quick Attack",
+            "type": "Normal"
+          },
+          {
+            "slot": 4,
+            "max_pp": 40,
+            "move_id": 151,
+            "type_id": 3,
+            "current_pp": 40,
+            "name": "Acid Armor",
+            "type": "Poison"
+          }
+        ],
+        "valid": true,
+        "status_raw": 0,
+        "level": 50,
+        "bad_egg": false,
+        "occupied": true,
+        "checksum_valid": true,
+        "held_item_id": 0,
+        "is_egg": false,
+        "max_hp": 205,
+        "species": "Vaporeon",
+        "held_item": "None",
+        "base_types": [
+          "Water",
+          "Water"
+        ],
+        "status": []
+      },
+      {
+        "slot": 4,
+        "species_id": 121,
+        "base_type_ids": [
+          11,
+          14
+        ],
+        "current_hp": 135,
+        "moves": [
+          {
+            "slot": 1,
+            "max_pp": 15,
+            "move_id": 57,
+            "type_id": 11,
+            "current_pp": 15,
+            "name": "Surf",
+            "type": "Water"
+          },
+          {
+            "slot": 2,
+            "max_pp": 10,
+            "move_id": 94,
+            "type_id": 14,
+            "current_pp": 10,
+            "name": "Psychic",
+            "type": "Psychic"
+          },
+          {
+            "slot": 3,
+            "max_pp": 20,
+            "move_id": 105,
+            "type_id": 0,
+            "current_pp": 20,
+            "name": "Recover",
+            "type": "Normal"
+          },
+          {
+            "slot": 4,
+            "max_pp": 15,
+            "move_id": 85,
+            "type_id": 13,
+            "current_pp": 15,
+            "name": "Thunderbolt",
+            "type": "Electric"
+          }
+        ],
+        "valid": true,
+        "status_raw": 0,
+        "level": 50,
+        "bad_egg": false,
+        "occupied": true,
+        "checksum_valid": true,
+        "held_item_id": 0,
+        "is_egg": false,
+        "max_hp": 135,
+        "species": "Starmie",
+        "held_item": "None",
+        "base_types": [
+          "Water",
+          "Psychic"
+        ],
+        "status": []
+      },
+      {
+        "slot": 5,
+        "species_id": 62,
+        "base_type_ids": [
+          11,
+          1
+        ],
+        "current_hp": 165,
+        "moves": [
+          {
+            "slot": 1,
+            "max_pp": 15,
+            "move_id": 57,
+            "type_id": 11,
+            "current_pp": 15,
+            "name": "Surf",
+            "type": "Water"
+          },
+          {
+            "slot": 2,
+            "max_pp": 15,
+            "move_id": 280,
+            "type_id": 1,
+            "current_pp": 15,
+            "name": "Brick Break",
+            "type": "Fighting"
+          },
+          {
+            "slot": 3,
+            "max_pp": 20,
+            "move_id": 95,
+            "type_id": 14,
+            "current_pp": 20,
+            "name": "Hypnosis",
+            "type": "Psychic"
+          },
+          {
+            "slot": 4,
+            "max_pp": 15,
+            "move_id": 34,
+            "type_id": 0,
+            "current_pp": 15,
+            "name": "Body Slam",
+            "type": "Normal"
+          }
+        ],
+        "valid": true,
+        "status_raw": 0,
+        "level": 50,
+        "bad_egg": false,
+        "occupied": true,
+        "checksum_valid": true,
+        "held_item_id": 0,
+        "is_egg": false,
+        "max_hp": 165,
+        "species": "Poliwrath",
+        "held_item": "None",
+        "base_types": [
+          "Water",
+          "Fighting"
+        ],
+        "status": []
+      },
+      {
+        "slot": 6,
+        "species_id": 130,
+        "base_type_ids": [
+          11,
+          2
+        ],
+        "current_hp": 170,
+        "moves": [
+          {
+            "slot": 1,
+            "max_pp": 15,
+            "move_id": 57,
+            "type_id": 11,
+            "current_pp": 15,
+            "name": "Surf",
+            "type": "Water"
+          },
+          {
+            "slot": 2,
+            "max_pp": 25,
+            "move_id": 44,
+            "type_id": 17,
+            "current_pp": 25,
+            "name": "Bite",
+            "type": "Dark"
+          },
+          {
+            "slot": 3,
+            "max_pp": 20,
+            "move_id": 349,
+            "type_id": 16,
+            "current_pp": 20,
+            "name": "Dragon Dance",
+            "type": "Dragon"
+          },
+          {
+            "slot": 4,
+            "max_pp": 5,
+            "move_id": 63,
+            "type_id": 0,
+            "current_pp": 5,
+            "name": "Hyper Beam",
+            "type": "Normal"
+          }
+        ],
+        "valid": true,
+        "status_raw": 0,
+        "level": 50,
+        "bad_egg": false,
+        "occupied": true,
+        "checksum_valid": true,
+        "held_item_id": 0,
+        "is_egg": false,
+        "max_hp": 170,
+        "species": "Gyarados",
+        "held_item": "None",
+        "base_types": [
+          "Water",
+          "Flying"
+        ],
+        "status": []
+      }
+    ],
+    "bag": {
+      "poke_balls": [
+        {
+          "slot": 1,
+          "item_id": 4,
+          "quantity": 5,
+          "name": "Poke Ball"
+        }
+      ],
+      "tm_hm": [],
+      "key_items": [],
+      "berries": [],
+      "items": []
+    },
+    "battle": {
+      "battlers": [
+        {
+          "party_slot": 1,
+          "restrictions": {
+            "locked_move": 0,
+            "last_move": 0,
+            "taunt_timer": 0,
+            "disabled_move": 0,
+            "status3": 0,
+            "encored_move": 0,
+            "choice_move": 0,
+            "encore_timer": 0,
+            "hold_effect": 0,
+            "encore_slot": 0
+          },
+          "side": "opponent",
+          "battler_id": 0,
+          "position": 1,
+          "held_item_id": 0,
+          "moves": [
+            {
+              "slot": 1,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            },
+            {
+              "slot": 2,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            },
+            {
+              "slot": 3,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            },
+            {
+              "slot": 4,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            }
+          ],
+          "valid": false,
+          "species_id": 0,
+          "level": 0,
+          "absent": false,
+          "max_hp": 0,
+          "stat_stages": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "type_ids": [
+            0,
+            0
+          ],
+          "current_hp": 0,
+          "volatile_status_raw": 0,
+          "ability_id": 0,
+          "status_raw": 0,
+          "species": "None",
+          "types": [
+            "Normal",
+            "Normal"
+          ],
+          "held_item": "None"
+        },
+        {
+          "party_slot": 1,
+          "restrictions": {
+            "locked_move": 0,
+            "last_move": 0,
+            "taunt_timer": 0,
+            "disabled_move": 0,
+            "status3": 0,
+            "encored_move": 0,
+            "choice_move": 0,
+            "encore_timer": 0,
+            "hold_effect": 0,
+            "encore_slot": 0
+          },
+          "side": "player",
+          "battler_id": 1,
+          "position": 0,
+          "held_item_id": 0,
+          "moves": [
+            {
+              "slot": 1,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            },
+            {
+              "slot": 2,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            },
+            {
+              "slot": 3,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            },
+            {
+              "slot": 4,
+              "move_id": 0,
+              "current_pp": 0,
+              "name": "None"
+            }
+          ],
+          "valid": false,
+          "species_id": 0,
+          "level": 0,
+          "absent": false,
+          "max_hp": 0,
+          "stat_stages": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "type_ids": [
+            0,
+            0
+          ],
+          "current_hp": 0,
+          "volatile_status_raw": 0,
+          "ability_id": 0,
+          "status_raw": 0,
+          "species": "None",
+          "types": [
+            "Normal",
+            "Normal"
+          ],
+          "held_item": "None"
+        }
+      ],
+      "opponent_party": [
+        {
+          "slot": 1,
+          "species_id": 6,
+          "base_type_ids": [
+            10,
+            2
+          ],
+          "current_hp": 153,
+          "moves": [
+            {
+              "slot": 1,
+              "max_pp": 15,
+              "move_id": 53,
+              "type_id": 10,
+              "current_pp": 15,
+              "name": "Flamethrower",
+              "type": "Fire"
+            },
+            {
+              "slot": 2,
+              "max_pp": 15,
+              "move_id": 19,
+              "type_id": 2,
+              "current_pp": 15,
+              "name": "Fly",
+              "type": "Flying"
+            },
+            {
+              "slot": 3,
+              "max_pp": 20,
+              "move_id": 163,
+              "type_id": 0,
+              "current_pp": 20,
+              "name": "Slash",
+              "type": "Normal"
+            },
+            {
+              "slot": 4,
+              "max_pp": 20,
+              "move_id": 108,
+              "type_id": 0,
+              "current_pp": 20,
+              "name": "Smokescreen",
+              "type": "Normal"
+            }
+          ],
+          "valid": true,
+          "status_raw": 0,
+          "level": 50,
+          "bad_egg": false,
+          "occupied": true,
+          "checksum_valid": true,
+          "held_item_id": 0,
+          "is_egg": false,
+          "max_hp": 153,
+          "species": "Charizard",
+          "held_item": "None",
+          "base_types": [
+            "Fire",
+            "Flying"
+          ],
+          "status": []
+        },
+        {
+          "slot": 2,
+          "species_id": 59,
+          "base_type_ids": [
+            10,
+            10
+          ],
+          "current_hp": 165,
+          "moves": [
+            {
+              "slot": 1,
+              "max_pp": 15,
+              "move_id": 53,
+              "type_id": 10,
+              "current_pp": 15,
+              "name": "Flamethrower",
+              "type": "Fire"
+            },
+            {
+              "slot": 2,
+              "max_pp": 25,
+              "move_id": 44,
+              "type_id": 17,
+              "current_pp": 25,
+              "name": "Bite",
+              "type": "Dark"
+            },
+            {
+              "slot": 3,
+              "max_pp": 30,
+              "move_id": 97,
+              "type_id": 14,
+              "current_pp": 30,
+              "name": "Agility",
+              "type": "Psychic"
+            },
+            {
+              "slot": 4,
+              "max_pp": 20,
+              "move_id": 36,
+              "type_id": 0,
+              "current_pp": 20,
+              "name": "Take Down",
+              "type": "Normal"
+            }
+          ],
+          "valid": true,
+          "status_raw": 0,
+          "level": 50,
+          "bad_egg": false,
+          "occupied": true,
+          "checksum_valid": true,
+          "held_item_id": 0,
+          "is_egg": false,
+          "max_hp": 165,
+          "species": "Arcanine",
+          "held_item": "None",
+          "base_types": [
+            "Fire",
+            "Fire"
+          ],
+          "status": []
+        },
+        {
+          "slot": 3,
+          "species_id": 0,
+          "bad_egg": false,
+          "valid": false,
+          "checksum_valid": true,
+          "occupied": false
+        },
+        {
+          "slot": 4,
+          "species_id": 0,
+          "bad_egg": false,
+          "valid": false,
+          "checksum_valid": true,
+          "occupied": false
+        },
+        {
+          "slot": 5,
+          "species_id": 0,
+          "bad_egg": false,
+          "valid": false,
+          "checksum_valid": true,
+          "occupied": false
+        },
+        {
+          "slot": 6,
+          "species_id": 0,
+          "bad_egg": false,
+          "valid": false,
+          "checksum_valid": true,
+          "occupied": false
+        }
+      ],
+      "revealed_active_index": 0,
+      "opponent_counts": {
+        "valid": true,
+        "warnings": [],
+        "fainted": 0,
+        "cached_party_count": 0,
+        "remaining": 2
+      },
+      "revealed_opponents": [],
+      "controller_exec_flags": 33,
+      "outcome": "ongoing",
+      "text_waiting": false,
+      "evaluator_only": true,
+      "terminal": false,
+      "menus": [
+        {
+          "controller": 134407224,
+          "state": "command",
+          "cursor_raw": 0,
+          "battler_id": 1,
+          "selected": "Fight"
+        }
+      ],
+      "outcome_raw": 0,
+      "callback2": 134287616,
+      "type_flags": 42,
+      "turn": 0,
+      "active": true,
+      "link_battle_ran": false,
+      "outcome_scope": "current_battle",
+      "player_counts": {
+        "valid": true,
+        "remaining": 6,
+        "fainted": 0
+      },
+      "screen": "battle_or_transition"
+    },
+    "warnings": [],
+    "remaining": 6,
+    "fainted": 0,
+    "party_count": 6
+  }
+]

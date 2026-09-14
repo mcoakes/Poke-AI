@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_039",
+  "party": [
+    {
+      "species": "Deoxys",
+      "moves": [
+        "Shock Wave",
+        "Flash",
+        "Dream Eater",
+        "Body Slam"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 15,
+        "def": 10,
+        "spa": 7,
+        "spd": 20,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 20,
+        "spa": 16,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

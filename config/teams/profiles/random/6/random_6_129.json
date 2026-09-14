@@ -1,0 +1,180 @@
+{
+  "name": "random_6_129",
+  "party": [
+    {
+      "species": "Raichu",
+      "moves": [
+        "Snatch",
+        "Mirror Coat",
+        "Hail",
+        "Scratch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 16,
+        "atk": 30,
+        "def": 11,
+        "spa": 17,
+        "spd": 15,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 12,
+        "spa": 8,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Rage",
+        "Horn Attack",
+        "Conversion 2",
+        "Water Spout"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 19,
+        "atk": 2,
+        "def": 4,
+        "spa": 6,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 88,
+        "def": 80,
+        "spa": 92,
+        "spd": 52,
+        "spe": 112
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Drill Peck",
+        "Razor Leaf",
+        "Swift",
+        "Blizzard"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 5,
+        "atk": 15,
+        "def": 2,
+        "spa": 25,
+        "spd": 19,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 72,
+        "spa": 36,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Endeavor",
+        "Waterfall",
+        "Snore",
+        "Rolling Kick"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 9,
+        "spa": 10,
+        "spd": 22,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 108,
+        "def": 48,
+        "spa": 76,
+        "spd": 72,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Psywave",
+        "Yawn",
+        "Tail Glow",
+        "Sweet Scent"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 28,
+        "spa": 5,
+        "spd": 15,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dratini",
+      "moves": [
+        "Helping Hand",
+        "Fury Swipes",
+        "Dragon Rage",
+        "Hyper Beam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 24,
+        "atk": 2,
+        "def": 23,
+        "spa": 27,
+        "spd": 21,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 48,
+        "spa": 20,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

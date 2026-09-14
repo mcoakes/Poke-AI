@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_023",
+  "party": [
+    {
+      "species": "Armaldo",
+      "moves": [
+        "Brick Break",
+        "Swords Dance",
+        "Rock Slide",
+        "Rock Tomb"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 15,
+        "atk": 12,
+        "def": 5,
+        "spa": 19,
+        "spd": 26,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 32,
+        "spa": 8,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

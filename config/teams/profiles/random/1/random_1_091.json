@@ -1,0 +1,40 @@
+{
+  "name": "random_1_091",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Powder Snow",
+        "Waterfall",
+        "Rock Smash",
+        "Water Pulse"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 7,
+        "spa": 24,
+        "spd": 10,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 40,
+        "spa": 56,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

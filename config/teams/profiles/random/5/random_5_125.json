@@ -1,0 +1,152 @@
+{
+  "name": "random_5_125",
+  "party": [
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Confuse Ray",
+        "Thunder Shock",
+        "Double Slap",
+        "Rollout"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 7,
+        "def": 1,
+        "spa": 31,
+        "spd": 10,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 40,
+        "spa": 116,
+        "spd": 68,
+        "spe": 92
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Lick",
+        "Spider Web",
+        "Helping Hand",
+        "Will O Wisp"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 5,
+        "atk": 7,
+        "def": 13,
+        "spa": 20,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 92,
+        "def": 92,
+        "spa": 80,
+        "spd": 68,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Xatu",
+      "moves": [
+        "Covet",
+        "Pound",
+        "Water Spout",
+        "Sheer Cold"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 18,
+        "spa": 9,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Agility",
+        "Horn Attack",
+        "Teleport",
+        "Submission"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 17,
+        "def": 17,
+        "spa": 18,
+        "spd": 31,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 56,
+        "spa": 44,
+        "spd": 80,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Brick Break",
+        "Fake Tears",
+        "Superpower",
+        "Muddy Water"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 2,
+        "atk": 19,
+        "def": 19,
+        "spa": 10,
+        "spd": 19,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 56,
+        "spa": 60,
+        "spd": 24,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

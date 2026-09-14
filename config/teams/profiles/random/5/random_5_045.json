@@ -1,0 +1,152 @@
+{
+  "name": "random_5_045",
+  "party": [
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Sunny Day",
+        "Acid Armor",
+        "Hydro Pump",
+        "Bubble Beam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 15,
+        "spa": 4,
+        "spd": 23,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 48,
+        "spa": 76,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Nature Power",
+        "Faint Attack",
+        "Covet",
+        "Glare"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 10,
+        "atk": 16,
+        "def": 1,
+        "spa": 13,
+        "spd": 26,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 28,
+        "spa": 32,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Psych Up",
+        "Helping Hand",
+        "Aeroblast",
+        "Transform"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 13,
+        "atk": 15,
+        "def": 27,
+        "spa": 27,
+        "spd": 13,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 28,
+        "spa": 32,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Fire Blast",
+        "Double Slap",
+        "Camouflage",
+        "Assist"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 10,
+        "atk": 30,
+        "def": 28,
+        "spa": 15,
+        "spd": 14,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 88,
+        "spa": 88,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Rollout",
+        "Pound",
+        "Nightmare",
+        "Bonemerang"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 5,
+        "spa": 0,
+        "spd": 6,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 44,
+        "spa": 48,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

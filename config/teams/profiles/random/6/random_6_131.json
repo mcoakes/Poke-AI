@@ -1,0 +1,180 @@
+{
+  "name": "random_6_131",
+  "party": [
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Meditate",
+        "Transform",
+        "Stomp",
+        "Razor Leaf"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 6,
+        "spa": 6,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 32,
+        "spa": 48,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Barrier",
+        "Water Pulse",
+        "Sweet Kiss",
+        "Growth"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 9,
+        "atk": 9,
+        "def": 2,
+        "spa": 5,
+        "spd": 18,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 20,
+        "spa": 36,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Triple Kick",
+        "Hi Jump Kick",
+        "Haze",
+        "Twister"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 15,
+        "def": 7,
+        "spa": 25,
+        "spd": 6,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    },
+    {
+      "species": "Linoone",
+      "moves": [
+        "Memento",
+        "Spit Up",
+        "Hypnosis",
+        "Bulk Up"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 12,
+        "atk": 15,
+        "def": 25,
+        "spa": 16,
+        "spd": 15,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 56,
+        "def": 84,
+        "spa": 48,
+        "spd": 96,
+        "spe": 56
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Golbat",
+      "moves": [
+        "Teeter Dance",
+        "Icicle Spear",
+        "Bulk Up",
+        "Solar Beam"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 11,
+        "atk": 9,
+        "def": 5,
+        "spa": 12,
+        "spd": 7,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 100,
+        "def": 68,
+        "spa": 80,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Baton Pass",
+        "Sharpen",
+        "Charm",
+        "Dizzy Punch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 15,
+        "atk": 3,
+        "def": 27,
+        "spa": 11,
+        "spd": 2,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 84,
+        "def": 72,
+        "spa": 72,
+        "spd": 68,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

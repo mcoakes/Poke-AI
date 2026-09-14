@@ -1,0 +1,152 @@
+{
+  "name": "random_5_056",
+  "party": [
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Sacred Fire",
+        "Meteor Mash",
+        "Teeter Dance",
+        "Icy Wind"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 19,
+        "atk": 30,
+        "def": 20,
+        "spa": 31,
+        "spd": 16,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 64,
+        "spa": 80,
+        "spd": 72,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Icy Wind",
+        "Disable",
+        "Rage",
+        "Counter"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 2,
+        "atk": 5,
+        "def": 15,
+        "spa": 2,
+        "spd": 8,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 36,
+        "spa": 48,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Cosmic Power",
+        "Substitute",
+        "Odor Sleuth",
+        "Future Sight"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 12,
+        "spa": 17,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Confusion",
+        "Pin Missile",
+        "Doom Desire",
+        "Sharpen"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 1,
+        "spa": 0,
+        "spd": 17,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 8,
+        "spa": 16,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Spikes",
+        "Hyper Beam",
+        "Water Gun",
+        "Destiny Bond"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 20,
+        "atk": 13,
+        "def": 28,
+        "spa": 6,
+        "spd": 0,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 92,
+        "def": 80,
+        "spa": 68,
+        "spd": 64,
+        "spe": 96
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_039",
+  "party": [
+    {
+      "species": "Whismur",
+      "moves": [
+        "Shadow Ball",
+        "Secret Power",
+        "Attract",
+        "Ice Beam"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 15,
+        "atk": 24,
+        "def": 25,
+        "spa": 10,
+        "spd": 17,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 72,
+        "spa": 80,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Sunny Day",
+        "Rain Dance",
+        "Faint Attack",
+        "Facade"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 17,
+        "def": 25,
+        "spa": 15,
+        "spd": 12,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 16,
+        "spa": 8,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

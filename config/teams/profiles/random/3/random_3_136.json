@@ -1,0 +1,96 @@
+{
+  "name": "random_3_136",
+  "party": [
+    {
+      "species": "Golduck",
+      "moves": [
+        "Secret Power",
+        "Air Cutter",
+        "Swords Dance",
+        "Blast Burn"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 17,
+        "def": 31,
+        "spa": 8,
+        "spd": 16,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Poison Sting",
+        "Light Screen",
+        "Tickle",
+        "Morning Sun"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 23,
+        "spa": 15,
+        "spd": 27,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 56,
+        "spa": 52,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Reversal",
+        "Psywave",
+        "Will O Wisp",
+        "Splash"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 29,
+        "spa": 22,
+        "spd": 24,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 68,
+        "spa": 56,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

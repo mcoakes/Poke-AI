@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_035",
+  "party": [
+    {
+      "species": "Glalie",
+      "moves": [
+        "Powder Snow",
+        "Torment",
+        "Flash",
+        "Facade"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 16,
+        "atk": 19,
+        "def": 23,
+        "spa": 4,
+        "spd": 11,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 48,
+        "def": 40,
+        "spa": 32,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

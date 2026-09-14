@@ -1,0 +1,40 @@
+{
+  "name": "random_1_065",
+  "party": [
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Leer",
+        "Powder Snow",
+        "Weather Ball",
+        "Counter"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 10,
+        "atk": 4,
+        "def": 5,
+        "spa": 18,
+        "spd": 5,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 20,
+        "spa": 4,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

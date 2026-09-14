@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_094",
+  "party": [
+    {
+      "species": "Machop",
+      "moves": [
+        "Smelling Salt",
+        "Sunny Day",
+        "Cross Chop",
+        "Rock Slide"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 11,
+        "atk": 5,
+        "def": 7,
+        "spa": 8,
+        "spd": 14,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 28,
+        "spa": 16,
+        "spd": 44,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Hariyama",
+      "moves": [
+        "Vital Throw",
+        "Helping Hand",
+        "Strength",
+        "Detect"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 3,
+        "atk": 29,
+        "def": 8,
+        "spa": 1,
+        "spd": 4,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 20,
+        "spa": 12,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Fake Out",
+        "Ice Beam",
+        "Dream Eater",
+        "Meditate"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 11,
+        "atk": 7,
+        "def": 14,
+        "spa": 1,
+        "spd": 20,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 64,
+        "spa": 52,
+        "spd": 76,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

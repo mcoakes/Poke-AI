@@ -1,0 +1,68 @@
+{
+  "name": "random_2_144",
+  "party": [
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Safeguard",
+        "Dragon Rage",
+        "Water Spout",
+        "Ember"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 23,
+        "atk": 14,
+        "def": 28,
+        "spa": 21,
+        "spd": 14,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 84,
+        "def": 68,
+        "spa": 48,
+        "spd": 96,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Horn Drill",
+        "Blizzard",
+        "Hydro Cannon",
+        "Teleport"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 7,
+        "atk": 2,
+        "def": 13,
+        "spa": 10,
+        "spd": 6,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 24,
+        "def": 40,
+        "spa": 48,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

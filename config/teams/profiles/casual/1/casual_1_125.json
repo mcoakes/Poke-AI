@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_125",
+  "party": [
+    {
+      "species": "Metang",
+      "moves": [
+        "Rock Tomb",
+        "Metal Claw",
+        "Psychic",
+        "Sandstorm"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 13,
+        "atk": 25,
+        "def": 1,
+        "spa": 3,
+        "spd": 4,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 24,
+        "spa": 32,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_025",
+  "party": [
+    {
+      "species": "Yanma",
+      "moves": [
+        "Soft Boiled",
+        "Haze",
+        "Thunder Punch",
+        "Snore"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 8,
+        "atk": 7,
+        "def": 14,
+        "spa": 15,
+        "spd": 23,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 104,
+        "spa": 44,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

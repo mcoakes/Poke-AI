@@ -1,0 +1,40 @@
+{
+  "name": "random_1_079",
+  "party": [
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Acid",
+        "Cotton Spore",
+        "Arm Thrust",
+        "Fake Tears"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 14,
+        "atk": 21,
+        "def": 28,
+        "spa": 0,
+        "spd": 4,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 44,
+        "spa": 56,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

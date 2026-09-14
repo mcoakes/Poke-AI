@@ -1,0 +1,180 @@
+{
+  "name": "random_6_125",
+  "party": [
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Scratch",
+        "Glare",
+        "Guillotine",
+        "Mud Sport"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 18,
+        "atk": 26,
+        "def": 6,
+        "spa": 26,
+        "spd": 1,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 104,
+        "spa": 100,
+        "spd": 80,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Poison Powder",
+        "Whirlwind",
+        "Fire Blast",
+        "Sleep Powder"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 16,
+        "atk": 21,
+        "def": 19,
+        "spa": 12,
+        "spd": 12,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 4,
+        "spa": 12,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Petal Dance",
+        "Mud Shot",
+        "Sky Attack",
+        "Blaze Kick"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 28,
+        "spa": 22,
+        "spd": 5,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 40,
+        "def": 40,
+        "spa": 48,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Mirror Coat",
+        "Calm Mind",
+        "Wing Attack",
+        "Seismic Toss"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 22,
+        "atk": 23,
+        "def": 16,
+        "spa": 22,
+        "spd": 17,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 12,
+        "spa": 12,
+        "spd": 0,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Agility",
+        "Soft Boiled",
+        "Double Edge",
+        "Trick"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 24,
+        "def": 30,
+        "spa": 11,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 0,
+        "spa": 20,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Mega Kick",
+        "Spit Up",
+        "Absorb",
+        "Skull Bash"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 10,
+        "spa": 16,
+        "spd": 22,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 80,
+        "def": 44,
+        "spa": 68,
+        "spd": 40,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

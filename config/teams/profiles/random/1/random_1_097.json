@@ -1,0 +1,40 @@
+{
+  "name": "random_1_097",
+  "party": [
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Transform",
+        "Rain Dance",
+        "Smog",
+        "Meteor Mash"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 21,
+        "spa": 13,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 16,
+        "def": 60,
+        "spa": 28,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_029",
+  "party": [
+    {
+      "species": "Latias",
+      "moves": [
+        "Weather Ball",
+        "Helping Hand",
+        "Hypnosis",
+        "Roar"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 8,
+        "spa": 10,
+        "spd": 13,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 52,
+        "def": 28,
+        "spa": 48,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Metal Claw",
+        "Frustration",
+        "Spark",
+        "Thunder Wave"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 6,
+        "atk": 4,
+        "def": 20,
+        "spa": 6,
+        "spd": 29,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 56,
+        "spa": 52,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Future Sight",
+        "Growl",
+        "Confusion",
+        "Frustration"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 23,
+        "def": 24,
+        "spa": 20,
+        "spd": 18,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 80,
+        "def": 60,
+        "spa": 88,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Fake Out",
+        "Comet Punch",
+        "Dive",
+        "Camouflage"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 1,
+        "atk": 25,
+        "def": 7,
+        "spa": 23,
+        "spd": 8,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 96,
+        "def": 84,
+        "spa": 60,
+        "spd": 92,
+        "spe": 88
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Meditate",
+        "Tickle",
+        "Grudge",
+        "Barrier"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 21,
+        "atk": 21,
+        "def": 22,
+        "spa": 8,
+        "spd": 29,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 64,
+        "spa": 60,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

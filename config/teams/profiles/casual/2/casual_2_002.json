@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_002",
+  "party": [
+    {
+      "species": "Registeel",
+      "moves": [
+        "Rain Dance",
+        "Metal Claw",
+        "Rock Smash",
+        "Brick Break"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 25,
+        "spd": 22,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 36,
+        "spa": 16,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Mirror Coat",
+        "Charm",
+        "Counter",
+        "Safeguard"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 23,
+        "atk": 5,
+        "def": 21,
+        "spa": 24,
+        "spd": 13,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 52,
+        "spa": 28,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Hard Stone",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

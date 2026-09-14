@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_037",
+  "party": [
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Iron Tail",
+        "Foresight",
+        "Secret Power",
+        "Sunny Day"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 18,
+        "atk": 1,
+        "def": 10,
+        "spa": 30,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 52,
+        "spa": 24,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Cut",
+        "Defense Curl",
+        "Swords Dance",
+        "Earthquake"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 26,
+        "atk": 21,
+        "def": 22,
+        "spa": 5,
+        "spd": 7,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 44,
+        "spa": 32,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

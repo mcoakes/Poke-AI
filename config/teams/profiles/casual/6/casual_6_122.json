@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_122",
+  "party": [
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Toxic",
+        "Ember",
+        "Strength",
+        "Attract"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 18,
+        "atk": 10,
+        "def": 10,
+        "spa": 22,
+        "spd": 19,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 4,
+        "spa": 16,
+        "spd": 20,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Shadow Ball",
+        "Rest",
+        "Toxic",
+        "Giga Drain"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 0,
+        "atk": 16,
+        "def": 10,
+        "spa": 2,
+        "spd": 24,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 72,
+        "spa": 56,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Foresight",
+        "Giga Drain",
+        "Silver Wind",
+        "Sludge Bomb"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 12,
+        "atk": 7,
+        "def": 20,
+        "spa": 17,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 64,
+        "spa": 72,
+        "spd": 76,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Thief",
+        "Shadow Ball",
+        "Rest",
+        "Taunt"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 24,
+        "atk": 1,
+        "def": 19,
+        "spa": 2,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 64,
+        "spa": 68,
+        "spd": 52,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Meowth",
+      "moves": [
+        "Sunny Day",
+        "Scratch",
+        "Thunderbolt",
+        "Water Pulse"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 29,
+        "atk": 14,
+        "def": 5,
+        "spa": 26,
+        "spd": 2,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 52,
+        "spa": 60,
+        "spd": 80,
+        "spe": 96
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Water Pulse",
+        "Supersonic",
+        "Mimic",
+        "Sludge Bomb"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 12,
+        "atk": 5,
+        "def": 14,
+        "spa": 24,
+        "spd": 12,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 20,
+        "spa": 32,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

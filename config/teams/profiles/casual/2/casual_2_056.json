@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_056",
+  "party": [
+    {
+      "species": "Togetic",
+      "moves": [
+        "Toxic",
+        "Solar Beam",
+        "Psychic",
+        "Mega Punch"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 29,
+        "atk": 10,
+        "def": 19,
+        "spa": 12,
+        "spd": 22,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Dynamic Punch",
+        "Body Slam",
+        "Needle Arm",
+        "Grass Whistle"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 9,
+        "atk": 25,
+        "def": 3,
+        "spa": 18,
+        "spd": 9,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 88,
+        "def": 68,
+        "spa": 56,
+        "spd": 76,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

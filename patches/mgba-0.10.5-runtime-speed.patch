@@ -1,0 +1,50 @@
+--- a/src/platform/qt/Window.cpp
++++ b/src/platform/qt/Window.cpp
+@@ -14,6 +14,11 @@
+ #include <QPainter>
+ #include <QScreen>
+ #include <QWindow>
++#include <QFile>
++#include <QFileInfo>
++#include <QJsonDocument>
++#include <QJsonObject>
++#include <QSaveFile>
+ 
+ #ifdef Q_OS_WIN
+ #include <dwmapi.h>
+@@ -2186,6 +2191,35 @@
+ 	}
+ #endif
+ 
++	// Opt-in local speed control for the two-window FireRed launcher.
++	QString speedPath = QString::fromLocal8Bit(qgetenv("MGBA_SPEED_CONTROL"));
++	if (!speedPath.isEmpty() && !property("fireredLinkRom").toString().isEmpty()) {
++		QTimer* speedTimer = new QTimer(this);
++		QString ackPath = QFileInfo(property("fireredLinkRom").toString()).absolutePath() + "/speed-applied.json";
++		connect(speedTimer, &QTimer::timeout, this, [this, speedTimer, speedPath, ackPath]() {
++			if (!m_controller || !m_controller->hasStarted()) return;
++			QFile input(speedPath);
++			if (!input.open(QIODevice::ReadOnly)) return;
++			QJsonObject request = QJsonDocument::fromJson(input.readAll()).object();
++			QString id = request.value("id").toString();
++			if (id.isEmpty() || id == speedTimer->property("applied").toString()) return;
++			double ratio = request.value("speed").toDouble(-1);
++			if (ratio < 0 || ratio > 1e30) return;
++			mCoreConfigSetOverrideFloatValue(m_config->config(), "fpsTarget", (16777216.0 / 280896.0) * (ratio == 0 ? 1 : ratio));
++			mCoreConfigSetOverrideIntValue(m_config->config(), "audioSync", ratio == 0 ? 0 : 1);
++			mCoreConfigSetOverrideIntValue(m_config->config(), "videoSync", 0);
++			m_controller->setFastForward(false);
++			m_controller->forceFastForward(false);
++			m_controller->loadConfig(m_config);
++			QSaveFile ack(ackPath);
++			if (ack.open(QIODevice::WriteOnly)) {
++				ack.write(QJsonDocument(request).toJson(QJsonDocument::Compact));
++				if (ack.commit()) speedTimer->setProperty("applied", id);
++			}
++		});
++		speedTimer->start(50);
++	}
++
+ 	if (!m_pendingState.isEmpty()) {
+ 		m_controller->loadState(m_pendingState);
+ 		m_pendingState = QString();

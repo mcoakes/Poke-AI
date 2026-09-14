@@ -1,0 +1,96 @@
+{
+  "name": "random_3_051",
+  "party": [
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Teleport",
+        "Earthquake",
+        "Snore",
+        "Powder Snow"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 9,
+        "atk": 13,
+        "def": 0,
+        "spa": 13,
+        "spd": 23,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 48,
+        "spa": 48,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Beedrill",
+      "moves": [
+        "Magnitude",
+        "Sky Attack",
+        "Ice Punch",
+        "Mirror Coat"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 10,
+        "def": 29,
+        "spa": 28,
+        "spd": 18,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 12,
+        "spa": 32,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Poison Tail",
+        "Protect",
+        "Sludge",
+        "Weather Ball"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 21,
+        "spa": 0,
+        "spd": 11,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 40,
+        "def": 60,
+        "spa": 80,
+        "spd": 56,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

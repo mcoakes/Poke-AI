@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_121",
+  "party": [
+    {
+      "species": "Swinub",
+      "moves": [
+        "Take Down",
+        "Ice Beam",
+        "Rock Tomb",
+        "Reflect"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 10,
+        "atk": 9,
+        "def": 10,
+        "spa": 30,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 28,
+        "spa": 12,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Defense Curl",
+        "Earthquake",
+        "Secret Power",
+        "Attract"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 19,
+        "atk": 20,
+        "def": 30,
+        "spa": 22,
+        "spd": 4,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 60,
+        "def": 44,
+        "spa": 44,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Mirror Move",
+        "Psychic",
+        "Shadow Ball",
+        "Wing Attack"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 21,
+        "spa": 9,
+        "spd": 7,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 28,
+        "spa": 44,
+        "spd": 28,
+        "spe": 4
+      },
+      "held_item": "Mental Herb",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Sunny Day",
+        "Iron Tail",
+        "Flamethrower",
+        "Rock Slide"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 0,
+        "atk": 28,
+        "def": 29,
+        "spa": 1,
+        "spd": 9,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 36,
+        "spa": 76,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Facade",
+        "Nature Power",
+        "Faint Attack",
+        "Pound"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 31,
+        "spa": 29,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 40,
+        "spa": 32,
+        "spd": 92,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowking",
+      "moves": [
+        "Sunny Day",
+        "Dig",
+        "Water Pulse",
+        "Flamethrower"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 12,
+        "atk": 23,
+        "def": 28,
+        "spa": 26,
+        "spd": 16,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 24,
+        "def": 52,
+        "spa": 40,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

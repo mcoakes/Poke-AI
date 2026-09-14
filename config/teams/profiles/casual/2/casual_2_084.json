@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_084",
+  "party": [
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Rain Dance",
+        "Mega Kick",
+        "Dive",
+        "Body Slam"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 27,
+        "atk": 8,
+        "def": 4,
+        "spa": 8,
+        "spd": 21,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 24,
+        "spa": 28,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Skull Bash",
+        "Safeguard",
+        "Substitute",
+        "Magical Leaf"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 21,
+        "atk": 7,
+        "def": 3,
+        "spa": 16,
+        "spd": 31,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 60,
+        "spa": 52,
+        "spd": 24,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

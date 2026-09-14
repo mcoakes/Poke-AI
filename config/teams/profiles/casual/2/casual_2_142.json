@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_142",
+  "party": [
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Will O Wisp",
+        "Fire Spin",
+        "Heat Wave",
+        "Iron Tail"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 12,
+        "def": 5,
+        "spa": 4,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kingler",
+      "moves": [
+        "Water Pulse",
+        "Rock Tomb",
+        "Amnesia",
+        "Protect"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 27,
+        "spa": 13,
+        "spd": 18,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 44,
+        "spa": 52,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

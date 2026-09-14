@@ -1,0 +1,180 @@
+{
+  "name": "random_6_087",
+  "party": [
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Dragon Breath",
+        "Bubble Beam",
+        "Tail Glow",
+        "Take Down"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 10,
+        "spa": 9,
+        "spd": 4,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Octazooka",
+        "Tackle",
+        "Beat Up",
+        "Quick Attack"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 6,
+        "spa": 30,
+        "spd": 11,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 16,
+        "spa": 12,
+        "spd": 24,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Water Sport",
+        "Perish Song",
+        "Snore",
+        "Take Down"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 6,
+        "atk": 23,
+        "def": 4,
+        "spa": 24,
+        "spd": 2,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 28,
+        "spa": 8,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Ekans",
+      "moves": [
+        "Kinesis",
+        "Beat Up",
+        "Acid Armor",
+        "Memento"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 15,
+        "atk": 2,
+        "def": 21,
+        "spa": 4,
+        "spd": 21,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 8,
+        "spa": 12,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bagon",
+      "moves": [
+        "Minimize",
+        "Yawn",
+        "Secret Power",
+        "Earthquake"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 30,
+        "atk": 29,
+        "def": 17,
+        "spa": 1,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 20,
+        "def": 44,
+        "spa": 60,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Illumise",
+      "moves": [
+        "Sharpen",
+        "Psybeam",
+        "Mud Shot",
+        "Rock Blast"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 19,
+        "atk": 26,
+        "def": 31,
+        "spa": 16,
+        "spd": 22,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 56,
+        "def": 56,
+        "spa": 32,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

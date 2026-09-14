@@ -1,0 +1,180 @@
+{
+  "name": "random_6_040",
+  "party": [
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Muddy Water",
+        "Blast Burn",
+        "Aeroblast",
+        "Take Down"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 2,
+        "atk": 18,
+        "def": 22,
+        "spa": 27,
+        "spd": 3,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 104,
+        "spa": 76,
+        "spd": 68,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Endure",
+        "Pin Missile",
+        "Blast Burn",
+        "Karate Chop"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 3,
+        "def": 6,
+        "spa": 2,
+        "spd": 19,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 32,
+        "spa": 100,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golduck",
+      "moves": [
+        "Surf",
+        "Toxic",
+        "Vice Grip",
+        "Imprison"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 2,
+        "atk": 10,
+        "def": 16,
+        "spa": 21,
+        "spd": 29,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 56,
+        "spa": 60,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Machoke",
+      "moves": [
+        "Ice Beam",
+        "Cut",
+        "Stomp",
+        "Cross Chop"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 2,
+        "def": 3,
+        "spa": 17,
+        "spd": 16,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 4,
+        "def": 24,
+        "spa": 8,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Endure",
+        "Screech",
+        "Night Shade",
+        "Bide"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 16,
+        "def": 23,
+        "spa": 20,
+        "spd": 13,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 88,
+        "spa": 76,
+        "spd": 92,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Swallow",
+        "Leaf Blade",
+        "Thief",
+        "Razor Leaf"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 3,
+        "atk": 3,
+        "def": 7,
+        "spa": 8,
+        "spd": 24,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 12,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

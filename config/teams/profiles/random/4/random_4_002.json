@@ -1,0 +1,124 @@
+{
+  "name": "random_4_002",
+  "party": [
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Agility",
+        "Whirlwind",
+        "Quick Attack",
+        "Superpower"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 5,
+        "atk": 0,
+        "def": 14,
+        "spa": 25,
+        "spd": 30,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 68,
+        "spa": 52,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Recover",
+        "Protect",
+        "Sleep Talk",
+        "Fly"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 21,
+        "spa": 28,
+        "spd": 16,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 20,
+        "spa": 44,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Sandstorm",
+        "Protect",
+        "Vine Whip",
+        "Water Gun"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 19,
+        "atk": 23,
+        "def": 1,
+        "spa": 12,
+        "spd": 9,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 72,
+        "def": 84,
+        "spa": 136,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Smokescreen",
+        "Glare",
+        "Thunderbolt",
+        "Bone Rush"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 5,
+        "def": 14,
+        "spa": 19,
+        "spd": 0,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

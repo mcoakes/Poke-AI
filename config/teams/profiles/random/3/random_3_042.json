@@ -1,0 +1,96 @@
+{
+  "name": "random_3_042",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Thunderbolt",
+        "Refresh",
+        "Sonic Boom",
+        "Agility"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 23,
+        "def": 5,
+        "spa": 26,
+        "spd": 30,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 16,
+        "spa": 20,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kangaskhan",
+      "moves": [
+        "Fire Spin",
+        "Refresh",
+        "Egg Bomb",
+        "Swords Dance"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 18,
+        "atk": 13,
+        "def": 22,
+        "spa": 12,
+        "spd": 22,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 12,
+        "spa": 12,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Extreme Speed",
+        "Spike Cannon",
+        "Triple Kick",
+        "Low Kick"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 8,
+        "atk": 2,
+        "def": 4,
+        "spa": 29,
+        "spd": 29,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 28,
+        "spa": 36,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

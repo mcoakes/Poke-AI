@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_013",
+  "party": [
+    {
+      "species": "Mantine",
+      "moves": [
+        "Rain Dance",
+        "Earthquake",
+        "Double Edge",
+        "Aerial Ace"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 7,
+        "atk": 19,
+        "def": 1,
+        "spa": 25,
+        "spd": 31,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 8,
+        "spa": 8,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Counter",
+        "Destiny Bond",
+        "Mirror Coat",
+        "Safeguard"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 21,
+        "atk": 18,
+        "def": 17,
+        "spa": 9,
+        "spd": 11,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 24,
+        "spa": 64,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Thunder Wave",
+        "Curse",
+        "Dive",
+        "Confusion"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 9,
+        "atk": 19,
+        "def": 1,
+        "spa": 10,
+        "spd": 22,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 32,
+        "spa": 16,
+        "spd": 20,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Safeguard",
+        "Outrage",
+        "Facade",
+        "Light Screen"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 1,
+        "atk": 9,
+        "def": 30,
+        "spa": 3,
+        "spd": 17,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 20,
+        "spa": 40,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rattata",
+      "moves": [
+        "Bite",
+        "Cut",
+        "Super Fang",
+        "Toxic"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 7,
+        "def": 20,
+        "spa": 31,
+        "spd": 31,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 44,
+        "spa": 24,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

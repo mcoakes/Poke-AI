@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_113",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Smokescreen",
+        "Facade",
+        "Thief",
+        "Flamethrower"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 6,
+        "atk": 30,
+        "def": 6,
+        "spa": 2,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 4,
+        "def": 8,
+        "spa": 28,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Skill Swap",
+        "Dig",
+        "Strength",
+        "Psychic"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 25,
+        "atk": 26,
+        "def": 9,
+        "spa": 31,
+        "spd": 30,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 32,
+        "def": 40,
+        "spa": 56,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Rest",
+        "Taunt",
+        "Revenge",
+        "Earthquake"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 3,
+        "atk": 30,
+        "def": 1,
+        "spa": 12,
+        "spd": 12,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 32,
+        "spa": 32,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

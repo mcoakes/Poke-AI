@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_019",
+  "party": [
+    {
+      "species": "Houndour",
+      "moves": [
+        "Ember",
+        "Attract",
+        "Sludge Bomb",
+        "Spite"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 24,
+        "def": 0,
+        "spa": 28,
+        "spd": 23,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 36,
+        "spa": 24,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Toxic",
+        "Facade",
+        "Rest",
+        "Heat Wave"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 18,
+        "spa": 0,
+        "spd": 20,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 60,
+        "spa": 60,
+        "spd": 68,
+        "spe": 76
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_070",
+  "party": [
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Earthquake",
+        "Secret Power",
+        "Toxic",
+        "Dream Eater"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 27,
+        "atk": 13,
+        "def": 11,
+        "spa": 4,
+        "spd": 28,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 44,
+        "spa": 56,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    },
+    {
+      "species": "Raticate",
+      "moves": [
+        "Mimic",
+        "Cut",
+        "Flame Wheel",
+        "Bite"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 27,
+        "atk": 2,
+        "def": 21,
+        "spa": 1,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 92,
+        "def": 56,
+        "spa": 28,
+        "spd": 76,
+        "spe": 44
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

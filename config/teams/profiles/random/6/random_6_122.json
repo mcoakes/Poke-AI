@@ -1,0 +1,180 @@
+{
+  "name": "random_6_122",
+  "party": [
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Shadow Ball",
+        "Cosmic Power",
+        "Recover",
+        "Needle Arm"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 30,
+        "atk": 24,
+        "def": 27,
+        "spa": 30,
+        "spd": 5,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 32,
+        "def": 52,
+        "spa": 52,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slakoth",
+      "moves": [
+        "Present",
+        "Pursuit",
+        "Seismic Toss",
+        "Constrict"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 14,
+        "atk": 14,
+        "def": 1,
+        "spa": 23,
+        "spd": 12,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 36,
+        "def": 24,
+        "spa": 36,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Morning Sun",
+        "Facade",
+        "Jump Kick",
+        "Teeter Dance"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 22,
+        "spa": 3,
+        "spd": 22,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 8,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Icy Wind",
+        "Ancient Power",
+        "Body Slam",
+        "Poison Sting"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 29,
+        "atk": 25,
+        "def": 20,
+        "spa": 19,
+        "spd": 9,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weedle",
+      "moves": [
+        "Encore",
+        "Pursuit",
+        "Bonemerang",
+        "Rock Smash"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 7,
+        "atk": 30,
+        "def": 5,
+        "spa": 4,
+        "spd": 26,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 4,
+        "spa": 28,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Giga Drain",
+        "Toxic",
+        "Rock Throw",
+        "Ancient Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 19,
+        "atk": 31,
+        "def": 3,
+        "spa": 26,
+        "spd": 23,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 64,
+        "spa": 32,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

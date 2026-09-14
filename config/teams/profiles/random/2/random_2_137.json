@@ -1,0 +1,68 @@
+{
+  "name": "random_2_137",
+  "party": [
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Shadow Ball",
+        "Mud Slap",
+        "Mach Punch",
+        "Frenzy Plant"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 2,
+        "spa": 7,
+        "spd": 23,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 112,
+        "def": 44,
+        "spa": 100,
+        "spd": 92,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Duskull",
+      "moves": [
+        "Rapid Spin",
+        "Blast Burn",
+        "Wing Attack",
+        "Curse"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 5,
+        "atk": 1,
+        "def": 9,
+        "spa": 8,
+        "spd": 24,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

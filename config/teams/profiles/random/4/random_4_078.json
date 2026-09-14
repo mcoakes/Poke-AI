@@ -1,0 +1,124 @@
+{
+  "name": "random_4_078",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Slam",
+        "Fake Tears",
+        "Smokescreen",
+        "Sacred Fire"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 27,
+        "spa": 0,
+        "spd": 8,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 68,
+        "spa": 64,
+        "spd": 84,
+        "spe": 32
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    },
+    {
+      "species": "Weedle",
+      "moves": [
+        "Tail Whip",
+        "Minimize",
+        "Fly",
+        "Sky Attack"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 26,
+        "atk": 3,
+        "def": 29,
+        "spa": 3,
+        "spd": 7,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 20,
+        "spa": 12,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lapras",
+      "moves": [
+        "Swallow",
+        "Iron Tail",
+        "Glare",
+        "Rock Smash"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 4,
+        "atk": 13,
+        "def": 23,
+        "spa": 14,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 40,
+        "def": 80,
+        "spa": 44,
+        "spd": 84,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tauros",
+      "moves": [
+        "Double Kick",
+        "Mega Drain",
+        "Stun Spore",
+        "Faint Attack"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 14,
+        "atk": 22,
+        "def": 11,
+        "spa": 23,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 64,
+        "spa": 36,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

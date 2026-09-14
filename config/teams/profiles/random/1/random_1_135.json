@@ -1,0 +1,40 @@
+{
+  "name": "random_1_135",
+  "party": [
+    {
+      "species": "Seviper",
+      "moves": [
+        "Fire Blast",
+        "Perish Song",
+        "Future Sight",
+        "Grudge"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 26,
+        "atk": 30,
+        "def": 11,
+        "spa": 19,
+        "spd": 30,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 40,
+        "spa": 24,
+        "spd": 56,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

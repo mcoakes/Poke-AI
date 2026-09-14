@@ -1,0 +1,68 @@
+{
+  "name": "random_2_133",
+  "party": [
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Double Team",
+        "Shadow Ball",
+        "Smokescreen",
+        "Hyper Voice"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 10,
+        "spa": 25,
+        "spd": 0,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 20,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Seismic Toss",
+        "Imprison",
+        "Trick",
+        "Sand Tomb"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 10,
+        "atk": 29,
+        "def": 22,
+        "spa": 2,
+        "spd": 14,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 8,
+        "spa": 8,
+        "spd": 16,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_010",
+  "party": [
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Skill Swap",
+        "Rock Slide",
+        "Earthquake",
+        "Confusion"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 3,
+        "spa": 11,
+        "spd": 12,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 12,
+        "spa": 20,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

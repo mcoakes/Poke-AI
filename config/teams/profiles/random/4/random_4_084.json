@@ -1,0 +1,124 @@
+{
+  "name": "random_4_084",
+  "party": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Protect",
+        "Sonic Boom",
+        "Sharpen",
+        "Swords Dance"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 21,
+        "atk": 7,
+        "def": 4,
+        "spa": 30,
+        "spd": 0,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 44,
+        "def": 56,
+        "spa": 68,
+        "spd": 104,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Crabhammer",
+        "Gust",
+        "Tackle",
+        "Spit Up"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 4,
+        "atk": 11,
+        "def": 28,
+        "spa": 4,
+        "spd": 0,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 44,
+        "spa": 12,
+        "spd": 16,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Rhyhorn",
+      "moves": [
+        "Air Cutter",
+        "Focus Energy",
+        "Signal Beam",
+        "Cut"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 25,
+        "def": 4,
+        "spa": 15,
+        "spd": 14,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 100,
+        "def": 76,
+        "spa": 84,
+        "spd": 64,
+        "spe": 100
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Superpower",
+        "Light Screen",
+        "Confuse Ray",
+        "Growth"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 17,
+        "spa": 23,
+        "spd": 4,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 124,
+        "def": 48,
+        "spa": 56,
+        "spd": 84,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

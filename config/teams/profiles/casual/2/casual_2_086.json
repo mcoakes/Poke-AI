@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_086",
+  "party": [
+    {
+      "species": "Nincada",
+      "moves": [
+        "Substitute",
+        "Rest",
+        "Shadow Ball",
+        "Dig"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 1,
+        "atk": 7,
+        "def": 26,
+        "spa": 23,
+        "spd": 17,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 0
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Bubble Beam",
+        "Brick Break",
+        "Light Screen",
+        "Secret Power"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 15,
+        "atk": 31,
+        "def": 29,
+        "spa": 8,
+        "spd": 27,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 68,
+        "spa": 52,
+        "spd": 24,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

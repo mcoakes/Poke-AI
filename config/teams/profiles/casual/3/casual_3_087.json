@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_087",
+  "party": [
+    {
+      "species": "Kingler",
+      "moves": [
+        "Rock Tomb",
+        "Toxic",
+        "Water Pulse",
+        "Body Slam"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 13,
+        "atk": 22,
+        "def": 31,
+        "spa": 15,
+        "spd": 21,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 8,
+        "spa": 44,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Primeape",
+      "moves": [
+        "Metronome",
+        "Screech",
+        "Revenge",
+        "Secret Power"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 18,
+        "atk": 14,
+        "def": 2,
+        "spa": 4,
+        "spd": 24,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 92,
+        "def": 60,
+        "spa": 40,
+        "spd": 52,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Rock Slide",
+        "Protect",
+        "Earthquake",
+        "Fire Blast"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 22,
+        "atk": 18,
+        "def": 9,
+        "spa": 23,
+        "spd": 16,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 28,
+        "spa": 24,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

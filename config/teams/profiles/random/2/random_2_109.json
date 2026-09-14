@@ -1,0 +1,68 @@
+{
+  "name": "random_2_109",
+  "party": [
+    {
+      "species": "Murkrow",
+      "moves": [
+        "Fire Punch",
+        "Ice Beam",
+        "Shadow Ball",
+        "Petal Dance"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 0,
+        "atk": 14,
+        "def": 28,
+        "spa": 8,
+        "spd": 16,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 32,
+        "spa": 20,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magby",
+      "moves": [
+        "Mirror Move",
+        "Protect",
+        "Facade",
+        "Hidden Power"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 3,
+        "atk": 6,
+        "def": 30,
+        "spa": 22,
+        "spd": 23,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 112,
+        "atk": 56,
+        "def": 68,
+        "spa": 44,
+        "spd": 44,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

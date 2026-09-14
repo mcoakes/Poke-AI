@@ -1,0 +1,152 @@
+{
+  "name": "random_5_097",
+  "party": [
+    {
+      "species": "Charizard",
+      "moves": [
+        "Roar",
+        "Crunch",
+        "Metal Claw",
+        "Slack Off"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 16,
+        "spa": 24,
+        "spd": 16,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 16,
+        "spa": 24,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Metal Sound",
+        "Bone Rush",
+        "Fire Blast",
+        "Snatch"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 11,
+        "atk": 23,
+        "def": 30,
+        "spa": 11,
+        "spd": 3,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 28,
+        "spa": 56,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Elekid",
+      "moves": [
+        "Fury Attack",
+        "Needle Arm",
+        "Reflect",
+        "Leech Seed"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 12,
+        "atk": 2,
+        "def": 3,
+        "spa": 16,
+        "spd": 10,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 4,
+        "spa": 8,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Beldum",
+      "moves": [
+        "Fire Punch",
+        "Sky Attack",
+        "Sonic Boom",
+        "Feather Dance"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 11,
+        "atk": 9,
+        "def": 23,
+        "spa": 7,
+        "spd": 2,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 56,
+        "spa": 36,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Spark",
+        "Charge",
+        "Psychic",
+        "Psycho Boost"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 13,
+        "atk": 1,
+        "def": 31,
+        "spa": 2,
+        "spd": 28,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 40,
+        "def": 36,
+        "spa": 60,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

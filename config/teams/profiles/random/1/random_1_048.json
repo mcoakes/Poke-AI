@@ -1,0 +1,40 @@
+{
+  "name": "random_1_048",
+  "party": [
+    {
+      "species": "Onix",
+      "moves": [
+        "Outrage",
+        "Drill Peck",
+        "Night Shade",
+        "Cut"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 7,
+        "atk": 1,
+        "def": 14,
+        "spa": 19,
+        "spd": 20,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 60,
+        "def": 72,
+        "spa": 44,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

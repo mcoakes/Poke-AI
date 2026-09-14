@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_084",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Lock On",
+        "Recycle",
+        "Thunderbolt",
+        "Facade"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 19,
+        "def": 1,
+        "spa": 10,
+        "spd": 29,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 72,
+        "spa": 64,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

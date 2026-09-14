@@ -1,0 +1,40 @@
+{
+  "name": "random_1_107",
+  "party": [
+    {
+      "species": "Eevee",
+      "moves": [
+        "Triple Kick",
+        "Powder Snow",
+        "Frustration",
+        "Meteor Mash"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 16,
+        "atk": 29,
+        "def": 31,
+        "spa": 15,
+        "spd": 8,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 56,
+        "spa": 72,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

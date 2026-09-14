@@ -1,0 +1,68 @@
+{
+  "name": "random_2_025",
+  "party": [
+    {
+      "species": "Skitty",
+      "moves": [
+        "Sweet Kiss",
+        "Screech",
+        "Shadow Ball",
+        "Slash"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 2,
+        "atk": 9,
+        "def": 29,
+        "spa": 31,
+        "spd": 18,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 56,
+        "spa": 44,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Bounce",
+        "Whirlpool",
+        "Blizzard",
+        "Detect"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 17,
+        "atk": 4,
+        "def": 7,
+        "spa": 11,
+        "spd": 21,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 32,
+        "spa": 36,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Bright Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

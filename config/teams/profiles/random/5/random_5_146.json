@@ -1,0 +1,152 @@
+{
+  "name": "random_5_146",
+  "party": [
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Beat Up",
+        "Mega Drain",
+        "Destiny Bond",
+        "Encore"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 6,
+        "def": 15,
+        "spa": 16,
+        "spd": 3,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 12,
+        "spa": 8,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magmar",
+      "moves": [
+        "Fire Spin",
+        "Dragon Breath",
+        "Bide",
+        "Tail Whip"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 22,
+        "def": 25,
+        "spa": 1,
+        "spd": 11,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 8,
+        "spa": 20,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Mist",
+        "Hydro Pump",
+        "Fire Spin",
+        "Acid"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 22,
+        "atk": 4,
+        "def": 19,
+        "spa": 23,
+        "spd": 21,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 8,
+        "spa": 8,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Hyper Voice",
+        "Nightmare",
+        "Endeavor",
+        "Recycle"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 1,
+        "atk": 16,
+        "def": 2,
+        "spa": 6,
+        "spd": 9,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 80,
+        "def": 100,
+        "spa": 84,
+        "spd": 68,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Recover",
+        "Water Pulse",
+        "Ice Punch",
+        "Tickle"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 4,
+        "atk": 3,
+        "def": 8,
+        "spa": 26,
+        "spd": 4,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 12,
+        "spa": 4,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

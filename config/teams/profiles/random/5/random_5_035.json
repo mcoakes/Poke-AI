@@ -1,0 +1,152 @@
+{
+  "name": "random_5_035",
+  "party": [
+    {
+      "species": "Walrein",
+      "moves": [
+        "Mean Look",
+        "Withdraw",
+        "Blaze Kick",
+        "Hidden Power"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 16,
+        "spa": 3,
+        "spd": 15,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 28,
+        "spa": 16,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Revenge",
+        "Shadow Ball",
+        "Hyper Fang",
+        "Aerial Ace"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 17,
+        "atk": 3,
+        "def": 21,
+        "spa": 19,
+        "spd": 9,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 44,
+        "spa": 36,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Choice Band",
+      "level": 50
+    },
+    {
+      "species": "Cacturne",
+      "moves": [
+        "Hidden Power",
+        "Fire Punch",
+        "Ice Punch",
+        "Moonlight"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 16,
+        "spa": 26,
+        "spd": 0,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 12,
+        "spa": 44,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Bubble",
+        "Hyper Voice",
+        "Fire Punch",
+        "Rock Tomb"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 14,
+        "spa": 25,
+        "spd": 1,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 72,
+        "def": 88,
+        "spa": 100,
+        "spd": 76,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Poison Tail",
+        "Outrage",
+        "Needle Arm",
+        "Fire Blast"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 23,
+        "spa": 1,
+        "spd": 21,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 24,
+        "spa": 24,
+        "spd": 4,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

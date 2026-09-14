@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_106",
+  "party": [
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Water Sport",
+        "Dragon Claw",
+        "Waterfall",
+        "Mimic"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 4,
+        "def": 9,
+        "spa": 21,
+        "spd": 13,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 48,
+        "def": 80,
+        "spa": 52,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zubat",
+      "moves": [
+        "Frustration",
+        "Confuse Ray",
+        "Shadow Ball",
+        "Aerial Ace"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 9,
+        "atk": 18,
+        "def": 5,
+        "spa": 9,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 32,
+        "spa": 40,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Omanyte",
+      "moves": [
+        "Return",
+        "Supersonic",
+        "Bubble Beam",
+        "Thief"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 3,
+        "atk": 15,
+        "def": 22,
+        "spa": 13,
+        "spd": 8,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 88,
+        "def": 32,
+        "spa": 52,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Attract",
+        "Brick Break",
+        "Bubble Beam",
+        "Mega Punch"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 12,
+        "atk": 13,
+        "def": 16,
+        "spa": 30,
+        "spd": 5,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 28,
+        "spa": 32,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Double Team",
+        "Giga Drain",
+        "Sunny Day",
+        "Silver Wind"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 9,
+        "atk": 14,
+        "def": 14,
+        "spa": 4,
+        "spd": 14,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 12,
+        "def": 44,
+        "spa": 40,
+        "spd": 32,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

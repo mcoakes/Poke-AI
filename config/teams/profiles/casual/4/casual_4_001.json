@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_001",
+  "party": [
+    {
+      "species": "Linoone",
+      "moves": [
+        "Cut",
+        "Covet",
+        "Thunderbolt",
+        "Trick"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 9,
+        "def": 21,
+        "spa": 29,
+        "spd": 21,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 80,
+        "spa": 64,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Nidoqueen",
+      "moves": [
+        "Dig",
+        "Facade",
+        "Attract",
+        "Supersonic"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 6,
+        "atk": 18,
+        "def": 3,
+        "spa": 4,
+        "spd": 25,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 28,
+        "spa": 20,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slakoth",
+      "moves": [
+        "Thunderbolt",
+        "Facade",
+        "Curse",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 17,
+        "atk": 13,
+        "def": 17,
+        "spa": 24,
+        "spd": 27,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 40,
+        "spa": 48,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Dig",
+        "Iron Tail",
+        "Flamethrower",
+        "Double Team"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 4,
+        "def": 20,
+        "spa": 20,
+        "spd": 27,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 20,
+        "spa": 52,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

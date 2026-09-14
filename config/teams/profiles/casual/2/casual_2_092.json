@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_092",
+  "party": [
+    {
+      "species": "Exploud",
+      "moves": [
+        "Rest",
+        "Torment",
+        "Facade",
+        "Water Pulse"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 25,
+        "atk": 27,
+        "def": 1,
+        "spa": 20,
+        "spd": 9,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 52,
+        "spa": 32,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Mimic",
+        "Roar",
+        "Crunch",
+        "Flame Wheel"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 12,
+        "atk": 13,
+        "def": 26,
+        "spa": 19,
+        "spd": 23,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 56,
+        "spa": 16,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_029",
+  "party": [
+    {
+      "species": "Xatu",
+      "moves": [
+        "Mud Shot",
+        "Will O Wisp",
+        "Water Sport",
+        "Encore"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 9,
+        "def": 1,
+        "spa": 0,
+        "spd": 20,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

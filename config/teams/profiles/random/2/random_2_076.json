@@ -1,0 +1,68 @@
+{
+  "name": "random_2_076",
+  "party": [
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Flamethrower",
+        "Covet",
+        "Outrage",
+        "Blast Burn"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 11,
+        "def": 5,
+        "spa": 19,
+        "spd": 28,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 100,
+        "spa": 60,
+        "spd": 56,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Fake Tears",
+        "Frustration",
+        "Synthesis",
+        "Psybeam"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 26,
+        "spa": 20,
+        "spd": 17,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 28,
+        "spa": 20,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

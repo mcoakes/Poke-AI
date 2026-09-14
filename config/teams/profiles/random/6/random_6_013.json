@@ -1,0 +1,180 @@
+{
+  "name": "random_6_013",
+  "party": [
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Minimize",
+        "Recycle",
+        "Petal Dance",
+        "Rest"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 31,
+        "atk": 23,
+        "def": 12,
+        "spa": 10,
+        "spd": 30,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 100,
+        "def": 52,
+        "spa": 64,
+        "spd": 76,
+        "spe": 88
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Thunder Shock",
+        "Night Shade",
+        "Ember",
+        "Guillotine"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 18,
+        "atk": 6,
+        "def": 16,
+        "spa": 10,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 88,
+        "def": 88,
+        "spa": 88,
+        "spd": 96,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Belly Drum",
+        "Morning Sun",
+        "Hydro Cannon",
+        "Reflect"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 17,
+        "atk": 24,
+        "def": 2,
+        "spa": 20,
+        "spd": 30,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 24,
+        "def": 20,
+        "spa": 36,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Misdreavus",
+      "moves": [
+        "Astonish",
+        "Knock Off",
+        "Spark",
+        "Thunder Punch"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 14,
+        "spa": 13,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 88,
+        "def": 92,
+        "spa": 68,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Ingrain",
+        "Mist Ball",
+        "Constrict",
+        "Feather Dance"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 27,
+        "spa": 6,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 8,
+        "spa": 20,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Soft Boiled",
+        "Confusion",
+        "Focus Punch",
+        "Acid"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 26,
+        "atk": 23,
+        "def": 6,
+        "spa": 7,
+        "spd": 3,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 64,
+        "spa": 76,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_113",
+  "party": [
+    {
+      "species": "Slowking",
+      "moves": [
+        "Headbutt",
+        "Iron Tail",
+        "Confusion",
+        "Skill Swap"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 28,
+        "atk": 30,
+        "def": 30,
+        "spa": 29,
+        "spd": 17,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 56,
+        "spa": 52,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

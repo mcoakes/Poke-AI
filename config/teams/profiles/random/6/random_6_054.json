@@ -1,0 +1,180 @@
+{
+  "name": "random_6_054",
+  "party": [
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Sand Attack",
+        "Covet",
+        "Thunder Wave",
+        "Twister"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 7,
+        "atk": 11,
+        "def": 16,
+        "spa": 20,
+        "spd": 21,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 20,
+        "spa": 32,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Water Pulse",
+        "Dive",
+        "Aeroblast",
+        "Signal Beam"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 20,
+        "atk": 7,
+        "def": 28,
+        "spa": 23,
+        "spd": 20,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 36,
+        "spa": 40,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Mist Ball",
+        "Psybeam",
+        "Doom Desire",
+        "Detect"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 22,
+        "atk": 12,
+        "def": 11,
+        "spa": 8,
+        "spd": 10,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 20,
+        "spa": 44,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Destiny Bond",
+        "Dragon Rage",
+        "Pound",
+        "Future Sight"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 29,
+        "atk": 11,
+        "def": 14,
+        "spa": 27,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 40,
+        "spa": 40,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Scyther",
+      "moves": [
+        "Rain Dance",
+        "Kinesis",
+        "Hidden Power",
+        "Magical Leaf"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 24,
+        "atk": 1,
+        "def": 5,
+        "spa": 3,
+        "spd": 5,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 56,
+        "def": 64,
+        "spa": 64,
+        "spd": 60,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Explosion",
+        "Sand Tomb",
+        "Future Sight",
+        "Wish"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 8,
+        "atk": 10,
+        "def": 30,
+        "spa": 12,
+        "spd": 31,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 80,
+        "def": 56,
+        "spa": 84,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

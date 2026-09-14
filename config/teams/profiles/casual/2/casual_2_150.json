@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_150",
+  "party": [
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Body Slam",
+        "Sing",
+        "Shock Wave",
+        "Double Team"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 8,
+        "spa": 9,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 40,
+        "def": 36,
+        "spa": 84,
+        "spd": 40,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Hypnosis",
+        "Secret Power",
+        "Role Play",
+        "Psychic"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 21,
+        "spa": 6,
+        "spd": 10,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 60,
+        "spa": 44,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

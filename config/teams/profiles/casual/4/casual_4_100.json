@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_100",
+  "party": [
+    {
+      "species": "Milotic",
+      "moves": [
+        "Ice Beam",
+        "Mimic",
+        "Waterfall",
+        "Confuse Ray"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 6,
+        "atk": 24,
+        "def": 15,
+        "spa": 11,
+        "spd": 25,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 28,
+        "spa": 32,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sableye",
+      "moves": [
+        "Hidden Power",
+        "Shadow Ball",
+        "Dream Eater",
+        "Substitute"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 16,
+        "atk": 27,
+        "def": 26,
+        "spa": 8,
+        "spd": 10,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 36,
+        "def": 44,
+        "spa": 20,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Mimic",
+        "Bite",
+        "Rest",
+        "Shadow Ball"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 23,
+        "atk": 19,
+        "def": 19,
+        "spa": 20,
+        "spd": 26,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 44,
+        "spa": 44,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Nidoqueen",
+      "moves": [
+        "Shadow Ball",
+        "Beat Up",
+        "Toxic",
+        "Earthquake"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 15,
+        "atk": 24,
+        "def": 17,
+        "spa": 9,
+        "spd": 27,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 56,
+        "def": 52,
+        "spa": 32,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_080",
+  "party": [
+    {
+      "species": "Ledian",
+      "moves": [
+        "Pain Split",
+        "Vine Whip",
+        "Octazooka",
+        "Supersonic"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 26,
+        "atk": 30,
+        "def": 20,
+        "spa": 22,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Rock Smash",
+        "Ancient Power",
+        "Assist",
+        "Icy Wind"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 13,
+        "atk": 8,
+        "def": 13,
+        "spa": 31,
+        "spd": 11,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 32,
+        "def": 32,
+        "spa": 36,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Mean Look",
+        "Mirror Coat",
+        "Mega Kick",
+        "Spikes"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 12,
+        "def": 2,
+        "spa": 3,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 28,
+        "spa": 16,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

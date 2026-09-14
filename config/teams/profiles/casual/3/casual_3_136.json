@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_136",
+  "party": [
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Sandstorm",
+        "Iron Tail",
+        "Earthquake",
+        "Ancient Power"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 1,
+        "def": 20,
+        "spa": 29,
+        "spd": 13,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 12,
+        "spa": 16,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Sludge Bomb",
+        "Razor Leaf",
+        "Petal Dance",
+        "Synthesis"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 12,
+        "atk": 5,
+        "def": 29,
+        "spa": 30,
+        "spd": 8,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 48,
+        "spa": 52,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Psychic",
+        "Double Team",
+        "Thief",
+        "Light Screen"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 18,
+        "def": 26,
+        "spa": 19,
+        "spd": 11,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 28,
+        "spa": 20,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

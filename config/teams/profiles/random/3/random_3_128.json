@@ -1,0 +1,96 @@
+{
+  "name": "random_3_128",
+  "party": [
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Sleep Talk",
+        "Extreme Speed",
+        "Surf",
+        "Thrash"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 6,
+        "atk": 7,
+        "def": 31,
+        "spa": 5,
+        "spd": 20,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 40,
+        "spa": 44,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Hi Jump Kick",
+        "Hydro Cannon",
+        "Sand Attack",
+        "Brick Break"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 22,
+        "atk": 14,
+        "def": 23,
+        "spa": 7,
+        "spd": 24,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 32,
+        "spa": 72,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Trick",
+        "Eruption",
+        "Rock Tomb",
+        "Refresh"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 8,
+        "atk": 31,
+        "def": 7,
+        "spa": 2,
+        "spd": 13,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 24,
+        "def": 36,
+        "spa": 40,
+        "spd": 28,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

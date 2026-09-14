@@ -1,0 +1,68 @@
+{
+  "name": "random_2_111",
+  "party": [
+    {
+      "species": "Skitty",
+      "moves": [
+        "Acid",
+        "Feather Dance",
+        "Leech Life",
+        "Rock Blast"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 25,
+        "atk": 8,
+        "def": 8,
+        "spa": 5,
+        "spd": 29,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 28,
+        "spa": 24,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Banette",
+      "moves": [
+        "Bulk Up",
+        "Dive",
+        "Mega Kick",
+        "Flatter"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 19,
+        "atk": 15,
+        "def": 23,
+        "spa": 26,
+        "spd": 15,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 12,
+        "spa": 24,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

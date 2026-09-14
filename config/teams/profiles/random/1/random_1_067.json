@@ -1,0 +1,40 @@
+{
+  "name": "random_1_067",
+  "party": [
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Shadow Ball",
+        "Covet",
+        "Revenge",
+        "Assist"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 12,
+        "spa": 28,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 72,
+        "spa": 44,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

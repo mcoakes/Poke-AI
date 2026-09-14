@@ -1,0 +1,124 @@
+{
+  "name": "random_4_142",
+  "party": [
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Sharpen",
+        "Flamethrower",
+        "Mega Drain",
+        "Aromatherapy"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 19,
+        "def": 10,
+        "spa": 24,
+        "spd": 10,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 28,
+        "spa": 64,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Surskit",
+      "moves": [
+        "Nature Power",
+        "Mud Sport",
+        "Pin Missile",
+        "Fissure"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 25,
+        "atk": 27,
+        "def": 5,
+        "spa": 21,
+        "spd": 1,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 36,
+        "spa": 44,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Natu",
+      "moves": [
+        "Ice Ball",
+        "Transform",
+        "Swift",
+        "Blast Burn"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 19,
+        "def": 10,
+        "spa": 3,
+        "spd": 22,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 4,
+        "spa": 4,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Water Pulse",
+        "Mirror Coat",
+        "Cosmic Power",
+        "Bounce"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 28,
+        "def": 12,
+        "spa": 0,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

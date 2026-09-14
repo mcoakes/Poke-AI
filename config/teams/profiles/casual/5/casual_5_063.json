@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_063",
+  "party": [
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Scratch",
+        "Water Pulse",
+        "Strength",
+        "Screech"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 0,
+        "atk": 10,
+        "def": 6,
+        "spa": 26,
+        "spd": 26,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 44,
+        "spa": 44,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Duskull",
+      "moves": [
+        "Imprison",
+        "Shadow Ball",
+        "Disable",
+        "Dream Eater"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 9,
+        "atk": 27,
+        "def": 13,
+        "spa": 27,
+        "spd": 1,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 44,
+        "spa": 72,
+        "spd": 28,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Iron Tail",
+        "Body Slam",
+        "Rest",
+        "Waterfall"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 26,
+        "atk": 17,
+        "def": 0,
+        "spa": 10,
+        "spd": 20,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 36,
+        "spa": 40,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Protect",
+        "Screech",
+        "Facade",
+        "Thunder Shock"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 29,
+        "atk": 2,
+        "def": 26,
+        "spa": 29,
+        "spd": 0,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 28,
+        "spa": 36,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Secret Power",
+        "Bubble Beam",
+        "Protect",
+        "Cosmic Power"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 8,
+        "spa": 22,
+        "spd": 25,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 28,
+        "spa": 8,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

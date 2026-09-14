@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_009",
+  "party": [
+    {
+      "species": "Arbok",
+      "moves": [
+        "Spite",
+        "Body Slam",
+        "Facade",
+        "Acid"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 13,
+        "def": 15,
+        "spa": 30,
+        "spd": 21,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 40,
+        "spa": 32,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

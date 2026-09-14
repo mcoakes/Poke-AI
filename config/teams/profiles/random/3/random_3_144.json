@@ -1,0 +1,96 @@
+{
+  "name": "random_3_144",
+  "party": [
+    {
+      "species": "Quilava",
+      "moves": [
+        "Acid Armor",
+        "Mud Sport",
+        "Dream Eater",
+        "Roar"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 15,
+        "def": 13,
+        "spa": 31,
+        "spd": 11,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 44,
+        "spa": 28,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Luster Purge",
+        "Mud Sport",
+        "Kinesis",
+        "Sand Attack"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 26,
+        "atk": 9,
+        "def": 29,
+        "spa": 22,
+        "spd": 15,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 36,
+        "def": 56,
+        "spa": 60,
+        "spd": 72,
+        "spe": 48
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Lovely Kiss",
+        "Superpower",
+        "Outrage",
+        "Razor Wind"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 5,
+        "atk": 0,
+        "def": 28,
+        "spa": 11,
+        "spd": 2,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 84,
+        "def": 72,
+        "spa": 108,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

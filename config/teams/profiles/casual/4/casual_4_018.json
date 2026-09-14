@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_018",
+  "party": [
+    {
+      "species": "Sableye",
+      "moves": [
+        "Night Shade",
+        "Psychic",
+        "Thief",
+        "Moonlight"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 17,
+        "atk": 9,
+        "def": 6,
+        "spa": 31,
+        "spd": 4,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 20,
+        "spa": 12,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Detect",
+        "Rest",
+        "Dig",
+        "Razor Wind"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 27,
+        "atk": 29,
+        "def": 2,
+        "spa": 8,
+        "spd": 30,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 44,
+        "spa": 44,
+        "spd": 8,
+        "spe": 32
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Shadow Ball",
+        "Shadow Punch",
+        "Leer",
+        "Rock Slide"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 20,
+        "spa": 28,
+        "spd": 2,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 60,
+        "def": 60,
+        "spa": 64,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Linoone",
+      "moves": [
+        "Blizzard",
+        "Iron Tail",
+        "Toxic",
+        "Facade"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 29,
+        "atk": 12,
+        "def": 26,
+        "spa": 11,
+        "spd": 20,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 32,
+        "def": 20,
+        "spa": 8,
+        "spd": 0,
+        "spe": 8
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

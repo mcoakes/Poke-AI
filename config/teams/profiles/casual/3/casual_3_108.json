@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_108",
+  "party": [
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Sunny Day",
+        "Thief",
+        "Sand Attack",
+        "Body Slam"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 18,
+        "atk": 10,
+        "def": 13,
+        "spa": 2,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 64,
+        "def": 64,
+        "spa": 72,
+        "spd": 48,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Take Down",
+        "Rest",
+        "Dive",
+        "Return"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 17,
+        "atk": 8,
+        "def": 4,
+        "spa": 5,
+        "spd": 18,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 48,
+        "def": 36,
+        "spa": 56,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Amnesia",
+        "Rest",
+        "Brick Break",
+        "Scratch"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 6,
+        "spa": 12,
+        "spd": 2,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 32,
+        "spa": 68,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

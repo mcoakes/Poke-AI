@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_026",
+  "party": [
+    {
+      "species": "Spearow",
+      "moves": [
+        "Mimic",
+        "Frustration",
+        "Drill Peck",
+        "Facade"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 9,
+        "def": 14,
+        "spa": 25,
+        "spd": 9,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 52,
+        "spa": 64,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Facade",
+        "Substitute",
+        "String Shot",
+        "Silver Wind"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 21,
+        "atk": 25,
+        "def": 15,
+        "spa": 11,
+        "spd": 14,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Bite",
+        "Thunder Wave",
+        "Roar",
+        "Thunderbolt"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 1,
+        "atk": 24,
+        "def": 2,
+        "spa": 17,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 48,
+        "spa": 24,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Water Pulse",
+        "Toxic",
+        "Facade",
+        "Hail"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 17,
+        "atk": 29,
+        "def": 10,
+        "spa": 31,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 72,
+        "spa": 52,
+        "spd": 44,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

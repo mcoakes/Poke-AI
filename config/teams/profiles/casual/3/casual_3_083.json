@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_083",
+  "party": [
+    {
+      "species": "Venonat",
+      "moves": [
+        "Foresight",
+        "Giga Drain",
+        "Psybeam",
+        "Signal Beam"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 2,
+        "atk": 3,
+        "def": 17,
+        "spa": 24,
+        "spd": 26,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 48,
+        "def": 28,
+        "spa": 48,
+        "spd": 12,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Dream Eater",
+        "Reflect",
+        "Earthquake",
+        "Hydro Pump"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 26,
+        "def": 8,
+        "spa": 10,
+        "spd": 31,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 24,
+        "spa": 32,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Return",
+        "Substitute",
+        "Dig",
+        "Water Gun"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 1,
+        "def": 28,
+        "spa": 4,
+        "spd": 5,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 76,
+        "def": 60,
+        "spa": 64,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

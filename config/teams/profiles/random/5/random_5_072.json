@@ -1,0 +1,152 @@
+{
+  "name": "random_5_072",
+  "party": [
+    {
+      "species": "Doduo",
+      "moves": [
+        "Sand Attack",
+        "Icicle Spear",
+        "Bind",
+        "Explosion"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 1,
+        "spa": 19,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 60,
+        "spa": 40,
+        "spd": 92,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cradily",
+      "moves": [
+        "Hail",
+        "Confuse Ray",
+        "Air Cutter",
+        "Sweet Scent"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 0,
+        "atk": 25,
+        "def": 17,
+        "spa": 20,
+        "spd": 6,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 8,
+        "spa": 8,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Fly",
+        "Superpower",
+        "Belly Drum",
+        "Imprison"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 19,
+        "atk": 7,
+        "def": 17,
+        "spa": 28,
+        "spd": 9,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 12,
+        "spa": 4,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Megahorn",
+        "Sludge",
+        "Pain Split",
+        "Calm Mind"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 28,
+        "def": 4,
+        "spa": 21,
+        "spd": 6,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 36,
+        "spa": 24,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Geodude",
+      "moves": [
+        "Spike Cannon",
+        "Wing Attack",
+        "Peck",
+        "Sweet Scent"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 2,
+        "spa": 2,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 36,
+        "spa": 20,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_083",
+  "party": [
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Wing Attack",
+        "Dream Eater",
+        "Shadow Ball",
+        "Attract"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 4,
+        "atk": 3,
+        "def": 11,
+        "spa": 29,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 8,
+        "spa": 32,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrode",
+      "moves": [
+        "Secret Power",
+        "Thunderbolt",
+        "Tackle",
+        "Taunt"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 15,
+        "atk": 14,
+        "def": 30,
+        "spa": 25,
+        "spd": 7,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 72,
+        "spa": 32,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Dream Eater",
+        "Iron Tail",
+        "Double Edge",
+        "Snatch"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 11,
+        "atk": 20,
+        "def": 14,
+        "spa": 27,
+        "spd": 21,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 68,
+        "spa": 60,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Dig",
+        "Substitute",
+        "Toxic",
+        "Flamethrower"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 6,
+        "atk": 15,
+        "def": 5,
+        "spa": 6,
+        "spd": 25,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 28,
+        "spa": 52,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chansey",
+      "moves": [
+        "Water Pulse",
+        "Sandstorm",
+        "Protect",
+        "Pound"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 24,
+        "atk": 23,
+        "def": 14,
+        "spa": 29,
+        "spd": 6,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 68,
+        "spa": 44,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

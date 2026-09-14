@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_134",
+  "party": [
+    {
+      "species": "Moltres",
+      "moves": [
+        "Ember",
+        "Fly",
+        "Endure",
+        "Aerial Ace"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 30,
+        "def": 31,
+        "spa": 3,
+        "spd": 27,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 20,
+        "spa": 36,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Brick Break",
+        "Rain Dance",
+        "Focus Energy",
+        "Snore"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 27,
+        "def": 22,
+        "spa": 1,
+        "spd": 6,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 32,
+        "def": 48,
+        "spa": 40,
+        "spd": 28,
+        "spe": 56
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Skiploom",
+      "moves": [
+        "Rest",
+        "Mega Drain",
+        "Double Team",
+        "Aerial Ace"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 24,
+        "atk": 3,
+        "def": 30,
+        "spa": 22,
+        "spd": 17,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 64,
+        "spa": 52,
+        "spd": 60,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Confusion",
+        "Uproar",
+        "Double Edge",
+        "Curse"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 15,
+        "atk": 17,
+        "def": 10,
+        "spa": 26,
+        "spd": 14,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 64,
+        "def": 60,
+        "spa": 64,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Dynamic Punch",
+        "Leer",
+        "Needle Arm",
+        "Body Slam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 14,
+        "spa": 19,
+        "spd": 26,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 28,
+        "spa": 36,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

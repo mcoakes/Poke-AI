@@ -1,0 +1,124 @@
+{
+  "name": "random_4_114",
+  "party": [
+    {
+      "species": "Charizard",
+      "moves": [
+        "Nightmare",
+        "Skull Bash",
+        "Wish",
+        "Guillotine"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 12,
+        "atk": 26,
+        "def": 16,
+        "spa": 19,
+        "spd": 18,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 72,
+        "def": 64,
+        "spa": 48,
+        "spd": 96,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Mega Drain",
+        "Screech",
+        "Aurora Beam",
+        "Ice Punch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 21,
+        "spa": 24,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 36,
+        "spa": 48,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Illumise",
+      "moves": [
+        "Rock Slide",
+        "Confuse Ray",
+        "Triple Kick",
+        "Blast Burn"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 17,
+        "atk": 14,
+        "def": 4,
+        "spa": 27,
+        "spd": 0,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 20,
+        "spa": 0,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Loudred",
+      "moves": [
+        "Earthquake",
+        "Sleep Talk",
+        "Soft Boiled",
+        "Sweet Kiss"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 3,
+        "atk": 2,
+        "def": 15,
+        "spa": 17,
+        "spd": 23,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 88,
+        "def": 104,
+        "spa": 64,
+        "spd": 80,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_020",
+  "party": [
+    {
+      "species": "Dustox",
+      "moves": [
+        "Twineedle",
+        "Scary Face",
+        "Poison Sting",
+        "Ice Ball"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 26,
+        "atk": 30,
+        "def": 20,
+        "spa": 7,
+        "spd": 24,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 32,
+        "def": 36,
+        "spa": 68,
+        "spd": 80,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Dynamic Punch",
+        "Roar",
+        "Sing",
+        "Ancient Power"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 19,
+        "atk": 27,
+        "def": 6,
+        "spa": 0,
+        "spd": 12,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 20,
+        "spa": 32,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Loudred",
+      "moves": [
+        "Rock Blast",
+        "Icy Wind",
+        "Pound",
+        "Snore"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 30,
+        "atk": 17,
+        "def": 7,
+        "spa": 10,
+        "spd": 21,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 72,
+        "def": 68,
+        "spa": 32,
+        "spd": 56,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Bite",
+        "Bubble Beam",
+        "Vine Whip",
+        "Ember"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 18,
+        "def": 3,
+        "spa": 6,
+        "spd": 16,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 20,
+        "spa": 12,
+        "spd": 20,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Spore",
+        "Lovely Kiss",
+        "Light Screen",
+        "Rest"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 28,
+        "atk": 17,
+        "def": 5,
+        "spa": 22,
+        "spd": 29,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 56,
+        "spa": 92,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Jigglypuff",
+      "moves": [
+        "String Shot",
+        "Pound",
+        "Low Kick",
+        "Vine Whip"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 5,
+        "def": 25,
+        "spa": 11,
+        "spd": 13,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 60,
+        "def": 76,
+        "spa": 96,
+        "spd": 96,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

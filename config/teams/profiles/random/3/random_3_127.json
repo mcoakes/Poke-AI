@@ -1,0 +1,96 @@
+{
+  "name": "random_3_127",
+  "party": [
+    {
+      "species": "Seel",
+      "moves": [
+        "Mist Ball",
+        "Reflect",
+        "Quick Attack",
+        "Harden"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 21,
+        "def": 21,
+        "spa": 9,
+        "spd": 3,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 8,
+        "spa": 24,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Whirlpool",
+        "Spikes",
+        "Mean Look",
+        "Crush Claw"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 12,
+        "atk": 15,
+        "def": 0,
+        "spa": 20,
+        "spd": 20,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 84,
+        "spa": 80,
+        "spd": 40,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lairon",
+      "moves": [
+        "Encore",
+        "Waterfall",
+        "Smokescreen",
+        "Acid Armor"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 18,
+        "atk": 24,
+        "def": 22,
+        "spa": 2,
+        "spd": 25,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 68,
+        "def": 60,
+        "spa": 60,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

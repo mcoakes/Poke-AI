@@ -1,0 +1,68 @@
+{
+  "name": "random_2_059",
+  "party": [
+    {
+      "species": "Metang",
+      "moves": [
+        "Protect",
+        "Spike Cannon",
+        "Octazooka",
+        "Outrage"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 24,
+        "atk": 26,
+        "def": 29,
+        "spa": 26,
+        "spd": 21,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 44,
+        "spa": 72,
+        "spd": 64,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Relicanth",
+      "moves": [
+        "Swords Dance",
+        "Recover",
+        "Metal Sound",
+        "Acid Armor"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 10,
+        "def": 0,
+        "spa": 18,
+        "spd": 10,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 12,
+        "spa": 20,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

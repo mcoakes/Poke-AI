@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_037",
+  "party": [
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Splash",
+        "Mirror Coat",
+        "Counter",
+        "Safeguard"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 21,
+        "def": 10,
+        "spa": 2,
+        "spd": 1,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 32,
+        "spa": 20,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Thief",
+        "Taunt",
+        "Future Sight",
+        "Fire Punch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 14,
+        "def": 31,
+        "spa": 18,
+        "spd": 2,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 4,
+        "def": 28,
+        "spa": 16,
+        "spd": 32,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Raikou",
+      "moves": [
+        "Toxic",
+        "Thunder Shock",
+        "Secret Power",
+        "Shock Wave"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 1,
+        "atk": 26,
+        "def": 26,
+        "spa": 16,
+        "spd": 20,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 40,
+        "spa": 52,
+        "spd": 44,
+        "spe": 72
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Substitute",
+        "Thunderbolt",
+        "Water Pulse",
+        "Twister"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 22,
+        "spa": 28,
+        "spd": 26,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 44,
+        "spa": 48,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Dive",
+        "Splash",
+        "Facade",
+        "Water Pulse"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 21,
+        "atk": 3,
+        "def": 26,
+        "spa": 18,
+        "spd": 4,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 72,
+        "def": 64,
+        "spa": 72,
+        "spd": 80,
+        "spe": 32
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

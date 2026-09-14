@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_124",
+  "party": [
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Toxic",
+        "Safeguard",
+        "Gust",
+        "Secret Power"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 24,
+        "def": 2,
+        "spa": 3,
+        "spd": 9,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 64,
+        "spa": 76,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Protect",
+        "Rolling Kick",
+        "Secret Power",
+        "Double Team"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 5,
+        "atk": 1,
+        "def": 18,
+        "spa": 3,
+        "spd": 20,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 72,
+        "spa": 48,
+        "spd": 52,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

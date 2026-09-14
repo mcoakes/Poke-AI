@@ -1,0 +1,40 @@
+{
+  "name": "random_1_141",
+  "party": [
+    {
+      "species": "Eevee",
+      "moves": [
+        "Karate Chop",
+        "Defense Curl",
+        "Beat Up",
+        "Minimize"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 14,
+        "spa": 26,
+        "spd": 13,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 28,
+        "spa": 48,
+        "spd": 20,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

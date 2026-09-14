@@ -1,0 +1,68 @@
+{
+  "name": "random_2_148",
+  "party": [
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Lock On",
+        "Beat Up",
+        "Mega Drain",
+        "Stomp"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 11,
+        "atk": 17,
+        "def": 23,
+        "spa": 16,
+        "spd": 5,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 44,
+        "spa": 56,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Covet",
+        "Powder Snow",
+        "Fury Attack",
+        "Dragon Breath"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 9,
+        "atk": 13,
+        "def": 15,
+        "spa": 24,
+        "spd": 26,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 4,
+        "def": 28,
+        "spa": 12,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

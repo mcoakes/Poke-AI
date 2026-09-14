@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_013",
+  "party": [
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Aerial Ace",
+        "Slash",
+        "False Swipe",
+        "Sand Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 11,
+        "atk": 5,
+        "def": 23,
+        "spa": 20,
+        "spd": 13,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 56,
+        "spa": 64,
+        "spd": 72,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

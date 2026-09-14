@@ -1,0 +1,40 @@
+{
+  "name": "random_1_034",
+  "party": [
+    {
+      "species": "Combusken",
+      "moves": [
+        "Imprison",
+        "Flame Wheel",
+        "Iron Tail",
+        "Haze"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 24,
+        "atk": 29,
+        "def": 12,
+        "spa": 30,
+        "spd": 29,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 12,
+        "spa": 8,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Dragon Fang",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_108",
+  "party": [
+    {
+      "species": "Milotic",
+      "moves": [
+        "Mud Sport",
+        "Aeroblast",
+        "Stomp",
+        "Tri Attack"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 4,
+        "atk": 18,
+        "def": 22,
+        "spa": 8,
+        "spd": 10,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Fake Tears",
+        "Steel Wing",
+        "Strength",
+        "Brick Break"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 28,
+        "def": 5,
+        "spa": 8,
+        "spd": 2,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 60,
+        "def": 56,
+        "spa": 40,
+        "spd": 36,
+        "spe": 60
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Zangoose",
+      "moves": [
+        "Self Destruct",
+        "Guillotine",
+        "Super Fang",
+        "Slash"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 0,
+        "atk": 1,
+        "def": 7,
+        "spa": 31,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 48,
+        "def": 52,
+        "spa": 36,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Rock Smash",
+        "Conversion 2",
+        "Tri Attack",
+        "Destiny Bond"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 4,
+        "atk": 29,
+        "def": 5,
+        "spa": 10,
+        "spd": 5,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 40,
+        "spa": 40,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Growl",
+        "Return",
+        "Surf",
+        "Vice Grip"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 22,
+        "atk": 3,
+        "def": 21,
+        "spa": 13,
+        "spd": 26,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 32,
+        "spa": 24,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

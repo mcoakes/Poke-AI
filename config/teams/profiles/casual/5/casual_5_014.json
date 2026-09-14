@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_014",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Rock Smash",
+        "Mimic",
+        "Brick Break",
+        "Fire Punch"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 9,
+        "atk": 25,
+        "def": 31,
+        "spa": 0,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 36,
+        "spa": 72,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Attract",
+        "Fly",
+        "Dig",
+        "Dragon Breath"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 29,
+        "atk": 4,
+        "def": 26,
+        "spa": 9,
+        "spd": 28,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 64,
+        "def": 48,
+        "spa": 36,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Slugma",
+      "moves": [
+        "Amnesia",
+        "Ember",
+        "Secret Power",
+        "Protect"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 6,
+        "atk": 27,
+        "def": 2,
+        "spa": 9,
+        "spd": 9,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 72,
+        "spa": 64,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Thief",
+        "Lock On",
+        "Sludge Bomb",
+        "Bubble Beam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 4,
+        "def": 1,
+        "spa": 25,
+        "spd": 3,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 40,
+        "def": 36,
+        "spa": 32,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Double Edge",
+        "Facade",
+        "Flame Wheel",
+        "Tail Whip"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 27,
+        "spd": 20,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 36,
+        "spa": 76,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

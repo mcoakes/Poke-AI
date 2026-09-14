@@ -1,0 +1,68 @@
+{
+  "name": "random_2_142",
+  "party": [
+    {
+      "species": "Poliwag",
+      "moves": [
+        "Heal Bell",
+        "Thunder Shock",
+        "Refresh",
+        "Counter"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 29,
+        "atk": 30,
+        "def": 16,
+        "spa": 3,
+        "spd": 5,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 44,
+        "spa": 56,
+        "spd": 32,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Metronome",
+        "Rolling Kick",
+        "Memento",
+        "Sludge"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 15,
+        "def": 23,
+        "spa": 20,
+        "spd": 22,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 40,
+        "spa": 32,
+        "spd": 40,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

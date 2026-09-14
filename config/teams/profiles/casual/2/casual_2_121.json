@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_121",
+  "party": [
+    {
+      "species": "Scizor",
+      "moves": [
+        "Metal Claw",
+        "Quick Attack",
+        "Toxic",
+        "Secret Power"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 6,
+        "atk": 5,
+        "def": 27,
+        "spa": 31,
+        "spd": 21,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 28,
+        "spa": 36,
+        "spd": 28,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vigoroth",
+      "moves": [
+        "Body Slam",
+        "Brick Break",
+        "Aerial Ace",
+        "Rest"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 24,
+        "atk": 3,
+        "def": 3,
+        "spa": 8,
+        "spd": 4,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 28,
+        "spa": 52,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

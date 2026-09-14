@@ -1,0 +1,96 @@
+{
+  "name": "random_3_002",
+  "party": [
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Tail Whip",
+        "Shadow Punch",
+        "Fire Spin",
+        "Bounce"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 13,
+        "def": 31,
+        "spa": 26,
+        "spd": 30,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 40,
+        "spa": 44,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Growth",
+        "Outrage",
+        "Sludge Bomb",
+        "Bide"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 4,
+        "atk": 5,
+        "def": 10,
+        "spa": 15,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 40,
+        "def": 56,
+        "spa": 36,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Present",
+        "Muddy Water",
+        "Gust",
+        "Fissure"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 9,
+        "def": 20,
+        "spa": 3,
+        "spd": 30,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 48,
+        "def": 44,
+        "spa": 48,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

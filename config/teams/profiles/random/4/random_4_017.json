@@ -1,0 +1,124 @@
+{
+  "name": "random_4_017",
+  "party": [
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Spit Up",
+        "Smokescreen",
+        "Encore",
+        "Overheat"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 21,
+        "spa": 23,
+        "spd": 7,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 80,
+        "spa": 44,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Secret Power",
+        "Lick",
+        "Heal Bell",
+        "Teleport"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 1,
+        "atk": 5,
+        "def": 17,
+        "spa": 25,
+        "spd": 5,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 52,
+        "spa": 52,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Teleport",
+        "Wing Attack",
+        "Weather Ball",
+        "Follow Me"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 12,
+        "atk": 7,
+        "def": 16,
+        "spa": 17,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 104,
+        "def": 84,
+        "spa": 72,
+        "spd": 68,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Sweet Kiss",
+        "Sand Attack",
+        "Fire Punch",
+        "Rest"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 20,
+        "spa": 11,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 60,
+        "spa": 64,
+        "spd": 64,
+        "spe": 52
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

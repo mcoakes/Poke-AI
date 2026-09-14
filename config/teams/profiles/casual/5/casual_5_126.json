@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_126",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Substitute",
+        "Mega Kick",
+        "Smelling Salt",
+        "Sky Uppercut"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 2,
+        "atk": 14,
+        "def": 2,
+        "spa": 24,
+        "spd": 2,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 20,
+        "def": 52,
+        "spa": 20,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mewtwo",
+      "moves": [
+        "Psychic",
+        "Taunt",
+        "Iron Tail",
+        "Shadow Ball"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 8,
+        "def": 10,
+        "spa": 4,
+        "spd": 18,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 56,
+        "spa": 28,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Shadow Ball",
+        "Will O Wisp",
+        "Giga Drain",
+        "Explosion"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 0,
+        "atk": 7,
+        "def": 24,
+        "spa": 2,
+        "spd": 28,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 8,
+        "spa": 20,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Flygon",
+      "moves": [
+        "Dragon Breath",
+        "Substitute",
+        "Fly",
+        "Hyper Beam"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 1,
+        "atk": 3,
+        "def": 21,
+        "spa": 0,
+        "spd": 4,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 40,
+        "spa": 20,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Dig",
+        "Flail",
+        "Slam",
+        "Sandstorm"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 14,
+        "spa": 12,
+        "spd": 28,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 36,
+        "def": 56,
+        "spa": 36,
+        "spd": 88,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

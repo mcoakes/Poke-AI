@@ -1,0 +1,96 @@
+{
+  "name": "random_3_141",
+  "party": [
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Hail",
+        "Tackle",
+        "Seismic Toss",
+        "Sandstorm"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 19,
+        "spa": 23,
+        "spd": 25,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 16,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Donphan",
+      "moves": [
+        "Icy Wind",
+        "Psycho Boost",
+        "Attract",
+        "Frenzy Plant"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 19,
+        "atk": 0,
+        "def": 20,
+        "spa": 3,
+        "spd": 8,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 8,
+        "spa": 24,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Pursuit",
+        "Bubble Beam",
+        "Fire Punch",
+        "Night Shade"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 4,
+        "def": 29,
+        "spa": 25,
+        "spd": 22,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 36,
+        "def": 68,
+        "spa": 36,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

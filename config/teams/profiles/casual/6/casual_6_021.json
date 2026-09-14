@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_021",
+  "party": [
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Sludge Bomb",
+        "Giga Drain",
+        "Synthesis",
+        "Helping Hand"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 15,
+        "atk": 0,
+        "def": 3,
+        "spa": 31,
+        "spd": 9,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 36,
+        "def": 16,
+        "spa": 28,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Attract",
+        "Aerial Ace",
+        "Strength",
+        "Secret Power"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 22,
+        "spa": 0,
+        "spd": 13,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 36,
+        "spa": 20,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cubone",
+      "moves": [
+        "Attract",
+        "Earthquake",
+        "Facade",
+        "Rock Smash"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 13,
+        "atk": 18,
+        "def": 24,
+        "spa": 29,
+        "spd": 2,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 72,
+        "spa": 52,
+        "spd": 28,
+        "spe": 68
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Shroomish",
+      "moves": [
+        "Mega Drain",
+        "Safeguard",
+        "Substitute",
+        "False Swipe"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 28,
+        "spa": 1,
+        "spd": 18,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 24,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Thunder",
+        "Shock Wave",
+        "Mimic",
+        "Mega Punch"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 13,
+        "atk": 0,
+        "def": 12,
+        "spa": 24,
+        "spd": 12,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 24,
+        "spa": 16,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Horsea",
+      "moves": [
+        "Ice Beam",
+        "Water Gun",
+        "Protect",
+        "Mimic"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 26,
+        "atk": 27,
+        "def": 5,
+        "spa": 2,
+        "spd": 5,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 16,
+        "def": 24,
+        "spa": 16,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

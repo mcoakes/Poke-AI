@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_048",
+  "party": [
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Facade",
+        "Shadow Ball",
+        "Aerial Ace",
+        "Spite"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 27,
+        "spa": 14,
+        "spd": 29,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 60,
+        "spa": 48,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "fire_vs_water",
+  "party": [
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": ["Flamethrower", "Fly", "Slash", "Smokescreen"]
+    },
+    {
+      "species": "Arcanine",
+      "level": 50,
+      "moves": ["Flamethrower", "Bite", "Agility", "TakeDown"]
+    }
+  ]
+}

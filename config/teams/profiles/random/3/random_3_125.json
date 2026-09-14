@@ -1,0 +1,96 @@
+{
+  "name": "random_3_125",
+  "party": [
+    {
+      "species": "Arbok",
+      "moves": [
+        "Mega Drain",
+        "Splash",
+        "Meditate",
+        "Twineedle"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 23,
+        "atk": 0,
+        "def": 1,
+        "spa": 28,
+        "spd": 8,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Altaria",
+      "moves": [
+        "Cut",
+        "Petal Dance",
+        "Smokescreen",
+        "Mud Sport"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 2,
+        "atk": 23,
+        "def": 21,
+        "spa": 7,
+        "spd": 2,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 28,
+        "spa": 20,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Unown",
+      "moves": [
+        "Flash",
+        "Horn Drill",
+        "Crunch",
+        "Bubble"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 6,
+        "atk": 17,
+        "def": 27,
+        "spa": 2,
+        "spd": 3,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 76,
+        "spa": 52,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_146",
+  "party": [
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Thunder Shock",
+        "Sunny Day",
+        "Baton Pass",
+        "Secret Power"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 8,
+        "atk": 2,
+        "def": 22,
+        "spa": 2,
+        "spd": 9,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 20,
+        "spa": 8,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Aerial Ace",
+        "Bite",
+        "Shock Wave",
+        "Leer"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 26,
+        "atk": 16,
+        "def": 5,
+        "spa": 7,
+        "spd": 12,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 24,
+        "spa": 32,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Uproar",
+        "Substitute",
+        "Earthquake",
+        "Screech"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 5,
+        "atk": 12,
+        "def": 26,
+        "spa": 13,
+        "spd": 15,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 32,
+        "spa": 28,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

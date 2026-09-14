@@ -1,0 +1,40 @@
+{
+  "name": "random_1_071",
+  "party": [
+    {
+      "species": "Unown",
+      "moves": [
+        "Needle Arm",
+        "Rain Dance",
+        "Charm",
+        "Teeter Dance"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 28,
+        "spa": 30,
+        "spd": 19,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 52,
+        "spa": 64,
+        "spd": 52,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

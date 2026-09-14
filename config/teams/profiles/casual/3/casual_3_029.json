@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_029",
+  "party": [
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Toxic",
+        "Whirlpool",
+        "Waterfall",
+        "Body Slam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 12,
+        "def": 21,
+        "spa": 10,
+        "spd": 28,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 16,
+        "spa": 12,
+        "spd": 32,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Spark",
+        "Water Pulse",
+        "Supersonic",
+        "Thunder Wave"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 22,
+        "spa": 9,
+        "spd": 31,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 92,
+        "def": 52,
+        "spa": 48,
+        "spd": 76,
+        "spe": 56
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Sunny Day",
+        "Steel Wing",
+        "Double Team",
+        "Uproar"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 26,
+        "spa": 21,
+        "spd": 23,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 20,
+        "spa": 40,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

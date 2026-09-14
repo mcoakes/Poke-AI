@@ -1,0 +1,124 @@
+{
+  "name": "random_4_065",
+  "party": [
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Razor Leaf",
+        "Charge",
+        "Thunder Shock",
+        "Grass Whistle"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 3,
+        "spa": 22,
+        "spd": 30,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 60,
+        "def": 88,
+        "spa": 56,
+        "spd": 96,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Waterfall",
+        "Rock Blast",
+        "Rock Slide",
+        "Sky Uppercut"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 26,
+        "atk": 2,
+        "def": 15,
+        "spa": 14,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 4,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ekans",
+      "moves": [
+        "Endure",
+        "Mud Shot",
+        "Peck",
+        "Curse"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 22,
+        "atk": 17,
+        "def": 24,
+        "spa": 29,
+        "spd": 6,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 12,
+        "spa": 16,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togetic",
+      "moves": [
+        "Supersonic",
+        "Covet",
+        "Pay Day",
+        "Waterfall"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 2,
+        "def": 3,
+        "spa": 11,
+        "spd": 13,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 52,
+        "def": 56,
+        "spa": 76,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_048",
+  "party": [
+    {
+      "species": "Ledian",
+      "moves": [
+        "Jump Kick",
+        "Megahorn",
+        "Skill Swap",
+        "Heal Bell"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 14,
+        "atk": 15,
+        "def": 20,
+        "spa": 27,
+        "spd": 10,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 92,
+        "def": 104,
+        "spa": 52,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Steel Wing",
+        "Signal Beam",
+        "Blast Burn",
+        "Charm"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 1,
+        "atk": 14,
+        "def": 27,
+        "spa": 20,
+        "spd": 5,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 40,
+        "spa": 28,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Bullet Seed",
+        "Pain Split",
+        "Pound",
+        "Baton Pass"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 3,
+        "atk": 27,
+        "def": 4,
+        "spa": 14,
+        "spd": 11,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 56,
+        "spa": 48,
+        "spd": 40,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

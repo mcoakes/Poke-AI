@@ -1,0 +1,152 @@
+{
+  "name": "random_5_031",
+  "party": [
+    {
+      "species": "Blissey",
+      "moves": [
+        "Refresh",
+        "Vital Throw",
+        "Baton Pass",
+        "Hidden Power"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 2,
+        "atk": 5,
+        "def": 10,
+        "spa": 27,
+        "spd": 10,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 92,
+        "spa": 84,
+        "spd": 88,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Perish Song",
+        "Wrap",
+        "Snore",
+        "Leaf Blade"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 24,
+        "def": 22,
+        "spa": 1,
+        "spd": 1,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 12,
+        "spa": 24,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Horsea",
+      "moves": [
+        "Fire Spin",
+        "Ancient Power",
+        "Mud Sport",
+        "Earthquake"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 16,
+        "atk": 30,
+        "def": 16,
+        "spa": 9,
+        "spd": 3,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 88,
+        "def": 108,
+        "spa": 48,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Rock Throw",
+        "Detect",
+        "Needle Arm",
+        "Imprison"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 31,
+        "spa": 18,
+        "spd": 1,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 28,
+        "spa": 20,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Sharpen",
+        "Bubble Beam",
+        "Hidden Power",
+        "Double Team"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 26,
+        "spa": 22,
+        "spd": 29,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 40,
+        "def": 28,
+        "spa": 40,
+        "spd": 28,
+        "spe": 64
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

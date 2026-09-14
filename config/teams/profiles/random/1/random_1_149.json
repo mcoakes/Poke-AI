@@ -1,0 +1,40 @@
+{
+  "name": "random_1_149",
+  "party": [
+    {
+      "species": "Moltres",
+      "moves": [
+        "Cotton Spore",
+        "Mud Sport",
+        "Headbutt",
+        "Megahorn"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 13,
+        "atk": 22,
+        "def": 27,
+        "spa": 4,
+        "spd": 5,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 60,
+        "spa": 52,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

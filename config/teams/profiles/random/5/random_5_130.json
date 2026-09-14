@@ -1,0 +1,152 @@
+{
+  "name": "random_5_130",
+  "party": [
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Reversal",
+        "Bite",
+        "Arm Thrust",
+        "Cut"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 21,
+        "atk": 13,
+        "def": 8,
+        "spa": 16,
+        "spd": 30,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 8,
+        "spa": 16,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Hi Jump Kick",
+        "Mist",
+        "Thunder Wave",
+        "Thunderbolt"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 5,
+        "atk": 15,
+        "def": 19,
+        "spa": 7,
+        "spd": 25,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 36,
+        "spa": 24,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Thrash",
+        "Supersonic",
+        "Muddy Water",
+        "Earthquake"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 29,
+        "atk": 9,
+        "def": 29,
+        "spa": 5,
+        "spd": 20,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 16,
+        "spa": 28,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Icicle Spear",
+        "Cotton Spore",
+        "Pursuit",
+        "Recover"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 24,
+        "atk": 22,
+        "def": 31,
+        "spa": 12,
+        "spd": 16,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 52,
+        "spa": 32,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Registeel",
+      "moves": [
+        "Scary Face",
+        "Metronome",
+        "Role Play",
+        "Reflect"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 11,
+        "atk": 13,
+        "def": 22,
+        "spa": 15,
+        "spd": 18,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 32,
+        "spa": 24,
+        "spd": 0,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

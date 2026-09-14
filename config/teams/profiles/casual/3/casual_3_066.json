@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_066",
+  "party": [
+    {
+      "species": "Quilava",
+      "moves": [
+        "Toxic",
+        "Flame Wheel",
+        "Dig",
+        "Body Slam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 7,
+        "atk": 14,
+        "def": 19,
+        "spa": 3,
+        "spd": 16,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 44,
+        "def": 64,
+        "spa": 48,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Earthquake",
+        "Double Team",
+        "Thief",
+        "Aerial Ace"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 0,
+        "atk": 26,
+        "def": 2,
+        "spa": 15,
+        "spd": 5,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 52,
+        "spa": 44,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seedot",
+      "moves": [
+        "Giga Drain",
+        "False Swipe",
+        "Synthesis",
+        "Protect"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 16,
+        "atk": 5,
+        "def": 10,
+        "spa": 23,
+        "spd": 0,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 80,
+        "spa": 36,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

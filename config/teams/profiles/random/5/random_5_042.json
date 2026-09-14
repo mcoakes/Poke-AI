@@ -1,0 +1,152 @@
+{
+  "name": "random_5_042",
+  "party": [
+    {
+      "species": "Nincada",
+      "moves": [
+        "Hypnosis",
+        "Leaf Blade",
+        "Curse",
+        "Petal Dance"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 21,
+        "atk": 30,
+        "def": 17,
+        "spa": 12,
+        "spd": 17,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 0,
+        "spa": 12,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Thunder Shock",
+        "Magnitude",
+        "Twineedle",
+        "Swagger"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 24,
+        "atk": 5,
+        "def": 27,
+        "spa": 3,
+        "spd": 25,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 84,
+        "def": 32,
+        "spa": 52,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Smokescreen",
+        "Bullet Seed",
+        "Powder Snow",
+        "Recycle"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 1,
+        "atk": 2,
+        "def": 18,
+        "spa": 4,
+        "spd": 19,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Light Ball",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Bubble",
+        "Morning Sun",
+        "Extreme Speed",
+        "Dig"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 7,
+        "atk": 29,
+        "def": 31,
+        "spa": 1,
+        "spd": 19,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 48,
+        "spa": 68,
+        "spd": 80,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Sleep Powder",
+        "Strength",
+        "Low Kick",
+        "Blaze Kick"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 0,
+        "atk": 18,
+        "def": 11,
+        "spa": 26,
+        "spd": 28,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 76,
+        "def": 60,
+        "spa": 64,
+        "spd": 96,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

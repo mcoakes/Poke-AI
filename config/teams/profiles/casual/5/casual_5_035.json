@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_035",
+  "party": [
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Rest",
+        "Thunderbolt",
+        "Brick Break",
+        "Charm"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 25,
+        "atk": 19,
+        "def": 9,
+        "spa": 21,
+        "spd": 12,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 80,
+        "spa": 68,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Light Ball",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Double Team",
+        "Ice Punch",
+        "Psybeam",
+        "Rain Dance"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 5,
+        "atk": 24,
+        "def": 23,
+        "spa": 18,
+        "spd": 10,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 24,
+        "spa": 40,
+        "spd": 24,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Body Slam",
+        "Rest",
+        "Hyper Beam",
+        "Surf"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 11,
+        "atk": 8,
+        "def": 9,
+        "spa": 1,
+        "spd": 0,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 12,
+        "spa": 20,
+        "spd": 20,
+        "spe": 12
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Waterfall",
+        "Secret Power",
+        "Iron Defense",
+        "Confusion"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 2,
+        "atk": 13,
+        "def": 6,
+        "spa": 22,
+        "spd": 29,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 28,
+        "def": 16,
+        "spa": 36,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Rain Dance",
+        "Dive",
+        "Toxic",
+        "Aerial Ace"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 4,
+        "def": 28,
+        "spa": 23,
+        "spd": 5,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 56,
+        "spa": 40,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

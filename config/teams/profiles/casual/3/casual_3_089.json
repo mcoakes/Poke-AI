@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_089",
+  "party": [
+    {
+      "species": "Taillow",
+      "moves": [
+        "Facade",
+        "Quick Attack",
+        "Supersonic",
+        "Aerial Ace"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 0,
+        "atk": 18,
+        "def": 30,
+        "spa": 22,
+        "spd": 15,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 84,
+        "spa": 64,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Return",
+        "Confusion",
+        "Giga Drain",
+        "Double Team"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 7,
+        "atk": 19,
+        "def": 20,
+        "spa": 8,
+        "spd": 9,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 96,
+        "def": 28,
+        "spa": 88,
+        "spd": 68,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Furret",
+      "moves": [
+        "Dig",
+        "Rain Dance",
+        "Hyper Beam",
+        "Body Slam"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 5,
+        "atk": 9,
+        "def": 9,
+        "spa": 16,
+        "spd": 11,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 64,
+        "def": 40,
+        "spa": 32,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

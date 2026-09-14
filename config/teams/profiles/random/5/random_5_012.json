@@ -1,0 +1,152 @@
+{
+  "name": "random_5_012",
+  "party": [
+    {
+      "species": "Girafarig",
+      "moves": [
+        "Torment",
+        "Focus Energy",
+        "Smelling Salt",
+        "Kinesis"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 17,
+        "atk": 29,
+        "def": 27,
+        "spa": 13,
+        "spd": 9,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 64,
+        "def": 48,
+        "spa": 56,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Corsola",
+      "moves": [
+        "Trick",
+        "Mud Shot",
+        "Transform",
+        "Refresh"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 26,
+        "def": 6,
+        "spa": 0,
+        "spd": 21,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 60,
+        "spa": 24,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Corphish",
+      "moves": [
+        "Sing",
+        "Dig",
+        "Secret Power",
+        "Withdraw"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 17,
+        "atk": 18,
+        "def": 22,
+        "spa": 9,
+        "spd": 0,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 48,
+        "def": 88,
+        "spa": 52,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Arbok",
+      "moves": [
+        "Meteor Mash",
+        "Dragon Claw",
+        "Foresight",
+        "Vice Grip"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 1,
+        "atk": 17,
+        "def": 27,
+        "spa": 14,
+        "spd": 30,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 112,
+        "spa": 88,
+        "spd": 48,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Comet Punch",
+        "Psycho Boost",
+        "Dragon Rage",
+        "Whirlpool"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 11,
+        "spa": 26,
+        "spd": 5,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_015",
+  "party": [
+    {
+      "species": "Charmander",
+      "moves": [
+        "Flamethrower",
+        "Sunny Day",
+        "Rock Slide",
+        "Fire Blast"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 12,
+        "atk": 25,
+        "def": 16,
+        "spa": 0,
+        "spd": 20,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 8,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_121",
+  "party": [
+    {
+      "species": "Dratini",
+      "moves": [
+        "Charge",
+        "Pound",
+        "False Swipe",
+        "Gust"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 24,
+        "def": 2,
+        "spa": 29,
+        "spd": 9,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 76,
+        "spa": 80,
+        "spd": 72,
+        "spe": 100
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Stockpile",
+        "Giga Drain",
+        "Constrict",
+        "Roar"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 7,
+        "atk": 10,
+        "def": 25,
+        "spa": 8,
+        "spd": 29,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 8,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Geodude",
+      "moves": [
+        "Psych Up",
+        "Guillotine",
+        "Egg Bomb",
+        "Future Sight"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 5,
+        "atk": 18,
+        "def": 2,
+        "spa": 28,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 52,
+        "spa": 48,
+        "spd": 60,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Horn Drill",
+        "Nature Power",
+        "Fake Tears",
+        "False Swipe"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 13,
+        "atk": 5,
+        "def": 27,
+        "spa": 20,
+        "spd": 17,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 32,
+        "def": 32,
+        "spa": 64,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Night Shade",
+        "Bonemerang",
+        "Pay Day",
+        "Curse"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 3,
+        "spa": 22,
+        "spd": 24,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 60,
+        "def": 68,
+        "spa": 32,
+        "spd": 52,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

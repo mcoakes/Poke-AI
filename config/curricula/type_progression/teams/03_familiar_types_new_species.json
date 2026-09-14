@@ -1,0 +1,155 @@
+{
+  "name": "Familiar Types New Species",
+  "party": [
+    {
+      "species": "Ninetales",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Fire Blast",
+        "Ember",
+        "Fire Spin"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Venusaur",
+      "level": 50,
+      "moves": [
+        "Giga Drain",
+        "Razor Leaf",
+        "Vine Whip",
+        "Sludge Bomb"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Lapras",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Hydro Pump",
+        "Ice Beam",
+        "Blizzard"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ampharos",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Thunder",
+        "Thunder Punch",
+        "Shock Wave"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Hi Jump Kick",
+        "Double Kick",
+        "Mach Punch"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Poliwrath",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Hydro Pump",
+        "Water Pulse",
+        "Brick Break"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_015",
+  "party": [
+    {
+      "species": "Walrein",
+      "moves": [
+        "Fury Attack",
+        "Poison Powder",
+        "Cotton Spore",
+        "Crunch"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 10,
+        "atk": 7,
+        "def": 11,
+        "spa": 30,
+        "spd": 4,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 68,
+        "def": 104,
+        "spa": 76,
+        "spd": 92,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

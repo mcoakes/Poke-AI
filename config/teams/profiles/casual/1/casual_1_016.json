@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_016",
+  "party": [
+    {
+      "species": "Whismur",
+      "moves": [
+        "Mimic",
+        "Flamethrower",
+        "Sunny Day",
+        "Smelling Salt"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 13,
+        "def": 26,
+        "spa": 23,
+        "spd": 23,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 16,
+        "spa": 12,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

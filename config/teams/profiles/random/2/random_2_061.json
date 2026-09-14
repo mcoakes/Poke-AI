@@ -1,0 +1,68 @@
+{
+  "name": "random_2_061",
+  "party": [
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Blast Burn",
+        "Icicle Spear",
+        "Tackle",
+        "Jump Kick"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 30,
+        "spa": 7,
+        "spd": 24,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 24,
+        "def": 32,
+        "spa": 32,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Combusken",
+      "moves": [
+        "Poison Powder",
+        "Mirror Coat",
+        "Peck",
+        "Tri Attack"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 10,
+        "spa": 19,
+        "spd": 0,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 68,
+        "def": 88,
+        "spa": 68,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_054",
+  "party": [
+    {
+      "species": "Jynx",
+      "moves": [
+        "Jump Kick",
+        "Pin Missile",
+        "Smokescreen",
+        "Extreme Speed"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 6,
+        "atk": 1,
+        "def": 14,
+        "spa": 1,
+        "spd": 21,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 40,
+        "spa": 104,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Skitty",
+      "moves": [
+        "Giga Drain",
+        "Feather Dance",
+        "Rock Tomb",
+        "Recover"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 11,
+        "atk": 14,
+        "def": 7,
+        "spa": 17,
+        "spd": 22,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 96,
+        "def": 72,
+        "spa": 68,
+        "spd": 68,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Agility",
+        "Peck",
+        "Sleep Talk",
+        "Ice Ball"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 29,
+        "atk": 19,
+        "def": 4,
+        "spa": 25,
+        "spd": 9,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 80,
+        "def": 64,
+        "spa": 76,
+        "spd": 88,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Sweet Kiss",
+        "Psywave",
+        "Endure",
+        "Octazooka"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 1,
+        "def": 8,
+        "spa": 6,
+        "spd": 5,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 56,
+        "spa": 8,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidorino",
+      "moves": [
+        "Assist",
+        "Mist Ball",
+        "Return",
+        "Headbutt"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 12,
+        "atk": 19,
+        "def": 14,
+        "spa": 26,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 20,
+        "spa": 16,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

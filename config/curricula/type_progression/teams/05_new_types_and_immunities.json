@@ -1,0 +1,155 @@
+{
+  "name": "New Types And Immunities",
+  "party": [
+    {
+      "species": "Donphan",
+      "level": 50,
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Body Slam",
+        "Double Edge"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Alakazam",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Fire Punch",
+        "Ice Punch",
+        "Thunder Punch"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Aggron",
+      "level": 50,
+      "moves": [
+        "Iron Tail",
+        "Rock Slide",
+        "Earthquake",
+        "Brick Break"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Swellow",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Facade",
+        "Quick Attack",
+        "Steel Wing"
+      ],
+      "nature": "Jolly",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Umbreon",
+      "level": 50,
+      "moves": [
+        "Bite",
+        "Faint Attack",
+        "Quick Attack",
+        "Iron Tail"
+      ],
+      "nature": "Modest",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Scizor",
+      "level": 50,
+      "moves": [
+        "Silver Wind",
+        "Steel Wing",
+        "Quick Attack",
+        "Slash"
+      ],
+      "nature": "Adamant",
+      "held_item": "None",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

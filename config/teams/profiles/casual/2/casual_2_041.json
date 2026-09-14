@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_041",
+  "party": [
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Swagger",
+        "Aerial Ace",
+        "Giga Drain",
+        "Amnesia"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 19,
+        "spa": 7,
+        "spd": 7,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 44,
+        "spa": 68,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Slam",
+        "Iron Tail",
+        "Double Team",
+        "Pursuit"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 31,
+        "spa": 23,
+        "spd": 25,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 68,
+        "spa": 40,
+        "spd": 40,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

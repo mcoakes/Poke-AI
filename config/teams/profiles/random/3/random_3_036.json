@@ -1,0 +1,96 @@
+{
+  "name": "random_3_036",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Hydro Cannon",
+        "Headbutt",
+        "Leech Seed",
+        "Pain Split"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 29,
+        "spa": 29,
+        "spd": 30,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 88,
+        "def": 88,
+        "spa": 76,
+        "spd": 68,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Meteor Mash",
+        "Slash",
+        "Sacred Fire",
+        "Blizzard"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 22,
+        "atk": 18,
+        "def": 13,
+        "spa": 10,
+        "spd": 11,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 12,
+        "spa": 28,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Unown",
+      "moves": [
+        "Will O Wisp",
+        "Fire Spin",
+        "Double Kick",
+        "Rock Throw"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 18,
+        "atk": 18,
+        "def": 1,
+        "spa": 15,
+        "spd": 4,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 80,
+        "def": 68,
+        "spa": 60,
+        "spd": 72,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

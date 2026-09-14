@@ -1,0 +1,124 @@
+{
+  "name": "random_4_037",
+  "party": [
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Fake Tears",
+        "Attract",
+        "Yawn",
+        "Whirlpool"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 12,
+        "atk": 13,
+        "def": 3,
+        "spa": 6,
+        "spd": 24,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 52,
+        "spa": 44,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gorebyss",
+      "moves": [
+        "Steel Wing",
+        "Taunt",
+        "Sky Attack",
+        "Tackle"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 19,
+        "atk": 19,
+        "def": 6,
+        "spa": 0,
+        "spd": 27,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 32,
+        "spa": 12,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Barrage",
+        "Dynamic Punch",
+        "Reflect",
+        "Fly"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 1,
+        "atk": 17,
+        "def": 20,
+        "spa": 31,
+        "spd": 13,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 16,
+        "spa": 40,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Bind",
+        "Dragon Dance",
+        "Luster Purge",
+        "Arm Thrust"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 8,
+        "atk": 5,
+        "def": 23,
+        "spa": 2,
+        "spd": 9,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

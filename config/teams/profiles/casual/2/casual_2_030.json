@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_030",
+  "party": [
+    {
+      "species": "Spinda",
+      "moves": [
+        "Mimic",
+        "Rock Slide",
+        "Mega Punch",
+        "Brick Break"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 17,
+        "spa": 30,
+        "spd": 11,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 44,
+        "spa": 48,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shedinja",
+      "moves": [
+        "Scratch",
+        "Shadow Ball",
+        "Spite",
+        "Harden"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 19,
+        "atk": 30,
+        "def": 10,
+        "spa": 28,
+        "spd": 3,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 44,
+        "def": 20,
+        "spa": 16,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_131",
+  "party": [
+    {
+      "species": "Miltank",
+      "moves": [
+        "Sludge",
+        "Aurora Beam",
+        "Petal Dance",
+        "Haze"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 22,
+        "atk": 16,
+        "def": 18,
+        "spa": 8,
+        "spd": 9,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 84,
+        "def": 72,
+        "spa": 100,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sceptile",
+      "moves": [
+        "Brick Break",
+        "Dig",
+        "Fire Blast",
+        "Spike Cannon"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 18,
+        "atk": 2,
+        "def": 25,
+        "spa": 4,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 44,
+        "spa": 64,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Rollout",
+        "Sweet Kiss",
+        "Snore",
+        "Splash"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 30,
+        "atk": 7,
+        "def": 25,
+        "spa": 12,
+        "spd": 20,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 36,
+        "def": 20,
+        "spa": 20,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

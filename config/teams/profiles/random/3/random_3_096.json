@@ -1,0 +1,96 @@
+{
+  "name": "random_3_096",
+  "party": [
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Mega Punch",
+        "Bubble Beam",
+        "Snatch",
+        "Crunch"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 13,
+        "spa": 7,
+        "spd": 20,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 36,
+        "spa": 40,
+        "spd": 40,
+        "spe": 24
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Bulk Up",
+        "Night Shade",
+        "Metronome",
+        "Withdraw"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 21,
+        "atk": 2,
+        "def": 0,
+        "spa": 14,
+        "spd": 3,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 28,
+        "spa": 56,
+        "spd": 60,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Gulpin",
+      "moves": [
+        "Twineedle",
+        "Fake Tears",
+        "Strength",
+        "Skill Swap"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 20,
+        "atk": 15,
+        "def": 13,
+        "spa": 9,
+        "spd": 30,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 72,
+        "def": 92,
+        "spa": 76,
+        "spd": 76,
+        "spe": 104
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

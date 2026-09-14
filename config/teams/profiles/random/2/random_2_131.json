@@ -1,0 +1,68 @@
+{
+  "name": "random_2_131",
+  "party": [
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Razor Wind",
+        "Magnitude",
+        "Fissure",
+        "Fire Spin"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 12,
+        "def": 26,
+        "spa": 12,
+        "spd": 15,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 24,
+        "spa": 20,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Smelling Salt",
+        "Dragon Rage",
+        "Disable",
+        "Dizzy Punch"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 28,
+        "spa": 26,
+        "spd": 2,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 52,
+        "spa": 56,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

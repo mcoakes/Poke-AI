@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_087",
+  "party": [
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Mimic",
+        "Surf",
+        "Substitute",
+        "Strength"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 8,
+        "atk": 22,
+        "def": 11,
+        "spa": 2,
+        "spd": 24,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 20,
+        "spa": 12,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Wing Attack",
+        "Water Sport",
+        "Thief",
+        "Shock Wave"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 19,
+        "atk": 18,
+        "def": 21,
+        "spa": 14,
+        "spd": 30,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 44,
+        "spa": 32,
+        "spd": 16,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Abra",
+      "moves": [
+        "Mega Punch",
+        "Seismic Toss",
+        "Dream Eater",
+        "Snatch"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 4,
+        "def": 10,
+        "spa": 11,
+        "spd": 14,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 24,
+        "spa": 20,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Mist Ball",
+        "Wish"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 29,
+        "atk": 11,
+        "def": 21,
+        "spa": 9,
+        "spd": 10,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 68,
+        "def": 68,
+        "spa": 60,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Sleep Powder",
+        "Petal Dance",
+        "Facade",
+        "Acid"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 9,
+        "spa": 0,
+        "spd": 9,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 40,
+        "def": 52,
+        "spa": 72,
+        "spd": 64,
+        "spe": 44
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

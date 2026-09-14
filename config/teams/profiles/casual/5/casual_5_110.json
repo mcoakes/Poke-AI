@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_110",
+  "party": [
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Sunny Day",
+        "Giga Drain",
+        "Grass Whistle",
+        "Facade"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 15,
+        "atk": 2,
+        "def": 19,
+        "spa": 2,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mantine",
+      "moves": [
+        "Agility",
+        "Twister",
+        "Body Slam",
+        "Waterfall"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 9,
+        "atk": 1,
+        "def": 6,
+        "spa": 31,
+        "spd": 24,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 20,
+        "spa": 8,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Ice Beam",
+        "Swallow",
+        "Strength",
+        "Water Gun"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 29,
+        "spa": 9,
+        "spd": 27,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 16,
+        "spa": 8,
+        "spd": 12,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Crawdaunt",
+      "moves": [
+        "Water Pulse",
+        "Ice Beam",
+        "Rain Dance",
+        "Crabhammer"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 6,
+        "atk": 10,
+        "def": 2,
+        "spa": 23,
+        "spd": 21,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 44,
+        "def": 52,
+        "spa": 68,
+        "spd": 88,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wingull",
+      "moves": [
+        "Ice Beam",
+        "Facade",
+        "Wing Attack",
+        "Supersonic"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 14,
+        "atk": 4,
+        "def": 9,
+        "spa": 3,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 40,
+        "spa": 24,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

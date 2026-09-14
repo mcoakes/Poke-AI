@@ -1,0 +1,40 @@
+{
+  "name": "random_1_049",
+  "party": [
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Blizzard",
+        "Thief",
+        "Knock Off",
+        "Facade"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 23,
+        "atk": 15,
+        "def": 27,
+        "spa": 15,
+        "spd": 28,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 56,
+        "spa": 36,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

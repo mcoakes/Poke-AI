@@ -1,0 +1,152 @@
+{
+  "name": "random_5_007",
+  "party": [
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Hyper Fang",
+        "Sky Uppercut",
+        "Growth",
+        "Perish Song"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 12,
+        "def": 19,
+        "spa": 6,
+        "spd": 15,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 40,
+        "spa": 72,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Foresight",
+        "Surf",
+        "Follow Me",
+        "Aromatherapy"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 30,
+        "atk": 26,
+        "def": 2,
+        "spa": 12,
+        "spd": 7,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 52,
+        "spa": 80,
+        "spd": 68,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Swift",
+        "Tail Glow",
+        "Gust",
+        "Sweet Scent"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 30,
+        "atk": 22,
+        "def": 2,
+        "spa": 29,
+        "spd": 24,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 28,
+        "def": 20,
+        "spa": 48,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Pursuit",
+        "Reflect",
+        "Sunny Day",
+        "Astonish"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 27,
+        "atk": 2,
+        "def": 6,
+        "spa": 6,
+        "spd": 31,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 76,
+        "def": 92,
+        "spa": 96,
+        "spd": 68,
+        "spe": 56
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Transform",
+        "Lock On",
+        "Vice Grip",
+        "Fire Blast"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 9,
+        "def": 26,
+        "spa": 13,
+        "spd": 5,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 56,
+        "spa": 32,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_062",
+  "party": [
+    {
+      "species": "Porygon",
+      "moves": [
+        "Facade",
+        "Conversion 2",
+        "Iron Tail",
+        "Tackle"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 14,
+        "spa": 4,
+        "spd": 20,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 16,
+        "spa": 16,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Onix",
+      "moves": [
+        "Double Team",
+        "Secret Power",
+        "Mimic",
+        "Earthquake"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 4,
+        "atk": 30,
+        "def": 2,
+        "spa": 10,
+        "spd": 9,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 64,
+        "def": 44,
+        "spa": 36,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Shadow Ball",
+        "Skill Swap",
+        "Psychic",
+        "Hypnosis"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 31,
+        "atk": 8,
+        "def": 13,
+        "spa": 21,
+        "spd": 4,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Focus Energy",
+        "Octazooka",
+        "Psybeam",
+        "Waterfall"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 16,
+        "atk": 5,
+        "def": 22,
+        "spa": 5,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 36,
+        "spa": 44,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Body Slam",
+        "Reflect",
+        "Ice Beam",
+        "Fake Tears"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 7,
+        "def": 12,
+        "spa": 18,
+        "spd": 24,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 16,
+        "spa": 16,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Facade",
+        "Rock Smash",
+        "Dig",
+        "Protect"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 10,
+        "spa": 12,
+        "spd": 1,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 52,
+        "def": 32,
+        "spa": 32,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

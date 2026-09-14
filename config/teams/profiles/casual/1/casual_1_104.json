@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_104",
+  "party": [
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Thief",
+        "Rock Smash",
+        "Roar",
+        "Mega Punch"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 5,
+        "atk": 1,
+        "def": 5,
+        "spa": 1,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 36,
+        "spa": 32,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

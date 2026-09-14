@@ -1,0 +1,124 @@
+{
+  "name": "random_4_029",
+  "party": [
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Seismic Toss",
+        "Mirror Coat",
+        "Cut",
+        "Mega Drain"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 19,
+        "def": 5,
+        "spa": 28,
+        "spd": 25,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Flareon",
+      "moves": [
+        "Rock Smash",
+        "Dive",
+        "Blizzard",
+        "Sharpen"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 5,
+        "atk": 9,
+        "def": 1,
+        "spa": 20,
+        "spd": 13,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 56,
+        "def": 80,
+        "spa": 48,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Goldeen",
+      "moves": [
+        "Razor Wind",
+        "Comet Punch",
+        "Harden",
+        "Double Slap"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 21,
+        "spa": 3,
+        "spd": 4,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 28,
+        "spa": 12,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    },
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Sandstorm",
+        "Smokescreen",
+        "Brick Break",
+        "Safeguard"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 29,
+        "atk": 1,
+        "def": 14,
+        "spa": 25,
+        "spd": 6,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 24,
+        "def": 36,
+        "spa": 12,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

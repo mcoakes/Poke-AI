@@ -1,0 +1,40 @@
+{
+  "name": "random_1_129",
+  "party": [
+    {
+      "species": "Tangela",
+      "moves": [
+        "Whirlwind",
+        "Frustration",
+        "Poison Gas",
+        "Psybeam"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 7,
+        "atk": 25,
+        "def": 20,
+        "spa": 25,
+        "spd": 10,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 40,
+        "spa": 44,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

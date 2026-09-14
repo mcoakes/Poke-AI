@@ -1,0 +1,152 @@
+{
+  "name": "random_5_004",
+  "party": [
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Fissure",
+        "Muddy Water",
+        "Doom Desire",
+        "Horn Attack"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 30,
+        "atk": 5,
+        "def": 28,
+        "spa": 5,
+        "spd": 18,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 36,
+        "spa": 24,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Triple Kick",
+        "Foresight",
+        "Moonlight",
+        "Nightmare"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 13,
+        "atk": 7,
+        "def": 12,
+        "spa": 28,
+        "spd": 4,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 76,
+        "def": 60,
+        "spa": 48,
+        "spd": 72,
+        "spe": 136
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Perish Song",
+        "Dynamic Punch",
+        "Crush Claw",
+        "Dragon Breath"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 19,
+        "spa": 30,
+        "spd": 31,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 72,
+        "spa": 72,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Sweet Kiss",
+        "Arm Thrust",
+        "Metronome",
+        "Vice Grip"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 6,
+        "atk": 12,
+        "def": 23,
+        "spa": 23,
+        "spd": 28,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 60,
+        "spa": 44,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Onix",
+      "moves": [
+        "Double Kick",
+        "Mirror Move",
+        "Horn Attack",
+        "Imprison"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 29,
+        "atk": 31,
+        "def": 17,
+        "spa": 30,
+        "spd": 6,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 72,
+        "spa": 36,
+        "spd": 40,
+        "spe": 76
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

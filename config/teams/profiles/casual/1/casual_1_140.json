@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_140",
+  "party": [
+    {
+      "species": "Grimer",
+      "moves": [
+        "Sludge",
+        "Mean Look",
+        "Torment",
+        "Dig"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 18,
+        "atk": 30,
+        "def": 6,
+        "spa": 1,
+        "spd": 1,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 76,
+        "spa": 40,
+        "spd": 56,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

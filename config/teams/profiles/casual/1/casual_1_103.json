@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_103",
+  "party": [
+    {
+      "species": "Sandshrew",
+      "moves": [
+        "Rock Slide",
+        "Return",
+        "Earthquake",
+        "Sandstorm"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 12,
+        "atk": 13,
+        "def": 16,
+        "spa": 22,
+        "spd": 10,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 44,
+        "spa": 32,
+        "spd": 52,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

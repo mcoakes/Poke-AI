@@ -1,0 +1,68 @@
+{
+  "name": "random_2_066",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Mega Drain",
+        "Refresh",
+        "Psych Up",
+        "Milk Drink"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 8,
+        "atk": 15,
+        "def": 18,
+        "spa": 17,
+        "spd": 26,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 64,
+        "def": 48,
+        "spa": 60,
+        "spd": 72,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Razor Leaf",
+        "Disable",
+        "Teleport",
+        "Submission"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 26,
+        "atk": 6,
+        "def": 4,
+        "spa": 24,
+        "spd": 16,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 20,
+        "spa": 16,
+        "spd": 16,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_051",
+  "party": [
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Poison Sting",
+        "Double Team",
+        "Cut",
+        "Water Pulse"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 3,
+        "atk": 27,
+        "def": 19,
+        "spa": 23,
+        "spd": 6,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 48,
+        "def": 64,
+        "spa": 48,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Sludge Bomb",
+        "Double Team",
+        "Toxic",
+        "Giga Drain"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 18,
+        "atk": 14,
+        "def": 10,
+        "spa": 13,
+        "spd": 27,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 36,
+        "spa": 40,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Slash",
+        "Taunt",
+        "Mimic",
+        "Bite"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 1,
+        "atk": 11,
+        "def": 28,
+        "spa": 26,
+        "spd": 20,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 52,
+        "spa": 48,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Mega Punch",
+        "Brick Break",
+        "Odor Sleuth",
+        "Thunder Shock"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 22,
+        "spa": 5,
+        "spd": 3,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 48,
+        "spa": 72,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Sludge Bomb",
+        "Double Team",
+        "Heat Wave",
+        "Iron Defense"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 8,
+        "atk": 3,
+        "def": 16,
+        "spa": 13,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

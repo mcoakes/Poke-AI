@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_021",
+  "party": [
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Take Down",
+        "Thunder Shock",
+        "Baton Pass",
+        "Double Team"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 12,
+        "atk": 6,
+        "def": 20,
+        "spa": 30,
+        "spd": 23,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 16,
+        "spa": 28,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

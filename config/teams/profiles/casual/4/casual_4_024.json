@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_024",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Thief",
+        "Flamethrower",
+        "Attract",
+        "Screech"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 10,
+        "atk": 3,
+        "def": 27,
+        "spa": 30,
+        "spd": 29,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 76,
+        "def": 44,
+        "spa": 44,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Taunt",
+        "Toxic",
+        "Cut",
+        "Faint Attack"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 22,
+        "atk": 8,
+        "def": 5,
+        "spa": 14,
+        "spd": 28,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 40,
+        "spa": 12,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Secret Power",
+        "Charm",
+        "Spark",
+        "Rest"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 7,
+        "atk": 25,
+        "def": 7,
+        "spa": 3,
+        "spd": 18,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 56,
+        "spa": 60,
+        "spd": 52,
+        "spe": 68
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Roar",
+        "Earthquake",
+        "Rest",
+        "Facade"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 10,
+        "atk": 15,
+        "def": 17,
+        "spa": 5,
+        "spd": 26,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 80,
+        "def": 48,
+        "spa": 64,
+        "spd": 48,
+        "spe": 32
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

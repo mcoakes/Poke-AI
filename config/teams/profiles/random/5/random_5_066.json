@@ -1,0 +1,152 @@
+{
+  "name": "random_5_066",
+  "party": [
+    {
+      "species": "Charmander",
+      "moves": [
+        "Waterfall",
+        "Charm",
+        "Comet Punch",
+        "Role Play"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 19,
+        "spa": 2,
+        "spd": 16,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 36,
+        "spa": 28,
+        "spd": 48,
+        "spe": 84
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Encore",
+        "Sweet Kiss",
+        "Moonlight",
+        "Protect"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 28,
+        "atk": 26,
+        "def": 30,
+        "spa": 0,
+        "spd": 21,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 84,
+        "def": 84,
+        "spa": 44,
+        "spd": 100,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Rock Throw",
+        "Dragon Rage",
+        "Leaf Blade",
+        "Psychic"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 7,
+        "atk": 6,
+        "def": 8,
+        "spa": 24,
+        "spd": 1,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 108,
+        "atk": 88,
+        "def": 52,
+        "spa": 72,
+        "spd": 84,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Meditate",
+        "Mach Punch",
+        "Spike Cannon",
+        "Haze"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 14,
+        "atk": 12,
+        "def": 9,
+        "spa": 30,
+        "spd": 0,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Beldum",
+      "moves": [
+        "Rock Tomb",
+        "Hyper Voice",
+        "Blaze Kick",
+        "Rage"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 28,
+        "atk": 15,
+        "def": 22,
+        "spa": 8,
+        "spd": 17,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 16,
+        "spa": 8,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

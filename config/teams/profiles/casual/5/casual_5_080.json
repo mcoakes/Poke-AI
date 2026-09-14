@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_080",
+  "party": [
+    {
+      "species": "Omastar",
+      "moves": [
+        "Hail",
+        "Slam",
+        "Mud Shot",
+        "Ancient Power"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 1,
+        "atk": 6,
+        "def": 1,
+        "spa": 20,
+        "spd": 21,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 36,
+        "spa": 36,
+        "spd": 80,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Skill Swap",
+        "Substitute",
+        "Psychic",
+        "Body Slam"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 25,
+        "atk": 28,
+        "def": 0,
+        "spa": 6,
+        "spd": 27,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 4,
+        "spa": 24,
+        "spd": 20,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Smelling Salt",
+        "Sand Attack",
+        "Surf",
+        "Cross Chop"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 5,
+        "spa": 25,
+        "spd": 24,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 44,
+        "spa": 40,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide",
+        "Thunder Wave"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 9,
+        "atk": 30,
+        "def": 18,
+        "spa": 23,
+        "spd": 24,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 12,
+        "spa": 16,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Toxic",
+        "Mimic",
+        "Water Pulse",
+        "Spark"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 17,
+        "atk": 0,
+        "def": 11,
+        "spa": 4,
+        "spd": 0,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 44,
+        "spa": 72,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_078",
+  "party": [
+    {
+      "species": "Wobbuffet",
+      "moves": [
+        "Mirror Coat",
+        "Safeguard",
+        "Splash",
+        "Counter"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 7,
+        "def": 6,
+        "spa": 2,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 16,
+        "def": 12,
+        "spa": 52,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_113",
+  "party": [
+    {
+      "species": "Lairon",
+      "moves": [
+        "Sandstorm",
+        "Metal Claw",
+        "Rock Tomb",
+        "Iron Tail"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 2,
+        "atk": 17,
+        "def": 6,
+        "spa": 12,
+        "spd": 9,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 40,
+        "spa": 56,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Toxic",
+        "Faint Attack",
+        "Dream Eater",
+        "Spite"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 10,
+        "atk": 7,
+        "def": 23,
+        "spa": 2,
+        "spd": 1,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 32,
+        "spa": 16,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

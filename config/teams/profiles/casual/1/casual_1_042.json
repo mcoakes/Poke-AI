@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_042",
+  "party": [
+    {
+      "species": "Machoke",
+      "moves": [
+        "Karate Chop",
+        "Rain Dance",
+        "Mimic",
+        "Thief"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 1,
+        "atk": 30,
+        "def": 17,
+        "spa": 4,
+        "spd": 12,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 16,
+        "spa": 20,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

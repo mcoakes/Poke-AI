@@ -1,0 +1,180 @@
+{
+  "name": "random_6_076",
+  "party": [
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Minimize",
+        "Bulk Up",
+        "Mach Punch",
+        "Iron Defense"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 14,
+        "atk": 1,
+        "def": 21,
+        "spa": 27,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 36,
+        "def": 36,
+        "spa": 48,
+        "spd": 32,
+        "spe": 72
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Grass Whistle",
+        "Bulk Up",
+        "Covet",
+        "Meteor Mash"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 2,
+        "atk": 1,
+        "def": 29,
+        "spa": 18,
+        "spd": 20,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 16,
+        "spa": 20,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Meowth",
+      "moves": [
+        "Night Shade",
+        "Cotton Spore",
+        "Minimize",
+        "Headbutt"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 30,
+        "atk": 10,
+        "def": 14,
+        "spa": 9,
+        "spd": 14,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 12,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Megahorn",
+        "Thunder Shock",
+        "Poison Gas",
+        "Helping Hand"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 30,
+        "def": 31,
+        "spa": 9,
+        "spd": 17,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 20,
+        "spa": 24,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Swift",
+        "Swallow",
+        "Ancient Power",
+        "Ice Ball"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 17,
+        "spa": 30,
+        "spd": 3,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Submission",
+        "Harden",
+        "Acid",
+        "Mist"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 29,
+        "spa": 19,
+        "spd": 2,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 48,
+        "def": 40,
+        "spa": 28,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

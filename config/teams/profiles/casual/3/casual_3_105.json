@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_105",
+  "party": [
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Torment",
+        "Return",
+        "Take Down",
+        "Psychic"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 21,
+        "def": 25,
+        "spa": 6,
+        "spd": 26,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 36,
+        "def": 32,
+        "spa": 56,
+        "spd": 48,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Beedrill",
+      "moves": [
+        "Sludge Bomb",
+        "Substitute",
+        "Solar Beam",
+        "Giga Drain"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 22,
+        "def": 21,
+        "spa": 16,
+        "spd": 18,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 68,
+        "spa": 64,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Miltank",
+      "moves": [
+        "Strength",
+        "Thunder Wave",
+        "Shock Wave",
+        "Endure"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 29,
+        "atk": 17,
+        "def": 21,
+        "spa": 25,
+        "spd": 3,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 0,
+        "def": 16,
+        "spa": 20,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

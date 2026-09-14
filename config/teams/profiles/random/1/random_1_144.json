@@ -1,0 +1,40 @@
+{
+  "name": "random_1_144",
+  "party": [
+    {
+      "species": "Weedle",
+      "moves": [
+        "Mind Reader",
+        "Body Slam",
+        "Rest",
+        "Barrage"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 0,
+        "atk": 25,
+        "def": 6,
+        "spa": 27,
+        "spd": 30,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 32,
+        "spa": 36,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "White Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

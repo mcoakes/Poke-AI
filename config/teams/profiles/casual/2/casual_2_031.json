@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_031",
+  "party": [
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Double Team",
+        "Aerial Ace",
+        "Thief",
+        "Facade"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 9,
+        "def": 18,
+        "spa": 24,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 28,
+        "def": 28,
+        "spa": 20,
+        "spd": 20,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Curse",
+        "Facade",
+        "Mimic",
+        "Shadow Ball"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 31,
+        "atk": 9,
+        "def": 20,
+        "spa": 21,
+        "spd": 24,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 36,
+        "spa": 56,
+        "spd": 20,
+        "spe": 44
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "random_6_081",
+  "party": [
+    {
+      "species": "Seviper",
+      "moves": [
+        "Destiny Bond",
+        "Mirror Move",
+        "Future Sight",
+        "Comet Punch"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 14,
+        "atk": 7,
+        "def": 11,
+        "spa": 0,
+        "spd": 12,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 24,
+        "spa": 12,
+        "spd": 28,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Quagsire",
+      "moves": [
+        "Focus Energy",
+        "Whirlpool",
+        "Egg Bomb",
+        "Razor Leaf"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 15,
+        "atk": 24,
+        "def": 8,
+        "spa": 12,
+        "spd": 27,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torchic",
+      "moves": [
+        "Poison Tail",
+        "Luster Purge",
+        "Ice Ball",
+        "Withdraw"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 24,
+        "atk": 2,
+        "def": 5,
+        "spa": 9,
+        "spd": 25,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 44,
+        "def": 84,
+        "spa": 88,
+        "spd": 84,
+        "spe": 112
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Helping Hand",
+        "Iron Tail",
+        "Overheat",
+        "Leech Life"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 25,
+        "spa": 1,
+        "spd": 5,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 24,
+        "def": 44,
+        "spa": 48,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Huntail",
+      "moves": [
+        "Dizzy Punch",
+        "Vice Grip",
+        "Recycle",
+        "Sky Attack"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 4,
+        "atk": 22,
+        "def": 5,
+        "spa": 26,
+        "spd": 5,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 64,
+        "spa": 44,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Fake Tears",
+        "Mean Look",
+        "Steel Wing",
+        "Sludge"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 28,
+        "def": 14,
+        "spa": 12,
+        "spd": 7,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 28,
+        "spa": 36,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

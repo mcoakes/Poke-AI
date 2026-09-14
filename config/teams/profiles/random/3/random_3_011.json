@@ -1,0 +1,96 @@
+{
+  "name": "random_3_011",
+  "party": [
+    {
+      "species": "Pineco",
+      "moves": [
+        "Psychic",
+        "Ingrain",
+        "Cotton Spore",
+        "Hyper Voice"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 14,
+        "atk": 14,
+        "def": 20,
+        "spa": 12,
+        "spd": 30,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 72,
+        "def": 92,
+        "spa": 108,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Lileep",
+      "moves": [
+        "Tri Attack",
+        "Scratch",
+        "Fury Cutter",
+        "Stockpile"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 9,
+        "atk": 15,
+        "def": 5,
+        "spa": 28,
+        "spd": 14,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Poison Powder",
+        "Superpower",
+        "Sand Tomb",
+        "Thunder Punch"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 1,
+        "def": 1,
+        "spa": 23,
+        "spd": 12,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 40,
+        "spa": 56,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

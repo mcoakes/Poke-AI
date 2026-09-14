@@ -1,0 +1,96 @@
+{
+  "name": "random_3_030",
+  "party": [
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Flash",
+        "Shock Wave",
+        "Fake Out",
+        "Guillotine"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 22,
+        "atk": 5,
+        "def": 21,
+        "spa": 12,
+        "spd": 12,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    },
+    {
+      "species": "Ekans",
+      "moves": [
+        "Crush Claw",
+        "Sweet Kiss",
+        "Psywave",
+        "Lick"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 8,
+        "atk": 1,
+        "def": 19,
+        "spa": 7,
+        "spd": 2,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 52,
+        "def": 32,
+        "spa": 28,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shellder",
+      "moves": [
+        "Howl",
+        "Earthquake",
+        "Thunder Punch",
+        "Sludge"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 26,
+        "atk": 15,
+        "def": 13,
+        "spa": 10,
+        "spd": 3,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 44,
+        "spa": 28,
+        "spd": 64,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

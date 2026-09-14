@@ -1,0 +1,152 @@
+{
+  "name": "random_5_060",
+  "party": [
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Slack Off",
+        "Ice Beam",
+        "Memento",
+        "Weather Ball"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 11,
+        "atk": 30,
+        "def": 20,
+        "spa": 20,
+        "spd": 19,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 12,
+        "spa": 4,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tentacruel",
+      "moves": [
+        "Baton Pass",
+        "Swords Dance",
+        "Wish",
+        "Bubble"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 16,
+        "atk": 19,
+        "def": 13,
+        "spa": 5,
+        "spd": 22,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 52,
+        "spa": 80,
+        "spd": 60,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sneasel",
+      "moves": [
+        "Shock Wave",
+        "Rock Throw",
+        "Poison Tail",
+        "Rock Blast"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 25,
+        "atk": 27,
+        "def": 20,
+        "spa": 15,
+        "spd": 3,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 68,
+        "def": 32,
+        "spa": 36,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Doduo",
+      "moves": [
+        "Air Cutter",
+        "Haze",
+        "Rock Slide",
+        "Bite"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 19,
+        "atk": 30,
+        "def": 28,
+        "spa": 16,
+        "spd": 4,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 80,
+        "spa": 60,
+        "spd": 52,
+        "spe": 96
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Haze",
+        "Hydro Cannon",
+        "Muddy Water",
+        "Barrage"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 5,
+        "atk": 9,
+        "def": 20,
+        "spa": 16,
+        "spd": 27,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 60,
+        "spa": 48,
+        "spd": 28,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

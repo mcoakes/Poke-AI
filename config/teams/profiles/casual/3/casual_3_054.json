@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_054",
+  "party": [
+    {
+      "species": "Pineco",
+      "moves": [
+        "Sunny Day",
+        "Giga Drain",
+        "Flail",
+        "Facade"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 11,
+        "atk": 20,
+        "def": 3,
+        "spa": 22,
+        "spd": 17,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 60,
+        "def": 56,
+        "spa": 68,
+        "spd": 80,
+        "spe": 44
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Waterfall",
+        "Spike Cannon",
+        "Facade",
+        "Mimic"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 28,
+        "atk": 10,
+        "def": 26,
+        "spa": 19,
+        "spd": 16,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 28,
+        "spa": 4,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Facade",
+        "Thunderbolt",
+        "Amnesia",
+        "Covet"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 5,
+        "atk": 18,
+        "def": 5,
+        "spa": 24,
+        "spd": 9,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 20,
+        "spa": 28,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_038",
+  "party": [
+    {
+      "species": "Cubone",
+      "moves": [
+        "Bone Club",
+        "Focus Energy",
+        "False Swipe",
+        "Flamethrower"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 18,
+        "atk": 30,
+        "def": 19,
+        "spa": 12,
+        "spd": 30,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 24,
+        "spa": 16,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Entei",
+      "moves": [
+        "Strength",
+        "Protect",
+        "Flamethrower",
+        "Double Team"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 29,
+        "atk": 26,
+        "def": 4,
+        "spa": 5,
+        "spd": 3,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 36,
+        "spa": 40,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    },
+    {
+      "species": "Gardevoir",
+      "moves": [
+        "Shock Wave",
+        "Skill Swap",
+        "Future Sight",
+        "Body Slam"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 21,
+        "atk": 0,
+        "def": 3,
+        "spa": 5,
+        "spd": 27,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 24,
+        "spa": 24,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Thunder Wave",
+        "Mega Punch",
+        "Charm",
+        "Flamethrower"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 17,
+        "spa": 18,
+        "spd": 8,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 32,
+        "def": 28,
+        "spa": 16,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

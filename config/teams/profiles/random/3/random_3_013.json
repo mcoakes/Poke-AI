@@ -1,0 +1,96 @@
+{
+  "name": "random_3_013",
+  "party": [
+    {
+      "species": "Slugma",
+      "moves": [
+        "Bubble Beam",
+        "Crabhammer",
+        "Detect",
+        "Snore"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 5,
+        "def": 31,
+        "spa": 3,
+        "spd": 31,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 52,
+        "def": 60,
+        "spa": 84,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Astonish",
+        "Morning Sun",
+        "Lovely Kiss",
+        "Muddy Water"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 26,
+        "def": 21,
+        "spa": 13,
+        "spd": 25,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 68,
+        "def": 56,
+        "spa": 52,
+        "spd": 76,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kakuna",
+      "moves": [
+        "Sand Attack",
+        "Sleep Powder",
+        "Thunder Punch",
+        "Tail Glow"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 25,
+        "atk": 21,
+        "def": 12,
+        "spa": 9,
+        "spd": 28,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 80,
+        "def": 84,
+        "spa": 72,
+        "spd": 80,
+        "spe": 88
+      },
+      "held_item": "Poison Barb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

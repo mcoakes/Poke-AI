@@ -1,0 +1,68 @@
+{
+  "name": "random_2_022",
+  "party": [
+    {
+      "species": "Chinchou",
+      "moves": [
+        "Belly Drum",
+        "Thief",
+        "Spark",
+        "Haze"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 24,
+        "def": 27,
+        "spa": 18,
+        "spd": 26,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 84,
+        "def": 68,
+        "spa": 48,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Fury Swipes",
+        "Signal Beam",
+        "Morning Sun",
+        "Take Down"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 1,
+        "atk": 25,
+        "def": 10,
+        "spa": 12,
+        "spd": 2,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 72,
+        "def": 68,
+        "spa": 68,
+        "spd": 96,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

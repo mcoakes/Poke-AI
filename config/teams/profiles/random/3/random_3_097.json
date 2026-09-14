@@ -1,0 +1,96 @@
+{
+  "name": "random_3_097",
+  "party": [
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Block",
+        "Surf",
+        "Leaf Blade",
+        "Drill Peck"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 13,
+        "spa": 26,
+        "spd": 18,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 16,
+        "spa": 16,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Pidgeot",
+      "moves": [
+        "Faint Attack",
+        "Poison Tail",
+        "Supersonic",
+        "Mach Punch"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 14,
+        "atk": 20,
+        "def": 12,
+        "spa": 18,
+        "spd": 12,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Exeggutor",
+      "moves": [
+        "Twister",
+        "Thrash",
+        "Cotton Spore",
+        "Confuse Ray"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 14,
+        "atk": 10,
+        "def": 11,
+        "spa": 20,
+        "spd": 3,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 0,
+        "spa": 24,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

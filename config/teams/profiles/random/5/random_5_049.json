@@ -1,0 +1,152 @@
+{
+  "name": "random_5_049",
+  "party": [
+    {
+      "species": "Staryu",
+      "moves": [
+        "Hi Jump Kick",
+        "Confuse Ray",
+        "Flame Wheel",
+        "Sacred Fire"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 11,
+        "spa": 25,
+        "spd": 13,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 92,
+        "spa": 76,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Suicune",
+      "moves": [
+        "Rest",
+        "Tail Whip",
+        "Strength",
+        "Acid Armor"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 21,
+        "atk": 7,
+        "def": 3,
+        "spa": 31,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 64,
+        "spa": 72,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Granbull",
+      "moves": [
+        "Karate Chop",
+        "Dive",
+        "Rock Tomb",
+        "Pin Missile"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 12,
+        "atk": 30,
+        "def": 25,
+        "spa": 8,
+        "spd": 3,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 0,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Elekid",
+      "moves": [
+        "Bulk Up",
+        "Lick",
+        "Sweet Kiss",
+        "Hypnosis"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 5,
+        "atk": 3,
+        "def": 21,
+        "spa": 20,
+        "spd": 29,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 72,
+        "def": 56,
+        "spa": 84,
+        "spd": 96,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Spore",
+        "Flail",
+        "Thunder",
+        "Weather Ball"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 23,
+        "atk": 7,
+        "def": 19,
+        "spa": 14,
+        "spd": 21,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 4,
+        "spa": 8,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_090",
+  "party": [
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Mimic",
+        "Bite",
+        "Water Pulse",
+        "Swords Dance"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 20,
+        "atk": 26,
+        "def": 10,
+        "spa": 22,
+        "spd": 28,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 24,
+        "spa": 16,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

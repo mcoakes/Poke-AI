@@ -1,0 +1,68 @@
+{
+  "name": "random_2_112",
+  "party": [
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Bubble Beam",
+        "Ancient Power",
+        "Disable",
+        "Rage"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 5,
+        "atk": 17,
+        "def": 29,
+        "spa": 15,
+        "spd": 9,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 32,
+        "spa": 28,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Horn Attack",
+        "Sludge",
+        "Helping Hand",
+        "Dig"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 3,
+        "atk": 26,
+        "def": 9,
+        "spa": 28,
+        "spd": 17,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 44,
+        "def": 32,
+        "spa": 40,
+        "spd": 32,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

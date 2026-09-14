@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_069",
+  "party": [
+    {
+      "species": "Shellder",
+      "moves": [
+        "Dive",
+        "Mimic",
+        "Bubble Beam",
+        "Aurora Beam"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 28,
+        "atk": 15,
+        "def": 0,
+        "spa": 5,
+        "spd": 14,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 28,
+        "spa": 24,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Rock Throw",
+        "Sunny Day",
+        "Earthquake",
+        "Bind"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 25,
+        "atk": 13,
+        "def": 2,
+        "spa": 7,
+        "spd": 24,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 40,
+        "spa": 28,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Odor Sleuth",
+        "Blizzard",
+        "Ice Punch",
+        "Dizzy Punch"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 8,
+        "atk": 1,
+        "def": 4,
+        "spa": 14,
+        "spd": 11,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 84,
+        "def": 40,
+        "spa": 72,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Metal Claw",
+        "Body Slam",
+        "Facade",
+        "Rest"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 17,
+        "atk": 27,
+        "def": 20,
+        "spa": 1,
+        "spd": 23,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 44,
+        "spa": 60,
+        "spd": 84,
+        "spe": 52
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

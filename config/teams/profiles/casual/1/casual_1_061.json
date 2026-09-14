@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_061",
+  "party": [
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Double Team",
+        "Confusion",
+        "Toxic",
+        "Mega Punch"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 19,
+        "atk": 27,
+        "def": 31,
+        "spa": 5,
+        "spd": 17,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 20,
+        "def": 12,
+        "spa": 24,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

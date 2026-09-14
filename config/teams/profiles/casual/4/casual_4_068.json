@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_068",
+  "party": [
+    {
+      "species": "Blaziken",
+      "moves": [
+        "Flamethrower",
+        "Swagger",
+        "Fire Punch",
+        "Strength"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 7,
+        "atk": 31,
+        "def": 25,
+        "spa": 21,
+        "spd": 19,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Igglybuff",
+      "moves": [
+        "Flamethrower",
+        "Defense Curl",
+        "Sing",
+        "Facade"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 19,
+        "atk": 11,
+        "def": 14,
+        "spa": 5,
+        "spd": 11,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 24,
+        "spa": 24,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Mawile",
+      "moves": [
+        "Rest",
+        "Protect",
+        "Ancient Power",
+        "Flamethrower"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 25,
+        "atk": 16,
+        "def": 6,
+        "spa": 24,
+        "spd": 25,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 32,
+        "spa": 28,
+        "spd": 32,
+        "spe": 68
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Dream Eater",
+        "Rest",
+        "Toxic",
+        "Fire Punch"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 26,
+        "atk": 14,
+        "def": 20,
+        "spa": 28,
+        "spd": 16,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 80,
+        "def": 32,
+        "spa": 64,
+        "spd": 68,
+        "spe": 64
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

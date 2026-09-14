@@ -1,0 +1,68 @@
+{
+  "name": "random_2_001",
+  "party": [
+    {
+      "species": "Octillery",
+      "moves": [
+        "Needle Arm",
+        "Flatter",
+        "Trick",
+        "Karate Chop"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 30,
+        "atk": 0,
+        "def": 29,
+        "spa": 21,
+        "spd": 14,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 76,
+        "spa": 52,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Haze",
+        "Seismic Toss",
+        "Hydro Pump",
+        "Thrash"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 14,
+        "atk": 2,
+        "def": 0,
+        "spa": 26,
+        "spd": 18,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 44,
+        "spa": 28,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

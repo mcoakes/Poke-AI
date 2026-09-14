@@ -1,0 +1,64 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.local/
+config/local.toml
+*.gba
+*.sav
+*.ss[0-9]
+third_party/PKHeX/
+states/generated/
+states/templates/
+tools/**/bin/
+tools/**/obj/
+*.sav.bak*
+*.sav.~*~
+/.maintainer/
+
+# Installed dependencies and build output
+/.venv/
+/.local/
+/build/
+/dist/
+/third_party/
+node_modules/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+tools/**/bin/
+tools/**/obj/
+
+# ROMs, generated saves, and trained models
+/states/
+/models/
+*.gba
+*.sav
+*.sav.*
+*.ss[0-9]
+*.ss[0-9].*
+
+# Downloaded project archives
+/firered-rl-*.zip
+/firered-rl-*.tar.gz
+
+# Local diagnostics and personal working notes
+/diagnostics/
+/notes/
+/.maintainer/
+/files.txt
+/.gitignore2
+/prompt.tt
+/.lock
+*.swp
+*.swo
+*~
+
+# Local environment settings
+.env
+.env.*
+!.env.example

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_140",
+  "party": [
+    {
+      "species": "Banette",
+      "moves": [
+        "Faint Attack",
+        "Fake Out",
+        "Sweet Kiss",
+        "Guillotine"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 23,
+        "atk": 2,
+        "def": 8,
+        "spa": 10,
+        "spd": 28,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 84,
+        "spa": 52,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Cut",
+        "Spark",
+        "Smokescreen",
+        "Doom Desire"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 15,
+        "atk": 28,
+        "def": 18,
+        "spa": 7,
+        "spd": 9,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 40,
+        "spa": 8,
+        "spd": 36,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Grass Whistle",
+        "Cut",
+        "Blaze Kick",
+        "Super Fang"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 13,
+        "atk": 16,
+        "def": 22,
+        "spa": 17,
+        "spd": 2,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 64,
+        "def": 64,
+        "spa": 60,
+        "spd": 52,
+        "spe": 96
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Screech",
+        "Light Screen",
+        "Reversal",
+        "Water Sport"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 25,
+        "atk": 5,
+        "def": 29,
+        "spa": 23,
+        "spd": 11,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 44,
+        "spa": 52,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

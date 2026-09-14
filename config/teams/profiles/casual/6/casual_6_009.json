@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_009",
+  "party": [
+    {
+      "species": "Farfetchd",
+      "moves": [
+        "Secret Power",
+        "Iron Tail",
+        "Sand Attack",
+        "Facade"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 8,
+        "atk": 12,
+        "def": 30,
+        "spa": 14,
+        "spd": 28,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 64,
+        "def": 32,
+        "spa": 68,
+        "spd": 28,
+        "spe": 76
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Signal Beam",
+        "Sludge Bomb",
+        "Double Team",
+        "Rest"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 19,
+        "spa": 0,
+        "spd": 31,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 40,
+        "spa": 56,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Blizzard",
+        "Shadow Ball",
+        "Destiny Bond",
+        "Body Slam"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 12,
+        "atk": 31,
+        "def": 4,
+        "spa": 16,
+        "spd": 13,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 56,
+        "spa": 56,
+        "spd": 68,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Psychic",
+        "Water Pulse",
+        "Mega Kick",
+        "Rest"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 11,
+        "atk": 22,
+        "def": 20,
+        "spa": 26,
+        "spd": 3,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 56,
+        "spa": 48,
+        "spd": 40,
+        "spe": 60
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Sludge Bomb",
+        "Fire Blast",
+        "Sunny Day",
+        "Secret Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 10,
+        "spa": 5,
+        "spd": 7,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 88,
+        "def": 52,
+        "spa": 52,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Rain Dance",
+        "Mimic",
+        "Iron Tail",
+        "Headbutt"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 26,
+        "atk": 10,
+        "def": 14,
+        "spa": 14,
+        "spd": 20,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 32,
+        "spa": 24,
+        "spd": 48,
+        "spe": 36
+      },
+      "held_item": "Figy Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

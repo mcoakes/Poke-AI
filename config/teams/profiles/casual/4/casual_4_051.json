@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_051",
+  "party": [
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Toxic",
+        "Harden",
+        "Water Pulse",
+        "Ice Beam"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 13,
+        "atk": 21,
+        "def": 8,
+        "spa": 9,
+        "spd": 4,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 44,
+        "def": 12,
+        "spa": 8,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Seviper",
+      "moves": [
+        "Facade",
+        "Rock Smash",
+        "Poison Fang",
+        "Mimic"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 12,
+        "spa": 12,
+        "spd": 24,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 32,
+        "spa": 4,
+        "spd": 16,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lugia",
+      "moves": [
+        "Shock Wave",
+        "Earthquake",
+        "Substitute",
+        "Fly"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 17,
+        "atk": 0,
+        "def": 24,
+        "spa": 27,
+        "spd": 13,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 40,
+        "def": 28,
+        "spa": 20,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Facade",
+        "Flame Wheel",
+        "Substitute",
+        "Thrash"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 12,
+        "spa": 29,
+        "spd": 23,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 16,
+        "spa": 20,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

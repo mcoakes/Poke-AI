@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_020",
+  "party": [
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Secret Power",
+        "Cut",
+        "Growth",
+        "Mega Drain"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 10,
+        "atk": 2,
+        "def": 5,
+        "spa": 23,
+        "spd": 14,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 32,
+        "def": 28,
+        "spa": 36,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_017",
+  "party": [
+    {
+      "species": "Pinsir",
+      "moves": [
+        "Faint Attack",
+        "Encore",
+        "Spider Web",
+        "Signal Beam"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 26,
+        "atk": 28,
+        "def": 7,
+        "spa": 5,
+        "spd": 8,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 24,
+        "spa": 16,
+        "spd": 16,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

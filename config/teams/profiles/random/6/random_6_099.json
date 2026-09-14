@@ -1,0 +1,180 @@
+{
+  "name": "random_6_099",
+  "party": [
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Cotton Spore",
+        "Rapid Spin",
+        "Mirror Coat",
+        "Sandstorm"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 5,
+        "def": 23,
+        "spa": 28,
+        "spd": 23,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 44,
+        "spa": 40,
+        "spd": 52,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Submission",
+        "Blaze Kick",
+        "Zap Cannon",
+        "Luster Purge"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 12,
+        "atk": 9,
+        "def": 22,
+        "spa": 31,
+        "spd": 30,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 112,
+        "def": 72,
+        "spa": 72,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Sweet Scent",
+        "Leech Seed",
+        "Crabhammer",
+        "Bonemerang"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 12,
+        "spa": 20,
+        "spd": 1,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 20,
+        "def": 44,
+        "spa": 68,
+        "spd": 52,
+        "spe": 20
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Blaze Kick",
+        "Brick Break",
+        "Mud Sport",
+        "Dragon Breath"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 11,
+        "def": 2,
+        "spa": 24,
+        "spd": 19,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 36,
+        "def": 64,
+        "spa": 36,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kabuto",
+      "moves": [
+        "Absorb",
+        "Dive",
+        "Lick",
+        "Dragon Breath"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 17,
+        "atk": 24,
+        "def": 12,
+        "spa": 20,
+        "spd": 28,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 68,
+        "def": 68,
+        "spa": 80,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kadabra",
+      "moves": [
+        "Waterfall",
+        "Rock Slide",
+        "Fury Swipes",
+        "Wish"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 9,
+        "atk": 17,
+        "def": 4,
+        "spa": 17,
+        "spd": 28,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 52,
+        "def": 56,
+        "spa": 48,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

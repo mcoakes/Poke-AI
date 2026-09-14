@@ -1,0 +1,124 @@
+{
+  "name": "random_4_104",
+  "party": [
+    {
+      "species": "Golbat",
+      "moves": [
+        "Shadow Punch",
+        "Agility",
+        "Recycle",
+        "Karate Chop"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 24,
+        "atk": 1,
+        "def": 18,
+        "spa": 12,
+        "spd": 23,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 36,
+        "spa": 40,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Quilava",
+      "moves": [
+        "Encore",
+        "Bullet Seed",
+        "Aromatherapy",
+        "Self Destruct"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 2,
+        "atk": 14,
+        "def": 25,
+        "spa": 1,
+        "spd": 11,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 88,
+        "def": 72,
+        "spa": 92,
+        "spd": 88,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gloom",
+      "moves": [
+        "Self Destruct",
+        "Hyper Voice",
+        "Cotton Spore",
+        "Follow Me"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 9,
+        "spa": 29,
+        "spd": 27,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 48,
+        "def": 52,
+        "spa": 60,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Grass Whistle",
+        "Hi Jump Kick",
+        "Safeguard",
+        "Withdraw"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 13,
+        "atk": 2,
+        "def": 4,
+        "spa": 8,
+        "spd": 27,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 16,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

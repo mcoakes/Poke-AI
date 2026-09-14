@@ -1,0 +1,40 @@
+{
+  "name": "random_1_016",
+  "party": [
+    {
+      "species": "Silcoon",
+      "moves": [
+        "Agility",
+        "Faint Attack",
+        "Reversal",
+        "Sleep Talk"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 1,
+        "atk": 3,
+        "def": 23,
+        "spa": 30,
+        "spd": 24,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 60,
+        "spa": 32,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

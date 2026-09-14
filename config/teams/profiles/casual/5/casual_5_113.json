@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_113",
+  "party": [
+    {
+      "species": "Hitmonlee",
+      "moves": [
+        "Secret Power",
+        "Mach Punch",
+        "Helping Hand",
+        "Mega Punch"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 0,
+        "atk": 2,
+        "def": 6,
+        "spa": 21,
+        "spd": 23,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 36,
+        "spa": 24,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Future Sight",
+        "Shadow Ball",
+        "Teleport",
+        "Barrier"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 9,
+        "atk": 1,
+        "def": 27,
+        "spa": 13,
+        "spd": 25,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 44,
+        "spa": 52,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Plusle",
+      "moves": [
+        "Mega Kick",
+        "Secret Power",
+        "Double Team",
+        "Spark"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 13,
+        "atk": 26,
+        "def": 6,
+        "spa": 29,
+        "spd": 16,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 20,
+        "spa": 20,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Relicanth",
+      "moves": [
+        "Water Sport",
+        "Rest",
+        "Rock Tomb",
+        "Waterfall"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 4,
+        "def": 4,
+        "spa": 7,
+        "spd": 23,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 52,
+        "spa": 32,
+        "spd": 52,
+        "spe": 12
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Primeape",
+      "moves": [
+        "Cross Chop",
+        "Rock Slide",
+        "Focus Punch",
+        "Metronome"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 18,
+        "atk": 12,
+        "def": 5,
+        "spa": 24,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 56,
+        "spa": 40,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

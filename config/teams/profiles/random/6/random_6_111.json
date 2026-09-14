@@ -1,0 +1,180 @@
+{
+  "name": "random_6_111",
+  "party": [
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Leaf Blade",
+        "Petal Dance",
+        "Fury Swipes",
+        "Assist"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 10,
+        "atk": 12,
+        "def": 1,
+        "spa": 27,
+        "spd": 12,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 4,
+        "spa": 24,
+        "spd": 24,
+        "spe": 12
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    },
+    {
+      "species": "Barboach",
+      "moves": [
+        "Dynamic Punch",
+        "Mach Punch",
+        "Confusion",
+        "Flamethrower"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 20,
+        "spa": 6,
+        "spd": 28,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 52,
+        "spa": 64,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Muddy Water",
+        "Body Slam",
+        "Super Fang",
+        "Agility"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 27,
+        "spa": 7,
+        "spd": 11,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 8,
+        "spa": 20,
+        "spd": 40,
+        "spe": 16
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Follow Me",
+        "Sonic Boom",
+        "Attract",
+        "Thunderbolt"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 20,
+        "atk": 29,
+        "def": 2,
+        "spa": 3,
+        "spd": 20,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 56,
+        "spa": 68,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Diglett",
+      "moves": [
+        "Razor Leaf",
+        "Water Pulse",
+        "Lick",
+        "Rest"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 13,
+        "spa": 26,
+        "spd": 15,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 56,
+        "def": 68,
+        "spa": 56,
+        "spd": 60,
+        "spe": 76
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Azumarill",
+      "moves": [
+        "Pin Missile",
+        "Twineedle",
+        "Teleport",
+        "Rest"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 30,
+        "atk": 26,
+        "def": 3,
+        "spa": 2,
+        "spd": 10,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 52,
+        "spa": 52,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

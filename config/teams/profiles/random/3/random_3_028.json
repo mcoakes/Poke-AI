@@ -1,0 +1,96 @@
+{
+  "name": "random_3_028",
+  "party": [
+    {
+      "species": "Combusken",
+      "moves": [
+        "Submission",
+        "Powder Snow",
+        "Cut",
+        "Fake Out"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 24,
+        "atk": 6,
+        "def": 21,
+        "spa": 1,
+        "spd": 6,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 44,
+        "def": 56,
+        "spa": 64,
+        "spd": 32,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Eruption",
+        "Morning Sun",
+        "Baton Pass",
+        "Metal Claw"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 5,
+        "atk": 16,
+        "def": 2,
+        "spa": 13,
+        "spd": 22,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 104,
+        "def": 68,
+        "spa": 56,
+        "spd": 96,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Spinarak",
+      "moves": [
+        "Egg Bomb",
+        "Aurora Beam",
+        "Ember",
+        "Spike Cannon"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 3,
+        "atk": 0,
+        "def": 20,
+        "spa": 31,
+        "spd": 9,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 16,
+        "spa": 16,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

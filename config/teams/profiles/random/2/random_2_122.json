@@ -1,0 +1,68 @@
+{
+  "name": "random_2_122",
+  "party": [
+    {
+      "species": "Vileplume",
+      "moves": [
+        "Icicle Spear",
+        "Eruption",
+        "Mega Punch",
+        "Thunder Wave"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 28,
+        "atk": 6,
+        "def": 29,
+        "spa": 5,
+        "spd": 25,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 72,
+        "def": 76,
+        "spa": 64,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Fury Swipes",
+        "Protect",
+        "Conversion",
+        "Sharpen"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 19,
+        "atk": 26,
+        "def": 9,
+        "spa": 27,
+        "spd": 27,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 24,
+        "spa": 36,
+        "spd": 48,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

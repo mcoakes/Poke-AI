@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_044",
+  "party": [
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Splash",
+        "Leech Seed",
+        "Confusion",
+        "Aerial Ace"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 1,
+        "atk": 13,
+        "def": 30,
+        "spa": 23,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 44,
+        "spa": 48,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Aggron",
+      "moves": [
+        "Taunt",
+        "Body Slam",
+        "Fire Blast",
+        "Rock Tomb"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 19,
+        "atk": 13,
+        "def": 23,
+        "spa": 3,
+        "spd": 17,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 48,
+        "spa": 20,
+        "spd": 56,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bellossom",
+      "moves": [
+        "Protect",
+        "Flash",
+        "Cut",
+        "Petal Dance"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 3,
+        "atk": 31,
+        "def": 20,
+        "spa": 19,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 20,
+        "spa": 28,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Body Slam",
+        "Sweet Kiss",
+        "Thunderbolt",
+        "Substitute"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 17,
+        "atk": 19,
+        "def": 17,
+        "spa": 17,
+        "spd": 7,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 24,
+        "spa": 24,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

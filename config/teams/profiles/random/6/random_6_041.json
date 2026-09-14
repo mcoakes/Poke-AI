@@ -1,0 +1,180 @@
+{
+  "name": "random_6_041",
+  "party": [
+    {
+      "species": "Grimer",
+      "moves": [
+        "Icicle Spear",
+        "Zap Cannon",
+        "Self Destruct",
+        "Metal Sound"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 6,
+        "atk": 12,
+        "def": 25,
+        "spa": 23,
+        "spd": 16,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    },
+    {
+      "species": "Volbeat",
+      "moves": [
+        "Supersonic",
+        "Teleport",
+        "Acid",
+        "Wish"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 28,
+        "atk": 17,
+        "def": 8,
+        "spa": 29,
+        "spd": 2,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 28,
+        "spa": 36,
+        "spd": 40,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Amnesia",
+        "Bite",
+        "Nightmare",
+        "Egg Bomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 1,
+        "def": 22,
+        "spa": 4,
+        "spd": 12,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 48,
+        "spa": 72,
+        "spd": 68,
+        "spe": 68
+      },
+      "held_item": "Metal Coat",
+      "level": 50
+    },
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Shadow Ball",
+        "Psybeam",
+        "Water Gun",
+        "Imprison"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 23,
+        "spa": 9,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 12,
+        "spa": 16,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lombre",
+      "moves": [
+        "Recover",
+        "Faint Attack",
+        "Fly",
+        "Metronome"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 4,
+        "spa": 24,
+        "spd": 17,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 52,
+        "spa": 16,
+        "spd": 24,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Flamethrower",
+        "Heal Bell",
+        "Meditate",
+        "Vice Grip"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 18,
+        "atk": 20,
+        "def": 16,
+        "spa": 19,
+        "spd": 17,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 4,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

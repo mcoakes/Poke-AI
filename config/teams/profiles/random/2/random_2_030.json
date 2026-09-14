@@ -1,0 +1,68 @@
+{
+  "name": "random_2_030",
+  "party": [
+    {
+      "species": "Feebas",
+      "moves": [
+        "Follow Me",
+        "Constrict",
+        "Barrage",
+        "Silver Wind"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 12,
+        "atk": 18,
+        "def": 18,
+        "spa": 19,
+        "spd": 20,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 92,
+        "def": 72,
+        "spa": 60,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kirlia",
+      "moves": [
+        "Disable",
+        "Mist Ball",
+        "Acid Armor",
+        "Pursuit"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 27,
+        "atk": 3,
+        "def": 22,
+        "spa": 26,
+        "spd": 19,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 56,
+        "def": 104,
+        "spa": 80,
+        "spd": 88,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

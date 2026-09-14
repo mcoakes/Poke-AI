@@ -1,0 +1,152 @@
+{
+  "name": "random_5_043",
+  "party": [
+    {
+      "species": "Flygon",
+      "moves": [
+        "Safeguard",
+        "Faint Attack",
+        "Flail",
+        "Teeter Dance"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 16,
+        "atk": 9,
+        "def": 30,
+        "spa": 6,
+        "spd": 25,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 48,
+        "def": 52,
+        "spa": 44,
+        "spd": 24,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Hitmonchan",
+      "moves": [
+        "Swift",
+        "Growth",
+        "Bulk Up",
+        "Pin Missile"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 28,
+        "atk": 13,
+        "def": 23,
+        "spa": 27,
+        "spd": 12,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 28,
+        "spa": 32,
+        "spd": 16,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Pound",
+        "Magical Leaf",
+        "Moonlight",
+        "Psycho Boost"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 3,
+        "atk": 27,
+        "def": 26,
+        "spa": 3,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 4,
+        "spa": 20,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ampharos",
+      "moves": [
+        "Sweet Scent",
+        "Magical Leaf",
+        "Sunny Day",
+        "Powder Snow"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 10,
+        "atk": 30,
+        "def": 31,
+        "spa": 3,
+        "spd": 2,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 72,
+        "spa": 28,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Self Destruct",
+        "Sonic Boom",
+        "Tail Whip",
+        "Hyper Fang"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 3,
+        "atk": 2,
+        "def": 3,
+        "spa": 7,
+        "spd": 17,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 80,
+        "def": 92,
+        "spa": 68,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

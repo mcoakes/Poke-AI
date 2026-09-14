@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_025",
+  "party": [
+    {
+      "species": "Moltres",
+      "moves": [
+        "Fly",
+        "Sandstorm",
+        "Double Edge",
+        "Heat Wave"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 4,
+        "atk": 27,
+        "def": 23,
+        "spa": 7,
+        "spd": 20,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 40,
+        "spa": 80,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Dragon Claw",
+        "Scary Face",
+        "Body Slam",
+        "Iron Tail"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 26,
+        "atk": 27,
+        "def": 25,
+        "spa": 17,
+        "spd": 26,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 64,
+        "def": 68,
+        "spa": 84,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

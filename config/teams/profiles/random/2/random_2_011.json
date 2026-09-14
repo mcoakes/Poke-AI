@@ -1,0 +1,68 @@
+{
+  "name": "random_2_011",
+  "party": [
+    {
+      "species": "Combusken",
+      "moves": [
+        "Sludge Bomb",
+        "Dragon Breath",
+        "Stockpile",
+        "Hyper Fang"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 19,
+        "atk": 23,
+        "def": 9,
+        "spa": 27,
+        "spd": 21,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 16,
+        "spa": 44,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shuppet",
+      "moves": [
+        "Conversion 2",
+        "Explosion",
+        "Mist Ball",
+        "Sleep Powder"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 31,
+        "def": 13,
+        "spa": 12,
+        "spd": 27,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 40,
+        "spa": 28,
+        "spd": 40,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

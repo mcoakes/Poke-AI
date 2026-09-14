@@ -1,0 +1,68 @@
+{
+  "name": "random_2_116",
+  "party": [
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Scary Face",
+        "Surf",
+        "Covet",
+        "Superpower"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 24,
+        "atk": 3,
+        "def": 22,
+        "spa": 3,
+        "spd": 23,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 92,
+        "spa": 48,
+        "spd": 96,
+        "spe": 92
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Doom Desire",
+        "Nightmare",
+        "Psychic",
+        "Gust"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 7,
+        "atk": 8,
+        "def": 0,
+        "spa": 21,
+        "spd": 24,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

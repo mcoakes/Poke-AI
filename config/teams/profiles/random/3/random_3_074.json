@@ -1,0 +1,96 @@
+{
+  "name": "random_3_074",
+  "party": [
+    {
+      "species": "Wailord",
+      "moves": [
+        "Water Spout",
+        "Octazooka",
+        "Flame Wheel",
+        "Rock Tomb"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 30,
+        "atk": 12,
+        "def": 11,
+        "spa": 29,
+        "spd": 21,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 64,
+        "spa": 36,
+        "spd": 96,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Luvdisc",
+      "moves": [
+        "Barrier",
+        "Razor Wind",
+        "Lovely Kiss",
+        "Light Screen"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 23,
+        "atk": 16,
+        "def": 5,
+        "spa": 10,
+        "spd": 11,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 40,
+        "def": 28,
+        "spa": 28,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Hyper Beam",
+        "Psycho Boost",
+        "Twister",
+        "Psybeam"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 15,
+        "atk": 7,
+        "def": 10,
+        "spa": 12,
+        "spd": 28,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 44,
+        "spa": 60,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

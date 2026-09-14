@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_128",
+  "party": [
+    {
+      "species": "Vulpix",
+      "moves": [
+        "Fire Blast",
+        "Protect",
+        "Quick Attack",
+        "Ember"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 11,
+        "atk": 16,
+        "def": 18,
+        "spa": 12,
+        "spd": 13,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 44,
+        "def": 60,
+        "spa": 56,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

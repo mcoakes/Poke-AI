@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_097",
+  "party": [
+    {
+      "species": "Sentret",
+      "moves": [
+        "Solar Beam",
+        "Slam",
+        "Pursuit",
+        "Mimic"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 24,
+        "atk": 3,
+        "def": 0,
+        "spa": 13,
+        "spd": 24,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 52,
+        "spa": 36,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Politoed",
+      "moves": [
+        "Counter",
+        "Belly Drum",
+        "Mega Punch",
+        "Water Pulse"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 8,
+        "atk": 29,
+        "def": 23,
+        "spa": 15,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 76,
+        "def": 72,
+        "spa": 64,
+        "spd": 44,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gligar",
+      "moves": [
+        "Hidden Power",
+        "Rest",
+        "Dream Eater",
+        "Wing Attack"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 8,
+        "atk": 0,
+        "def": 28,
+        "spa": 16,
+        "spd": 27,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 36,
+        "spa": 48,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seel",
+      "moves": [
+        "Water Pulse",
+        "Waterfall",
+        "Rain Dance",
+        "Slam"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 13,
+        "atk": 18,
+        "def": 17,
+        "spa": 4,
+        "spd": 17,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 40,
+        "def": 28,
+        "spa": 24,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Aipom",
+      "moves": [
+        "Tail Whip",
+        "Thunder Wave",
+        "Secret Power",
+        "Dig"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 3,
+        "atk": 21,
+        "def": 29,
+        "spa": 17,
+        "spd": 30,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 36,
+        "spa": 84,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Swagger",
+        "Water Pulse",
+        "Shadow Ball",
+        "Stomp"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 8,
+        "atk": 27,
+        "def": 22,
+        "spa": 12,
+        "spd": 3,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 48,
+        "spa": 40,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

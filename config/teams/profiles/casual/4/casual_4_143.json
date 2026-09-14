@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_143",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Thunder Punch",
+        "Confuse Ray",
+        "Attract",
+        "Flamethrower"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 18,
+        "spa": 4,
+        "spd": 0,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 80,
+        "def": 64,
+        "spa": 24,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Ember",
+        "Rock Tomb",
+        "Facade",
+        "Double Team"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 28,
+        "def": 30,
+        "spa": 18,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 36,
+        "spa": 32,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Thunder Shock",
+        "Quick Attack",
+        "Light Screen",
+        "Strength"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 9,
+        "atk": 14,
+        "def": 25,
+        "spa": 6,
+        "spd": 27,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 52,
+        "spa": 40,
+        "spd": 36,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Typhlosion",
+      "moves": [
+        "Overheat",
+        "Earthquake",
+        "Rest",
+        "Flamethrower"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 21,
+        "atk": 31,
+        "def": 5,
+        "spa": 14,
+        "spd": 11,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 68,
+        "spa": 28,
+        "spd": 52,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

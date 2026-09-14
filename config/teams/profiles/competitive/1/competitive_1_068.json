@@ -1,0 +1,40 @@
+{
+  "name": "competitive_1_068",
+  "party": [
+    {
+      "species": "Venusaur",
+      "moves": [
+        "Giga Drain",
+        "Sleep Powder",
+        "Leech Seed",
+        "Sludge Bomb"
+      ],
+      "nature": "Modest",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "competitive",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 20261922,
+    "archetype": "offense"
+  }
+}

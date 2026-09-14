@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_085",
+  "party": [
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Facade",
+        "Ice Beam",
+        "Octazooka",
+        "Mimic"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 13,
+        "atk": 24,
+        "def": 2,
+        "spa": 29,
+        "spd": 11,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 20,
+        "spa": 28,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

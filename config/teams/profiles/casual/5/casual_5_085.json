@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_085",
+  "party": [
+    {
+      "species": "Togepi",
+      "moves": [
+        "Shock Wave",
+        "Psych Up",
+        "Secret Power",
+        "Sunny Day"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 26,
+        "atk": 2,
+        "def": 18,
+        "spa": 14,
+        "spd": 12,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Cross Chop",
+        "Strength",
+        "Surf",
+        "Double Team"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 4,
+        "atk": 1,
+        "def": 31,
+        "spa": 22,
+        "spd": 22,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 64,
+        "def": 28,
+        "spa": 60,
+        "spd": 76,
+        "spe": 68
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Flail",
+        "Body Slam",
+        "Haze",
+        "Crabhammer"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 22,
+        "atk": 26,
+        "def": 13,
+        "spa": 11,
+        "spd": 5,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 40,
+        "def": 40,
+        "spa": 48,
+        "spd": 72,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Articuno",
+      "moves": [
+        "Sheer Cold",
+        "Fly",
+        "Ice Beam",
+        "Agility"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 7,
+        "atk": 0,
+        "def": 26,
+        "spa": 1,
+        "spd": 9,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 28,
+        "def": 32,
+        "spa": 20,
+        "spd": 28,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slakoth",
+      "moves": [
+        "Rest",
+        "Rock Slide",
+        "Mega Punch",
+        "Strength"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 13,
+        "def": 30,
+        "spa": 3,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 44,
+        "spa": 32,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

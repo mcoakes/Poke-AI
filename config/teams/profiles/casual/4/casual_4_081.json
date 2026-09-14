@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_081",
+  "party": [
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Dive",
+        "Ice Beam",
+        "Counter",
+        "Hail"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 23,
+        "atk": 3,
+        "def": 2,
+        "spa": 3,
+        "spd": 6,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 32,
+        "spa": 56,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Safeguard",
+        "Rest",
+        "Cut",
+        "Giga Drain"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 6,
+        "atk": 27,
+        "def": 14,
+        "spa": 17,
+        "spd": 4,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 20,
+        "def": 20,
+        "spa": 32,
+        "spd": 32,
+        "spe": 36
+      },
+      "held_item": "White Herb",
+      "level": 50
+    },
+    {
+      "species": "Hoppip",
+      "moves": [
+        "Sleep Powder",
+        "Aerial Ace",
+        "Facade",
+        "Reflect"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 16,
+        "atk": 31,
+        "def": 23,
+        "spa": 7,
+        "spd": 9,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 36,
+        "spa": 28,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Focus Energy",
+        "Leer",
+        "Rock Slide",
+        "Fly"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 9,
+        "atk": 11,
+        "def": 10,
+        "spa": 18,
+        "spd": 16,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 60,
+        "spa": 56,
+        "spd": 72,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

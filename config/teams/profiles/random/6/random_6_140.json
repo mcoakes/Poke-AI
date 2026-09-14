@@ -1,0 +1,180 @@
+{
+  "name": "random_6_140",
+  "party": [
+    {
+      "species": "Beldum",
+      "moves": [
+        "Magical Leaf",
+        "Thief",
+        "Lick",
+        "Psych Up"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 1,
+        "atk": 5,
+        "def": 31,
+        "spa": 8,
+        "spd": 0,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 8,
+        "spd": 12,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Kinesis",
+        "Sweet Kiss",
+        "Memento",
+        "Helping Hand"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 19,
+        "spa": 19,
+        "spd": 9,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 76,
+        "def": 68,
+        "spa": 40,
+        "spd": 44,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Slowpoke",
+      "moves": [
+        "Cosmic Power",
+        "Double Kick",
+        "Charm",
+        "Headbutt"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 28,
+        "atk": 0,
+        "def": 25,
+        "spa": 3,
+        "spd": 17,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 28,
+        "spa": 56,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magnemite",
+      "moves": [
+        "Absorb",
+        "Spite",
+        "Ancient Power",
+        "Thief"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 17,
+        "atk": 1,
+        "def": 28,
+        "spa": 11,
+        "spd": 24,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 32,
+        "spa": 36,
+        "spd": 36,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Azurill",
+      "moves": [
+        "Horn Attack",
+        "Hyper Beam",
+        "Camouflage",
+        "Fire Spin"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 6,
+        "atk": 29,
+        "def": 16,
+        "spa": 12,
+        "spd": 9,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 80,
+        "def": 48,
+        "spa": 56,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Zap Cannon",
+        "Swift",
+        "Body Slam",
+        "Seismic Toss"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 23,
+        "atk": 30,
+        "def": 10,
+        "spa": 7,
+        "spd": 11,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 44,
+        "spa": 64,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

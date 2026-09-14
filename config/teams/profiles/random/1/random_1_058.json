@@ -1,0 +1,40 @@
+{
+  "name": "random_1_058",
+  "party": [
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Milk Drink",
+        "Barrier",
+        "Hyper Fang",
+        "Toxic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 18,
+        "atk": 12,
+        "def": 11,
+        "spa": 26,
+        "spd": 20,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 12,
+        "spa": 24,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_109",
+  "party": [
+    {
+      "species": "Exeggcute",
+      "moves": [
+        "Destiny Bond",
+        "Doom Desire",
+        "Reflect",
+        "Spider Web"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 14,
+        "atk": 15,
+        "def": 8,
+        "spa": 4,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 84,
+        "def": 92,
+        "spa": 52,
+        "spd": 48,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Curse",
+        "Egg Bomb",
+        "Petal Dance",
+        "Mega Kick"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 17,
+        "atk": 31,
+        "def": 1,
+        "spa": 18,
+        "spd": 3,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 96,
+        "spa": 84,
+        "spd": 108,
+        "spe": 100
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Explosion",
+        "Smokescreen",
+        "Bone Club",
+        "Quick Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 16,
+        "atk": 29,
+        "def": 12,
+        "spa": 11,
+        "spd": 26,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 48,
+        "def": 4,
+        "spa": 4,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Togepi",
+      "moves": [
+        "Scary Face",
+        "Razor Leaf",
+        "Drill Peck",
+        "Double Edge"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 28,
+        "def": 9,
+        "spa": 2,
+        "spd": 22,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 80,
+        "def": 44,
+        "spa": 68,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Aguav Berry",
+      "level": 50
+    },
+    {
+      "species": "Flareon",
+      "moves": [
+        "Double Team",
+        "Rock Blast",
+        "Fly",
+        "Shadow Ball"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 26,
+        "atk": 3,
+        "def": 19,
+        "spa": 22,
+        "spd": 4,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 44,
+        "def": 32,
+        "spa": 20,
+        "spd": 16,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

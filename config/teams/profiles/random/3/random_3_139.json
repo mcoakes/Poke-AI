@@ -1,0 +1,96 @@
+{
+  "name": "random_3_139",
+  "party": [
+    {
+      "species": "Nidoking",
+      "moves": [
+        "Swift",
+        "Camouflage",
+        "Present",
+        "Hail"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 6,
+        "atk": 12,
+        "def": 18,
+        "spa": 0,
+        "spd": 10,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 36,
+        "def": 32,
+        "spa": 36,
+        "spd": 44,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Parasect",
+      "moves": [
+        "Dive",
+        "Rage",
+        "Revenge",
+        "Rolling Kick"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 14,
+        "spa": 0,
+        "spd": 18,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 60,
+        "spa": 72,
+        "spd": 56,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Water Sport",
+        "Astonish",
+        "Superpower",
+        "Sand Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 9,
+        "atk": 31,
+        "def": 29,
+        "spa": 3,
+        "spd": 21,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 64,
+        "def": 80,
+        "spa": 88,
+        "spd": 112,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

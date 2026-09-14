@@ -1,0 +1,96 @@
+{
+  "name": "random_3_062",
+  "party": [
+    {
+      "species": "Magneton",
+      "moves": [
+        "Destiny Bond",
+        "Yawn",
+        "Bone Rush",
+        "Icicle Spear"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 2,
+        "spa": 19,
+        "spd": 21,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 36,
+        "spa": 68,
+        "spd": 76,
+        "spe": 44
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Fire Punch",
+        "Steel Wing",
+        "Vice Grip",
+        "Blast Burn"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 6,
+        "atk": 10,
+        "def": 30,
+        "spa": 9,
+        "spd": 12,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 16,
+        "spa": 20,
+        "spd": 8,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Golem",
+      "moves": [
+        "Sand Attack",
+        "Thunder Wave",
+        "Rapid Spin",
+        "Mach Punch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 0,
+        "atk": 3,
+        "def": 21,
+        "spa": 15,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 8,
+        "def": 8,
+        "spa": 20,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

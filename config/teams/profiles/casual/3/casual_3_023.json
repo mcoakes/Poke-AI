@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_023",
+  "party": [
+    {
+      "species": "Slaking",
+      "moves": [
+        "Attract",
+        "Covet",
+        "Blizzard",
+        "Pursuit"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 26,
+        "spa": 7,
+        "spd": 10,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 32,
+        "spa": 56,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Toxic",
+        "Psychic",
+        "Pound",
+        "Frustration"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 0,
+        "atk": 13,
+        "def": 20,
+        "spa": 16,
+        "spd": 23,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 20,
+        "spa": 40,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Rest",
+        "Scratch",
+        "Surf",
+        "Focus Punch"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 1,
+        "atk": 10,
+        "def": 25,
+        "spa": 21,
+        "spd": 16,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 32,
+        "spa": 56,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_095",
+  "party": [
+    {
+      "species": "Alakazam",
+      "moves": [
+        "Stockpile",
+        "Moonlight",
+        "Metronome",
+        "Luster Purge"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 30,
+        "atk": 19,
+        "def": 12,
+        "spa": 2,
+        "spd": 22,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 4,
+        "spa": 4,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    },
+    {
+      "species": "Grumpig",
+      "moves": [
+        "Confuse Ray",
+        "Revenge",
+        "Transform",
+        "Constrict"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 15,
+        "atk": 26,
+        "def": 16,
+        "spa": 0,
+        "spd": 14,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 20,
+        "spa": 20,
+        "spd": 32,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Silver Wind",
+        "Rock Slide",
+        "Meteor Mash",
+        "Outrage"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 26,
+        "atk": 29,
+        "def": 26,
+        "spa": 18,
+        "spd": 1,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 28,
+        "def": 28,
+        "spa": 40,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

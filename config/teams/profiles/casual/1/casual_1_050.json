@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_050",
+  "party": [
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Take Down",
+        "Flail",
+        "Pursuit",
+        "Toxic"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 9,
+        "atk": 6,
+        "def": 1,
+        "spa": 12,
+        "spd": 2,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 52,
+        "spa": 44,
+        "spd": 32,
+        "spe": 52
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

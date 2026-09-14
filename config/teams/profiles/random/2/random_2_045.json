@@ -1,0 +1,68 @@
+{
+  "name": "random_2_045",
+  "party": [
+    {
+      "species": "Aipom",
+      "moves": [
+        "Silver Wind",
+        "Mud Slap",
+        "Thunder",
+        "Metal Sound"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 11,
+        "atk": 13,
+        "def": 7,
+        "spa": 14,
+        "spd": 12,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 80,
+        "spa": 68,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Razor Leaf",
+        "Endure",
+        "Mirror Move",
+        "Sand Tomb"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 25,
+        "atk": 31,
+        "def": 29,
+        "spa": 26,
+        "spd": 5,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 72,
+        "def": 36,
+        "spa": 40,
+        "spd": 48,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

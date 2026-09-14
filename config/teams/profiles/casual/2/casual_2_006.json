@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_006",
+  "party": [
+    {
+      "species": "Claydol",
+      "moves": [
+        "Psychic",
+        "Ancient Power",
+        "Substitute",
+        "Rain Dance"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 2,
+        "atk": 7,
+        "def": 4,
+        "spa": 24,
+        "spd": 14,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 20,
+        "spa": 20,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magcargo",
+      "moves": [
+        "Acid Armor",
+        "Rock Tomb",
+        "Protect",
+        "Flamethrower"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 6,
+        "atk": 7,
+        "def": 5,
+        "spa": 9,
+        "spd": 27,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 44,
+        "spa": 28,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

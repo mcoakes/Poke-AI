@@ -1,0 +1,68 @@
+{
+  "name": "random_2_029",
+  "party": [
+    {
+      "species": "Cradily",
+      "moves": [
+        "Thunder",
+        "Spider Web",
+        "Spore",
+        "Wrap"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 11,
+        "atk": 16,
+        "def": 3,
+        "spa": 14,
+        "spd": 20,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 16,
+        "def": 32,
+        "spa": 24,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Confuse Ray",
+        "Solar Beam",
+        "Guillotine",
+        "Thunder Wave"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 11,
+        "atk": 0,
+        "def": 18,
+        "spa": 1,
+        "spd": 9,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Sea Incense",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

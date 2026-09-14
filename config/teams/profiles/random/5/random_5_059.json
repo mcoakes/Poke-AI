@@ -1,0 +1,152 @@
+{
+  "name": "random_5_059",
+  "party": [
+    {
+      "species": "Rapidash",
+      "moves": [
+        "Thief",
+        "Curse",
+        "Astonish",
+        "Fake Tears"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 9,
+        "atk": 5,
+        "def": 6,
+        "spa": 9,
+        "spd": 13,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 76,
+        "def": 64,
+        "spa": 60,
+        "spd": 60,
+        "spe": 80
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Wrap",
+        "Rock Slide",
+        "Attract",
+        "Role Play"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 9,
+        "atk": 12,
+        "def": 17,
+        "spa": 16,
+        "spd": 18,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 24,
+        "spa": 36,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Solrock",
+      "moves": [
+        "Constrict",
+        "Swagger",
+        "Safeguard",
+        "Heal Bell"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 19,
+        "atk": 12,
+        "def": 20,
+        "spa": 16,
+        "spd": 24,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 96,
+        "def": 80,
+        "spa": 64,
+        "spd": 84,
+        "spe": 76
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Glare",
+        "Trick",
+        "Mean Look",
+        "Bubble"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 20,
+        "atk": 6,
+        "def": 9,
+        "spa": 31,
+        "spd": 8,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 4,
+        "spa": 8,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Blastoise",
+      "moves": [
+        "Return",
+        "Flamethrower",
+        "Endure",
+        "Yawn"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 11,
+        "def": 19,
+        "spa": 16,
+        "spd": 2,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 12,
+        "spa": 12,
+        "spd": 8,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

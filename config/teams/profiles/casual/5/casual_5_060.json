@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_060",
+  "party": [
+    {
+      "species": "Persian",
+      "moves": [
+        "Sunny Day",
+        "Secret Power",
+        "Bite",
+        "Rain Dance"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 18,
+        "atk": 30,
+        "def": 10,
+        "spa": 31,
+        "spd": 14,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 32,
+        "def": 8,
+        "spa": 20,
+        "spd": 12,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Weezing",
+      "moves": [
+        "Sludge Bomb",
+        "Destiny Bond",
+        "Flash",
+        "Secret Power"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 31,
+        "atk": 20,
+        "def": 9,
+        "spa": 27,
+        "spd": 26,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 8,
+        "spa": 16,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Lansat Berry",
+      "level": 50
+    },
+    {
+      "species": "Baltoy",
+      "moves": [
+        "Dream Eater",
+        "Ancient Power",
+        "Substitute",
+        "Reflect"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 7,
+        "atk": 14,
+        "def": 0,
+        "spa": 29,
+        "spd": 30,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 48,
+        "def": 68,
+        "spa": 76,
+        "spd": 40,
+        "spe": 84
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Makuhita",
+      "moves": [
+        "Belly Drum",
+        "Vital Throw",
+        "Faint Attack",
+        "Mega Punch"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 6,
+        "atk": 23,
+        "def": 15,
+        "spa": 23,
+        "spd": 16,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 48,
+        "spa": 28,
+        "spd": 20,
+        "spe": 40
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Silver Wind",
+        "Protect",
+        "Swords Dance",
+        "Facade"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 14,
+        "atk": 12,
+        "def": 4,
+        "spa": 25,
+        "spd": 29,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 32,
+        "def": 20,
+        "spa": 20,
+        "spd": 12,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

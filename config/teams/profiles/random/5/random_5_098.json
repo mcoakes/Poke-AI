@@ -1,0 +1,152 @@
+{
+  "name": "random_5_098",
+  "party": [
+    {
+      "species": "Raikou",
+      "moves": [
+        "Mirror Coat",
+        "Pin Missile",
+        "Conversion 2",
+        "Spit Up"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 12,
+        "spa": 4,
+        "spd": 19,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 8,
+        "spa": 12,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cacnea",
+      "moves": [
+        "Gust",
+        "Poison Sting",
+        "Headbutt",
+        "Psybeam"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 1,
+        "atk": 16,
+        "def": 17,
+        "spa": 6,
+        "spd": 16,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 28,
+        "def": 16,
+        "spa": 24,
+        "spd": 44,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dustox",
+      "moves": [
+        "Double Slap",
+        "Rollout",
+        "Ice Punch",
+        "Hydro Cannon"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 26,
+        "atk": 29,
+        "def": 26,
+        "spa": 23,
+        "spd": 4,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Fissure",
+        "Perish Song",
+        "Sheer Cold",
+        "Extrasensory"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 2,
+        "atk": 13,
+        "def": 11,
+        "spa": 15,
+        "spd": 12,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 48,
+        "spa": 20,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Rage",
+        "Octazooka",
+        "Superpower",
+        "Petal Dance"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 1,
+        "atk": 25,
+        "def": 20,
+        "spa": 20,
+        "spd": 27,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 56,
+        "spa": 64,
+        "spd": 80,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

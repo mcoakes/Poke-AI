@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_022",
+  "party": [
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Facade",
+        "Psychic",
+        "Flash",
+        "Shock Wave"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 8,
+        "spa": 27,
+        "spd": 29,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 40,
+        "spa": 36,
+        "spd": 24,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mankey",
+      "moves": [
+        "Rain Dance",
+        "Earthquake",
+        "Thunderbolt",
+        "Karate Chop"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 1,
+        "atk": 12,
+        "def": 1,
+        "spa": 30,
+        "spd": 27,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 28,
+        "spa": 16,
+        "spd": 4,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Nosepass",
+      "moves": [
+        "Protect",
+        "Rock Tomb",
+        "Zap Cannon",
+        "Frustration"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 9,
+        "atk": 20,
+        "def": 18,
+        "spa": 5,
+        "spd": 21,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 20,
+        "spa": 16,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

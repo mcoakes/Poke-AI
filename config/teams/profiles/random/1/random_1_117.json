@@ -1,0 +1,40 @@
+{
+  "name": "random_1_117",
+  "party": [
+    {
+      "species": "Chimecho",
+      "moves": [
+        "Counter",
+        "Zap Cannon",
+        "Whirlpool",
+        "Facade"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 15,
+        "atk": 29,
+        "def": 23,
+        "spa": 30,
+        "spd": 7,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 12,
+        "spa": 8,
+        "spd": 12,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

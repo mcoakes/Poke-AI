@@ -1,0 +1,124 @@
+{
+  "name": "random_4_001",
+  "party": [
+    {
+      "species": "Mightyena",
+      "moves": [
+        "Frenzy Plant",
+        "Cotton Spore",
+        "Bind",
+        "Roar"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 5,
+        "atk": 15,
+        "def": 15,
+        "spa": 7,
+        "spd": 11,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 8,
+        "spa": 4,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mudkip",
+      "moves": [
+        "Reflect",
+        "Bounce",
+        "Weather Ball",
+        "Haze"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 22,
+        "atk": 24,
+        "def": 8,
+        "spa": 6,
+        "spd": 4,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 60,
+        "def": 68,
+        "spa": 80,
+        "spd": 92,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seaking",
+      "moves": [
+        "Counter",
+        "Faint Attack",
+        "Fly",
+        "Submission"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 28,
+        "atk": 12,
+        "def": 7,
+        "spa": 27,
+        "spd": 24,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 24,
+        "spa": 32,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kecleon",
+      "moves": [
+        "Psycho Boost",
+        "Grudge",
+        "Bubble",
+        "Sky Uppercut"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 31,
+        "atk": 19,
+        "def": 18,
+        "spa": 13,
+        "spd": 27,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 8,
+        "spa": 28,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "random_1_063",
+  "party": [
+    {
+      "species": "Gengar",
+      "moves": [
+        "Mud Slap",
+        "Arm Thrust",
+        "Gust",
+        "Pursuit"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 4,
+        "atk": 2,
+        "def": 1,
+        "spa": 24,
+        "spd": 4,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 116,
+        "def": 64,
+        "spa": 76,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

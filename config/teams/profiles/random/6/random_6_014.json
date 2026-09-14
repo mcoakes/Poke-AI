@@ -1,0 +1,180 @@
+{
+  "name": "random_6_014",
+  "party": [
+    {
+      "species": "Snubbull",
+      "moves": [
+        "Calm Mind",
+        "Submission",
+        "Counter",
+        "Sleep Powder"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 16,
+        "atk": 6,
+        "def": 8,
+        "spa": 20,
+        "spd": 14,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 64,
+        "spa": 60,
+        "spd": 68,
+        "spe": 44
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Whiscash",
+      "moves": [
+        "Thunder Wave",
+        "Pin Missile",
+        "Minimize",
+        "Cotton Spore"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 6,
+        "atk": 19,
+        "def": 5,
+        "spa": 26,
+        "spd": 18,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 68,
+        "def": 80,
+        "spa": 84,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Conversion 2",
+        "Thunderbolt",
+        "Rock Blast",
+        "Attract"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 11,
+        "def": 8,
+        "spa": 22,
+        "spd": 25,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 8,
+        "spa": 20,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Moltres",
+      "moves": [
+        "Future Sight",
+        "Bone Rush",
+        "Petal Dance",
+        "Mist Ball"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 18,
+        "atk": 7,
+        "def": 8,
+        "spa": 14,
+        "spd": 24,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 48,
+        "def": 48,
+        "spa": 44,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sharpedo",
+      "moves": [
+        "Double Kick",
+        "Crunch",
+        "Slam",
+        "Aromatherapy"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 17,
+        "spa": 22,
+        "spd": 8,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 12,
+        "spa": 16,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Exp Share",
+      "level": 50
+    },
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Flail",
+        "Haze",
+        "Double Edge",
+        "Aromatherapy"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 21,
+        "atk": 25,
+        "def": 1,
+        "spa": 7,
+        "spd": 20,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 68,
+        "def": 36,
+        "spa": 48,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

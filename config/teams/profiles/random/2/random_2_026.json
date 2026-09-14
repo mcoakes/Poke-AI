@@ -1,0 +1,68 @@
+{
+  "name": "random_2_026",
+  "party": [
+    {
+      "species": "Crobat",
+      "moves": [
+        "Blast Burn",
+        "Sheer Cold",
+        "Cosmic Power",
+        "Toxic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 4,
+        "atk": 14,
+        "def": 12,
+        "spa": 23,
+        "spd": 16,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 68,
+        "def": 64,
+        "spa": 100,
+        "spd": 104,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Sky Attack",
+        "Iron Defense",
+        "Solar Beam",
+        "Skull Bash"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 19,
+        "atk": 12,
+        "def": 0,
+        "spa": 22,
+        "spd": 17,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 52,
+        "def": 72,
+        "spa": 80,
+        "spd": 64,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

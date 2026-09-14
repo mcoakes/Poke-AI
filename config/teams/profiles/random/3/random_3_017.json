@@ -1,0 +1,96 @@
+{
+  "name": "random_3_017",
+  "party": [
+    {
+      "species": "Glalie",
+      "moves": [
+        "Growth",
+        "Steel Wing",
+        "Tail Whip",
+        "Will O Wisp"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 10,
+        "atk": 3,
+        "def": 1,
+        "spa": 12,
+        "spd": 8,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 4
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Screech",
+        "Fury Attack",
+        "Rolling Kick",
+        "Surf"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 6,
+        "atk": 8,
+        "def": 0,
+        "spa": 10,
+        "spd": 20,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Cloyster",
+      "moves": [
+        "Dragon Dance",
+        "Ember",
+        "Fury Cutter",
+        "Swords Dance"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 16,
+        "atk": 25,
+        "def": 8,
+        "spa": 22,
+        "spd": 16,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 88,
+        "spa": 68,
+        "spd": 88,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_024",
+  "party": [
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Pound",
+        "Secret Power",
+        "Giga Drain",
+        "Swords Dance"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 13,
+        "atk": 22,
+        "def": 19,
+        "spa": 8,
+        "spd": 2,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 56,
+        "def": 28,
+        "spa": 28,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Facade",
+        "Hi Jump Kick",
+        "Double Edge",
+        "Substitute"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 4,
+        "def": 29,
+        "spa": 17,
+        "spd": 27,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 52,
+        "spa": 44,
+        "spd": 56,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shiftry",
+      "moves": [
+        "Razor Wind",
+        "Body Slam",
+        "Giga Drain",
+        "Growth"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 13,
+        "spa": 14,
+        "spd": 17,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 72,
+        "spa": 64,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Rawst Berry",
+      "level": 50
+    },
+    {
+      "species": "Wailmer",
+      "moves": [
+        "Surf",
+        "Protect",
+        "Facade",
+        "Growl"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 13,
+        "def": 30,
+        "spa": 19,
+        "spd": 23,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 84,
+        "def": 72,
+        "spa": 36,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cubone",
+      "moves": [
+        "Earthquake",
+        "Mega Punch",
+        "Tail Whip",
+        "Sunny Day"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 7,
+        "atk": 17,
+        "def": 10,
+        "spa": 7,
+        "spd": 2,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 32,
+        "spa": 48,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Thick Club",
+      "level": 50
+    },
+    {
+      "species": "Lickitung",
+      "moves": [
+        "Smelling Salt",
+        "Substitute",
+        "Rock Tomb",
+        "Mega Punch"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 14,
+        "atk": 7,
+        "def": 7,
+        "spa": 5,
+        "spd": 9,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 68,
+        "def": 64,
+        "spa": 40,
+        "spd": 40,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

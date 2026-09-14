@@ -1,0 +1,68 @@
+{
+  "name": "random_2_007",
+  "party": [
+    {
+      "species": "Spoink",
+      "moves": [
+        "Thunder Punch",
+        "Low Kick",
+        "Revenge",
+        "Tickle"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 16,
+        "def": 24,
+        "spa": 23,
+        "spd": 7,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 12,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Aeroblast",
+        "Thrash",
+        "Fissure",
+        "Vital Throw"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 26,
+        "atk": 8,
+        "def": 25,
+        "spa": 30,
+        "spd": 20,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 28,
+        "spa": 16,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

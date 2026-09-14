@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_039",
+  "party": [
+    {
+      "species": "Smeargle",
+      "moves": [
+        "Hail",
+        "Slam",
+        "Future Sight",
+        "Helping Hand"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 0,
+        "atk": 18,
+        "def": 26,
+        "spa": 29,
+        "spd": 20,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 36,
+        "def": 32,
+        "spa": 72,
+        "spd": 28,
+        "spe": 48
+      },
+      "held_item": "Cheri Berry",
+      "level": 50
+    },
+    {
+      "species": "Clamperl",
+      "moves": [
+        "Secret Power",
+        "Double Team",
+        "Blizzard",
+        "Water Gun"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 25,
+        "atk": 10,
+        "def": 0,
+        "spa": 4,
+        "spd": 18,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 32,
+        "spa": 44,
+        "spd": 36,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Eevee",
+      "moves": [
+        "Protect",
+        "Shadow Ball",
+        "Take Down",
+        "Iron Tail"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 28,
+        "atk": 10,
+        "def": 1,
+        "spa": 10,
+        "spd": 0,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 36,
+        "def": 40,
+        "spa": 52,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

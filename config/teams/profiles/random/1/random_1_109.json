@@ -1,0 +1,40 @@
+{
+  "name": "random_1_109",
+  "party": [
+    {
+      "species": "Heracross",
+      "moves": [
+        "Egg Bomb",
+        "Camouflage",
+        "Encore",
+        "Absorb"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 1,
+        "def": 29,
+        "spa": 1,
+        "spd": 10,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 112,
+        "def": 92,
+        "spa": 60,
+        "spd": 92,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

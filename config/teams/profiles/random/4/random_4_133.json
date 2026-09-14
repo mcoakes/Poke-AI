@@ -1,0 +1,124 @@
+{
+  "name": "random_4_133",
+  "party": [
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Mud Sport",
+        "Aeroblast",
+        "Thief",
+        "Spark"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 31,
+        "spa": 6,
+        "spd": 5,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 28,
+        "def": 44,
+        "spa": 36,
+        "spd": 28,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Luvdisc",
+      "moves": [
+        "Role Play",
+        "Thunder",
+        "Flame Wheel",
+        "Iron Tail"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 22,
+        "def": 18,
+        "spa": 13,
+        "spd": 16,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    },
+    {
+      "species": "Caterpie",
+      "moves": [
+        "Return",
+        "Poison Powder",
+        "Muddy Water",
+        "Frustration"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 28,
+        "atk": 2,
+        "def": 13,
+        "spa": 18,
+        "spd": 10,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 4,
+        "spa": 8,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Camerupt",
+      "moves": [
+        "Dragon Claw",
+        "Spark",
+        "Cosmic Power",
+        "Sunny Day"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 23,
+        "atk": 5,
+        "def": 16,
+        "spa": 28,
+        "spd": 13,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 40,
+        "spa": 28,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

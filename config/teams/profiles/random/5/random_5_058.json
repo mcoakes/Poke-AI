@@ -1,0 +1,152 @@
+{
+  "name": "random_5_058",
+  "party": [
+    {
+      "species": "Elekid",
+      "moves": [
+        "Stockpile",
+        "Roar",
+        "Dizzy Punch",
+        "Mirror Move"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 29,
+        "atk": 24,
+        "def": 11,
+        "spa": 12,
+        "spd": 30,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 68,
+        "def": 108,
+        "spa": 84,
+        "spd": 92,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Bone Club",
+        "Curse",
+        "Fury Swipes",
+        "Hail"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 3,
+        "atk": 1,
+        "def": 7,
+        "spa": 13,
+        "spd": 15,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 80,
+        "spa": 84,
+        "spd": 104,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Morning Sun",
+        "Camouflage",
+        "Grudge",
+        "Icicle Spear"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 1,
+        "atk": 10,
+        "def": 1,
+        "spa": 28,
+        "spd": 28,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 52,
+        "def": 96,
+        "spa": 48,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ivysaur",
+      "moves": [
+        "Rock Blast",
+        "Spark",
+        "Revenge",
+        "Splash"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 31,
+        "def": 18,
+        "spa": 17,
+        "spd": 26,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 56,
+        "def": 52,
+        "spa": 56,
+        "spd": 52,
+        "spe": 16
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Miltank",
+      "moves": [
+        "Twister",
+        "Muddy Water",
+        "Haze",
+        "Beat Up"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 25,
+        "atk": 2,
+        "def": 21,
+        "spa": 10,
+        "spd": 0,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 72,
+        "def": 60,
+        "spa": 64,
+        "spd": 60,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

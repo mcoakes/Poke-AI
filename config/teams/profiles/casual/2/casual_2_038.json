@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_038",
+  "party": [
+    {
+      "species": "Staryu",
+      "moves": [
+        "Facade",
+        "Camouflage",
+        "Thunder Wave",
+        "Water Pulse"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 11,
+        "atk": 23,
+        "def": 21,
+        "spa": 16,
+        "spd": 27,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 16,
+        "spa": 8,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Metagross",
+      "moves": [
+        "Sludge Bomb",
+        "Confusion",
+        "Body Slam",
+        "Sunny Day"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 11,
+        "atk": 27,
+        "def": 28,
+        "spa": 18,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 4,
+        "spa": 40,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

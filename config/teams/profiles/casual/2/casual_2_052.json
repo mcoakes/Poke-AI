@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_052",
+  "party": [
+    {
+      "species": "Quilava",
+      "moves": [
+        "Flamethrower",
+        "Swift",
+        "Substitute",
+        "Strength"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 26,
+        "atk": 3,
+        "def": 16,
+        "spa": 14,
+        "spd": 0,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 64,
+        "def": 52,
+        "spa": 48,
+        "spd": 84,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Togetic",
+      "moves": [
+        "Body Slam",
+        "Flamethrower",
+        "Peck",
+        "Thunder Wave"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 20,
+        "atk": 0,
+        "def": 9,
+        "spa": 2,
+        "spd": 20,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 44,
+        "def": 44,
+        "spa": 28,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "random_3_068",
+  "party": [
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Mean Look",
+        "Scary Face",
+        "Reversal",
+        "Bide"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 7,
+        "atk": 8,
+        "def": 2,
+        "spa": 19,
+        "spd": 11,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Roselia",
+      "moves": [
+        "Poison Gas",
+        "Absorb",
+        "Astonish",
+        "Psywave"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 11,
+        "atk": 20,
+        "def": 31,
+        "spa": 24,
+        "spd": 9,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 76,
+        "def": 32,
+        "spa": 36,
+        "spd": 48,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Constrict",
+        "Metronome",
+        "Psychic",
+        "Tail Whip"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 8,
+        "atk": 27,
+        "def": 26,
+        "spa": 0,
+        "spd": 10,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 36,
+        "spa": 44,
+        "spd": 72,
+        "spe": 32
+      },
+      "held_item": "Leppa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

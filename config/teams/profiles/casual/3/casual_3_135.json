@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_135",
+  "party": [
+    {
+      "species": "Qwilfish",
+      "moves": [
+        "Revenge",
+        "Sludge Bomb",
+        "Frustration",
+        "Thunder Wave"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 30,
+        "atk": 18,
+        "def": 5,
+        "spa": 19,
+        "spd": 23,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 32,
+        "spd": 8,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Totodile",
+      "moves": [
+        "Water Pulse",
+        "Dig",
+        "Scary Face",
+        "Protect"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 24,
+        "atk": 25,
+        "def": 27,
+        "spa": 1,
+        "spd": 11,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 44,
+        "def": 16,
+        "spa": 32,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Mimic",
+        "Steel Wing",
+        "Body Slam",
+        "Agility"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 30,
+        "atk": 2,
+        "def": 12,
+        "spa": 24,
+        "spd": 30,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 40,
+        "spa": 60,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

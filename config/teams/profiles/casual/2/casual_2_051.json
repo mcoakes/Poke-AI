@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_051",
+  "party": [
+    {
+      "species": "Tyrogue",
+      "moves": [
+        "Rain Dance",
+        "Secret Power",
+        "Hi Jump Kick",
+        "Mega Kick"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 28,
+        "atk": 10,
+        "def": 11,
+        "spa": 29,
+        "spd": 21,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 52,
+        "spa": 32,
+        "spd": 36,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tentacool",
+      "moves": [
+        "Confuse Ray",
+        "Dive",
+        "Acid",
+        "Haze"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 25,
+        "atk": 17,
+        "def": 29,
+        "spa": 15,
+        "spd": 21,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 24,
+        "spa": 44,
+        "spd": 60,
+        "spe": 32
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

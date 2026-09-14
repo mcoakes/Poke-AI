@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_072",
+  "party": [
+    {
+      "species": "Swinub",
+      "moves": [
+        "Mud Shot",
+        "Odor Sleuth",
+        "Endure",
+        "Facade"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 20,
+        "spa": 5,
+        "spd": 31,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 48,
+        "def": 92,
+        "spa": 56,
+        "spd": 64,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_063",
+  "party": [
+    {
+      "species": "Altaria",
+      "moves": [
+        "Bone Club",
+        "Poison Powder",
+        "Sleep Powder",
+        "Egg Bomb"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 8,
+        "atk": 3,
+        "def": 16,
+        "spa": 6,
+        "spd": 22,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 4,
+        "spa": 12,
+        "spd": 0,
+        "spe": 4
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Magikarp",
+      "moves": [
+        "Splash",
+        "Scratch",
+        "Bite",
+        "Endeavor"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 13,
+        "atk": 30,
+        "def": 14,
+        "spa": 7,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 56,
+        "def": 80,
+        "spa": 92,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Lovely Kiss",
+        "Focus Energy",
+        "Sky Attack",
+        "Crabhammer"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 12,
+        "atk": 16,
+        "def": 27,
+        "spa": 30,
+        "spd": 30,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Regirock",
+      "moves": [
+        "Submission",
+        "Tackle",
+        "Flamethrower",
+        "Teeter Dance"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 29,
+        "atk": 25,
+        "def": 29,
+        "spa": 3,
+        "spd": 5,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 4,
+        "def": 12,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Minun",
+      "moves": [
+        "Explosion",
+        "Spikes",
+        "Double Kick",
+        "Scratch"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 11,
+        "atk": 25,
+        "def": 23,
+        "spa": 28,
+        "spd": 7,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 72,
+        "def": 60,
+        "spa": 56,
+        "spd": 72,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "random_5_117",
+  "party": [
+    {
+      "species": "Suicune",
+      "moves": [
+        "Reflect",
+        "Stockpile",
+        "Flatter",
+        "Explosion"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 9,
+        "atk": 2,
+        "def": 16,
+        "spa": 28,
+        "spd": 29,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 40,
+        "def": 52,
+        "spa": 32,
+        "spd": 48,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pichu",
+      "moves": [
+        "Lock On",
+        "Whirlpool",
+        "Megahorn",
+        "Encore"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 9,
+        "atk": 21,
+        "def": 13,
+        "spa": 2,
+        "spd": 6,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 16,
+        "def": 36,
+        "spa": 60,
+        "spd": 20,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Reflect",
+        "Faint Attack",
+        "Growth",
+        "Leer"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 18,
+        "atk": 25,
+        "def": 2,
+        "spa": 23,
+        "spd": 12,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 36,
+        "def": 28,
+        "spa": 36,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Rollout",
+        "Psych Up",
+        "Protect",
+        "Safeguard"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 1,
+        "atk": 7,
+        "def": 15,
+        "spa": 21,
+        "spd": 24,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 52,
+        "spa": 32,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Altaria",
+      "moves": [
+        "Thrash",
+        "Hyper Fang",
+        "Pound",
+        "Charm"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 19,
+        "spa": 13,
+        "spd": 16,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 84,
+        "def": 48,
+        "spa": 52,
+        "spd": 84,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

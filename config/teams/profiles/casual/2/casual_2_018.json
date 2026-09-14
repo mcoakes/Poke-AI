@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_018",
+  "party": [
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Smokescreen",
+        "Twister",
+        "Dragon Breath",
+        "Ice Beam"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 3,
+        "def": 25,
+        "spa": 27,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 40,
+        "def": 44,
+        "spa": 20,
+        "spd": 28,
+        "spe": 40
+      },
+      "held_item": "Miracle Seed",
+      "level": 50
+    },
+    {
+      "species": "Hoothoot",
+      "moves": [
+        "Rain Dance",
+        "Facade",
+        "Dream Eater",
+        "Confusion"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 18,
+        "atk": 27,
+        "def": 6,
+        "spa": 15,
+        "spd": 7,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 52,
+        "spa": 20,
+        "spd": 16,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

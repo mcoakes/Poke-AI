@@ -1,0 +1,68 @@
+{
+  "name": "random_2_015",
+  "party": [
+    {
+      "species": "Absol",
+      "moves": [
+        "Reversal",
+        "String Shot",
+        "Spider Web",
+        "Toxic"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 30,
+        "atk": 15,
+        "def": 10,
+        "spa": 7,
+        "spd": 24,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 104,
+        "def": 32,
+        "spa": 92,
+        "spd": 60,
+        "spe": 104
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Dugtrio",
+      "moves": [
+        "Icy Wind",
+        "Swagger",
+        "Fire Blast",
+        "Growth"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 18,
+        "atk": 26,
+        "def": 3,
+        "spa": 2,
+        "spd": 6,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 76,
+        "def": 52,
+        "spa": 48,
+        "spd": 96,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

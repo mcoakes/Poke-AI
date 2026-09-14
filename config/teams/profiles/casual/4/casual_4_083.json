@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_083",
+  "party": [
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Mimic",
+        "Mega Drain",
+        "Flash",
+        "Iron Tail"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 25,
+        "atk": 1,
+        "def": 20,
+        "spa": 6,
+        "spd": 19,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 60,
+        "def": 64,
+        "spa": 68,
+        "spd": 64,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Smoochum",
+      "moves": [
+        "Fake Out",
+        "Sing",
+        "Confusion",
+        "Double Edge"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 14,
+        "atk": 25,
+        "def": 16,
+        "spa": 16,
+        "spd": 2,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 36,
+        "spa": 52,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Manectric",
+      "moves": [
+        "Thunderbolt",
+        "Tackle",
+        "Bite",
+        "Protect"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 22,
+        "atk": 23,
+        "def": 29,
+        "spa": 14,
+        "spd": 7,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 64,
+        "def": 48,
+        "spa": 56,
+        "spd": 52,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Absol",
+      "moves": [
+        "Torment",
+        "Cut",
+        "Flash",
+        "Bite"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 19,
+        "def": 30,
+        "spa": 11,
+        "spd": 4,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 36,
+        "def": 60,
+        "spa": 24,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

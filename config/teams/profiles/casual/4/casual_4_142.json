@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_142",
+  "party": [
+    {
+      "species": "Celebi",
+      "moves": [
+        "Sandstorm",
+        "Dream Eater",
+        "Future Sight",
+        "Water Pulse"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 4,
+        "spa": 27,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 20,
+        "spa": 12,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Attract",
+        "Double Team",
+        "Drill Peck",
+        "Tri Attack"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 13,
+        "atk": 11,
+        "def": 11,
+        "spa": 11,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 4,
+        "spa": 16,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Secret Power",
+        "Rock Tomb",
+        "Substitute",
+        "Brick Break"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 24,
+        "spa": 7,
+        "spd": 25,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 92,
+        "def": 56,
+        "spa": 76,
+        "spd": 44,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snorunt",
+      "moves": [
+        "Block",
+        "Mimic",
+        "Secret Power",
+        "Ice Beam"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 7,
+        "def": 31,
+        "spa": 9,
+        "spd": 21,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 8,
+        "def": 28,
+        "spa": 40,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

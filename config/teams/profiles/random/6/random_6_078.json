@@ -1,0 +1,180 @@
+{
+  "name": "random_6_078",
+  "party": [
+    {
+      "species": "Dunsparce",
+      "moves": [
+        "Growth",
+        "Reversal",
+        "Wing Attack",
+        "Conversion 2"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 7,
+        "atk": 21,
+        "def": 23,
+        "spa": 12,
+        "spd": 2,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 40,
+        "spa": 60,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Facade",
+        "Overheat",
+        "Mega Kick",
+        "Imprison"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 0,
+        "atk": 15,
+        "def": 31,
+        "spa": 4,
+        "spd": 21,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 96,
+        "def": 64,
+        "spa": 40,
+        "spd": 100,
+        "spe": 112
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Walrein",
+      "moves": [
+        "Grudge",
+        "Sheer Cold",
+        "Spider Web",
+        "Explosion"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 7,
+        "atk": 29,
+        "def": 4,
+        "spa": 4,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 68,
+        "def": 80,
+        "spa": 72,
+        "spd": 76,
+        "spe": 88
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Lotad",
+      "moves": [
+        "Skill Swap",
+        "Take Down",
+        "Bulk Up",
+        "Acid Armor"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 17,
+        "atk": 21,
+        "def": 28,
+        "spa": 11,
+        "spd": 19,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 52,
+        "spa": 28,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Snubbull",
+      "moves": [
+        "Uproar",
+        "Zap Cannon",
+        "Mean Look",
+        "Horn Drill"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 9,
+        "atk": 31,
+        "def": 13,
+        "spa": 26,
+        "spd": 1,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 20,
+        "def": 16,
+        "spa": 20,
+        "spd": 28,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Scizor",
+      "moves": [
+        "Sand Tomb",
+        "Haze",
+        "Mud Shot",
+        "Swift"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 5,
+        "atk": 19,
+        "def": 23,
+        "spa": 20,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 64,
+        "spa": 72,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

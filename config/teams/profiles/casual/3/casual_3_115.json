@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_115",
+  "party": [
+    {
+      "species": "Swinub",
+      "moves": [
+        "Icicle Spear",
+        "Facade",
+        "Dig",
+        "Reflect"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 0,
+        "atk": 23,
+        "def": 16,
+        "spa": 13,
+        "spd": 19,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 28,
+        "def": 64,
+        "spa": 56,
+        "spd": 52,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Blissey",
+      "moves": [
+        "Mega Kick",
+        "Facade",
+        "Mimic",
+        "Flamethrower"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 16,
+        "atk": 13,
+        "def": 9,
+        "spa": 7,
+        "spd": 4,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 56,
+        "def": 36,
+        "spa": 52,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Lax Incense",
+      "level": 50
+    },
+    {
+      "species": "Raichu",
+      "moves": [
+        "Mega Punch",
+        "Rest",
+        "Strength",
+        "Thunderbolt"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 19,
+        "atk": 2,
+        "def": 30,
+        "spa": 29,
+        "spd": 4,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 60,
+        "spa": 36,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

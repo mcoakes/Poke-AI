@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_149",
+  "party": [
+    {
+      "species": "Grovyle",
+      "moves": [
+        "Swords Dance",
+        "Cut",
+        "Giga Drain",
+        "Facade"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 17,
+        "atk": 6,
+        "def": 28,
+        "spa": 10,
+        "spd": 1,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "def": 32,
+        "spa": 8,
+        "spd": 24,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

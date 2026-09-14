@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_107",
+  "party": [
+    {
+      "species": "Plusle",
+      "moves": [
+        "Thunderbolt",
+        "Double Team",
+        "Body Slam",
+        "Wish"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 13,
+        "atk": 16,
+        "def": 28,
+        "spa": 9,
+        "spd": 8,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 72,
+        "def": 56,
+        "spa": 64,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

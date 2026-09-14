@@ -1,0 +1,152 @@
+{
+  "name": "random_5_039",
+  "party": [
+    {
+      "species": "Togepi",
+      "moves": [
+        "Detect",
+        "Dive",
+        "Stockpile",
+        "Metronome"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 22,
+        "spa": 19,
+        "spd": 25,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 44,
+        "spa": 52,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zubat",
+      "moves": [
+        "Thunder Wave",
+        "Frustration",
+        "Bubble Beam",
+        "Ancient Power"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 15,
+        "atk": 3,
+        "def": 15,
+        "spa": 17,
+        "spd": 11,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 24,
+        "def": 20,
+        "spa": 64,
+        "spd": 24,
+        "spe": 24
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Whismur",
+      "moves": [
+        "Lock On",
+        "Eruption",
+        "Bone Rush",
+        "Outrage"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 21,
+        "atk": 4,
+        "def": 26,
+        "spa": 21,
+        "spd": 16,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 68,
+        "def": 72,
+        "spa": 92,
+        "spd": 84,
+        "spe": 44
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Trapinch",
+      "moves": [
+        "Wish",
+        "Pain Split",
+        "Sludge",
+        "Poison Powder"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 19,
+        "atk": 23,
+        "def": 13,
+        "spa": 25,
+        "spd": 5,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 16,
+        "def": 8,
+        "spa": 32,
+        "spd": 16,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pidgeotto",
+      "moves": [
+        "Lock On",
+        "Taunt",
+        "Iron Defense",
+        "Detect"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 2,
+        "atk": 4,
+        "def": 0,
+        "spa": 28,
+        "spd": 26,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 16,
+        "spa": 24,
+        "spd": 8,
+        "spe": 16
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

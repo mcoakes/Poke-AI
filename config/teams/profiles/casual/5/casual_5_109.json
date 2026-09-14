@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_109",
+  "party": [
+    {
+      "species": "Phanpy",
+      "moves": [
+        "Sunny Day",
+        "Defense Curl",
+        "Facade",
+        "Earthquake"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 11,
+        "atk": 23,
+        "def": 9,
+        "spa": 29,
+        "spd": 15,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 24,
+        "spa": 44,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Body Slam",
+        "Facade",
+        "Taunt",
+        "Rock Tomb"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 24,
+        "spa": 0,
+        "spd": 23,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 76,
+        "spa": 80,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Zigzagoon",
+      "moves": [
+        "Thunderbolt",
+        "Rain Dance",
+        "Covet",
+        "Tackle"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 12,
+        "atk": 27,
+        "def": 9,
+        "spa": 10,
+        "spd": 19,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 84,
+        "def": 56,
+        "spa": 56,
+        "spd": 60,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Frustration",
+        "Flame Wheel",
+        "Body Slam",
+        "Leer"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 24,
+        "spa": 19,
+        "spd": 19,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 20,
+        "def": 28,
+        "spa": 28,
+        "spd": 48,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Mimic",
+        "Bubble Beam",
+        "Double Team",
+        "Thief"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 10,
+        "atk": 12,
+        "def": 15,
+        "spa": 9,
+        "spd": 31,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 12,
+        "spa": 8,
+        "spd": 24,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

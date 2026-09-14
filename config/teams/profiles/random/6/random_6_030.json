@@ -1,0 +1,180 @@
+{
+  "name": "random_6_030",
+  "party": [
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Zap Cannon",
+        "Mimic",
+        "Substitute",
+        "Needle Arm"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 20,
+        "atk": 14,
+        "def": 22,
+        "spa": 10,
+        "spd": 25,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 44,
+        "def": 24,
+        "spa": 68,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Ninjask",
+      "moves": [
+        "Bounce",
+        "Bite",
+        "Knock Off",
+        "Bone Rush"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 6,
+        "spa": 0,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 52,
+        "def": 72,
+        "spa": 68,
+        "spd": 76,
+        "spe": 108
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Sandslash",
+      "moves": [
+        "Rollout",
+        "Arm Thrust",
+        "Cross Chop",
+        "Focus Energy"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 13,
+        "atk": 27,
+        "def": 5,
+        "spa": 24,
+        "spd": 23,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 112,
+        "def": 100,
+        "spa": 36,
+        "spd": 52,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Barrage",
+        "Faint Attack",
+        "Disable",
+        "Mega Kick"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 5,
+        "atk": 29,
+        "def": 13,
+        "spa": 26,
+        "spd": 3,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 28,
+        "def": 68,
+        "spa": 84,
+        "spd": 100,
+        "spe": 52
+      },
+      "held_item": "Silver Powder",
+      "level": 50
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Bite",
+        "Iron Tail",
+        "Poison Powder",
+        "Spit Up"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 29,
+        "atk": 9,
+        "def": 29,
+        "spa": 8,
+        "spd": 12,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 32,
+        "def": 24,
+        "spa": 20,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Swalot",
+      "moves": [
+        "Self Destruct",
+        "Hidden Power",
+        "Crabhammer",
+        "Substitute"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 31,
+        "atk": 25,
+        "def": 6,
+        "spa": 30,
+        "spd": 13,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 48,
+        "def": 92,
+        "spa": 36,
+        "spd": 60,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

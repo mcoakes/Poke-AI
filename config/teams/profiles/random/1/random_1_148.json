@@ -1,0 +1,40 @@
+{
+  "name": "random_1_148",
+  "party": [
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Scary Face",
+        "Shadow Punch",
+        "Cross Chop",
+        "Powder Snow"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 21,
+        "atk": 18,
+        "def": 6,
+        "spa": 12,
+        "spd": 1,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 12,
+        "spa": 28,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

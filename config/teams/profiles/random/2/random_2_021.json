@@ -1,0 +1,68 @@
+{
+  "name": "random_2_021",
+  "party": [
+    {
+      "species": "Beautifly",
+      "moves": [
+        "Faint Attack",
+        "Mind Reader",
+        "Trick",
+        "Beat Up"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 29,
+        "def": 1,
+        "spa": 16,
+        "spd": 21,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 40,
+        "spa": 48,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Jumpluff",
+      "moves": [
+        "Doom Desire",
+        "Shadow Ball",
+        "Hydro Cannon",
+        "Crush Claw"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 15,
+        "atk": 4,
+        "def": 20,
+        "spa": 10,
+        "spd": 7,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 52,
+        "def": 40,
+        "spa": 64,
+        "spd": 68,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

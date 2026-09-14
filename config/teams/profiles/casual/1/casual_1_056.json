@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_056",
+  "party": [
+    {
+      "species": "Gengar",
+      "moves": [
+        "Shadow Ball",
+        "Astonish",
+        "Snatch",
+        "Dream Eater"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 14,
+        "atk": 7,
+        "def": 18,
+        "spa": 17,
+        "spd": 8,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 16,
+        "spa": 16,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

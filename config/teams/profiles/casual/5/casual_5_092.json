@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_092",
+  "party": [
+    {
+      "species": "Miltank",
+      "moves": [
+        "Shock Wave",
+        "Rock Tomb",
+        "Mega Punch",
+        "Endure"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 11,
+        "def": 11,
+        "spa": 1,
+        "spd": 18,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 36,
+        "spa": 36,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Electrode",
+      "moves": [
+        "Thunder Wave",
+        "Shock Wave",
+        "Secret Power",
+        "Return"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 24,
+        "atk": 5,
+        "def": 20,
+        "spa": 26,
+        "spd": 0,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 56,
+        "spa": 52,
+        "spd": 52,
+        "spe": 48
+      },
+      "held_item": "Magnet",
+      "level": 50
+    },
+    {
+      "species": "Pikachu",
+      "moves": [
+        "Double Team",
+        "Slam",
+        "Thunderbolt",
+        "Shock Wave"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 29,
+        "atk": 18,
+        "def": 29,
+        "spa": 28,
+        "spd": 25,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 24,
+        "def": 52,
+        "spa": 28,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Light Ball",
+      "level": 50
+    },
+    {
+      "species": "Illumise",
+      "moves": [
+        "Brick Break",
+        "Facade",
+        "Light Screen",
+        "Silver Wind"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 9,
+        "atk": 9,
+        "def": 25,
+        "spa": 11,
+        "spd": 21,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 72,
+        "def": 40,
+        "spa": 40,
+        "spd": 40,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Cyndaquil",
+      "moves": [
+        "Howl",
+        "Ember",
+        "Secret Power",
+        "Reversal"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 20,
+        "atk": 5,
+        "def": 16,
+        "spa": 10,
+        "spd": 15,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 56,
+        "def": 52,
+        "spa": 88,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

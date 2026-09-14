@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_044",
+  "party": [
+    {
+      "species": "Victreebel",
+      "moves": [
+        "Substitute",
+        "Magical Leaf",
+        "Razor Leaf",
+        "Slam"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 18,
+        "atk": 0,
+        "def": 11,
+        "spa": 6,
+        "spd": 19,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 28,
+        "spa": 20,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jynx",
+      "moves": [
+        "Water Pulse",
+        "Double Team",
+        "Ice Punch",
+        "Skill Swap"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 27,
+        "def": 25,
+        "spa": 18,
+        "spd": 7,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 76,
+        "def": 52,
+        "spa": 52,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Jirachi",
+      "moves": [
+        "Double Edge",
+        "Confusion",
+        "Thunderbolt",
+        "Rest"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 4,
+        "atk": 7,
+        "def": 11,
+        "spa": 7,
+        "spd": 27,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 28,
+        "spa": 24,
+        "spd": 40,
+        "spe": 44
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_019",
+  "party": [
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Secret Power",
+        "Protect",
+        "Lock On",
+        "Octazooka"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 5,
+        "atk": 11,
+        "def": 10,
+        "spa": 27,
+        "spd": 6,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 44,
+        "spa": 64,
+        "spd": 52,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Entei",
+      "moves": [
+        "Flamethrower",
+        "Calm Mind",
+        "Dig",
+        "Protect"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 15,
+        "spa": 22,
+        "spd": 31,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 16,
+        "def": 36,
+        "spa": 48,
+        "spd": 16,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Dig",
+        "Swords Dance",
+        "Ember",
+        "Fire Spin"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 23,
+        "atk": 25,
+        "def": 15,
+        "spa": 30,
+        "spd": 30,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 16,
+        "spa": 20,
+        "spd": 8,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

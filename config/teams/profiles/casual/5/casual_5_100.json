@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_100",
+  "party": [
+    {
+      "species": "Meganium",
+      "moves": [
+        "Razor Leaf",
+        "Cut",
+        "Rock Smash",
+        "Toxic"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 5,
+        "atk": 23,
+        "def": 27,
+        "spa": 6,
+        "spd": 8,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 48,
+        "def": 28,
+        "spa": 48,
+        "spd": 56,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Rain Dance",
+        "Facade",
+        "Tri Attack",
+        "Shock Wave"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 14,
+        "spa": 1,
+        "spd": 30,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 32,
+        "spa": 52,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Ganlon Berry",
+      "level": 50
+    },
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Waterfall",
+        "Hail",
+        "Secret Power",
+        "Water Sport"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 8,
+        "spa": 14,
+        "spd": 18,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 20,
+        "def": 12,
+        "spa": 28,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Thunderbolt",
+        "Double Kick",
+        "Sludge Bomb",
+        "Disable"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 27,
+        "atk": 0,
+        "def": 18,
+        "spa": 28,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 40,
+        "def": 40,
+        "spa": 20,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Teddiursa",
+      "moves": [
+        "Seismic Toss",
+        "Slash",
+        "Metal Claw",
+        "Sleep Talk"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 3,
+        "atk": 29,
+        "def": 28,
+        "spa": 7,
+        "spd": 11,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 8,
+        "def": 48,
+        "spa": 20,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

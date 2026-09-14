@@ -1,0 +1,40 @@
+{
+  "name": "random_1_133",
+  "party": [
+    {
+      "species": "Feraligatr",
+      "moves": [
+        "Silver Wind",
+        "Crush Claw",
+        "Fake Out",
+        "Take Down"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 31,
+        "atk": 14,
+        "def": 29,
+        "spa": 30,
+        "spd": 14,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 44,
+        "def": 48,
+        "spa": 100,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "White Herb",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

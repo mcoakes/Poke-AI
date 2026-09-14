@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_099",
+  "party": [
+    {
+      "species": "Granbull",
+      "moves": [
+        "Take Down",
+        "Smelling Salt",
+        "Rock Tomb",
+        "Heal Bell"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 10,
+        "def": 30,
+        "spa": 28,
+        "spd": 17,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 28,
+        "def": 44,
+        "spa": 60,
+        "spd": 36,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

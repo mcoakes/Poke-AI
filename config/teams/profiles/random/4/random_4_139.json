@@ -1,0 +1,124 @@
+{
+  "name": "random_4_139",
+  "party": [
+    {
+      "species": "Lunatone",
+      "moves": [
+        "Sky Attack",
+        "Conversion 2",
+        "Dragon Rage",
+        "Spike Cannon"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 19,
+        "atk": 24,
+        "def": 20,
+        "spa": 24,
+        "spd": 20,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 24,
+        "spa": 36,
+        "spd": 52,
+        "spe": 72
+      },
+      "held_item": "Sitrus Berry",
+      "level": 50
+    },
+    {
+      "species": "Carvanha",
+      "moves": [
+        "Rollout",
+        "Aerial Ace",
+        "Vice Grip",
+        "Octazooka"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 28,
+        "atk": 10,
+        "def": 12,
+        "spa": 19,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 80,
+        "spa": 60,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Yanma",
+      "moves": [
+        "Minimize",
+        "Poison Powder",
+        "Hypnosis",
+        "Smelling Salt"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 14,
+        "atk": 22,
+        "def": 1,
+        "spa": 16,
+        "spd": 7,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Hydro Pump",
+        "Twister",
+        "Doom Desire",
+        "Conversion"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 6,
+        "atk": 26,
+        "def": 12,
+        "spa": 27,
+        "spd": 14,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 68,
+        "def": 60,
+        "spa": 64,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_133",
+  "party": [
+    {
+      "species": "Dodrio",
+      "moves": [
+        "Substitute",
+        "Thief",
+        "Hyper Beam",
+        "Secret Power"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 30,
+        "atk": 9,
+        "def": 14,
+        "spa": 10,
+        "spd": 10,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 28,
+        "spa": 20,
+        "spd": 16,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

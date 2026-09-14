@@ -1,0 +1,124 @@
+{
+  "name": "random_4_067",
+  "party": [
+    {
+      "species": "Poliwhirl",
+      "moves": [
+        "Poison Powder",
+        "Metronome",
+        "Dragon Rage",
+        "Revenge"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 2,
+        "atk": 6,
+        "def": 6,
+        "spa": 15,
+        "spd": 2,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 32,
+        "spa": 48,
+        "spd": 32,
+        "spe": 24
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Banette",
+      "moves": [
+        "Substitute",
+        "Mud Slap",
+        "Bullet Seed",
+        "Role Play"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 11,
+        "atk": 30,
+        "def": 2,
+        "spa": 21,
+        "spd": 22,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 56,
+        "spa": 68,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran M",
+      "moves": [
+        "Supersonic",
+        "Dragon Claw",
+        "False Swipe",
+        "Ice Beam"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 22,
+        "def": 20,
+        "spa": 16,
+        "spd": 17,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 80,
+        "def": 60,
+        "spa": 60,
+        "spd": 64,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Arbok",
+      "moves": [
+        "Focus Energy",
+        "Nature Power",
+        "Stomp",
+        "Vice Grip"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 16,
+        "atk": 14,
+        "def": 27,
+        "spa": 30,
+        "spd": 18,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 4,
+        "def": 0,
+        "spa": 4,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

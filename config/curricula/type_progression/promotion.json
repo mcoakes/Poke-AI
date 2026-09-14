@@ -1,0 +1,7 @@
+{
+  "current_win_rate": 0.6,
+  "expanded_win_rate": 0.55,
+  "incoming_win_rate": 0.5,
+  "max_regression": 0.03,
+  "max_truncation_rate": 0.01
+}

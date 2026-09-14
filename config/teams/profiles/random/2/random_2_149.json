@@ -1,0 +1,68 @@
+{
+  "name": "random_2_149",
+  "party": [
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Self Destruct",
+        "Skull Bash",
+        "Thunderbolt",
+        "Double Team"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 26,
+        "atk": 23,
+        "def": 15,
+        "spa": 16,
+        "spd": 0,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 52,
+        "spa": 40,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Assist",
+        "Mean Look",
+        "Calm Mind",
+        "Weather Ball"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 9,
+        "atk": 20,
+        "def": 5,
+        "spa": 20,
+        "spd": 30,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 76,
+        "spa": 44,
+        "spd": 64,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_021",
+  "party": [
+    {
+      "species": "Porygon2",
+      "moves": [
+        "Mimic",
+        "Psychic",
+        "Shock Wave",
+        "Tri Attack"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 17,
+        "atk": 7,
+        "def": 8,
+        "spa": 26,
+        "spd": 16,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 40,
+        "def": 36,
+        "spa": 16,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Illumise",
+      "moves": [
+        "Moonlight",
+        "Quick Attack",
+        "Tackle",
+        "Silver Wind"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 18,
+        "atk": 22,
+        "def": 17,
+        "spa": 24,
+        "spd": 10,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 20,
+        "spa": 20,
+        "spd": 32,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Rain Dance",
+        "Waterfall",
+        "Uproar",
+        "Hydro Pump"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 19,
+        "atk": 28,
+        "def": 17,
+        "spa": 15,
+        "spd": 4,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 72,
+        "spa": 76,
+        "spd": 56,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Venonat",
+      "moves": [
+        "Supersonic",
+        "Psychic",
+        "Sludge Bomb",
+        "Giga Drain"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 5,
+        "atk": 12,
+        "def": 0,
+        "spa": 11,
+        "spd": 29,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 4,
+        "spa": 32,
+        "spd": 16,
+        "spe": 12
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Rock Slide",
+        "Sunny Day",
+        "Withdraw",
+        "Strength"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 2,
+        "atk": 12,
+        "def": 12,
+        "spa": 19,
+        "spd": 18,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 32,
+        "spa": 20,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

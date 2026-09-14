@@ -1,0 +1,124 @@
+{
+  "name": "random_4_116",
+  "party": [
+    {
+      "species": "Sealeo",
+      "moves": [
+        "Snatch",
+        "Nature Power",
+        "Meditate",
+        "Water Sport"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 15,
+        "atk": 23,
+        "def": 12,
+        "spa": 8,
+        "spd": 31,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 56,
+        "def": 44,
+        "spa": 28,
+        "spd": 60,
+        "spe": 40
+      },
+      "held_item": "Black Belt",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Disable",
+        "Ember",
+        "Bounce",
+        "Dream Eater"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 3,
+        "atk": 18,
+        "def": 29,
+        "spa": 15,
+        "spd": 31,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 40,
+        "spa": 72,
+        "spd": 100,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Meowth",
+      "moves": [
+        "Water Gun",
+        "Barrage",
+        "Wish",
+        "Thunder Punch"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 21,
+        "atk": 20,
+        "def": 9,
+        "spa": 1,
+        "spd": 6,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 92,
+        "def": 80,
+        "spa": 56,
+        "spd": 84,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Spider Web",
+        "Kinesis",
+        "Magnitude",
+        "Thief"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 25,
+        "atk": 20,
+        "def": 8,
+        "spa": 29,
+        "spd": 14,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 92,
+        "def": 84,
+        "spa": 88,
+        "spd": 60,
+        "spe": 96
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

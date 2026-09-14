@@ -1,0 +1,124 @@
+{
+  "name": "random_4_044",
+  "party": [
+    {
+      "species": "Masquerain",
+      "moves": [
+        "Double Kick",
+        "Focus Punch",
+        "Reflect",
+        "Hyper Beam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 12,
+        "atk": 11,
+        "def": 0,
+        "spa": 26,
+        "spd": 10,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Apicot Berry",
+      "level": 50
+    },
+    {
+      "species": "Ralts",
+      "moves": [
+        "Outrage",
+        "Triple Kick",
+        "Slash",
+        "Bite"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 17,
+        "atk": 5,
+        "def": 3,
+        "spa": 27,
+        "spd": 16,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 52,
+        "def": 60,
+        "spa": 52,
+        "spd": 44,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Croconaw",
+      "moves": [
+        "Baton Pass",
+        "Ancient Power",
+        "Super Fang",
+        "Crush Claw"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 20,
+        "def": 25,
+        "spa": 8,
+        "spd": 27,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 60,
+        "def": 60,
+        "spa": 96,
+        "spd": 84,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Chikorita",
+      "moves": [
+        "Knock Off",
+        "Roar",
+        "Swagger",
+        "Thrash"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 25,
+        "atk": 31,
+        "def": 5,
+        "spa": 29,
+        "spd": 19,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 36,
+        "def": 52,
+        "spa": 36,
+        "spd": 24,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

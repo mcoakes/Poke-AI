@@ -1,0 +1,96 @@
+{
+  "name": "random_3_077",
+  "party": [
+    {
+      "species": "Aggron",
+      "moves": [
+        "Ingrain",
+        "Bubble Beam",
+        "Peck",
+        "Razor Wind"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 24,
+        "atk": 13,
+        "def": 30,
+        "spa": 18,
+        "spd": 27,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "Quick Claw",
+      "level": 50
+    },
+    {
+      "species": "Lanturn",
+      "moves": [
+        "Focus Energy",
+        "Detect",
+        "Smelling Salt",
+        "Poison Tail"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 29,
+        "atk": 6,
+        "def": 9,
+        "spa": 23,
+        "spd": 5,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 64,
+        "spa": 44,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Gengar",
+      "moves": [
+        "Bubble Beam",
+        "Sharpen",
+        "Explosion",
+        "Bone Club"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 11,
+        "atk": 26,
+        "def": 8,
+        "spa": 4,
+        "spd": 6,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 8,
+        "def": 16,
+        "spa": 24,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

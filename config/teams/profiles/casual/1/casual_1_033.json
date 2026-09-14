@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_033",
+  "party": [
+    {
+      "species": "Scizor",
+      "moves": [
+        "Baton Pass",
+        "Thief",
+        "Silver Wind",
+        "Swords Dance"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 18,
+        "atk": 11,
+        "def": 18,
+        "spa": 8,
+        "spd": 3,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 20,
+        "def": 36,
+        "spa": 36,
+        "spd": 48,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

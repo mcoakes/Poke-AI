@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_119",
+  "party": [
+    {
+      "species": "Diglett",
+      "moves": [
+        "Earthquake",
+        "Attract",
+        "Rest",
+        "Rock Tomb"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 5,
+        "spa": 24,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 64,
+        "spa": 32,
+        "spd": 68,
+        "spe": 72
+      },
+      "held_item": "Chesto Berry",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Protect",
+        "Psychic",
+        "Water Pulse",
+        "Sludge Bomb"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 17,
+        "atk": 30,
+        "def": 22,
+        "spa": 19,
+        "spd": 2,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 36,
+        "def": 100,
+        "spa": 64,
+        "spd": 60,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Marill",
+      "moves": [
+        "Substitute",
+        "Dive",
+        "Bubble Beam",
+        "Strength"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 20,
+        "def": 5,
+        "spa": 24,
+        "spd": 4,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 24,
+        "def": 48,
+        "spa": 76,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Charcoal",
+      "level": 50
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Water Pulse",
+        "Thrash",
+        "Thunder Wave",
+        "Rock Smash"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 1,
+        "atk": 30,
+        "def": 15,
+        "spa": 25,
+        "spd": 23,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 68,
+        "def": 52,
+        "spa": 48,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Dig",
+        "Thunder Wave",
+        "Bite",
+        "Aerial Ace"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 12,
+        "atk": 24,
+        "def": 0,
+        "spa": 13,
+        "spd": 5,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 28,
+        "def": 36,
+        "spa": 20,
+        "spd": 36,
+        "spe": 12
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

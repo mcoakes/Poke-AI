@@ -1,0 +1,180 @@
+{
+  "name": "random_6_075",
+  "party": [
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Hydro Pump",
+        "Zap Cannon",
+        "Double Team",
+        "Thief"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 1,
+        "atk": 19,
+        "def": 8,
+        "spa": 22,
+        "spd": 4,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 36,
+        "spa": 24,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Electrike",
+      "moves": [
+        "Toxic",
+        "Beat Up",
+        "Flamethrower",
+        "Destiny Bond"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 16,
+        "atk": 19,
+        "def": 8,
+        "spa": 17,
+        "spd": 29,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 92,
+        "def": 72,
+        "spa": 132,
+        "spd": 76,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Dragonair",
+      "moves": [
+        "Will O Wisp",
+        "Outrage",
+        "Present",
+        "Flatter"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 25,
+        "atk": 15,
+        "def": 5,
+        "spa": 30,
+        "spd": 22,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 40,
+        "spa": 20,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Growth",
+        "Meteor Mash",
+        "Acid Armor",
+        "Ice Punch"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 0,
+        "spa": 2,
+        "spd": 21,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 100,
+        "def": 72,
+        "spa": 76,
+        "spd": 96,
+        "spe": 84
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Elekid",
+      "moves": [
+        "Conversion",
+        "Hydro Cannon",
+        "Rage",
+        "Splash"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 0,
+        "atk": 15,
+        "def": 21,
+        "spa": 22,
+        "spd": 0,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 72,
+        "spa": 72,
+        "spd": 52,
+        "spe": 64
+      },
+      "held_item": "Focus Band",
+      "level": 50
+    },
+    {
+      "species": "Gastly",
+      "moves": [
+        "Whirlwind",
+        "Destiny Bond",
+        "Bone Club",
+        "Counter"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 2,
+        "atk": 9,
+        "def": 8,
+        "spa": 14,
+        "spd": 6,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 4,
+        "spa": 16,
+        "spd": 28,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

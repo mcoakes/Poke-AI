@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_069",
+  "party": [
+    {
+      "species": "Mawile",
+      "moves": [
+        "Ice Beam",
+        "Swallow",
+        "Brick Break",
+        "Taunt"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 5,
+        "atk": 11,
+        "def": 21,
+        "spa": 16,
+        "spd": 25,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 20,
+        "spa": 36,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Torkoal",
+      "moves": [
+        "Flamethrower",
+        "Amnesia",
+        "Secret Power",
+        "Attract"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 15,
+        "atk": 20,
+        "def": 5,
+        "spa": 12,
+        "spd": 13,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 32,
+        "def": 52,
+        "spa": 16,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Black Glasses",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

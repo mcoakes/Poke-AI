@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_131",
+  "party": [
+    {
+      "species": "Nidorina",
+      "moves": [
+        "Helping Hand",
+        "Sludge Bomb",
+        "Ice Beam",
+        "Charm"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 30,
+        "def": 18,
+        "spa": 13,
+        "spd": 16,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 68,
+        "spa": 28,
+        "spd": 32,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Graveler",
+      "moves": [
+        "Rock Tomb",
+        "Rest",
+        "Secret Power",
+        "Rock Slide"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 12,
+        "spa": 24,
+        "spd": 1,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 20,
+        "def": 20,
+        "spa": 48,
+        "spd": 32,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Claydol",
+      "moves": [
+        "Confusion",
+        "Rain Dance",
+        "Earthquake",
+        "Mimic"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 18,
+        "atk": 12,
+        "def": 29,
+        "spa": 11,
+        "spd": 7,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 72,
+        "def": 52,
+        "spa": 32,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sunkern",
+      "moves": [
+        "Frustration",
+        "Facade",
+        "Mega Drain",
+        "Light Screen"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 18,
+        "atk": 7,
+        "def": 19,
+        "spa": 29,
+        "spd": 17,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 28,
+        "spa": 28,
+        "spd": 64,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Confuse Ray",
+        "Body Slam",
+        "Sand Attack",
+        "Rock Tomb"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 12,
+        "def": 14,
+        "spa": 19,
+        "spd": 0,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 56,
+        "def": 48,
+        "spa": 56,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Mimic",
+        "Earthquake",
+        "Faint Attack",
+        "Rock Tomb"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 7,
+        "spa": 5,
+        "spd": 1,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 32,
+        "def": 32,
+        "spa": 20,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

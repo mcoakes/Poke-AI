@@ -1,0 +1,40 @@
+{
+  "name": "random_1_112",
+  "party": [
+    {
+      "species": "Omastar",
+      "moves": [
+        "Bone Club",
+        "Protect",
+        "Defense Curl",
+        "Poison Sting"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 8,
+        "atk": 26,
+        "def": 19,
+        "spa": 13,
+        "spd": 7,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 20,
+        "def": 24,
+        "spa": 28,
+        "spd": 24,
+        "spe": 28
+      },
+      "held_item": "Iapapa Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

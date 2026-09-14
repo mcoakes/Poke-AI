@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_110",
+  "party": [
+    {
+      "species": "Latios",
+      "moves": [
+        "Rest",
+        "Dragon Breath",
+        "Earthquake",
+        "Shadow Ball"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 16,
+        "atk": 3,
+        "def": 19,
+        "spa": 22,
+        "spd": 3,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 44,
+        "def": 56,
+        "spa": 68,
+        "spd": 68,
+        "spe": 76
+      },
+      "held_item": "Starf Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

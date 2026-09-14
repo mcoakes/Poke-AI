@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_014",
+  "party": [
+    {
+      "species": "Breloom",
+      "moves": [
+        "Sky Uppercut",
+        "Secret Power",
+        "Charm",
+        "Fake Tears"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 26,
+        "atk": 10,
+        "def": 11,
+        "spa": 5,
+        "spd": 23,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 52,
+        "spa": 52,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

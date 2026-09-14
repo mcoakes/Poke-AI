@@ -1,0 +1,180 @@
+{
+  "name": "random_6_137",
+  "party": [
+    {
+      "species": "Machamp",
+      "moves": [
+        "Hydro Cannon",
+        "Superpower",
+        "Stomp",
+        "Blizzard"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 13,
+        "def": 22,
+        "spa": 28,
+        "spd": 28,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 80,
+        "def": 72,
+        "spa": 52,
+        "spd": 96,
+        "spe": 72
+      },
+      "held_item": "Sharp Beak",
+      "level": 50
+    },
+    {
+      "species": "Venomoth",
+      "moves": [
+        "Giga Drain",
+        "Transform",
+        "Spore",
+        "Vice Grip"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 0,
+        "atk": 25,
+        "def": 26,
+        "spa": 3,
+        "spd": 6,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 60,
+        "def": 112,
+        "spa": 52,
+        "spd": 72,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Clefable",
+      "moves": [
+        "Thunder Wave",
+        "Feather Dance",
+        "Fake Tears",
+        "Self Destruct"
+      ],
+      "nature": "Calm",
+      "ivs": {
+        "hp": 3,
+        "atk": 31,
+        "def": 5,
+        "spa": 9,
+        "spd": 9,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 72,
+        "def": 68,
+        "spa": 40,
+        "spd": 36,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Submission",
+        "Dig",
+        "Calm Mind",
+        "Double Kick"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 30,
+        "atk": 6,
+        "def": 16,
+        "spa": 10,
+        "spd": 27,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 44,
+        "def": 44,
+        "spa": 44,
+        "spd": 56,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Ursaring",
+      "moves": [
+        "Dive",
+        "Horn Drill",
+        "Role Play",
+        "Constrict"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 4,
+        "atk": 5,
+        "def": 21,
+        "spa": 23,
+        "spd": 27,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 88,
+        "def": 48,
+        "spa": 100,
+        "spd": 84,
+        "spe": 64
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Noctowl",
+      "moves": [
+        "Heal Bell",
+        "Quick Attack",
+        "Heat Wave",
+        "Bulk Up"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 1,
+        "atk": 15,
+        "def": 23,
+        "spa": 31,
+        "spd": 30,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 48,
+        "def": 80,
+        "spa": 68,
+        "spd": 64,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

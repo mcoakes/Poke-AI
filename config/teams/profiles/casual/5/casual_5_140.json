@@ -1,0 +1,152 @@
+{
+  "name": "casual_5_140",
+  "party": [
+    {
+      "species": "Zapdos",
+      "moves": [
+        "Aerial Ace",
+        "Hidden Power",
+        "Agility",
+        "Thunder Shock"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 14,
+        "atk": 29,
+        "def": 12,
+        "spa": 20,
+        "spd": 2,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 40,
+        "def": 32,
+        "spa": 24,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Brick Break",
+        "Body Slam",
+        "Crunch",
+        "Torment"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 7,
+        "spa": 15,
+        "spd": 31,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 80,
+        "def": 56,
+        "spa": 48,
+        "spd": 44,
+        "spe": 56
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Clefairy",
+      "moves": [
+        "Flash",
+        "Water Pulse",
+        "Mega Punch",
+        "Moonlight"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 8,
+        "spa": 8,
+        "spd": 18,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 20,
+        "def": 8,
+        "spa": 28,
+        "spd": 12,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Moltres",
+      "moves": [
+        "Agility",
+        "Aerial Ace",
+        "Flamethrower",
+        "Steel Wing"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 17,
+        "atk": 15,
+        "def": 3,
+        "spa": 0,
+        "spd": 16,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 40,
+        "def": 68,
+        "spa": 64,
+        "spd": 20,
+        "spe": 52
+      },
+      "held_item": "Never Melt Ice",
+      "level": 50
+    },
+    {
+      "species": "Feebas",
+      "moves": [
+        "Confuse Ray",
+        "Double Team",
+        "Secret Power",
+        "Waterfall"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 1,
+        "atk": 4,
+        "def": 23,
+        "spa": 10,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 56,
+        "spa": 48,
+        "spd": 84,
+        "spe": 32
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 21265961,
+    "archetype": "casual"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "casual_6_074",
+  "party": [
+    {
+      "species": "Slowking",
+      "moves": [
+        "Mimic",
+        "Flamethrower",
+        "Psychic",
+        "Counter"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 2,
+        "spa": 31,
+        "spd": 14,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 32,
+        "def": 20,
+        "spa": 36,
+        "spd": 28,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Remoraid",
+      "moves": [
+        "Facade",
+        "Rest",
+        "Waterfall",
+        "Thief"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 5,
+        "atk": 6,
+        "def": 4,
+        "spa": 4,
+        "spd": 29,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 48,
+        "def": 88,
+        "spa": 64,
+        "spd": 80,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Haunter",
+      "moves": [
+        "Dream Eater",
+        "Shadow Punch",
+        "Nightmare",
+        "Hypnosis"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 8,
+        "atk": 15,
+        "def": 17,
+        "spa": 24,
+        "spd": 1,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 40,
+        "def": 36,
+        "spa": 32,
+        "spd": 36,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Drowzee",
+      "moves": [
+        "Psychic",
+        "Secret Power",
+        "Mega Kick",
+        "Sunny Day"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 17,
+        "atk": 17,
+        "def": 3,
+        "spa": 8,
+        "spd": 10,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 56,
+        "def": 104,
+        "spa": 76,
+        "spd": 48,
+        "spe": 72
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Porygon",
+      "moves": [
+        "Recycle",
+        "Aerial Ace",
+        "Secret Power",
+        "Lock On"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 22,
+        "def": 30,
+        "spa": 2,
+        "spd": 11,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 44,
+        "def": 32,
+        "spa": 28,
+        "spd": 48,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Pupitar",
+      "moves": [
+        "Pursuit",
+        "Body Slam",
+        "Substitute",
+        "Ancient Power"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 21,
+        "atk": 21,
+        "def": 29,
+        "spa": 7,
+        "spd": 14,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 0,
+        "def": 12,
+        "spa": 16,
+        "spd": 8,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 21266970,
+    "archetype": "casual"
+  }
+}

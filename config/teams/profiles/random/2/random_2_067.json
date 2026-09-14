@@ -1,0 +1,68 @@
+{
+  "name": "random_2_067",
+  "party": [
+    {
+      "species": "Magneton",
+      "moves": [
+        "Destiny Bond",
+        "Pain Split",
+        "Mist",
+        "Outrage"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 6,
+        "atk": 27,
+        "def": 12,
+        "spa": 29,
+        "spd": 0,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 64,
+        "def": 28,
+        "spa": 36,
+        "spd": 40,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Wish",
+        "Doom Desire",
+        "Wing Attack",
+        "Wrap"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 17,
+        "atk": 18,
+        "def": 3,
+        "spa": 18,
+        "spd": 23,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 72,
+        "def": 72,
+        "spa": 88,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Pecha Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

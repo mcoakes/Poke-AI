@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_027",
+  "party": [
+    {
+      "species": "Aerodactyl",
+      "moves": [
+        "Sunny Day",
+        "Strength",
+        "Fly",
+        "Dragon Claw"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 7,
+        "atk": 22,
+        "def": 1,
+        "spa": 26,
+        "spd": 0,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 52,
+        "def": 52,
+        "spa": 40,
+        "spd": 48,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Voltorb",
+      "moves": [
+        "Thunder Wave",
+        "Facade",
+        "Thunderbolt",
+        "Protect"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 4,
+        "atk": 29,
+        "def": 19,
+        "spa": 11,
+        "spd": 2,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 56,
+        "def": 56,
+        "spa": 32,
+        "spd": 68,
+        "spe": 60
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    },
+    {
+      "species": "Ledian",
+      "moves": [
+        "Protect",
+        "Psybeam",
+        "Tackle",
+        "Silver Wind"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 5,
+        "atk": 2,
+        "def": 31,
+        "spa": 9,
+        "spd": 25,
+        "spe": 19
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 68,
+        "spa": 28,
+        "spd": 80,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Butterfree",
+      "moves": [
+        "Shadow Ball",
+        "Poison Powder",
+        "Silver Wind",
+        "Rain Dance"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 3,
+        "atk": 15,
+        "def": 25,
+        "spa": 22,
+        "spd": 30,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 16,
+        "spa": 16,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

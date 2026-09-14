@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_132",
+  "party": [
+    {
+      "species": "Registeel",
+      "moves": [
+        "Metal Claw",
+        "Substitute",
+        "Secret Power",
+        "Curse"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 7,
+        "atk": 3,
+        "def": 0,
+        "spa": 29,
+        "spd": 31,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 76,
+        "spa": 32,
+        "spd": 52,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmeleon",
+      "moves": [
+        "Toxic",
+        "Ember",
+        "Rock Smash",
+        "Strength"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 2,
+        "atk": 6,
+        "def": 4,
+        "spa": 17,
+        "spd": 3,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 24,
+        "def": 24,
+        "spa": 28,
+        "spd": 20,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Spinda",
+      "moves": [
+        "Water Pulse",
+        "Body Slam",
+        "Smelling Salt",
+        "Sunny Day"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 8,
+        "atk": 23,
+        "def": 4,
+        "spa": 13,
+        "spd": 30,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 52,
+        "spa": 36,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

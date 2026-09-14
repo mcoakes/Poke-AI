@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_096",
+  "party": [
+    {
+      "species": "Barboach",
+      "moves": [
+        "Ice Beam",
+        "Spark",
+        "Waterfall",
+        "Mimic"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 23,
+        "atk": 15,
+        "def": 9,
+        "spa": 23,
+        "spd": 0,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 36,
+        "def": 72,
+        "spa": 36,
+        "spd": 60,
+        "spe": 76
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Numel",
+      "moves": [
+        "Earthquake",
+        "Ember",
+        "Amnesia",
+        "Tackle"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 4,
+        "atk": 12,
+        "def": 16,
+        "spa": 30,
+        "spd": 7,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 24,
+        "def": 32,
+        "spa": 32,
+        "spd": 52,
+        "spe": 8
+      },
+      "held_item": "Scope Lens",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

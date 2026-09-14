@@ -1,0 +1,68 @@
+{
+  "name": "random_2_123",
+  "party": [
+    {
+      "species": "Skarmory",
+      "moves": [
+        "Giga Drain",
+        "Air Cutter",
+        "Magical Leaf",
+        "Blast Burn"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 13,
+        "spa": 23,
+        "spd": 18,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 108,
+        "def": 92,
+        "spa": 72,
+        "spd": 56,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rayquaza",
+      "moves": [
+        "Bounce",
+        "Bubble",
+        "Stun Spore",
+        "Outrage"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 14,
+        "atk": 6,
+        "def": 12,
+        "spa": 6,
+        "spd": 8,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 52,
+        "def": 84,
+        "spa": 72,
+        "spd": 44,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

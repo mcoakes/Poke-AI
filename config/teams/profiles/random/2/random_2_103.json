@@ -1,0 +1,68 @@
+{
+  "name": "random_2_103",
+  "party": [
+    {
+      "species": "Hypno",
+      "moves": [
+        "Seismic Toss",
+        "Pursuit",
+        "Reversal",
+        "Role Play"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 10,
+        "atk": 13,
+        "def": 25,
+        "spa": 11,
+        "spd": 3,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 4,
+        "def": 4,
+        "spa": 8,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Latias",
+      "moves": [
+        "Aerial Ace",
+        "Haze",
+        "Fly",
+        "Outrage"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 12,
+        "atk": 21,
+        "def": 19,
+        "spa": 6,
+        "spd": 27,
+        "spe": 17
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 40,
+        "def": 52,
+        "spa": 80,
+        "spd": 72,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

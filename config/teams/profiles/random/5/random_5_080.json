@@ -1,0 +1,152 @@
+{
+  "name": "random_5_080",
+  "party": [
+    {
+      "species": "Elekid",
+      "moves": [
+        "Ember",
+        "Petal Dance",
+        "Quick Attack",
+        "Rock Smash"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 5,
+        "atk": 15,
+        "def": 2,
+        "spa": 26,
+        "spd": 30,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 32,
+        "def": 56,
+        "spa": 36,
+        "spd": 56,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Shuckle",
+      "moves": [
+        "Meditate",
+        "Surf",
+        "Stun Spore",
+        "Water Pulse"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 14,
+        "atk": 11,
+        "def": 8,
+        "spa": 29,
+        "spd": 10,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 48,
+        "def": 24,
+        "spa": 28,
+        "spd": 36,
+        "spe": 44
+      },
+      "held_item": "Aspear Berry",
+      "level": 50
+    },
+    {
+      "species": "Weepinbell",
+      "moves": [
+        "Harden",
+        "Tail Glow",
+        "Hail",
+        "Sing"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 17,
+        "atk": 2,
+        "def": 5,
+        "spa": 10,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 12,
+        "def": 36,
+        "spa": 12,
+        "spd": 24,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Charmander",
+      "moves": [
+        "Snore",
+        "Skill Swap",
+        "Luster Purge",
+        "Morning Sun"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 19,
+        "atk": 9,
+        "def": 20,
+        "spa": 3,
+        "spd": 8,
+        "spe": 11
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 96,
+        "spa": 92,
+        "spd": 92,
+        "spe": 64
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Poison Gas",
+        "Knock Off",
+        "Cotton Spore",
+        "Extreme Speed"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 26,
+        "atk": 18,
+        "def": 27,
+        "spa": 4,
+        "spd": 21,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 20,
+        "def": 36,
+        "spa": 20,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Mago Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

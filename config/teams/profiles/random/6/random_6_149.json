@@ -1,0 +1,180 @@
+{
+  "name": "random_6_149",
+  "party": [
+    {
+      "species": "Dusclops",
+      "moves": [
+        "Bounce",
+        "Stun Spore",
+        "Hyper Fang",
+        "String Shot"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 22,
+        "atk": 12,
+        "def": 27,
+        "spa": 21,
+        "spd": 27,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 8,
+        "def": 8,
+        "spa": 4,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Stantler",
+      "moves": [
+        "Psychic",
+        "Vital Throw",
+        "Rock Blast",
+        "Hyper Fang"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 12,
+        "atk": 12,
+        "def": 9,
+        "spa": 24,
+        "spd": 28,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 52,
+        "def": 60,
+        "spa": 88,
+        "spd": 44,
+        "spe": 76
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Oddish",
+      "moves": [
+        "Thunder Wave",
+        "Mega Punch",
+        "Kinesis",
+        "Air Cutter"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 17,
+        "def": 31,
+        "spa": 14,
+        "spd": 31,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 96,
+        "def": 92,
+        "spa": 56,
+        "spd": 56,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nincada",
+      "moves": [
+        "Arm Thrust",
+        "Magnitude",
+        "Lick",
+        "Extrasensory"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 6,
+        "spa": 24,
+        "spd": 9,
+        "spe": 9
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Skitty",
+      "moves": [
+        "Rock Blast",
+        "Frenzy Plant",
+        "Milk Drink",
+        "Giga Drain"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 31,
+        "spa": 20,
+        "spd": 7,
+        "spe": 18
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 60,
+        "def": 68,
+        "spa": 88,
+        "spd": 88,
+        "spe": 72
+      },
+      "held_item": "Dragon Scale",
+      "level": 50
+    },
+    {
+      "species": "Ledyba",
+      "moves": [
+        "Fury Swipes",
+        "Heal Bell",
+        "Waterfall",
+        "Brick Break"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 15,
+        "atk": 17,
+        "def": 25,
+        "spa": 9,
+        "spd": 24,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 68,
+        "def": 52,
+        "spa": 24,
+        "spd": 32,
+        "spe": 40
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

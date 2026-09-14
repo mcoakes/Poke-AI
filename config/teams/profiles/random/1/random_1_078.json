@@ -1,0 +1,40 @@
+{
+  "name": "random_1_078",
+  "party": [
+    {
+      "species": "Bagon",
+      "moves": [
+        "Leech Life",
+        "Perish Song",
+        "Sky Attack",
+        "Charm"
+      ],
+      "nature": "Lonely",
+      "ivs": {
+        "hp": 10,
+        "atk": 5,
+        "def": 13,
+        "spa": 5,
+        "spd": 8,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 12,
+        "def": 36,
+        "spa": 8,
+        "spd": 12,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

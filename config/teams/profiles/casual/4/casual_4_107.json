@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_107",
+  "party": [
+    {
+      "species": "Onix",
+      "moves": [
+        "Dig",
+        "Strength",
+        "Rest",
+        "Rock Slide"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 11,
+        "atk": 26,
+        "def": 4,
+        "spa": 25,
+        "spd": 31,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 56,
+        "def": 72,
+        "spa": 44,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Delibird",
+      "moves": [
+        "Facade",
+        "Seismic Toss",
+        "Ice Beam",
+        "Attract"
+      ],
+      "nature": "Hasty",
+      "ivs": {
+        "hp": 1,
+        "atk": 14,
+        "def": 12,
+        "spa": 4,
+        "spd": 1,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 20,
+        "def": 36,
+        "spa": 36,
+        "spd": 36,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Tauros",
+      "moves": [
+        "Mimic",
+        "Secret Power",
+        "Swagger",
+        "Earthquake"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 29,
+        "atk": 1,
+        "def": 2,
+        "spa": 20,
+        "spd": 5,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 48,
+        "def": 16,
+        "spa": 44,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Squirtle",
+      "moves": [
+        "Water Gun",
+        "Ice Beam",
+        "Hidden Power",
+        "Mist"
+      ],
+      "nature": "Mild",
+      "ivs": {
+        "hp": 12,
+        "atk": 28,
+        "def": 7,
+        "spa": 22,
+        "spd": 26,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 36,
+        "def": 44,
+        "spa": 108,
+        "spd": 44,
+        "spe": 40
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

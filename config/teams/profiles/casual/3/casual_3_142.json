@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_142",
+  "party": [
+    {
+      "species": "Latios",
+      "moves": [
+        "Protect",
+        "Shadow Ball",
+        "Psychic",
+        "Rain Dance"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 9,
+        "atk": 18,
+        "def": 21,
+        "spa": 26,
+        "spd": 22,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 52,
+        "spa": 44,
+        "spd": 52,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Sunflora",
+      "moves": [
+        "Mega Drain",
+        "Swords Dance",
+        "Double Edge",
+        "Sludge Bomb"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 22,
+        "atk": 29,
+        "def": 16,
+        "spa": 0,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 8,
+        "def": 28,
+        "spa": 12,
+        "spd": 12,
+        "spe": 8
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Ponyta",
+      "moves": [
+        "Frustration",
+        "Facade",
+        "Mimic",
+        "Ember"
+      ],
+      "nature": "Docile",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 8,
+        "spa": 17,
+        "spd": 24,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 76,
+        "def": 76,
+        "spa": 44,
+        "spd": 60,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

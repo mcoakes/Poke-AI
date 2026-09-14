@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_108",
+  "party": [
+    {
+      "species": "Mr Mime",
+      "moves": [
+        "Dream Eater",
+        "Psychic",
+        "Substitute",
+        "Magical Leaf"
+      ],
+      "nature": "Timid",
+      "ivs": {
+        "hp": 12,
+        "atk": 13,
+        "def": 8,
+        "spa": 28,
+        "spd": 5,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 28,
+        "def": 40,
+        "spa": 32,
+        "spd": 36,
+        "spe": 28
+      },
+      "held_item": "Twisted Spoon",
+      "level": 50
+    },
+    {
+      "species": "Sentret",
+      "moves": [
+        "Slash",
+        "Scratch",
+        "Follow Me",
+        "Pursuit"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 22,
+        "atk": 2,
+        "def": 13,
+        "spa": 15,
+        "spd": 26,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 36,
+        "def": 44,
+        "spa": 36,
+        "spd": 36,
+        "spe": 36
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Blizzard",
+        "Surf",
+        "Toxic",
+        "Earthquake"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 26,
+        "atk": 29,
+        "def": 9,
+        "spa": 2,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 48,
+        "def": 40,
+        "spa": 60,
+        "spd": 44,
+        "spe": 60
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Surf",
+        "Mist",
+        "Mud Sport",
+        "Ice Beam"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 5,
+        "atk": 26,
+        "def": 26,
+        "spa": 10,
+        "spd": 11,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 68,
+        "spa": 32,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Up Grade",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

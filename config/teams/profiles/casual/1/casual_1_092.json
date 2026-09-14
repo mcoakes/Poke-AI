@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_092",
+  "party": [
+    {
+      "species": "Yanma",
+      "moves": [
+        "Rest",
+        "Facade",
+        "Wing Attack",
+        "Psychic"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 19,
+        "atk": 28,
+        "def": 2,
+        "spa": 27,
+        "spd": 14,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 40,
+        "spa": 20,
+        "spd": 40,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

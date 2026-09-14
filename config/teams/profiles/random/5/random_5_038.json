@@ -1,0 +1,152 @@
+{
+  "name": "random_5_038",
+  "party": [
+    {
+      "species": "Latias",
+      "moves": [
+        "Mean Look",
+        "Feather Dance",
+        "Skull Bash",
+        "Submission"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 8,
+        "atk": 30,
+        "def": 28,
+        "spa": 5,
+        "spd": 12,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 64,
+        "def": 64,
+        "spa": 52,
+        "spd": 52,
+        "spe": 76
+      },
+      "held_item": "Wiki Berry",
+      "level": 50
+    },
+    {
+      "species": "Koffing",
+      "moves": [
+        "Hypnosis",
+        "Role Play",
+        "Bullet Seed",
+        "Sonic Boom"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 18,
+        "atk": 12,
+        "def": 2,
+        "spa": 11,
+        "spd": 21,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 72,
+        "def": 20,
+        "spa": 24,
+        "spd": 48,
+        "spe": 40
+      },
+      "held_item": "Persim Berry",
+      "level": 50
+    },
+    {
+      "species": "Meganium",
+      "moves": [
+        "Blaze Kick",
+        "Cosmic Power",
+        "Swallow",
+        "Submission"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 7,
+        "atk": 5,
+        "def": 25,
+        "spa": 2,
+        "spd": 14,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 8,
+        "def": 12,
+        "spa": 28,
+        "spd": 24,
+        "spe": 20
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Hyper Fang",
+        "Splash",
+        "Lock On",
+        "Rain Dance"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 16,
+        "atk": 26,
+        "def": 3,
+        "spa": 5,
+        "spd": 6,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 32,
+        "def": 16,
+        "spa": 12,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Oran Berry",
+      "level": 50
+    },
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Weather Ball",
+        "Hidden Power",
+        "Tail Glow",
+        "Spore"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 22,
+        "atk": 2,
+        "def": 12,
+        "spa": 28,
+        "spd": 10,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 84,
+        "def": 92,
+        "spa": 68,
+        "spd": 48,
+        "spe": 60
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "casual_2_105",
+  "party": [
+    {
+      "species": "Seedot",
+      "moves": [
+        "Sunny Day",
+        "Body Slam",
+        "Giga Drain",
+        "Mimic"
+      ],
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 6,
+        "def": 9,
+        "spa": 6,
+        "spd": 6,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 60,
+        "def": 40,
+        "spa": 48,
+        "spd": 52,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Rhydon",
+      "moves": [
+        "Crunch",
+        "Swords Dance",
+        "Dig",
+        "Thunder"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 23,
+        "atk": 14,
+        "def": 5,
+        "spa": 30,
+        "spd": 6,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 16,
+        "def": 52,
+        "spa": 24,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 21262934,
+    "archetype": "casual"
+  }
+}

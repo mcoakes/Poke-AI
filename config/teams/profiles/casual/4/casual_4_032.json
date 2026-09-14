@@ -1,0 +1,124 @@
+{
+  "name": "casual_4_032",
+  "party": [
+    {
+      "species": "Numel",
+      "moves": [
+        "Ember",
+        "Take Down",
+        "Defense Curl",
+        "Fire Blast"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 20,
+        "spa": 9,
+        "spd": 9,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 36,
+        "spa": 64,
+        "spd": 48,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Poliwrath",
+      "moves": [
+        "Splash",
+        "Thief",
+        "Surf",
+        "Rock Smash"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 0,
+        "atk": 24,
+        "def": 1,
+        "spa": 3,
+        "spd": 17,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 36,
+        "spa": 44,
+        "spd": 44,
+        "spe": 28
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bulbasaur",
+      "moves": [
+        "Sludge Bomb",
+        "Body Slam",
+        "Sunny Day",
+        "Giga Drain"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 28,
+        "atk": 3,
+        "def": 29,
+        "spa": 0,
+        "spd": 20,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 28,
+        "def": 28,
+        "spa": 16,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wartortle",
+      "moves": [
+        "Facade",
+        "Brick Break",
+        "Haze",
+        "Dive"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 10,
+        "atk": 0,
+        "def": 27,
+        "spa": 1,
+        "spd": 18,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 72,
+        "atk": 64,
+        "def": 72,
+        "spa": 56,
+        "spd": 64,
+        "spe": 68
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 21264952,
+    "archetype": "casual"
+  }
+}

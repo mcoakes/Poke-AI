@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_071",
+  "party": [
+    {
+      "species": "Vibrava",
+      "moves": [
+        "Gust",
+        "Dragon Breath",
+        "Hidden Power",
+        "Sunny Day"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 30,
+        "spa": 3,
+        "spd": 5,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 56,
+        "def": 56,
+        "spa": 60,
+        "spd": 64,
+        "spe": 48
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

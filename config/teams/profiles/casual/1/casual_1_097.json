@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_097",
+  "party": [
+    {
+      "species": "Larvitar",
+      "moves": [
+        "Toxic",
+        "Dig",
+        "Body Slam",
+        "Focus Energy"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 11,
+        "atk": 26,
+        "def": 9,
+        "spa": 24,
+        "spd": 22,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 32,
+        "def": 8,
+        "spa": 36,
+        "spd": 28,
+        "spe": 28
+      },
+      "held_item": "Spell Tag",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

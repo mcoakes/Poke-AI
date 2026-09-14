@@ -1,0 +1,40 @@
+{
+  "name": "random_1_126",
+  "party": [
+    {
+      "species": "Seviper",
+      "moves": [
+        "Disable",
+        "Metal Sound",
+        "Pin Missile",
+        "Bite"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 24,
+        "atk": 13,
+        "def": 13,
+        "spa": 24,
+        "spd": 10,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 52,
+        "def": 16,
+        "spa": 56,
+        "spd": 48,
+        "spe": 44
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

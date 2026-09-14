@@ -1,0 +1,152 @@
+{
+  "name": "random_5_127",
+  "party": [
+    {
+      "species": "Minun",
+      "moves": [
+        "Growl",
+        "Extreme Speed",
+        "Fire Blast",
+        "Rolling Kick"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 25,
+        "atk": 5,
+        "def": 21,
+        "spa": 7,
+        "spd": 25,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 44,
+        "def": 12,
+        "spa": 20,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Dragon Breath",
+        "Sludge Bomb",
+        "Sweet Scent",
+        "Take Down"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 18,
+        "atk": 11,
+        "def": 30,
+        "spa": 8,
+        "spd": 12,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 44,
+        "def": 28,
+        "spa": 64,
+        "spd": 44,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wooper",
+      "moves": [
+        "Mirror Move",
+        "Trick",
+        "Water Pulse",
+        "Ice Beam"
+      ],
+      "nature": "Impish",
+      "ivs": {
+        "hp": 18,
+        "atk": 9,
+        "def": 16,
+        "spa": 29,
+        "spd": 11,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 64,
+        "def": 88,
+        "spa": 56,
+        "spd": 72,
+        "spe": 84
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Crobat",
+      "moves": [
+        "Sunny Day",
+        "Octazooka",
+        "Swallow",
+        "Mirror Move"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 23,
+        "atk": 3,
+        "def": 29,
+        "spa": 12,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 16,
+        "def": 12,
+        "spa": 4,
+        "spd": 20,
+        "spe": 16
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Persian",
+      "moves": [
+        "Rock Throw",
+        "Twister",
+        "Shadow Ball",
+        "Charge"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 14,
+        "atk": 29,
+        "def": 7,
+        "spa": 2,
+        "spd": 27,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 76,
+        "def": 60,
+        "spa": 80,
+        "spd": 84,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "random_4_077",
+  "party": [
+    {
+      "species": "Koffing",
+      "moves": [
+        "Waterfall",
+        "Harden",
+        "Fury Cutter",
+        "Double Slap"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 4,
+        "atk": 22,
+        "def": 17,
+        "spa": 30,
+        "spd": 19,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 56,
+        "def": 48,
+        "spa": 52,
+        "spd": 44,
+        "spe": 52
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Wailord",
+      "moves": [
+        "Covet",
+        "Absorb",
+        "Rest",
+        "Tackle"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 0,
+        "atk": 26,
+        "def": 14,
+        "spa": 15,
+        "spd": 14,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 44,
+        "def": 32,
+        "spa": 56,
+        "spd": 60,
+        "spe": 72
+      },
+      "held_item": "Kings Rock",
+      "level": 50
+    },
+    {
+      "species": "Entei",
+      "moves": [
+        "Splash",
+        "Fury Attack",
+        "Reversal",
+        "Safeguard"
+      ],
+      "nature": "Brave",
+      "ivs": {
+        "hp": 11,
+        "atk": 28,
+        "def": 12,
+        "spa": 16,
+        "spd": 6,
+        "spe": 12
+      },
+      "evs": {
+        "hp": 8,
+        "atk": 24,
+        "def": 40,
+        "spa": 0,
+        "spd": 16,
+        "spe": 28
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Omastar",
+      "moves": [
+        "Hail",
+        "Toxic",
+        "Double Slap",
+        "Rock Blast"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 17,
+        "atk": 26,
+        "def": 4,
+        "spa": 15,
+        "spd": 27,
+        "spe": 8
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 56,
+        "def": 36,
+        "spa": 56,
+        "spd": 72,
+        "spe": 52
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

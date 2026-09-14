@@ -1,0 +1,40 @@
+{
+  "name": "casual_1_032",
+  "party": [
+    {
+      "species": "Seaking",
+      "moves": [
+        "Secret Power",
+        "Waterfall",
+        "Supersonic",
+        "Agility"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 31,
+        "spa": 18,
+        "spd": 2,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 24,
+        "def": 24,
+        "spa": 40,
+        "spd": 32,
+        "spe": 28
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 21261925,
+    "archetype": "casual"
+  }
+}

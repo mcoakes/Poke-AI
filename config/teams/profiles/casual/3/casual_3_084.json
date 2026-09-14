@@ -1,0 +1,96 @@
+{
+  "name": "casual_3_084",
+  "party": [
+    {
+      "species": "Magmar",
+      "moves": [
+        "Body Slam",
+        "Ember",
+        "Psychic",
+        "Toxic"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 1,
+        "atk": 26,
+        "def": 18,
+        "spa": 27,
+        "spd": 24,
+        "spe": 7
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 12,
+        "spa": 16,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Steelix",
+      "moves": [
+        "Rest",
+        "Facade",
+        "Earthquake",
+        "Sunny Day"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 16,
+        "atk": 10,
+        "def": 14,
+        "spa": 24,
+        "spd": 17,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 12,
+        "def": 12,
+        "spa": 12,
+        "spd": 12,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wynaut",
+      "moves": [
+        "Counter",
+        "Mirror Coat",
+        "Encore",
+        "Destiny Bond"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 21,
+        "atk": 2,
+        "def": 22,
+        "spa": 22,
+        "spd": 10,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 36,
+        "spa": 40,
+        "spd": 28,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "casual",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 21263943,
+    "archetype": "casual"
+  }
+}

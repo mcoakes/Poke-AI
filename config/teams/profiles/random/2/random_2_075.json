@@ -1,0 +1,68 @@
+{
+  "name": "random_2_075",
+  "party": [
+    {
+      "species": "Torchic",
+      "moves": [
+        "Bubble",
+        "Rock Smash",
+        "Air Cutter",
+        "Screech"
+      ],
+      "nature": "Quirky",
+      "ivs": {
+        "hp": 8,
+        "atk": 26,
+        "def": 6,
+        "spa": 20,
+        "spd": 29,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 52,
+        "def": 40,
+        "spa": 80,
+        "spd": 40,
+        "spe": 80
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Nidoran F",
+      "moves": [
+        "Aerial Ace",
+        "Sonic Boom",
+        "Protect",
+        "Rest"
+      ],
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 4,
+        "atk": 31,
+        "def": 21,
+        "spa": 14,
+        "spd": 10,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 120,
+        "def": 68,
+        "spa": 96,
+        "spd": 72,
+        "spe": 76
+      },
+      "held_item": "Soft Sand",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

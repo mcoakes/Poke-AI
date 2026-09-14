@@ -1,0 +1,40 @@
+{
+  "name": "random_1_128",
+  "party": [
+    {
+      "species": "Seel",
+      "moves": [
+        "Facade",
+        "Charge",
+        "Explosion",
+        "Smelling Salt"
+      ],
+      "nature": "Naive",
+      "ivs": {
+        "hp": 28,
+        "atk": 8,
+        "def": 29,
+        "spa": 15,
+        "spd": 2,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 80,
+        "def": 56,
+        "spa": 60,
+        "spd": 64,
+        "spe": 80
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

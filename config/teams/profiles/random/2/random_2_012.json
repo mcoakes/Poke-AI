@@ -1,0 +1,68 @@
+{
+  "name": "random_2_012",
+  "party": [
+    {
+      "species": "Sudowoodo",
+      "moves": [
+        "Taunt",
+        "Stomp",
+        "Endure",
+        "Hyper Beam"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 10,
+        "atk": 14,
+        "def": 5,
+        "spa": 24,
+        "spd": 12,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 76,
+        "def": 80,
+        "spa": 76,
+        "spd": 76,
+        "spe": 104
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Seadra",
+      "moves": [
+        "Bone Club",
+        "Body Slam",
+        "Growth",
+        "Crabhammer"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 9,
+        "atk": 12,
+        "def": 19,
+        "spa": 12,
+        "spd": 7,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 12,
+        "spa": 8,
+        "spd": 4,
+        "spe": 12
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 2,
+    "seed": 20260913,
+    "batch_seed": 22262937,
+    "archetype": "random"
+  }
+}

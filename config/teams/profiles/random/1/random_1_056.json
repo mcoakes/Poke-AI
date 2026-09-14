@@ -1,0 +1,40 @@
+{
+  "name": "random_1_056",
+  "party": [
+    {
+      "species": "Octillery",
+      "moves": [
+        "Endure",
+        "Tail Glow",
+        "Poison Tail",
+        "Reflect"
+      ],
+      "nature": "Bashful",
+      "ivs": {
+        "hp": 2,
+        "atk": 18,
+        "def": 12,
+        "spa": 1,
+        "spd": 5,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

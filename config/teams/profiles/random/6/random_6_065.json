@@ -1,0 +1,180 @@
+{
+  "name": "random_6_065",
+  "party": [
+    {
+      "species": "Piloswine",
+      "moves": [
+        "Harden",
+        "Taunt",
+        "Tail Glow",
+        "Smelling Salt"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 24,
+        "atk": 25,
+        "def": 0,
+        "spa": 14,
+        "spd": 16,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 60,
+        "def": 76,
+        "spa": 44,
+        "spd": 80,
+        "spe": 72
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Seel",
+      "moves": [
+        "Thief",
+        "Bubble Beam",
+        "Whirlwind",
+        "Bind"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 20,
+        "atk": 3,
+        "def": 13,
+        "spa": 14,
+        "spd": 22,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 44,
+        "spa": 4,
+        "spd": 20,
+        "spe": 8
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    },
+    {
+      "species": "Psyduck",
+      "moves": [
+        "Tail Glow",
+        "Sand Tomb",
+        "Camouflage",
+        "Volt Tackle"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 22,
+        "atk": 10,
+        "def": 29,
+        "spa": 20,
+        "spd": 10,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 84,
+        "def": 76,
+        "spa": 60,
+        "spd": 84,
+        "spe": 92
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Aron",
+      "moves": [
+        "Bide",
+        "Trick",
+        "Seismic Toss",
+        "Water Pulse"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 18,
+        "atk": 2,
+        "def": 22,
+        "spa": 4,
+        "spd": 14,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 0,
+        "def": 0,
+        "spa": 16,
+        "spd": 4,
+        "spe": 8
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Magmar",
+      "moves": [
+        "Sing",
+        "Heat Wave",
+        "Volt Tackle",
+        "Mirror Move"
+      ],
+      "nature": "Modest",
+      "ivs": {
+        "hp": 7,
+        "atk": 1,
+        "def": 29,
+        "spa": 15,
+        "spd": 29,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 24,
+        "def": 4,
+        "spa": 28,
+        "spd": 12,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Comet Punch",
+        "Snore",
+        "Shock Wave",
+        "Beat Up"
+      ],
+      "nature": "Serious",
+      "ivs": {
+        "hp": 6,
+        "atk": 11,
+        "def": 31,
+        "spa": 21,
+        "spd": 18,
+        "spe": 10
+      },
+      "evs": {
+        "hp": 60,
+        "atk": 48,
+        "def": 96,
+        "spa": 64,
+        "spd": 72,
+        "spe": 44
+      },
+      "held_item": "Mystic Water",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 6,
+    "seed": 20260913,
+    "batch_seed": 22266973,
+    "archetype": "random"
+  }
+}

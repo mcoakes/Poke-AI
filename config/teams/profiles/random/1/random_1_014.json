@@ -1,0 +1,40 @@
+{
+  "name": "random_1_014",
+  "party": [
+    {
+      "species": "Growlithe",
+      "moves": [
+        "Perish Song",
+        "Rock Blast",
+        "Teeter Dance",
+        "Crush Claw"
+      ],
+      "nature": "Lax",
+      "ivs": {
+        "hp": 25,
+        "atk": 2,
+        "def": 8,
+        "spa": 21,
+        "spd": 18,
+        "spe": 1
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 40,
+        "def": 80,
+        "spa": 52,
+        "spd": 60,
+        "spe": 44
+      },
+      "held_item": "Lum Berry",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 1,
+    "seed": 20260913,
+    "batch_seed": 22261928,
+    "archetype": "random"
+  }
+}

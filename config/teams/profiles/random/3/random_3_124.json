@@ -1,0 +1,96 @@
+{
+  "name": "random_3_124",
+  "party": [
+    {
+      "species": "Pidgey",
+      "moves": [
+        "Magnitude",
+        "Swallow",
+        "Dragon Rage",
+        "Rock Throw"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 7,
+        "atk": 14,
+        "def": 19,
+        "spa": 14,
+        "spd": 2,
+        "spe": 4
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 16,
+        "def": 52,
+        "spa": 60,
+        "spd": 40,
+        "spe": 48
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Octillery",
+      "moves": [
+        "Volt Tackle",
+        "Constrict",
+        "Charm",
+        "Supersonic"
+      ],
+      "nature": "Rash",
+      "ivs": {
+        "hp": 14,
+        "atk": 17,
+        "def": 5,
+        "spa": 7,
+        "spd": 3,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 60,
+        "def": 48,
+        "spa": 52,
+        "spd": 60,
+        "spe": 36
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Beat Up",
+        "Mimic",
+        "Barrier",
+        "Hyper Voice"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 1,
+        "atk": 5,
+        "def": 22,
+        "spa": 5,
+        "spd": 25,
+        "spe": 13
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 60,
+        "def": 68,
+        "spa": 40,
+        "spd": 60,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 3,
+    "seed": 20260913,
+    "batch_seed": 22263946,
+    "archetype": "random"
+  }
+}

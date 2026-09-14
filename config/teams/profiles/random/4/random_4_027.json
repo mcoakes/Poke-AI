@@ -1,0 +1,124 @@
+{
+  "name": "random_4_027",
+  "party": [
+    {
+      "species": "Bayleef",
+      "moves": [
+        "Fury Swipes",
+        "Twister",
+        "Mind Reader",
+        "Thunder"
+      ],
+      "nature": "Sassy",
+      "ivs": {
+        "hp": 17,
+        "atk": 28,
+        "def": 16,
+        "spa": 21,
+        "spd": 2,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 84,
+        "def": 100,
+        "spa": 76,
+        "spd": 100,
+        "spe": 72
+      },
+      "held_item": "Silk Scarf",
+      "level": 50
+    },
+    {
+      "species": "Ariados",
+      "moves": [
+        "Constrict",
+        "Flamethrower",
+        "Teeter Dance",
+        "Razor Wind"
+      ],
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 3,
+        "atk": 9,
+        "def": 9,
+        "spa": 23,
+        "spd": 6,
+        "spe": 3
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 28,
+        "def": 52,
+        "spa": 36,
+        "spd": 64,
+        "spe": 32
+      },
+      "held_item": "Shell Bell",
+      "level": 50
+    },
+    {
+      "species": "Slaking",
+      "moves": [
+        "Poison Fang",
+        "Needle Arm",
+        "Confusion",
+        "Mud Sport"
+      ],
+      "nature": "Quiet",
+      "ivs": {
+        "hp": 17,
+        "atk": 24,
+        "def": 0,
+        "spa": 1,
+        "spd": 29,
+        "spe": 6
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 36,
+        "spa": 44,
+        "spd": 36,
+        "spe": 20
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Wigglytuff",
+      "moves": [
+        "Zap Cannon",
+        "Fire Spin",
+        "Thrash",
+        "Double Slap"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 16,
+        "atk": 3,
+        "def": 5,
+        "spa": 6,
+        "spd": 4,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 12,
+        "def": 8,
+        "spa": 4,
+        "spd": 4,
+        "spe": 4
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 4,
+    "seed": 20260913,
+    "batch_seed": 22264955,
+    "archetype": "random"
+  }
+}

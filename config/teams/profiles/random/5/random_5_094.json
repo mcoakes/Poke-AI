@@ -1,0 +1,152 @@
+{
+  "name": "random_5_094",
+  "party": [
+    {
+      "species": "Natu",
+      "moves": [
+        "Roar",
+        "Supersonic",
+        "Bide",
+        "Conversion 2"
+      ],
+      "nature": "Gentle",
+      "ivs": {
+        "hp": 10,
+        "atk": 27,
+        "def": 2,
+        "spa": 7,
+        "spd": 3,
+        "spe": 14
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 4,
+        "spa": 16,
+        "spd": 8,
+        "spe": 0
+      },
+      "held_item": "Berry Juice",
+      "level": 50
+    },
+    {
+      "species": "Totodile",
+      "moves": [
+        "Water Gun",
+        "Silver Wind",
+        "Solar Beam",
+        "Recycle"
+      ],
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 7,
+        "atk": 7,
+        "def": 10,
+        "spa": 12,
+        "spd": 29,
+        "spe": 16
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 48,
+        "def": 80,
+        "spa": 84,
+        "spd": 56,
+        "spe": 100
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Krabby",
+      "moves": [
+        "Fake Out",
+        "Follow Me",
+        "Flail",
+        "Meteor Mash"
+      ],
+      "nature": "Bold",
+      "ivs": {
+        "hp": 3,
+        "atk": 18,
+        "def": 20,
+        "spa": 21,
+        "spd": 1,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 52,
+        "def": 88,
+        "spa": 64,
+        "spd": 64,
+        "spe": 56
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Umbreon",
+      "moves": [
+        "Solar Beam",
+        "Sky Uppercut",
+        "Luster Purge",
+        "Pound"
+      ],
+      "nature": "Careful",
+      "ivs": {
+        "hp": 1,
+        "atk": 25,
+        "def": 16,
+        "spa": 28,
+        "spd": 22,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 60,
+        "def": 32,
+        "spa": 40,
+        "spd": 20,
+        "spe": 32
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    },
+    {
+      "species": "Houndour",
+      "moves": [
+        "Mud Shot",
+        "Morning Sun",
+        "Imprison",
+        "Refresh"
+      ],
+      "nature": "Naughty",
+      "ivs": {
+        "hp": 2,
+        "atk": 31,
+        "def": 6,
+        "spa": 6,
+        "spd": 18,
+        "spe": 2
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 12,
+        "def": 36,
+        "spa": 20,
+        "spd": 16,
+        "spe": 16
+      },
+      "held_item": "Leftovers",
+      "level": 50
+    }
+  ],
+  "generation": {
+    "category": "random",
+    "team_size": 5,
+    "seed": 20260913,
+    "batch_seed": 22265964,
+    "archetype": "random"
+  }
+}
