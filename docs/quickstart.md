@@ -89,7 +89,7 @@ Expected size: **131072 bytes**. If `FireRed.sav` is missing, check mGBA's confi
 save directory and copy that file instead. Do not rename an emulator snapshot
 into a `.sav`.
 
-- **`states/base/overworld.sav`:** input to the save editor; must contain parcel
+- **`FireRed.sav`:** input to the save editor; must contain parcel
   delivery. It does not need to contain your final party or all badges.
 - **`states/base/overworld.ss1`:** early recovery snapshot; it is not the editor input.
 
