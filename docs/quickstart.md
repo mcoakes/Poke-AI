@@ -276,7 +276,7 @@ and a trained checkpoint; the states built in step 3 are not required here.
 ```bash
 python mgba/play_gui.py \
   --rom "$PWD/FireRed.gba" \
-  --source states/base/overworld.sav \
+  --source FireRed.sav \
   --checkpoint models/quickstart_agent.zip \
   --workers 2 --capture-speed unlimited \
   --setup-speed unlimited --speed 1
