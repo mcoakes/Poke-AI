@@ -140,7 +140,7 @@ states headlessly at unlimited speed:
 
 ```bash
 python mgba/build_states.py \
-  --source states/base/overworld.sav \
+  --source FireRed.sav \
   --rom "$PWD/FireRed.gba" \
   --teams config/teams/quickstart/quickstart_charizard.json \
           config/teams/quickstart/quickstart_venusaur.json \
