@@ -89,7 +89,7 @@ Expected size: **131072 bytes**. If `FireRed.sav` is missing, check mGBA's confi
 save directory and copy that file instead. Do not rename an emulator snapshot
 into a `.sav`.
 
-- **`states/base/overworld.sav`:** input to the save editor; must contain parcel
+- **`FireRed.sav`:** input to the save editor; must contain parcel
   delivery. It does not need to contain your final party or all badges.
 - **`states/base/overworld.ss1`:** early recovery snapshot; it is not the editor input.
 
@@ -140,7 +140,7 @@ states headlessly at unlimited speed:
 
 ```bash
 python mgba/build_states.py \
-  --source states/base/overworld.sav \
+  --source FireRed.sav \
   --rom "$PWD/FireRed.gba" \
   --teams config/teams/quickstart/quickstart_charizard.json \
           config/teams/quickstart/quickstart_venusaur.json \
@@ -328,7 +328,7 @@ and a trained checkpoint; the states built in step 3 are not required here.
 ```bash
 python mgba/play_gui.py \
   --rom "$PWD/FireRed.gba" \
-  --source states/base/overworld.sav \
+  --source FireRed.sav \
   --checkpoint models/quickstart_agent.zip \
   --workers 2 --capture-speed unlimited \
   --setup-speed unlimited --speed 1
