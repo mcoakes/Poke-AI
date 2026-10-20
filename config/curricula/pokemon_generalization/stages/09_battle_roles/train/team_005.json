@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 005",
+  "party": [
+    {
+      "species": "Walrein",
+      "level": 50,
+      "moves": [
+        "Roar",
+        "Surf",
+        "Ice Beam",
+        "Toxic"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Exeggutor",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Giga Drain",
+        "Sleep Powder",
+        "Explosion"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Flamethrower",
+        "Substitute",
+        "Dragon Claw"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Clefable",
+      "level": 50,
+      "moves": [
+        "Soft Boiled",
+        "Seismic Toss",
+        "Ice Beam",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Substitute",
+        "Baton Pass",
+        "Thunderbolt",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Skarmory",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Drill Peck",
+        "Roar",
+        "Spikes"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

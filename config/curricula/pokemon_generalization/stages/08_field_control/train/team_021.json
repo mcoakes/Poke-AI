@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 08 train 021",
+  "party": [
+    {
+      "species": "Shuckle",
+      "level": 50,
+      "moves": [
+        "Sunny Day",
+        "Rock Tomb",
+        "Facade",
+        "Earthquake"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Rain Dance",
+        "Jump Kick",
+        "Mega Kick"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Girafarig",
+      "level": 50,
+      "moves": [
+        "Take Down",
+        "Tackle",
+        "Shadow Ball",
+        "Rain Dance"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Qwilfish",
+      "level": 50,
+      "moves": [
+        "Dive",
+        "Double Edge",
+        "Facade",
+        "Hail"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Volbeat",
+      "level": 50,
+      "moves": [
+        "Sunny Day",
+        "Silver Wind",
+        "Quick Attack",
+        "Facade"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

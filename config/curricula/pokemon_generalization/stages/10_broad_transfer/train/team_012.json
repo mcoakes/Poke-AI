@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 train 012",
+  "party": [
+    {
+      "species": "Hitmontop",
+      "level": 50,
+      "moves": [
+        "Rapid Spin",
+        "Toxic",
+        "Revenge",
+        "Dig"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 23,
+        "def": 26,
+        "spa": 25,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Pelipper",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Ice Beam",
+        "Quick Attack",
+        "Thief"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 26,
+        "def": 28,
+        "spa": 31,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Swablu",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Fly",
+        "Protect",
+        "Facade"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 29,
+        "spa": 24,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Golduck",
+      "level": 50,
+      "moves": [
+        "Frustration",
+        "Facade",
+        "Rock Smash",
+        "Surf"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 30,
+        "def": 31,
+        "spa": 22,
+        "spd": 27,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sunflora",
+      "level": 50,
+      "moves": [
+        "Solar Beam",
+        "Toxic",
+        "Bullet Seed",
+        "Helping Hand"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 25,
+        "spa": 22,
+        "spd": 26,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Rhydon",
+      "level": 50,
+      "moves": [
+        "Stomp",
+        "Take Down",
+        "Attract",
+        "Thunder"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 24,
+        "def": 29,
+        "spa": 30,
+        "spd": 22,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

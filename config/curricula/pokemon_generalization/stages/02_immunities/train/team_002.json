@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 02 train 002",
+  "party": [
+    {
+      "species": "Alakazam",
+      "level": 50,
+      "moves": [
+        "Confusion",
+        "Secret Power",
+        "Mega Punch",
+        "Psybeam"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Torkoal",
+      "level": 50,
+      "moves": [
+        "Eruption",
+        "Overheat",
+        "Fire Blast",
+        "Heat Wave"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Castform",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Body Slam",
+        "Double Edge",
+        "Facade"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

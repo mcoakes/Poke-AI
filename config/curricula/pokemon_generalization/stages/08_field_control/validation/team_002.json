@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 08 validation 002",
+  "party": [
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Ember",
+        "Roar",
+        "Fly",
+        "Steel Wing"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 50,
+      "moves": [
+        "Rapid Spin",
+        "Focus Punch",
+        "Thief",
+        "Rolling Kick"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Aggron",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Water Pulse",
+        "Rock Slide",
+        "Rain Dance"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Solrock",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Sandstorm",
+        "Earthquake",
+        "Secret Power"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Aerodactyl",
+      "level": 50,
+      "moves": [
+        "Sunny Day",
+        "Rock Slide",
+        "Ancient Power",
+        "Secret Power"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

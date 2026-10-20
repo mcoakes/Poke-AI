@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 validation 008",
+  "party": [
+    {
+      "species": "Weepinbell",
+      "level": 50,
+      "moves": [
+        "Growth",
+        "Secret Power",
+        "Sludge Bomb",
+        "Poison Powder"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 22,
+        "spa": 31,
+        "spd": 26,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Houndour",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Return",
+        "Overheat",
+        "Torment"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 21,
+        "def": 29,
+        "spa": 27,
+        "spd": 29,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

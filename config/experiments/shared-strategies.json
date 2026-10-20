@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "experiments": [
+    {
+      "name": "lower-lr",
+      "seeds": [261020, 261021],
+      "learning_rate": 0.00005
+    },
+    {
+      "name": "mixed-opponents",
+      "seeds": [261020, 261021],
+      "rules_weight": 0.7,
+      "frozen_reference_weight": 0.3
+    }
+  ]
+}

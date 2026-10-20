@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 08 validation 003",
+  "party": [
+    {
+      "species": "Dragonite",
+      "level": 50,
+      "moves": [
+        "Focus Punch",
+        "Sunny Day",
+        "Ice Beam",
+        "Aerial Ace"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ninjask",
+      "level": 50,
+      "moves": [
+        "Thief",
+        "Faint Attack",
+        "Sunny Day",
+        "Silver Wind"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Swellow",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Thief",
+        "Rain Dance",
+        "Steel Wing"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Chimecho",
+      "level": 50,
+      "moves": [
+        "Shadow Ball",
+        "Sunny Day",
+        "Uproar",
+        "Dream Eater"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Dewgong",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Waterfall",
+        "Thief",
+        "Hail"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

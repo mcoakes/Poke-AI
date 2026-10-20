@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 01 train 024",
+  "party": [
+    {
+      "species": "Gorebyss",
+      "level": 50,
+      "moves": [
+        "Clamp",
+        "Hydro Pump",
+        "Double Edge",
+        "Waterfall"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Hitmontop",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Brick Break",
+        "Secret Power",
+        "Quick Attack"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Typhlosion",
+      "level": 50,
+      "moves": [
+        "Cut",
+        "Mega Kick",
+        "Flamethrower",
+        "Overheat"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

@@ -7,8 +7,17 @@ frozen opponent, or play against a saved agent.
 [Quickstart: install → train → play](docs/quickstart.md) ·
 [Install dependencies](docs/setup/README.md) · [Start training](docs/ppo-training.md) ·
 [Evaluate checkpoints](docs/evaluation.md) · [Rank a model directory](docs/model-evaluation.md) ·
+[Measure training progress](docs/baseline.md) ·
+[Preserve the best checkpoint](docs/periodic-evaluation.md) ·
+[Test new team configurations](docs/generalization-evaluation.md) ·
+[Experiment record](docs/experiments/README.md) ·
+[Rule-based opponent](docs/rule-based-opponent.md) ·
+[Mixed opponent pools](docs/opponent-pools.md) ·
+[Audit observations and actions](docs/training-audit.md) ·
+[Richer Showdown observations](docs/observation-v2.md) ·
 [Training curriculum](docs/curriculum.md) · [Create a campaign](docs/creating-campaigns.md) ·
-[Train against switching opponents](docs/switch-pressure.md) ·
+[Generalization campaign](docs/generalization-campaign.md) ·
+[Storage and cleanup](docs/storage.md) ·
 [Teams and saves](docs/team-profiles.md) · [Play in Battle Studio](docs/play-gui.md) ·
 [All utilities and flags](docs/reference/README.md) · [Documentation](docs/README.md)
 
@@ -39,7 +48,9 @@ for pinned versions, data provenance and upstream licenses.
 | Use | Train and iterate | Train, evaluate in FireRed, and play against an agent |
 | Setup | [Python + Node.js](docs/setup/showdown.md) | [Python + mGBA](docs/setup/mgba.md), [save editor](docs/setup/save-editor.md) |
 
-Both use the same PPO observation/action schema, rewards and checkpoint format.
+Both support the v1 PPO observation/action schema, rewards and checkpoint format.
+Showdown also offers opt-in [observation v2](docs/observation-v2.md); v2 checkpoints
+currently require Showdown.
 Mechanics can differ between simulator and cartridge; evaluate transferred
 policies in mGBA. Emulator support currently targets one verified ROM revision.
 ROMs and save files are supplied by the user and are not included.

@@ -1,8 +1,11 @@
 # Observations and actions
 
-[Training](ppo-training.md) · [Rewards](training-rewards.md) · [Inspection](inspection.md)
+[Training](ppo-training.md) · [Rewards](training-rewards.md) · [Inspection](inspection.md) · [Stage 2 audit](training-audit.md)
 
-Both PPO backends expose the same structured observation and 11-action schema.
+Both PPO backends support the v1 structured observation and 11-action schema.
+Showdown can also use [observation v2](observation-v2.md), with explicit stats,
+stat stages, move descriptors, opponent party state, abilities and weather.
+The raw arrays below are v1, also retained unchanged within v2.
 A normal decision submits both players' choices and resolves to the next selection
 or terminal outcome. Fainting and Baton Pass can require a recipient selection
 within that turn; forced continuations can advance several turns without a choice.
@@ -67,6 +70,12 @@ The schema does not yet encode all battle variables, such as complete stat
 stages or weather. Simulator mechanics can use information the policy cannot
 observe. Matching schemas makes checkpoint transfer possible; it does not prove
 identical mechanics or identical performance between backends.
+
+The [Stage 2 training audit](training-audit.md) inventories information available
+to the policy and checks controlled Showdown cases against read-only native
+engine state. It also exercises masks and episode boundaries through the real
+PPO environment. Missing information is reported separately from incorrect
+encoding; passing those cases does not establish mGBA equivalence or model skill.
 
 Source: [raw observations](../src/firered_rl/turn_env.py),
 [PPO features](../src/firered_rl/ppo_features.py),

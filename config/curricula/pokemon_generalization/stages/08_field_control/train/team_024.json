@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 08 train 024",
+  "party": [
+    {
+      "species": "Venomoth",
+      "level": 50,
+      "moves": [
+        "Sunny Day",
+        "Silver Wind",
+        "Signal Beam",
+        "Giga Drain"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Togetic",
+      "level": 50,
+      "moves": [
+        "Water Pulse",
+        "Sunny Day",
+        "Mega Kick",
+        "Magical Leaf"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Grumpig",
+      "level": 50,
+      "moves": [
+        "Psybeam",
+        "Double Edge",
+        "Shock Wave",
+        "Rain Dance"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Raticate",
+      "level": 50,
+      "moves": [
+        "Sunny Day",
+        "Thunder",
+        "Iron Tail",
+        "Secret Power"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Huntail",
+      "level": 50,
+      "moves": [
+        "Clamp",
+        "Hail",
+        "Ice Beam",
+        "Water Pulse"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

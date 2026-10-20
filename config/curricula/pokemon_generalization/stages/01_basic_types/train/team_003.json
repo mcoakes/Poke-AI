@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 01 train 003",
+  "party": [
+    {
+      "species": "Hitmontop",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Revenge",
+        "Tackle",
+        "Mach Punch"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Magmar",
+      "level": 50,
+      "moves": [
+        "Fire Blast",
+        "Fire Punch",
+        "Ember",
+        "Facade"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Huntail",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Clamp",
+        "Water Gun",
+        "Facade"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

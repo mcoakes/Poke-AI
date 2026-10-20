@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 04 train 005",
+  "party": [
+    {
+      "species": "Salamence",
+      "level": 50,
+      "moves": [
+        "Dragon Claw",
+        "Double Edge",
+        "Rock Tomb",
+        "Flamethrower"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Miltank",
+      "level": 50,
+      "moves": [
+        "Shadow Ball",
+        "Thunder",
+        "Earthquake",
+        "Double Edge"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Piloswine",
+      "level": 50,
+      "moves": [
+        "Ancient Power",
+        "Mud Shot",
+        "Rock Tomb",
+        "Bite"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

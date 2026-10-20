@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 04 train 017",
+  "party": [
+    {
+      "species": "Sunflora",
+      "level": 50,
+      "moves": [
+        "Cut",
+        "Mega Drain",
+        "Giga Drain",
+        "Secret Power"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 50,
+      "moves": [
+        "Slam",
+        "Rock Tomb",
+        "Thief",
+        "Brick Break"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Absol",
+      "level": 50,
+      "moves": [
+        "Iron Tail",
+        "Bite",
+        "Secret Power",
+        "Rock Slide"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Clefable",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Strength",
+        "Water Pulse",
+        "Brick Break"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

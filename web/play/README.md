@@ -18,3 +18,8 @@ existing state builder with an isolated output directory, verifies the resulting
 state hashes, then invokes the existing human-play runner. Cancellation signals
 the child tools so their normal emulator cleanup runs. The UI polls progress and
 shows the final report; it does not render an emulator or send game button input.
+
+For a restricted classroom menu, use `--model-list config/play/classroom.json`.
+The server registers only the listed model paths, orders the configured default
+first, and skips automatic checkpoint discovery. Friendly labels appear under
+**AI opponent**. See the workflow guide for model-copy and launch commands.

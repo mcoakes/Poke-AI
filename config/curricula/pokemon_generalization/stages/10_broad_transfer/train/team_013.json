@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 train 013",
+  "party": [
+    {
+      "species": "Espeon",
+      "level": 50,
+      "moves": [
+        "Swift",
+        "Cut",
+        "Curse",
+        "Tail Whip"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 30,
+        "spa": 27,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -11,8 +11,10 @@ python mgba/play_gui.py --rom FireRed.gba --source FireRed.sav \
 ```
 
 Select a saved team from any directory under `config/` on either side. Teams
-directly in `config/` appear under **Misc**. Checkpoints in `models/` and its
+directly in `config/` appear under **Misc**. Without `--model-list`, checkpoints in `models/` and its
 subfolders are listed automatically; Smart v10 is preselected when available.
+For the two-choice classroom menu, add `--model-list config/play/classroom.json`
+after saving the models described in the workflow guide.
 
 ## Options
 
@@ -22,7 +24,8 @@ subfolders are listed automatically; Smart v10 is preselected when available.
 | `--rom` | Required | Supported FireRed USA/Europe v1.0 ROM. |
 | `--source` | Required | Existing 128 KiB battery `.sav` with Oak's Parcel delivered and Direct Corner unlocked. |
 | `--checkpoint` | Smart v10 if available | Preselect a checkpoint path or `latest`, overriding the automatic preference for Smart v10 in `models/`. Latest resolves when each match starts. Without Smart v10, select the first available model. |
-| `--checkpoint-dir` | `.local/run` | Additional folder to scan recursively for up to 200 recent checkpoint ZIPs. All ZIPs under `models/` are also listed, outside this limit. |
+| `--model-list` | Off | JSON shortlist with `version: 1`, a `default` ID and `models` entries (`id`, `label`, `checkpoint`). Lists only those models, default first; relative checkpoint paths use the project root. Mutually exclusive with `--checkpoint`. |
+| `--checkpoint-dir` | `.local/run` | Additional folder to scan recursively for up to 200 recent checkpoint ZIPs. All ZIPs under `models/` are also listed, outside this limit. Ignored with `--model-list`. |
 | `--emulator` | `.local/mgba/bin/mgba-qt` | Patched mGBA executable used for capture and human play. |
 | `--port` | `8080` | HTTP port; always bound to `127.0.0.1`. |
 | `--ports` | `55365 55366` | Exactly two adapter ports: human first, AI second. All three ports must differ. |

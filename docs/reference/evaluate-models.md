@@ -31,7 +31,9 @@ python mgba/evaluate_models.py \
 resuming; they are stored in `tournament.json`. New models, changed teams or a
 different battle count require a new run directory. Identical checkpoint files
 are deduplicated and their aliases recorded. PPO files must use the existing
-11-action battle schema.
+11-action battle schema with supported v1 or v2 observations. Each model receives
+its own inputs; `model-schemas.json` records detected versions. See
+[observation v2](../observation-v2.md).
 
 ## Execution settings
 

@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 05 validation 001",
+  "party": [
+    {
+      "species": "Relicanth",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Facade",
+        "Toxic",
+        "Water Gun"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Dunsparce",
+      "level": 50,
+      "moves": [
+        "Take Down",
+        "Secret Power",
+        "Thief",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Delibird",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Aurora Beam",
+        "Double Edge",
+        "Toxic"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Meganium",
+      "level": 50,
+      "moves": [
+        "Razor Leaf",
+        "Earthquake",
+        "Vine Whip",
+        "Toxic"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

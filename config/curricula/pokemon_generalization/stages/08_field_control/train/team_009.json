@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 08 train 009",
+  "party": [
+    {
+      "species": "Hitmontop",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Sandstorm",
+        "Hi Jump Kick",
+        "Mega Kick"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Huntail",
+      "level": 50,
+      "moves": [
+        "Crunch",
+        "Clamp",
+        "Hail",
+        "Hydro Pump"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Muk",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Facade",
+        "Sludge Bomb",
+        "Sunny Day"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Golduck",
+      "level": 50,
+      "moves": [
+        "Waterfall",
+        "Ice Beam",
+        "Future Sight",
+        "Hail"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Tauros",
+      "level": 50,
+      "moves": [
+        "Pursuit",
+        "Rain Dance",
+        "Thunder",
+        "Tackle"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 unseen_species 007",
+  "party": [
+    {
+      "species": "Lanturn",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Waterfall",
+        "Protect",
+        "Double Team"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 23,
+        "def": 30,
+        "spa": 23,
+        "spd": 21,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

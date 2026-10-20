@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 train 020",
+  "party": [
+    {
+      "species": "Treecko",
+      "level": 50,
+      "moves": [
+        "Mega Kick",
+        "Aerial Ace",
+        "Crush Claw",
+        "Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 21,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Vileplume",
+      "level": 50,
+      "moves": [
+        "Solar Beam",
+        "Secret Power",
+        "Sludge Bomb",
+        "Facade"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 26,
+        "def": 26,
+        "spa": 26,
+        "spd": 27,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

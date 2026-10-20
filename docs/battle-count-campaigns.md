@@ -16,7 +16,7 @@ named copy; choose a different destination if you intend to replace one.
 mkdir -p models
 cp -n .local/run/ppo-20260913-184241-113975/checkpoints/latest.zip models/smart_v1.zip
 cp -n .local/run/ppo-20260913-151530-703645/checkpoints/latest.zip models/dumb.zip
-fronzen_checkpoint="models/dumb.zip"
+frozen_checkpoint="models/dumb.zip"
 ```
 
 These paths identify the models you selected; the campaign does not independently
@@ -31,7 +31,7 @@ curriculum_run=".local/run/curriculum-smart-generations-01"
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
   --resume models/smart_v1.zip \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --opponent-mode previous-stage \
   --train-battles 1000 --eval-episodes 1000 \
   --promotion-win-rate 0.75 \

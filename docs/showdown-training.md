@@ -57,8 +57,10 @@ affect throughput.
 ## Shared training interface
 
 Use the same [training commands](ppo-training.md) for checkpoint resume, frozen
-opponents and self-play. The reward function, observation/action shapes, policy
+opponents and self-play. The reward function, v1 observation/action shapes, policy
 encoder, checkpoint lifecycle and metrics are shared with mGBA.
+Opt-in [observation v2](observation-v2.md) adds richer native simulator inputs
+and currently requires Showdown. Existing v1 checkpoints keep working.
 
 Both players submit choices together. A normal step ends at the next turn's
 selection or a battle result. Fainting and Baton Pass can introduce a recipient

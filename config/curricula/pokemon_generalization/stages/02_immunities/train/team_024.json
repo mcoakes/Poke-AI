@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 02 train 024",
+  "party": [
+    {
+      "species": "Mawile",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "False Swipe",
+        "Strength",
+        "Double Edge"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Banette",
+      "level": 50,
+      "moves": [
+        "Shadow Ball",
+        "Double Edge",
+        "Facade",
+        "Secret Power"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Absol",
+      "level": 50,
+      "moves": [
+        "Quick Attack",
+        "Bite",
+        "Secret Power",
+        "Faint Attack"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

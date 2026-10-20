@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 08 validation 011",
+  "party": [
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Surf",
+        "Hail",
+        "Ice Beam"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Yanma",
+      "level": 50,
+      "moves": [
+        "Sunny Day",
+        "Secret Power",
+        "Shadow Ball",
+        "Signal Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Qwilfish",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Waterfall",
+        "Spikes",
+        "Surf"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Electabuzz",
+      "level": 50,
+      "moves": [
+        "Rain Dance",
+        "Double Edge",
+        "Thunder Punch",
+        "Karate Chop"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Linoone",
+      "level": 50,
+      "moves": [
+        "Covet",
+        "Shadow Ball",
+        "Roar",
+        "Ice Beam"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 validation 006",
+  "party": [
+    {
+      "species": "Machoke",
+      "level": 50,
+      "moves": [
+        "Vital Throw",
+        "Rock Smash",
+        "Focus Punch",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 27,
+        "spa": 26,
+        "spd": 31,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Electrike",
+      "level": 50,
+      "moves": [
+        "Mimic",
+        "Thunder Wave",
+        "Roar",
+        "Shock Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 23,
+        "spa": 21,
+        "spd": 28,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Exeggutor",
+      "level": 50,
+      "moves": [
+        "Sleep Powder",
+        "Giga Drain",
+        "Psychic",
+        "Explosion"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 29,
+        "atk": 20,
+        "def": 29,
+        "spa": 23,
+        "spd": 24,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Seedot",
+      "level": 50,
+      "moves": [
+        "Rock Smash",
+        "Harden",
+        "Secret Power",
+        "Shadow Ball"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 25,
+        "spa": 31,
+        "spd": 26,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Flaaffy",
+      "level": 50,
+      "moves": [
+        "Mimic",
+        "Mega Punch",
+        "Return",
+        "Screech"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 25,
+        "spa": 20,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Tentacool",
+      "level": 50,
+      "moves": [
+        "Mimic",
+        "Waterfall",
+        "Aurora Beam",
+        "Swords Dance"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 25,
+        "def": 29,
+        "spa": 20,
+        "spd": 25,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

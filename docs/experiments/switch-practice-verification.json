@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "experiment": "switch-practice",
+  "status": "verified",
+  "scope": "Real Showdown operational smoke with tiny models; not user-model learning gains or GUI verification.",
+  "jobs": 2,
+  "training_added_steps_per_arm": 256,
+  "collection_battles": 40,
+  "collection": [
+    {
+      "trajectory": "student",
+      "battles": 20,
+      "truncated": 0
+    },
+    {
+      "trajectory": "rules",
+      "battles": 20,
+      "truncated": 0
+    }
+  ],
+  "practice_max_rows": 1024,
+  "practice_rows": 375,
+  "practice_epochs": 1,
+  "selected_practice_epoch": 1,
+  "reservoir": {
+    "forced": {
+      "discarded": 0,
+      "kept": 35,
+      "replaced": 0,
+      "seen": 35
+    },
+    "mirror": {
+      "discarded": 0,
+      "kept": 48,
+      "replaced": 0,
+      "seen": 48
+    },
+    "move": {
+      "discarded": 0,
+      "kept": 281,
+      "replaced": 0,
+      "seen": 281
+    },
+    "switch": {
+      "discarded": 0,
+      "kept": 11,
+      "replaced": 0,
+      "seen": 11
+    }
+  },
+  "kept_by_bucket": {
+    "move": 281,
+    "forced": 35,
+    "switch": 11,
+    "mirror": 48
+  },
+  "kept_by_group": {
+    "old": 93,
+    "new": 234,
+    "mirror": 48
+  },
+  "kept_by_trajectory": {
+    "student": 188,
+    "rules": 187
+  },
+  "reservoir_and_replacement_metadata_verified": true,
+  "source_soft_mirror_targets_recomputed": true,
+  "teacher_weights_verified": {
+    "move": 1,
+    "forced": 2,
+    "switch": 4
+  },
+  "mirror_objective_mass": 0.1,
+  "fit_holdout_team_pairs_disjoint": true,
+  "teacher_targets_and_action_masks_verified": true,
+  "serialized_control_parameters_match_parent": true,
+  "both_input_optimizers_empty": true,
+  "practice_critic_parameter_tensors_unchanged": true,
+  "all_ppo_parameter_gradients_restored": true,
+  "imitation_preserves_all_ppo_counters": true,
+  "source_suites_reused_byte_exact": true,
+  "training_and_selection_development_compositions_disjoint": true,
+  "checks": [
+    {
+      "label": "checks/imported-start-fresh-original",
+      "battles": 8,
+      "imported": true,
+      "truncated": 0
+    },
+    {
+      "label": "checks/imported-start-fresh-reversed",
+      "battles": 8,
+      "imported": true,
+      "truncated": 0
+    },
+    {
+      "label": "checks/imported-start-mirror",
+      "battles": 8,
+      "imported": true,
+      "truncated": 0
+    },
+    {
+      "label": "checks/imported-start-seen-original",
+      "battles": 8,
+      "imported": true,
+      "truncated": 0
+    },
+    {
+      "label": "checks/imported-start-seen-reversed",
+      "battles": 8,
+      "imported": true,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-fresh-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-fresh-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-mirror",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-seen-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-seen-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-final-fresh-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-final-fresh-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-final-mirror",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-final-seen-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-final-seen-reversed-retry-1792459684028408408",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/practice-only-fresh-original-retry-1792459680934050272",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/practice-only-fresh-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/practice-only-mirror",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/practice-only-seen-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/practice-only-seen-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/practice-only-validation",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-best-fresh-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-best-fresh-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-best-mirror",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-best-seen-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-best-seen-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-final-fresh-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-final-fresh-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-final-mirror",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-final-seen-original",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    },
+    {
+      "label": "checks/switch-practice-final-seen-reversed",
+      "battles": 8,
+      "imported": false,
+      "truncated": 0
+    }
+  ],
+  "frozen_check_battles": 248,
+  "frozen_truncated": 0,
+  "all_saved_episode_and_audit_evidence_verified": true,
+  "no_frozen_rules_assistance": true,
+  "seven_export_hashes_verified": true,
+  "validation_selection_and_tie_order_verified": true,
+  "completed_continuation_no_expensive_work_restarted": true,
+  "completed_continuation_inputs_models_runs_checks_logs_practice_unchanged": true,
+  "team_inspector_verified": true,
+  "reports_and_archive_present": true,
+  "live_archive_content_consistency_verified": true,
+  "archive_excludes_weights_and_arrays": true,
+  "memory_recorded": true,
+  "source_preserved": true,
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": 1,
+      "log": "switch-practice-smoke-run-1.log",
+      "mode": "fresh"
+    },
+    {
+      "attempt": 2,
+      "status": 0,
+      "log": "switch-practice-smoke-run-2.log",
+      "mode": "continue"
+    }
+  ],
+  "focused_tests": {
+    "passed": 85,
+    "elapsed_seconds": 116.8,
+    "modules": [
+      "test_teacher_training.py",
+      "test_teacher_training_suites.py",
+      "test_teacher_warmstart.py",
+      "test_decision_weighted_warmstart.py",
+      "test_switch_practice_runner.py"
+    ]
+  },
+  "recovery_observation": {
+    "fresh_attempt_exit": 1,
+    "reason": "Strict frozen evidence gate rejected incomplete/inconsistent saved diagnostics.",
+    "retry_labels": [
+      "practice-only-fresh-original",
+      "ppo-only-final-seen-reversed"
+    ],
+    "recovery": "One normal --continue; original diagnostic directories preserved; no code changes, weakened checks, or reconstructed counts.",
+    "cause": "Not established.",
+    "final_state": "Live/archived results and completed continuation independently verified."
+  }
+}

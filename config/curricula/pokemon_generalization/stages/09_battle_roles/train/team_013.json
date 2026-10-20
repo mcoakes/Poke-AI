@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 013",
+  "party": [
+    {
+      "species": "Clefable",
+      "level": 50,
+      "moves": [
+        "Seismic Toss",
+        "Ice Beam",
+        "Thunder Wave",
+        "Soft Boiled"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Alakazam",
+      "level": 50,
+      "moves": [
+        "Ice Punch",
+        "Fire Punch",
+        "Calm Mind",
+        "Psychic"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Snorlax",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Curse",
+        "Shadow Ball",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Careful",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Ludicolo",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Giga Drain",
+        "Surf",
+        "Leech Seed"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Slowbro",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Rest",
+        "Psychic",
+        "Calm Mind"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Blaziken",
+      "level": 50,
+      "moves": [
+        "Sky Uppercut",
+        "Swords Dance",
+        "Fire Blast",
+        "Rock Slide"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

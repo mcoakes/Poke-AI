@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 06 train 024",
+  "party": [
+    {
+      "species": "Fearow",
+      "level": 50,
+      "moves": [
+        "Drill Peck",
+        "Rest",
+        "Secret Power",
+        "Faint Attack"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Qwilfish",
+      "level": 50,
+      "moves": [
+        "Bubble Beam",
+        "Shock Wave",
+        "Rest",
+        "Double Edge"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Zangoose",
+      "level": 50,
+      "moves": [
+        "False Swipe",
+        "Pursuit",
+        "Slash",
+        "Rest"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Roselia",
+      "level": 50,
+      "moves": [
+        "Mega Drain",
+        "Leech Seed",
+        "Giga Drain",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

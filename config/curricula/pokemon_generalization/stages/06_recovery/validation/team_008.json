@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 06 validation 008",
+  "party": [
+    {
+      "species": "Seaking",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Rest",
+        "Surf",
+        "Hydro Pump"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Dunsparce",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Thief",
+        "Rest",
+        "Body Slam"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Butterfree",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Secret Power",
+        "Protect",
+        "Confusion"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Mightyena",
+      "level": 50,
+      "moves": [
+        "Poison Fang",
+        "Crunch",
+        "Facade",
+        "Protect"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

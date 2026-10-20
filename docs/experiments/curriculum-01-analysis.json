@@ -1,0 +1,77 @@
+{
+  "source_archive": "curriculum-results.zip",
+  "source_run": ".local/run/team-curriculum-01",
+  "stage": "04-type-matchups",
+  "outcome": "retention passed, broader stage blocked",
+  "arms": {
+    "a": {
+      "learning_rate": 0.0001,
+      "additional_steps": 200704,
+      "best_validation": 0.26171875,
+      "frozen_rates": {
+        "test": 0.339,
+        "heldout": 0.307,
+        "permuted": 0.307
+      },
+      "mirror_episode_starts": 1466,
+      "total_episode_starts": 14985,
+      "training_seconds_including_validation": 595.6807720090146
+    },
+    "b": {
+      "learning_rate": 2e-05,
+      "additional_steps": 200704,
+      "best_validation": 0.224609375,
+      "frozen_rates": {
+        "test": 0.257,
+        "heldout": 0.214,
+        "permuted": 0.214
+      },
+      "mirror_episode_starts": 1452,
+      "total_episode_starts": 14883,
+      "training_seconds_including_validation": 598.3564573460026
+    }
+  },
+  "interpretation": {
+    "plateau_established": false,
+    "observation_bug_established": false,
+    "rehearsal_causality_established": false,
+    "next_comparison": "Same stage-4 data and PPO settings, specialist initialization versus fresh initialization, up to 1m new steps each."
+  },
+  "memory": {
+    "minimum_available_gib": 22.36104965209961,
+    "maximum_swap_used_gib": 0.0
+  },
+  "retention": {
+    "before_wins": 999,
+    "after_wins": 999,
+    "requested_each": 1000
+  },
+  "trace_examples": [
+    {
+      "episode": 1,
+      "attacker": "Golem",
+      "move": "Earthquake",
+      "defender": "Dodrio",
+      "consecutive_immune_attacks": 4,
+      "alternative": "Double Edge"
+    },
+    {
+      "episode": 14,
+      "attacker": "Raichu",
+      "move": "Thunderbolt",
+      "defender": "Golem",
+      "consecutive_immune_attacks": 2,
+      "alternative": "Strength"
+    },
+    {
+      "episode": 15,
+      "attacker": "Blastoise",
+      "move": "Waterfall",
+      "defender": "Lapras",
+      "reason": "Water Absorb",
+      "consecutive_immune_attacks": 5,
+      "alternative": "Body Slam"
+    }
+  ],
+  "trace_scope": "Examples come from only the first 16 heldout battles, not a full-run immunity rate; decisions precede opponent action and targets can change."
+}

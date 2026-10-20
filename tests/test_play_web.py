@@ -305,3 +305,114 @@ def test_every_species_has_a_suggested_set():
         assert sum(preset['evs'].values()) <= 510
         if preset.get('source') != 'experimental':
             assert set(preset['moves']) <= set(catalog.data['species'][name]['moves'])
+
+
+def classroom_manifest(project):
+    directory = project / 'models/classroom'
+    directory.mkdir(parents=True, exist_ok=True)
+    for name in ('coached-ai.zip', 'rewards-only-ai.zip'):
+        (directory / name).write_bytes(name.encode())
+    manifest = project / 'config/classroom-models.json'
+    manifest.parent.mkdir(parents=True, exist_ok=True)
+    data = dict(version=1, default='coached', models=[
+        dict(id='rewards-only', label='Rewards-only AI', checkpoint='models/classroom/rewards-only-ai.zip'),
+        dict(id='coached', label='Coached AI (default)', checkpoint='models/classroom/coached-ai.zip')])
+    manifest.write_text(json.dumps(data))
+    return manifest, data
+
+
+def test_classroom_model_list_replaces_discovery_and_orders_default_first(jobs, tmp_path):
+    manifest, data = classroom_manifest(tmp_path)
+    (tmp_path / 'models/smart_v10.zip').write_bytes(b'other model')
+    recent = tmp_path / 'recent/checkpoints'
+    recent.mkdir(parents=True)
+    (recent / 'latest.zip').write_bytes(b'recent training model')
+    settings = replace(jobs.settings, checkpoint=None, checkpoint_dir=recent.parent,
+                       model_list=manifest.relative_to(tmp_path))
+    classroom = MatchJobs(settings, jobs.catalog)
+    assert classroom.models() == [dict(id='coached', label='Coached AI (default)'),
+                                  dict(id='rewards-only', label='Rewards-only AI')]
+    assert classroom.checkpoints == {row['id']: (tmp_path / row['checkpoint']).resolve()
+                                     for row in data['models']}
+    assert 'latest' not in classroom.checkpoints
+    # The configured directory is irrelevant, including after a refresh.
+    (recent / 'ppo_999999.zip').write_bytes(b'new training model')
+    assert [row['id'] for row in classroom.models()] == ['coached', 'rewards-only']
+
+
+@pytest.mark.parametrize('change', ['root', 'unknown_root', 'version', 'boolean_version', 'no_default',
+    'unknown_default', 'empty_models', 'models_object', 'unknown_entry', 'missing_entry', 'empty_id',
+    'empty_label', 'bad_path_type', 'duplicate_id', 'missing_file', 'directory', 'latest', 'not_zip'])
+def test_classroom_model_list_rejects_invalid_configuration_on_startup(jobs, tmp_path, change):
+    manifest, data = classroom_manifest(tmp_path)
+    if change == 'root': data = []
+    elif change == 'unknown_root': data['extra'] = True
+    elif change == 'version': data['version'] = 2
+    elif change == 'boolean_version': data['version'] = True
+    elif change == 'no_default': data.pop('default')
+    elif change == 'unknown_default': data['default'] = 'not-listed'
+    elif change == 'empty_models': data['models'] = []
+    elif change == 'models_object': data['models'] = {}
+    elif change == 'unknown_entry': data['models'][0]['extra'] = True
+    elif change == 'missing_entry': data['models'][0].pop('label')
+    elif change == 'empty_id': data['models'][0]['id'] = '  '
+    elif change == 'empty_label': data['models'][0]['label'] = ''
+    elif change == 'bad_path_type': data['models'][0]['checkpoint'] = None
+    elif change == 'duplicate_id': data['models'][1]['id'] = data['models'][0]['id']
+    elif change == 'missing_file': data['models'][0]['checkpoint'] = 'models/classroom/missing.zip'
+    elif change == 'directory':
+        (tmp_path / 'directory.zip').mkdir()
+        data['models'][0]['checkpoint'] = 'directory.zip'
+    elif change == 'latest': data['models'][0]['checkpoint'] = 'latest'
+    else:
+        (tmp_path / 'not-a-model.txt').write_text('model')
+        data['models'][0]['checkpoint'] = 'not-a-model.txt'
+    manifest.write_text(json.dumps(data))
+    with pytest.raises(ValueError):
+        MatchJobs(replace(jobs.settings, checkpoint=None, model_list=manifest), jobs.catalog)
+
+
+@pytest.mark.parametrize('contents', [None, '{invalid JSON'])
+def test_classroom_model_list_missing_or_malformed_file_has_helpful_error(jobs, tmp_path, contents):
+    manifest = tmp_path / 'model-list.json'
+    if contents is not None: manifest.write_text(contents)
+    with pytest.raises(ValueError, match='cannot read --model-list'):
+        MatchJobs(replace(jobs.settings, checkpoint=None, model_list=manifest), jobs.catalog)
+
+
+def test_classroom_model_list_conflicts_with_explicit_checkpoint(jobs, tmp_path):
+    manifest, _ = classroom_manifest(tmp_path)
+    with pytest.raises(ValueError, match='cannot be combined with --checkpoint'):
+        MatchJobs(replace(jobs.settings, model_list=manifest), jobs.catalog)
+
+
+def test_classroom_cli_rejects_checkpoint_conflict_before_rom_validation():
+    import os
+    import subprocess
+    env = dict(os.environ)
+    env['PYTHONPATH'] = str(ROOT / 'src') + os.pathsep + env.get('PYTHONPATH', '')
+    result = subprocess.run([sys.executable, str(ROOT / 'mgba/play_gui.py'), '--rom', 'missing.gba',
+        '--source', 'missing.sav', '--model-list', 'classroom.json', '--checkpoint', 'latest'],
+        env=env, capture_output=True, text=True)
+    assert result.returncode == 2
+    assert '--checkpoint' in result.stderr and '--model-list' in result.stderr
+    assert 'not allowed with argument' in result.stderr
+
+
+def test_classroom_launch_rejects_unlisted_ids_and_uses_static_listed_path(jobs, tmp_path, monkeypatch):
+    manifest, _ = classroom_manifest(tmp_path)
+    jobs.settings = replace(jobs.settings, checkpoint=None, model_list=manifest)
+    jobs.models()
+    payload = request_payload(jobs)
+    for unlisted in ('latest', str(tmp_path / 'latest.zip'), 'unlisted-model'):
+        with pytest.raises(ValueError, match='select an available PPO checkpoint'):
+            jobs.start(dict(payload, checkpoint=unlisted))
+        assert jobs.thread is None
+    chosen = []
+    def work(run, teams, checkpoint, workers, speed, stochastic):
+        chosen.append(checkpoint)
+        jobs.update(status='complete')
+    monkeypatch.setattr(jobs, '_work', work)
+    jobs.start(dict(payload, checkpoint='coached'))
+    assert wait_job(jobs)['status'] == 'complete'
+    assert chosen == [(tmp_path / 'models/classroom/coached-ai.zip').resolve()]

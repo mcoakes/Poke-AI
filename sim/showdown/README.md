@@ -45,6 +45,8 @@ species, moves and items. PP starts without PP Ups; initial ability, nature,
 gender and friendship follow the editor's construction defaults.
 
 The runner translates simulator requests to original party/move slots and the
-shared 11-action mask. Rewards, observation encoding and PPO checkpoints are shared
-with mGBA. Ruleset defaults, obscure cartridge behavior and RNG timing can differ;
+shared 11-action mask. Rewards and v1 observation encoding/PPO checkpoints are shared
+with mGBA. The richer [observation v2](../../docs/observation-v2.md) is Showdown-only;
+reports provide its native data in `observation_v2` and Python selects the
+requested schema. Ruleset defaults, obscure cartridge behavior and RNG timing can differ;
 see [fidelity and checkpoint transfer](../../docs/showdown-training.md).

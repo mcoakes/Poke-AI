@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 unseen_species 015",
+  "party": [
+    {
+      "species": "Shiftry",
+      "level": 50,
+      "moves": [
+        "Swords Dance",
+        "Aerial Ace",
+        "Brick Break",
+        "Growth"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 23,
+        "spa": 21,
+        "spd": 30,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Masquerain",
+      "level": 50,
+      "moves": [
+        "Stun Spore",
+        "Hydro Pump",
+        "Double Edge",
+        "Attract"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 28,
+        "def": 24,
+        "spa": 31,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Cradily",
+      "level": 50,
+      "moves": [
+        "Astonish",
+        "Swallow",
+        "Giga Drain",
+        "Strength"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 24,
+        "def": 30,
+        "spa": 21,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

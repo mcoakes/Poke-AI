@@ -1,0 +1,250 @@
+{
+  "scope": "Integration/behavior verification, not training efficacy; user mirror specialist weights were unavailable locally.",
+  "test_output": "......................................................                   [100%]\n54 passed in 40.78s",
+  "full_smoke": {
+    "status": "smoke_completed",
+    "stages": [
+      {
+        "stage": "move-choice",
+        "status": "smoke_completed"
+      },
+      {
+        "stage": "mirror-replication",
+        "status": "smoke_completed"
+      },
+      {
+        "stage": "mirror-stability",
+        "status": "smoke_completed"
+      },
+      {
+        "stage": "order",
+        "status": "smoke_completed"
+      },
+      {
+        "stage": "composition",
+        "status": "smoke_completed"
+      }
+    ],
+    "training_jobs": 9,
+    "completed_frozen_checks": 48,
+    "truncated_frozen_battles": 0,
+    "memory_samples": 117,
+    "completed_resume_started_no_training": true
+  },
+  "import_path": {
+    "tested_with": "real local 20k shared-moves best/final checkpoints",
+    "pins_verified": true,
+    "copies_original_update_diagnostics": true
+  },
+  "source_user_results": {
+    "mirror_fresh_best": 0.973,
+    "mirror_fresh_final": 0.021,
+    "mirror_reference_final": 0.575
+  },
+  "suite_verification": {
+    "order": {
+      "status": "completed",
+      "suite_sha256": "a758a8a70c6aa5d931eeb64324aaccd0fa0c8dcbbfe5846f48aba8a5e2221766",
+      "requested_battles": 24,
+      "attempted_battles": 24,
+      "completed_battles": 24,
+      "truncated": 0,
+      "candidate_wins": 12,
+      "opponent_wins": 12,
+      "draws": 0,
+      "candidate_win_rate": 0.5,
+      "opponent_win_rate": 0.5,
+      "draw_rate": 0.0,
+      "candidate_score": 0.5,
+      "candidate_reward_mean": 692.9221921251288,
+      "opponent_reward_mean": 692.9221921251288,
+      "decisions_mean": 14.583333333333334,
+      "elapsed_seconds": 2.1375167360019987,
+      "battles_per_hour": 40420.73614899603,
+      "by_candidate_side": {
+        "1": {
+          "battles": 12,
+          "wins": 5,
+          "losses": 7
+        },
+        "2": {
+          "battles": 12,
+          "wins": 7,
+          "losses": 5
+        }
+      },
+      "wins_per_requested": 0.5,
+      "first_move_ids": {
+        "70": 6,
+        "53": 5,
+        "-1": 7,
+        "348": 5,
+        "57": 1
+      },
+      "first_surf_rate": 0.041666666666666664,
+      "voluntary_switch_rate": 0.12406015037593984,
+      "audit_totals": {
+        "decisions": 350,
+        "choices": 289,
+        "voluntary_decisions": 266,
+        "move_actions": 233,
+        "automatic": 61,
+        "forced_replacement_decisions": 42,
+        "forced_switches": 42,
+        "voluntary_switches": 33
+      }
+    },
+    "composition": {
+      "status": "completed",
+      "suite_sha256": "4f11eab0280f668a08a3fac525d71c143906df17e1185be2b1db371f36b5cab8",
+      "requested_battles": 24,
+      "attempted_battles": 24,
+      "completed_battles": 24,
+      "truncated": 0,
+      "candidate_wins": 12,
+      "opponent_wins": 12,
+      "draws": 0,
+      "candidate_win_rate": 0.5,
+      "opponent_win_rate": 0.5,
+      "draw_rate": 0.0,
+      "candidate_score": 0.5,
+      "candidate_reward_mean": 690.0999597720623,
+      "opponent_reward_mean": 690.0999597720623,
+      "decisions_mean": 15.166666666666666,
+      "elapsed_seconds": 2.4157327619977877,
+      "battles_per_hour": 35765.54549376067,
+      "by_candidate_side": {
+        "1": {
+          "battles": 12,
+          "wins": 7,
+          "losses": 5
+        },
+        "2": {
+          "battles": 12,
+          "wins": 5,
+          "losses": 7
+        }
+      },
+      "wins_per_requested": 0.5,
+      "first_move_ids": {
+        "70": 13,
+        "57": 3,
+        "75": 4,
+        "-1": 2,
+        "348": 1,
+        "53": 1
+      },
+      "first_surf_rate": 0.125,
+      "voluntary_switch_rate": 0.11870503597122302,
+      "audit_totals": {
+        "decisions": 364,
+        "choices": 301,
+        "voluntary_decisions": 278,
+        "move_actions": 245,
+        "automatic": 63,
+        "forced_replacement_decisions": 43,
+        "forced_switches": 43,
+        "voluntary_switches": 33
+      }
+    },
+    "composition-heldout": {
+      "status": "completed",
+      "suite_sha256": "e91a4eb5c9c3ce53415b7d3eee0d08fead85b01d65475249ce50f364f4fe3982",
+      "requested_battles": 24,
+      "attempted_battles": 24,
+      "completed_battles": 24,
+      "truncated": 0,
+      "candidate_wins": 12,
+      "opponent_wins": 12,
+      "draws": 0,
+      "candidate_win_rate": 0.5,
+      "opponent_win_rate": 0.5,
+      "draw_rate": 0.0,
+      "candidate_score": 0.5,
+      "candidate_reward_mean": 679.1469498941398,
+      "opponent_reward_mean": 679.1469498941398,
+      "decisions_mean": 15.333333333333334,
+      "elapsed_seconds": 2.2011984269993263,
+      "battles_per_hour": 39251.34551262626,
+      "by_candidate_side": {
+        "1": {
+          "battles": 12,
+          "wins": 4,
+          "losses": 8
+        },
+        "2": {
+          "battles": 12,
+          "wins": 8,
+          "losses": 4
+        }
+      },
+      "wins_per_requested": 0.5,
+      "first_move_ids": {
+        "348": 2,
+        "-1": 6,
+        "57": 3,
+        "70": 8,
+        "53": 5
+      },
+      "first_surf_rate": 0.125,
+      "voluntary_switch_rate": 0.09574468085106383,
+      "audit_totals": {
+        "decisions": 368,
+        "choices": 305,
+        "voluntary_decisions": 282,
+        "move_actions": 255,
+        "voluntary_switches": 27,
+        "automatic": 63,
+        "forced_replacement_decisions": 43,
+        "forced_switches": 43
+      }
+    },
+    "ppo-audit": {
+      "status": "completed",
+      "suite_sha256": "48bdfca2706bfd91cb81ad2fa595f38cbf828c4a4f32733e765f8208ddb3ff55",
+      "requested_battles": 8,
+      "attempted_battles": 8,
+      "completed_battles": 8,
+      "truncated": 0,
+      "candidate_wins": 3,
+      "opponent_wins": 5,
+      "draws": 0,
+      "candidate_win_rate": 0.375,
+      "opponent_win_rate": 0.625,
+      "draw_rate": 0.0,
+      "candidate_score": 0.375,
+      "candidate_reward_mean": -703.5043690512339,
+      "opponent_reward_mean": 2053.772980045459,
+      "decisions_mean": 15.75,
+      "elapsed_seconds": 1.4200821570047992,
+      "battles_per_hour": 20280.51677006084,
+      "by_candidate_side": {
+        "1": {
+          "battles": 4,
+          "wins": 1,
+          "losses": 3
+        },
+        "2": {
+          "battles": 4,
+          "wins": 2,
+          "losses": 2
+        }
+      },
+      "wins_per_requested": 0.375,
+      "first_move_ids": {
+        "53": 8
+      },
+      "first_surf_rate": 0.0,
+      "voluntary_switch_rate": 0.0,
+      "audit_totals": {
+        "decisions": 126,
+        "choices": 104,
+        "voluntary_decisions": 96,
+        "move_actions": 96,
+        "automatic": 22,
+        "forced_replacement_decisions": 16,
+        "forced_switches": 16
+      }
+    }
+  }
+}

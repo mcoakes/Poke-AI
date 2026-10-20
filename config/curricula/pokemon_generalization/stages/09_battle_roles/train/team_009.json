@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 009",
+  "party": [
+    {
+      "species": "Raichu",
+      "level": 50,
+      "moves": [
+        "Encore",
+        "Substitute",
+        "Thunderbolt",
+        "Focus Punch"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Substitute",
+        "Brick Break",
+        "Dragon Claw",
+        "Flamethrower"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Mild",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Skarmory",
+      "level": 50,
+      "moves": [
+        "Spikes",
+        "Drill Peck",
+        "Protect",
+        "Roar"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Metagross",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Explosion",
+        "Earthquake",
+        "Meteor Mash"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Snorlax",
+      "level": 50,
+      "moves": [
+        "Curse",
+        "Rest",
+        "Shadow Ball",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Careful",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Aerodactyl",
+      "level": 50,
+      "moves": [
+        "Earthquake",
+        "Double Edge",
+        "Aerial Ace",
+        "Rock Slide"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -9,7 +9,9 @@ overall leaderboard, a leaderboard for each configuration, and head-to-head tabl
 
 This is evaluation only. PPO policies stay frozen and choose their
 highest-probability legal action. It uses the local Showdown simulator, with the
-same policy observation/action schema as training. No ROM, generated saves, mGBA
+supported v1/v2 policy schemas and the same 11 actions as training. Each model's
+schema is detected, so a directory can contain both versions. The preflight
+`model-schemas.json` records versions. No ROM, generated saves, mGBA
 windows or external server are needed.
 
 ## 1. Choose a model directory

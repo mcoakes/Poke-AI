@@ -1,7 +1,7 @@
 -- FireRed RL mGBA adapter, party/bag inspection first pass (2D).
 -- The emulator runs normally between requests; this is not a paused RL scheduler.
 
-local ADAPTER_VERSION = "0.18.1"
+local ADAPTER_VERSION = "0.19.0"
 local DEFAULT_PORT = 55355
 local MAX_STEP_FRAMES = 600
 
@@ -130,6 +130,7 @@ local function status_json()
         ',"link_peer_simulation_supported":', link_turn and link_turn.peer_simulation_supported and "true" or "false",
         ',"link_move_supported":', link_turn and link_turn.move_supported and "true" or "false",
         ',"link_human_supported":', link_turn and link_turn.human_supported and "true" or "false",
+        ',"native_observation_v2":1',
         ',"battle_events_supported":', link_turn and link_turn.battle_events_supported and "true" or "false",
         "}\n",
     })

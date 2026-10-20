@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 04 train 019",
+  "party": [
+    {
+      "species": "Whiscash",
+      "level": 50,
+      "moves": [
+        "Snore",
+        "Blizzard",
+        "Waterfall",
+        "Surf"
+      ],
+      "held_item": "None",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Jumpluff",
+      "level": 50,
+      "moves": [
+        "Confusion",
+        "Mega Drain",
+        "Giga Drain",
+        "Tackle"
+      ],
+      "held_item": "None",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Pinsir",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Brick Break",
+        "Submission",
+        "Revenge"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Heracross",
+      "level": 50,
+      "moves": [
+        "Take Down",
+        "Tackle",
+        "Brick Break",
+        "False Swipe"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

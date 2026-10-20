@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 06 validation 010",
+  "party": [
+    {
+      "species": "Cloyster",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Aurora Beam",
+        "Secret Power",
+        "Clamp"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Pelipper",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Aerial Ace",
+        "Gust",
+        "Rest"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Corsola",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Surf",
+        "Strength",
+        "Rest"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Raticate",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Ice Beam",
+        "Hyper Fang",
+        "Strength"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

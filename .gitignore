@@ -19,46 +19,26 @@ tools/**/obj/
 *.sav.~*~
 /.maintainer/
 
-# Installed dependencies and build output
-/.venv/
-/.local/
+# Downloaded project bundles
+/firered-rl-starter-*.zip
+
+# Trained model weights
+/models/**/*.zip
+/models/**/*.pt
+/models/**/*.pth
+/models/**/*.onnx
+/models/**/*.safetensors
+
+# Generated builds and local emulator checkout
 /build/
 /dist/
-/third_party/
-node_modules/
-__pycache__/
-*.py[cod]
-*.egg-info/
-.pytest_cache/
-tools/**/bin/
-tools/**/obj/
+/third_party/mgba/
 
-# ROMs, generated saves, and trained models
-/states/
-/models/
-*.gba
-*.sav
-*.sav.*
-*.ss[0-9]
-*.ss[0-9].*
-
-# Downloaded project archives
-/firered-rl-*.zip
-/firered-rl-*.tar.gz
-
-# Local diagnostics and personal working notes
-/diagnostics/
-/notes/
-/.maintainer/
-/files.txt
-/.gitignore2
-/prompt.tt
+# Runtime lock
 /.lock
-*.swp
-*.swo
-*~
 
 # Local environment settings
 .env
 .env.*
 !.env.example
+!.env.template

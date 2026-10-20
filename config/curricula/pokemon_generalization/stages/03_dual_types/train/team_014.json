@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 03 train 014",
+  "party": [
+    {
+      "species": "Swellow",
+      "level": 50,
+      "moves": [
+        "Wing Attack",
+        "Peck",
+        "Aerial Ace",
+        "Quick Attack"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Espeon",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Cut",
+        "Facade",
+        "Take Down"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Mawile",
+      "level": 50,
+      "moves": [
+        "Mega Punch",
+        "False Swipe",
+        "Body Slam",
+        "Vice Grip"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

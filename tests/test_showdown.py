@@ -130,6 +130,56 @@ def test_trapping_encore_disable_and_struggle(session):
     assert "Struggle" in s.battle_log.read_text()
 
 
+@pytest.mark.parametrize('side', [0, 1])
+@pytest.mark.parametrize('cause', ['exhausted', 'disabled'])
+def test_move_audit_checks_struggle_with_a_healthy_bench(session, tmp_path, monkeypatch, side, cause):
+    from firered_rl.move_order_audit import MoveOrderAudit
+
+    s, reset = session
+    s.factory.args.move_order_audit = True
+    s.observation_version = 'v2'
+    own = [mon('Magikarp', ['Splash']), mon('Lapras', ['Splash'])]
+    foe = [mon('Magikarp', ['Splash'])] if cause == 'exhausted' else [mon('Alakazam', ['Disable', 'Splash'])]
+    reset(*(own, foe) if side == 0 else (foe, own))
+
+    def step(own_action, foe_action):
+        return s.step_pair([own_action, foe_action] if side == 0 else [foe_action, own_action])
+
+    if cause == 'exhausted':
+        for _ in range(40):
+            result = step(0, 0)
+        assert result[side][0]['moves'][0, 0, 2] == 0
+    else:
+        step(0, 1)  # Establish Splash as the last move before Disable.
+        for _ in range(10):
+            result = step(0, 0)
+            active = next(m for m in s.reports[side]['battle']['battlers'] if m['side'] == 'player')
+            # Request evidence on the *next* submitted turn establishes Disable;
+            # the PP counter ceases to decrease once Splash cannot execute.
+            if result[side][0]['moves'][0, 0, 2] == 39:
+                break
+        assert active['moves'][0]['current_pp'] > 0
+
+    obs = result[side][0]
+    assert np.flatnonzero(obs['action_mask']).tolist() == [0, 5]
+    assert obs['moves'][0, 0, 0] == 150  # Stored move is still Splash, not Struggle.
+    monkeypatch.setattr('firered_rl.move_order_audit.probabilities',
+                        lambda model, observations: np.tile(np.eye(11)[0], (len(observations), 1)))
+    audit = MoveOrderAudit(None, tmp_path, SimpleNamespace(log_max_mb=2, log_backups=1))
+    case = dict(episode=1, candidate_player=side+1)
+    audit(case, 1, obs, 0)
+    result = step(0, 0 if cause == 'exhausted' else 1)
+    evidence = result[side][4]['audit_choice']
+    assert evidence == dict(action=0, command='move 1', requested_move='struggle', resolved_move='struggle')
+    assert result[1-side][4]['audit_choice']['action'] == (0 if cause == 'exhausted' else 1)
+    audit.after_step(case, 1, result[side][4])
+    audit.finish()
+    report = json.loads((tmp_path/'move-order-audit.json').read_text())
+    assert report['counts']['execution_struggle_fallback'] == 1
+    assert report['counts'].get('execution_review_mismatch', 0) == 0
+    assert report['examples'][0]['submitted_choice'] == evidence
+
+
 def test_random_profiles_and_all_templates(tmp_path):
     # Validates every template, including names that changed between Gen III and Showdown.
     code = """

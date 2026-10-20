@@ -1,0 +1,314 @@
+{
+  "status": "verified",
+  "selected": {
+    "name": "teacher-ppo",
+    "checkpoint": "runs/teacher-ppo/checkpoints/best.zip",
+    "checkpoint_sha256": "528131b474ad60ed47dc424b60f2d0c383ff3b5596f674d3c8b570bd13fb8c4e",
+    "timesteps": 2255872,
+    "validation_rate": 0.513671875
+  },
+  "source_upload_sha256": "4d966478a5222eb7274ce48e8d2433e4ecf04b7df297e99c229afc8b7b8662a3",
+  "saved_evidence": {
+    "checked_directories": [
+      "checks/current-selected-fresh-original",
+      "checks/current-selected-fresh-reversed",
+      "checks/current-selected-mirror",
+      "checks/current-selected-seen-original",
+      "checks/current-selected-seen-reversed",
+      "checks/current-selected-validation",
+      "checks/ppo-only-best-fresh-original",
+      "checks/ppo-only-best-fresh-reversed",
+      "checks/ppo-only-best-mirror",
+      "checks/ppo-only-best-seen-original",
+      "checks/ppo-only-best-seen-reversed",
+      "checks/ppo-only-final-fresh-original",
+      "checks/ppo-only-final-fresh-reversed",
+      "checks/ppo-only-final-mirror",
+      "checks/ppo-only-final-seen-original",
+      "checks/ppo-only-final-seen-reversed",
+      "checks/prior-feature-final-fresh-original",
+      "checks/prior-feature-final-fresh-reversed",
+      "checks/prior-feature-final-mirror",
+      "checks/prior-feature-final-seen-original",
+      "checks/prior-feature-final-seen-reversed",
+      "checks/prior-feature-final-validation",
+      "checks/small-pool-best-fresh-original",
+      "checks/small-pool-best-fresh-reversed",
+      "checks/small-pool-best-mirror",
+      "checks/small-pool-best-seen-original",
+      "checks/small-pool-best-seen-reversed",
+      "checks/small-pool-best-validation",
+      "checks/teacher-only-fresh-original",
+      "checks/teacher-only-fresh-reversed",
+      "checks/teacher-only-mirror",
+      "checks/teacher-only-seen-original",
+      "checks/teacher-only-seen-reversed",
+      "checks/teacher-only-validation",
+      "checks/teacher-ppo-best-fresh-original",
+      "checks/teacher-ppo-best-fresh-reversed",
+      "checks/teacher-ppo-best-mirror",
+      "checks/teacher-ppo-best-seen-original",
+      "checks/teacher-ppo-best-seen-reversed",
+      "checks/teacher-ppo-final-fresh-original",
+      "checks/teacher-ppo-final-fresh-reversed",
+      "checks/teacher-ppo-final-mirror",
+      "checks/teacher-ppo-final-seen-original",
+      "checks/teacher-ppo-final-seen-reversed"
+    ],
+    "complete_episode_logs": true,
+    "complete_replacement_audits": true
+  },
+  "unique_checks": 44,
+  "frozen_battles": 48192,
+  "truncations": 0,
+  "pins_verified": 191,
+  "omitted_weight_pins": [
+    "inputs/start.zip",
+    "inputs/fallbacks/prior-feature-final.zip",
+    "inputs/fallbacks/current-selected.zip",
+    "inputs/fallbacks/small-pool-best.zip",
+    "inputs/ppo-only.zip",
+    "inputs/teacher-ppo.zip"
+  ],
+  "implementation_files_verified": 21,
+  "audit_totals": {
+    "matchup_classified_move_actions": 402545,
+    "matchup_unclassified_move_actions": 0,
+    "current_target_immune_move_actions": 0,
+    "current_target_type_immune_move_actions": 0,
+    "current_target_ability_immune_move_actions": 0,
+    "current_target_immune_with_nonimmune_alternative": 0,
+    "replacement_eligible": 47729,
+    "replacement_actual_lowest_legal": 27464,
+    "replacement_base_lowest_legal": 27464,
+    "replacement_base_rules_disagreements": 20641,
+    "replacement_override_eligible": 0,
+    "replacement_overrides_changed": 0,
+    "decisions": 599568,
+    "choices": 473853,
+    "voluntary_decisions": 426308,
+    "move_actions": 402545,
+    "automatic": 125715,
+    "forced_replacement_decisions": 87872,
+    "forced_switches": 87872,
+    "voluntary_switches": 23763
+  },
+  "models": {
+    "current-selected": {
+      "timesteps": 1854464,
+      "checkpoint_sha256": "02627edb61a53c17383abe5429fe9f5c1846a891021c54e88621f723cd7fc6c9",
+      "validation": 0.4599609375,
+      "seen_mean": 0.427,
+      "fresh_mean": 0.4285,
+      "mirror": 0.616
+    },
+    "small-pool-best": {
+      "timesteps": 1504256,
+      "checkpoint_sha256": "3f1204534296805122a74c00f8a413724df3896853c3f1960e65e8918a6600e0",
+      "validation": 0.443359375,
+      "seen_mean": 0.499,
+      "fresh_mean": 0.4425,
+      "mirror": 0.61
+    },
+    "prior-feature-final": {
+      "timesteps": 1353728,
+      "checkpoint_sha256": "dcad7bac515507e0917f2bdf189a7eba3a5c42a13a19146b2dd112a1c296a7cd",
+      "validation": 0.4384765625,
+      "seen_mean": 0.505,
+      "fresh_mean": 0.4325,
+      "mirror": 0.611
+    },
+    "teacher-only": {
+      "timesteps": 1854464,
+      "checkpoint_sha256": "03c5d5a2ba2dd4ed20d5749ab3dcc9db9738941005fd11bddb80cee575c07b98",
+      "validation": 0.44970703125,
+      "seen_mean": 0.4265,
+      "fresh_mean": 0.4325,
+      "mirror": 0.617
+    },
+    "ppo-only-best": {
+      "timesteps": 2004992,
+      "checkpoint_sha256": "59373d3d0031a33ef5f25a55a91043458918bbe8bc4dcb84125a638f57651bfb",
+      "validation": 0.47412109375,
+      "seen_mean": 0.4535,
+      "fresh_mean": 0.448,
+      "mirror": 0.627
+    },
+    "ppo-only-final": {
+      "timesteps": 2355200,
+      "checkpoint_sha256": "ff0afe7661627ac937d1d08905125dbd021bc79d90f5af1a0c5df57b0252a12e",
+      "validation": 0.46826171875,
+      "seen_mean": 0.47350000000000003,
+      "fresh_mean": 0.4505,
+      "mirror": 0.62
+    },
+    "teacher-ppo-best": {
+      "timesteps": 2255872,
+      "checkpoint_sha256": "528131b474ad60ed47dc424b60f2d0c383ff3b5596f674d3c8b570bd13fb8c4e",
+      "validation": 0.513671875,
+      "seen_mean": 0.5,
+      "fresh_mean": 0.46499999999999997,
+      "mirror": 0.937
+    },
+    "teacher-ppo-final": {
+      "timesteps": 2355200,
+      "checkpoint_sha256": "9ebf605564e82d50eb07961ef11fd5b0d61495618893bc539043708816c04871",
+      "validation": 0.51220703125,
+      "seen_mean": 0.47850000000000004,
+      "fresh_mean": 0.475,
+      "mirror": 0.988
+    }
+  },
+  "paired_fresh": {
+    "primary_best_teacher_vs_ppo": {
+      "comparison": "teacher-ppo-best minus ppo-only-best",
+      "difference": 0.017,
+      "interval95": [
+        -0.0045,
+        0.039
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 261140,
+      "unit": "matchup/seed; both seats and bench orders remain together",
+      "pairing": "episode ID within each order, not file row position",
+      "limitation": "Conditional on this schedule, pool and shared training history; does not measure training-seed or new-team-population uncertainty."
+    },
+    "secondary_final_teacher_vs_ppo": {
+      "comparison": "teacher-ppo-final minus ppo-only-final",
+      "difference": 0.0245,
+      "interval95": [
+        0.0015,
+        0.047
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 261140,
+      "unit": "matchup/seed; both seats and bench orders remain together",
+      "pairing": "episode ID within each order, not file row position",
+      "limitation": "Conditional on this schedule, pool and shared training history; does not measure training-seed or new-team-population uncertainty."
+    },
+    "selected_vs_parent": {
+      "comparison": "teacher-ppo-best minus current-selected",
+      "difference": 0.0365,
+      "interval95": [
+        0.018,
+        0.055
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 261140,
+      "unit": "matchup/seed; both seats and bench orders remain together",
+      "pairing": "episode ID within each order, not file row position",
+      "limitation": "Conditional on this schedule, pool and shared training history; does not measure training-seed or new-team-population uncertainty."
+    },
+    "teacher_final_vs_best": {
+      "comparison": "teacher-ppo-final minus teacher-ppo-best",
+      "difference": 0.01,
+      "interval95": [
+        -0.006,
+        0.026
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 261140,
+      "unit": "matchup/seed; both seats and bench orders remain together",
+      "pairing": "episode ID within each order, not file row position",
+      "limitation": "Conditional on this schedule, pool and shared training history; does not measure training-seed or new-team-population uncertainty."
+    },
+    "warmup_only_vs_parent": {
+      "comparison": "teacher-only minus current-selected",
+      "difference": 0.004,
+      "interval95": [
+        -0.0155,
+        0.0235
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 261140,
+      "unit": "matchup/seed; both seats and bench orders remain together",
+      "pairing": "episode ID within each order, not file row position",
+      "limitation": "Conditional on this schedule, pool and shared training history; does not measure training-seed or new-team-population uncertainty."
+    }
+  },
+  "warmup": {
+    "selected_epoch": 6,
+    "fit_rows": 15610,
+    "holdout_rows": 3609,
+    "ordinary_switch_agreement": {
+      "fit": {
+        "rows": 218,
+        "correct": 130,
+        "rate": 0.5963302752293578
+      },
+      "holdout": {
+        "rows": 65,
+        "correct": 4,
+        "rate": 0.06153846153846154
+      }
+    },
+    "minority_caveat": "Correlated decision examples, not independent battles; Rules labels are heuristic preferences, not proven optimal actions.",
+    "initial_holdout_loss": 1.2188646645881556,
+    "selected_holdout_loss": 0.42852065872827305
+  },
+  "memory": {
+    "min_available_gib": 21.900550842285156,
+    "max_swap_used_gib": 0.0,
+    "elapsed_minutes": 78.660426624616
+  },
+  "training": {
+    "ppo-only": {
+      "starting_timesteps": 1854464,
+      "ending_timesteps": 2355200,
+      "added_timesteps": 500736,
+      "elapsed_seconds": 2117.2600519219413,
+      "provenance": {
+        "initial_checkpoint_sha256": "9c631ec64b9939271d967d15b177cd0ac8b51f30cefdb0be06d1e69230733e40",
+        "bench_features_enabled": true,
+        "architecture": "matchup-switches",
+        "shuffle_bench_order": false,
+        "weights": {
+          "old": 0.25,
+          "new": 0.65,
+          "fixed-mirror": 0.1
+        },
+        "episode_starts": {
+          "old": 10166,
+          "new": 26361,
+          "fixed-mirror": 4054
+        },
+        "common_parent_sha256": "02627edb61a53c17383abe5429fe9f5c1846a891021c54e88621f723cd7fc6c9",
+        "optimizer_reset": true,
+        "warmstart": false,
+        "preparation_sha256": "c390d611458a8d16e02fbf9efe641dab01fec1244e2c6757fa5f6b0105bf47c0"
+      }
+    },
+    "teacher-ppo": {
+      "starting_timesteps": 1854464,
+      "ending_timesteps": 2355200,
+      "added_timesteps": 500736,
+      "elapsed_seconds": 2117.2522611571476,
+      "provenance": {
+        "initial_checkpoint_sha256": "03c5d5a2ba2dd4ed20d5749ab3dcc9db9738941005fd11bddb80cee575c07b98",
+        "bench_features_enabled": true,
+        "architecture": "matchup-switches",
+        "shuffle_bench_order": false,
+        "weights": {
+          "old": 0.25,
+          "new": 0.65,
+          "fixed-mirror": 0.1
+        },
+        "episode_starts": {
+          "old": 10087,
+          "new": 26155,
+          "fixed-mirror": 4018
+        },
+        "common_parent_sha256": "02627edb61a53c17383abe5429fe9f5c1846a891021c54e88621f723cd7fc6c9",
+        "optimizer_reset": true,
+        "warmstart": true,
+        "preparation_sha256": "c390d611458a8d16e02fbf9efe641dab01fec1244e2c6757fa5f6b0105bf47c0"
+      }
+    }
+  },
+  "decision": "Keep validation-selected teacher-ppo best for play. Compare 1M added PPO steps alone against a fresh decision-weighted Rules warmup plus the same PPO budget, from that common parent. Both optimizer states reset. Existing fresh compositions become reused development checks. Treatment combines refreshed training-only data and conservative decision weighting."
+}

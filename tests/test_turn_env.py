@@ -38,6 +38,38 @@ def test_observation_shapes_mask_and_full_opponent_data():
     assert encode(other)["opponent_moves"][0, 0, 0] == 354
 
 
+@pytest.mark.parametrize("side", ["player", "opponent"])
+@pytest.mark.parametrize("slots", [(1,), (1, 2), (1, 2, 3), (1, 2, 3, 4), (1, 3), ()])
+def test_active_moves_replace_entire_row_and_preserve_bench(side, slots):
+    r = report()
+    party = []
+    for slot in range(1, 7):
+        mon = deepcopy(r["party"][0])
+        mon["slot"] = slot
+        mon["moves"] = [dict(slot=i+1, move_id=move_id, type_id=11,
+                             base_type_id=11, current_pp=10, max_pp=15)
+                        for i, move_id in enumerate((57, 58, 44, 182))]
+        party.append(mon)
+    r["party"] = deepcopy(party)
+    r["battle"]["opponent_party"] = deepcopy(party)
+    active = r["battle"]["battlers"][0 if side == "player" else 1]
+    active["party_slot"] = 6
+    active["moves"] = [dict(slot=slot, move_id=150+slot, base_type_id=0,
+                             current_pp=5, max_pp=5) for slot in slots]
+    original = deepcopy(r)
+    obs = encode(r)
+    key = "moves" if side == "player" else "opponent_moves"
+    expected = np.zeros((4, 4), dtype=np.int64)
+    for slot in slots:
+        expected[slot-1] = [150+slot, 0, 5, 5]
+    np.testing.assert_array_equal(obs[key][5], expected)
+    expected_bench = [[move_id, 11, 10, 15] for move_id in (57, 58, 44, 182)]
+    for index in range(5):
+        np.testing.assert_array_equal(obs[key][index], expected_bench)
+    assert observation_space().contains(obs)
+    assert r == original
+
+
 def test_three_move_grid_routes_around_empty_fourth_slot():
     env = FireRedTurnEnv.__new__(FireRedTurnEnv)
     env.report = report()

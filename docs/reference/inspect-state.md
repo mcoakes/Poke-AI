@@ -17,6 +17,7 @@ python mgba/inspect_state.py --port 55356 --peer-port 55355 --json
 | `--port` | `55355` | Port of the already-running adapter to control or inspect. |
 | `--peer-port` | Not set | Partner's adapter port for a complete paired link-battle inspection |
 | `--json` | Off | Print complete named JSON diagnostics |
+| `--observation-version` | `v1` | `v2` validates and prints native v2 policy fields; requires `--peer-port`, a linked battle and adapter 0.19.0 on both players. |
 
 ## Usage notes
 

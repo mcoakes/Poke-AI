@@ -191,8 +191,9 @@ def test_cli_assigns_windows_loads_readonly_checkpoint_and_cleans_up(tmp_path, m
             self.run, self.ports, self.states = run, ports, states
             self.session_id, self.closed = "test", False
             processes.append(self)
-        def start(self, rom, emulator, speed, headless):
+        def start(self, rom, emulator, speed, headless, *, visible_player):
             assert speed == 1 and not headless
+            assert visible_player == human
             self.run.mkdir()
         def wait_ready(self, timeout):
             if fail_start:
@@ -204,7 +205,8 @@ def test_cli_assigns_windows_loads_readonly_checkpoint_and_cleans_up(tmp_path, m
         assert kwargs["start_battle"]
         kwargs["announce"]("battle_ready")
     class Session:
-        def __init__(self, launch, human_player, max_steps):
+        def __init__(self, launch, human_player, max_steps, observation_version):
+            assert observation_version == 'v1'
             self.launch, self.human_player = launch, human_player
             self.steps = 0
         def reset_pair(self):

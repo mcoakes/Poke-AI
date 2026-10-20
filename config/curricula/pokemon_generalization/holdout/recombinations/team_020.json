@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 recombination 020",
+  "party": [
+    {
+      "species": "Jumpluff",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Swords Dance",
+        "Double Team",
+        "Double Edge"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 28,
+        "def": 27,
+        "spa": 31,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Dragon Claw",
+        "Brick Break",
+        "Substitute",
+        "Flamethrower"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Mild",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 28,
+        "spa": 26,
+        "spd": 30,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

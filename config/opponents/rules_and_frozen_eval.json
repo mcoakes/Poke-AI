@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "opponents": {
+    "frozen": {
+      "kind": "checkpoint",
+      "group": "learned",
+      "label": "Diversity experiment frozen reference",
+      "path": "../../.local/run/diversity-v2-01/inputs/frozen-opponent.zip",
+      "weight": 1
+    },
+    "rules": {
+      "kind": "rule_based",
+      "weight": 1
+    }
+  }
+}

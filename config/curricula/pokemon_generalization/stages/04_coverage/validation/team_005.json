@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 04 validation 005",
+  "party": [
+    {
+      "species": "Heracross",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Horn Attack",
+        "Body Slam",
+        "Megahorn"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Gyarados",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Hydro Pump",
+        "Facade",
+        "Thunderbolt"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Murkrow",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Facade",
+        "Pursuit",
+        "Steel Wing"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

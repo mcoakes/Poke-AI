@@ -81,11 +81,11 @@ even when `--opponent-mode previous-stage` changes the training opponent. To use
 a different Dumb checkpoint for future evaluations:
 
 ```bash
-fronzen_checkpoint="models/dumb.zip"
+frozen_checkpoint="models/dumb.zip"
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
   --through-stage 10 --attempts-per-stage 10 \
-  --eval-dumb-checkpoint "$fronzen_checkpoint"
+  --eval-dumb-checkpoint "$frozen_checkpoint"
 ```
 
 `--eval-dumb-checkpoint latest` is also supported. It resolves and copies the file
@@ -105,11 +105,11 @@ After [preserving your named models](battle-count-campaigns.md#preserve-the-star
 
 ```bash
 curriculum_run=".local/run/curriculum-mixed-opponents-01"
-fronzen_checkpoint="models/dumb.zip"
+frozen_checkpoint="models/dumb.zip"
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
   --resume models/smart_v1.zip \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --opponent-mode previous-stage \
   --train-battles 1000 --eval-episodes 1000 \
   --eval-opponents mixed \

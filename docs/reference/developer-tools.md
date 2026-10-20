@@ -5,6 +5,18 @@
 These tools prepare pinned sources, export data or test lower-level components.
 Run them from the project root.
 
+## Generate a generalization campaign
+
+```bash
+python tools/generate_generalization_campaign.py \
+  --output-dir config/curricula/my_generalization --seed 42
+```
+
+Creates ten stage directories with training/validation teams and a separate final
+test set. Requires Python training extras and the bundled catalog; no ROM or
+network. Existing nonempty output directories are rejected. See the
+[complete plan and every flag](../generalization-campaign.md#build-a-different-sized-campaign).
+
 ## Setup mGBA link
 
 ```bash

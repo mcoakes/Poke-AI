@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 recombination 008",
+  "party": [
+    {
+      "species": "Swalot",
+      "level": 50,
+      "moves": [
+        "Sludge",
+        "Shadow Ball",
+        "Shock Wave",
+        "Giga Drain"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 24,
+        "def": 30,
+        "spa": 23,
+        "spd": 24,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Psyduck",
+      "level": 50,
+      "moves": [
+        "Disable",
+        "Flash",
+        "Fury Swipes",
+        "Double Edge"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 22,
+        "def": 31,
+        "spa": 20,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

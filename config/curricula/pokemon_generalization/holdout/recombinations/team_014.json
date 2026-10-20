@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 recombination 014",
+  "party": [
+    {
+      "species": "Omastar",
+      "level": 50,
+      "moves": [
+        "Frustration",
+        "Waterfall",
+        "Mud Shot",
+        "Constrict"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 27,
+        "spa": 23,
+        "spd": 23,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ho Oh",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Light Screen",
+        "Solar Beam",
+        "Fly"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 21,
+        "def": 27,
+        "spa": 21,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

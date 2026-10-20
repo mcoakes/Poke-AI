@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 02 train 016",
+  "party": [
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Facade",
+        "Body Slam",
+        "Quick Attack"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Sceptile",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Mega Drain",
+        "Pound",
+        "Mega Punch"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Misdreavus",
+      "level": 50,
+      "moves": [
+        "Shadow Ball",
+        "Facade",
+        "Double Edge",
+        "Secret Power"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

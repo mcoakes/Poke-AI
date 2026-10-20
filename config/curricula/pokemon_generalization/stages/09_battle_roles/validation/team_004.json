@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 validation 004",
+  "party": [
+    {
+      "species": "Metagross",
+      "level": 50,
+      "moves": [
+        "Explosion",
+        "Meteor Mash",
+        "Rock Slide",
+        "Earthquake"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Ninetales",
+      "level": 50,
+      "moves": [
+        "Confuse Ray",
+        "Will O Wisp",
+        "Substitute",
+        "Flamethrower"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Gardevoir",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Will O Wisp",
+        "Thunderbolt",
+        "Calm Mind"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Skarmory",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Spikes",
+        "Roar",
+        "Drill Peck"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Recover",
+        "Surf",
+        "Ice Beam",
+        "Toxic"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Exeggutor",
+      "level": 50,
+      "moves": [
+        "Sleep Powder",
+        "Explosion",
+        "Giga Drain",
+        "Psychic"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

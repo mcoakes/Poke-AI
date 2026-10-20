@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "seed": 261040,
+  "environments": 16,
+  "learning_rates": [
+    0.0001,
+    2e-05
+  ],
+  "entropy": 0.01,
+  "eval_every": 5000,
+  "validation_battles": 256,
+  "test_battles": 1000,
+  "calibration_battles": 200,
+  "consecutive_successes": 2,
+  "budgets": {
+    "move-choice": 50000,
+    "mirror-stability": 100000,
+    "mirror-replication": 200000,
+    "order": 300000,
+    "composition": 400000
+  },
+  "thresholds": {
+    "move-choice": 0.99,
+    "mirror-stability": 0.9,
+    "mirror-replication": 0.9,
+    "order": 0.7,
+    "composition": 0.6
+  },
+  "heldout_threshold": 0.55,
+  "maximum_rotation_drop": 0.03,
+  "maximum_stability_drop": 0.05
+}

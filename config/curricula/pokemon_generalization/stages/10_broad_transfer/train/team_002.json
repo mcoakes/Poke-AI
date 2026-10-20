@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 train 002",
+  "party": [
+    {
+      "species": "Slowpoke",
+      "level": 50,
+      "moves": [
+        "Flash",
+        "Hail",
+        "Surf",
+        "Facade"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 31,
+        "def": 24,
+        "spa": 30,
+        "spd": 29,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Feraligatr",
+      "level": 50,
+      "moves": [
+        "Ancient Power",
+        "Strength",
+        "Surf",
+        "Brick Break"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 27,
+        "spa": 29,
+        "spd": 24,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

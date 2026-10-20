@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 unseen_species 003",
+  "party": [
+    {
+      "species": "Mantine",
+      "level": 50,
+      "moves": [
+        "Supersonic",
+        "Double Edge",
+        "Surf",
+        "Hydro Pump"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 20,
+        "def": 23,
+        "spa": 31,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sandslash",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Hyper Beam",
+        "Fury Swipes",
+        "Poison Sting"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 28,
+        "spa": 25,
+        "spd": 30,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Delcatty",
+      "level": 50,
+      "moves": [
+        "Wish",
+        "Blizzard",
+        "Solar Beam",
+        "Helping Hand"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 24,
+        "atk": 24,
+        "def": 25,
+        "spa": 30,
+        "spd": 23,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

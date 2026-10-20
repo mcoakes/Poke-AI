@@ -1,0 +1,645 @@
+{
+  "source_archive": "matchup-results.zip",
+  "source_sha256": "7ec1407915f80e482248a8c76f3313670d511b7346f19a30f69e09f71f973cbf",
+  "rows": [
+    {
+      "arm": "control",
+      "checkpoint": "initial",
+      "outcomes": {
+        "validation": {
+          "wins": 49,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 110,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 174,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 174,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 2,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 6605,
+        "matchup_unclassified_move_actions": 0,
+        "current_target_immune_move_actions": 863,
+        "current_target_type_immune_move_actions": 250,
+        "current_target_ability_immune_move_actions": 613,
+        "current_target_immune_with_nonimmune_alternative": 863,
+        "decisions": 13613,
+        "choices": 11554,
+        "voluntary_decisions": 10607,
+        "move_actions": 6605,
+        "automatic": 2059,
+        "forced_replacement_decisions": 1934,
+        "forced_switches": 1934,
+        "voluntary_switches": 4002
+      }
+    },
+    {
+      "arm": "control",
+      "checkpoint": "best",
+      "outcomes": {
+        "validation": {
+          "wins": 138,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 340,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 342,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 342,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 275,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 8863,
+        "matchup_unclassified_move_actions": 0,
+        "current_target_immune_move_actions": 773,
+        "current_target_type_immune_move_actions": 301,
+        "current_target_ability_immune_move_actions": 472,
+        "current_target_immune_with_nonimmune_alternative": 773,
+        "decisions": 12413,
+        "choices": 9836,
+        "voluntary_decisions": 8863,
+        "move_actions": 8863,
+        "automatic": 2577,
+        "forced_replacement_decisions": 1886,
+        "forced_switches": 1886
+      }
+    },
+    {
+      "arm": "control",
+      "checkpoint": "final",
+      "outcomes": {
+        "validation": {
+          "wins": 131,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 363,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 322,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 322,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 496,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 8974,
+        "matchup_unclassified_move_actions": 0,
+        "current_target_immune_move_actions": 596,
+        "current_target_type_immune_move_actions": 307,
+        "current_target_ability_immune_move_actions": 289,
+        "current_target_immune_with_nonimmune_alternative": 596,
+        "decisions": 12550,
+        "choices": 9957,
+        "voluntary_decisions": 8974,
+        "move_actions": 8974,
+        "automatic": 2593,
+        "forced_replacement_decisions": 1900,
+        "forced_switches": 1900
+      }
+    },
+    {
+      "arm": "matchup",
+      "checkpoint": "initial",
+      "outcomes": {
+        "validation": {
+          "wins": 49,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 110,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 174,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 174,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 2,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 6605,
+        "matchup_unclassified_move_actions": 0,
+        "current_target_immune_move_actions": 863,
+        "current_target_type_immune_move_actions": 250,
+        "current_target_ability_immune_move_actions": 613,
+        "current_target_immune_with_nonimmune_alternative": 863,
+        "decisions": 13613,
+        "choices": 11554,
+        "voluntary_decisions": 10607,
+        "move_actions": 6605,
+        "automatic": 2059,
+        "forced_replacement_decisions": 1934,
+        "forced_switches": 1934,
+        "voluntary_switches": 4002
+      }
+    },
+    {
+      "arm": "matchup",
+      "checkpoint": "best",
+      "outcomes": {
+        "validation": {
+          "wins": 217,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 430,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 360,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 360,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 459,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 8530,
+        "matchup_unclassified_move_actions": 0,
+        "current_target_immune_move_actions": 0,
+        "current_target_type_immune_move_actions": 0,
+        "current_target_ability_immune_move_actions": 0,
+        "current_target_immune_with_nonimmune_alternative": 0,
+        "decisions": 12096,
+        "choices": 9516,
+        "voluntary_decisions": 8533,
+        "move_actions": 8530,
+        "automatic": 2580,
+        "forced_replacement_decisions": 1887,
+        "forced_switches": 1887,
+        "voluntary_switches": 3
+      }
+    },
+    {
+      "arm": "matchup",
+      "checkpoint": "final",
+      "outcomes": {
+        "validation": {
+          "wins": 206,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 504,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 406,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 406,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 618,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 8638,
+        "matchup_unclassified_move_actions": 0,
+        "current_target_immune_move_actions": 0,
+        "current_target_type_immune_move_actions": 0,
+        "current_target_ability_immune_move_actions": 0,
+        "current_target_immune_with_nonimmune_alternative": 0,
+        "decisions": 12386,
+        "choices": 9755,
+        "voluntary_decisions": 8792,
+        "move_actions": 8638,
+        "automatic": 2631,
+        "forced_replacement_decisions": 1846,
+        "forced_switches": 1846,
+        "voluntary_switches": 154
+      }
+    }
+  ],
+  "training": {
+    "control": {
+      "starting_timesteps": 0,
+      "ending_timesteps": 1000448,
+      "added_timesteps": 1000448,
+      "max_new_timesteps": 1000000,
+      "elapsed_seconds": 2515.8011533629615,
+      "stop_reason": "timestep_budget"
+    },
+    "matchup": {
+      "starting_timesteps": 0,
+      "ending_timesteps": 1000448,
+      "added_timesteps": 1000448,
+      "max_new_timesteps": 1000000,
+      "elapsed_seconds": 2505.864318756154,
+      "stop_reason": "timestep_budget"
+    }
+  },
+  "validation_history": {
+    "control": [
+      {
+        "timesteps": 0,
+        "wins": 49,
+        "requested": 512
+      },
+      {
+        "timesteps": 50176,
+        "wins": 132,
+        "requested": 512
+      },
+      {
+        "timesteps": 100352,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 150528,
+        "wins": 135,
+        "requested": 512
+      },
+      {
+        "timesteps": 200704,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 250880,
+        "wins": 133,
+        "requested": 512
+      },
+      {
+        "timesteps": 301056,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 351232,
+        "wins": 133,
+        "requested": 512
+      },
+      {
+        "timesteps": 401408,
+        "wins": 138,
+        "requested": 512
+      },
+      {
+        "timesteps": 451584,
+        "wins": 132,
+        "requested": 512
+      },
+      {
+        "timesteps": 501760,
+        "wins": 127,
+        "requested": 512
+      },
+      {
+        "timesteps": 551936,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 602112,
+        "wins": 131,
+        "requested": 512
+      },
+      {
+        "timesteps": 652288,
+        "wins": 132,
+        "requested": 512
+      },
+      {
+        "timesteps": 702464,
+        "wins": 138,
+        "requested": 512
+      },
+      {
+        "timesteps": 752640,
+        "wins": 134,
+        "requested": 512
+      },
+      {
+        "timesteps": 802816,
+        "wins": 131,
+        "requested": 512
+      },
+      {
+        "timesteps": 852992,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 903168,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 953344,
+        "wins": 130,
+        "requested": 512
+      },
+      {
+        "timesteps": 1000448,
+        "wins": 131,
+        "requested": 512
+      }
+    ],
+    "matchup": [
+      {
+        "timesteps": 0,
+        "wins": 49,
+        "requested": 512
+      },
+      {
+        "timesteps": 50176,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 100352,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 150528,
+        "wins": 135,
+        "requested": 512
+      },
+      {
+        "timesteps": 200704,
+        "wins": 139,
+        "requested": 512
+      },
+      {
+        "timesteps": 250880,
+        "wins": 153,
+        "requested": 512
+      },
+      {
+        "timesteps": 301056,
+        "wins": 146,
+        "requested": 512
+      },
+      {
+        "timesteps": 351232,
+        "wins": 159,
+        "requested": 512
+      },
+      {
+        "timesteps": 401408,
+        "wins": 166,
+        "requested": 512
+      },
+      {
+        "timesteps": 451584,
+        "wins": 180,
+        "requested": 512
+      },
+      {
+        "timesteps": 501760,
+        "wins": 217,
+        "requested": 512
+      },
+      {
+        "timesteps": 551936,
+        "wins": 191,
+        "requested": 512
+      },
+      {
+        "timesteps": 602112,
+        "wins": 201,
+        "requested": 512
+      },
+      {
+        "timesteps": 652288,
+        "wins": 197,
+        "requested": 512
+      },
+      {
+        "timesteps": 702464,
+        "wins": 208,
+        "requested": 512
+      },
+      {
+        "timesteps": 752640,
+        "wins": 201,
+        "requested": 512
+      },
+      {
+        "timesteps": 802816,
+        "wins": 209,
+        "requested": 512
+      },
+      {
+        "timesteps": 852992,
+        "wins": 207,
+        "requested": 512
+      },
+      {
+        "timesteps": 903168,
+        "wins": 214,
+        "requested": 512
+      },
+      {
+        "timesteps": 953344,
+        "wins": 191,
+        "requested": 512
+      },
+      {
+        "timesteps": 1000448,
+        "wins": 206,
+        "requested": 512
+      }
+    ]
+  },
+  "comparison_integrity": {
+    "state_tensors_equal": true,
+    "same_parameter_count": true,
+    "parameters": 962025,
+    "relational_enabled": {
+      "control": false,
+      "matchup": true
+    },
+    "initial_timesteps": 0,
+    "optimizers_empty": true,
+    "probes": 3,
+    "max_logit_difference": 0.0,
+    "max_value_difference": 0.0,
+    "max_probability_difference": 0.0,
+    "note": "Same widened architecture and copied original fresh weights; extra input columns start at zero. Only the serialized feature toggle differs."
+  },
+  "initial_identity_note": "Saved metadata and identical initial evaluation behavior; checkpoint tensors were not included in the uploaded results.",
+  "baselines": {
+    "random": {
+      "wins": 82,
+      "requested": 1000
+    },
+    "greedy": {
+      "wins": 438,
+      "requested": 1000
+    },
+    "rules": {
+      "wins": 497,
+      "requested": 1000
+    }
+  },
+  "paired_heldout": {
+    "best": {
+      "difference_pp": 1.7999999999999998,
+      "paired_cluster_bootstrap_95_pp": [
+        -0.6,
+        4.2
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261018
+    },
+    "final": {
+      "difference_pp": 8.4,
+      "paired_cluster_bootstrap_95_pp": [
+        5.800000000000001,
+        11.0
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261018
+    },
+    "final_vs_greedy": {
+      "difference_pp": -3.2,
+      "paired_cluster_bootstrap_95_pp": [
+        -5.8999999999999995,
+        -0.5
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261018
+    }
+  },
+  "uncertainty_scope": "Paired matchup/seed bootstrap with both candidate seats kept together. Conditional on this training seed and fixed 16-team heldout pool; not training-seed uncertainty or an untouched generalization benchmark.",
+  "sampling": {
+    "control": {
+      "weights": {
+        "current": 0.9,
+        "fixed-mirror": 0.1
+      },
+      "episode_selections": {
+        "current": 68518,
+        "fixed-mirror": 7521
+      },
+      "total": 76039,
+      "counting": "episode starts, including unfinished episodes; current invocation only"
+    },
+    "matchup": {
+      "weights": {
+        "current": 0.9,
+        "fixed-mirror": 0.1
+      },
+      "episode_selections": {
+        "current": 69616,
+        "fixed-mirror": 7658
+      },
+      "total": 77274,
+      "counting": "episode starts, including unfinished episodes; current invocation only"
+    }
+  },
+  "memory": {
+    "minimum_available_gib": 21.797821044921875,
+    "maximum_swap_used_gib": 0.0
+  },
+  "trace_findings": {
+    "scope": "First16 battles and at most24 decisions each per suite; not a random independent sample of all battles.",
+    "best_lowest_slot_replacements": {
+      "choices": 48,
+      "eligible": 48,
+      "suites": [
+        "heldout",
+        "test",
+        "validation"
+      ]
+    },
+    "final_lowest_slot_replacements": {
+      "choices": 37,
+      "eligible": 47,
+      "suites": [
+        "heldout",
+        "test",
+        "validation"
+      ]
+    },
+    "interpretation": "Replacement slot dependence is a hypothesis; these choices are not proven errors."
+  },
+  "next_experiment": "Frozen 2x2 candidate bench-order x Rules-only forced-replacement intervention, on validation-best and fixed-budget-final checkpoints. No training, promotion, or reference replacement.",
+  "upload_integrity": {
+    "checks_verified": 34,
+    "requested_battles": 31072,
+    "truncations": 0,
+    "episode_counts_and_outcomes_match": true,
+    "available_pinned_inputs_match": true,
+    "weights_uploaded": false
+  }
+}

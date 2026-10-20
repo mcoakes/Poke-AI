@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 validation 002",
+  "party": [
+    {
+      "species": "Clefable",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Soft Boiled",
+        "Seismic Toss",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Muk",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Sludge Bomb",
+        "Explosion",
+        "Curse"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Careful",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Medicham",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Shadow Ball",
+        "Hi Jump Kick",
+        "Double Edge"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Pinsir",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Rock Slide",
+        "Swords Dance",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Tyranitar",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Dragon Dance",
+        "Taunt",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Kangaskhan",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Earthquake",
+        "Return",
+        "Shadow Ball"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

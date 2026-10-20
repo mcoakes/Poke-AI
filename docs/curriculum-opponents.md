@@ -28,14 +28,14 @@ project. Opponent promotion happens only at a stage boundary, after `PROMOTE`.
 After installing the updated project, run from its root:
 
 ```bash
-fronzen_checkpoint=".local/run/ppo-20260913-184241-113975/checkpoints/latest.zip"
+frozen_checkpoint=".local/run/ppo-20260913-184241-113975/checkpoints/latest.zip"
 curriculum_run=".local/run/curriculum-types-selfplay-01"
 
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
   --opponent-mode previous-stage \
   --resume latest \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --environments 48 \
   --showdown-workers process \
   --rollout-steps 128 \
@@ -47,7 +47,7 @@ python mgba/run_curriculum.py \
 
 This uses the existing ten-stage team progression and stops at the first `HOLD`.
 To start just stage 1, replace `--through-stage 10` with `--stage 1`. To begin
-with identical player policies, use `--resume "$fronzen_checkpoint"` instead of
+with identical player policies, use `--resume "$frozen_checkpoint"` instead of
 `--resume latest`.
 
 Continue later with:

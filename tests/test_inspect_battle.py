@@ -78,6 +78,15 @@ def test_active_records_and_menu_transitions():
             put(base + offset, value, size)
     result = decode()
     assert result.active and result.battlers[1].party_slot == 2
+    for offset, value in [(2, 11), (4, 22), (6, 33), (8, 44), (10, 55)]:
+        put(0x02023BE4 + offset, value, 2)
+    put(0x02023BE4 + 0x14, 0xFFFFFFFF, 4)
+    put(0x02023F1C, 0x20, 2)
+    put(0x02023F48, 4, 1)
+    native = decode()
+    assert list(native.battlers[1].stats.values()) == [11, 22, 44, 55, 33]
+    assert native.battlers[1].ivs_raw == 0x3FFFFFFF
+    assert native.weather_raw == 0x20 and native.weather_duration == 4
     assert result.battlers[2].side == "opponent"
     assert result.battlers[1].current_hp == 20
     assert result.menus[1].state == "command" and result.menus[1].cursor_raw == 2

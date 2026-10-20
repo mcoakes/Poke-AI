@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 04 train 023",
+  "party": [
+    {
+      "species": "Ludicolo",
+      "level": 50,
+      "moves": [
+        "Waterfall",
+        "Mega Kick",
+        "Facade",
+        "Strength"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Piloswine",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Earthquake",
+        "Bite",
+        "Take Down"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Tackle",
+        "Water Gun",
+        "Dragon Breath",
+        "Iron Tail"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Persian",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Aerial Ace",
+        "Thief",
+        "Cut"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 train 016",
+  "party": [
+    {
+      "species": "Parasect",
+      "level": 50,
+      "moves": [
+        "Poison Powder",
+        "Hyper Beam",
+        "Flail",
+        "Dig"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 26,
+        "atk": 27,
+        "def": 31,
+        "spa": 24,
+        "spd": 28,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Aggron",
+      "level": 50,
+      "moves": [
+        "Counter",
+        "Dragon Claw",
+        "Cut",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 25,
+        "def": 24,
+        "spa": 22,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Illumise",
+      "level": 50,
+      "moves": [
+        "Sweet Scent",
+        "Encore",
+        "Focus Punch",
+        "Facade"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 29,
+        "def": 22,
+        "spa": 20,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Clefairy",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Solar Beam",
+        "Mega Kick",
+        "Frustration"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 27,
+        "def": 28,
+        "spa": 25,
+        "spd": 22,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

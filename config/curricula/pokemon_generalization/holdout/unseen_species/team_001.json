@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 unseen_species 001",
+  "party": [
+    {
+      "species": "Bellossom",
+      "level": 50,
+      "moves": [
+        "Safeguard",
+        "Solar Beam",
+        "Sludge Bomb",
+        "Frustration"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 25,
+        "def": 22,
+        "spa": 26,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

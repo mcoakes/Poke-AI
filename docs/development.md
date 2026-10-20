@@ -11,6 +11,7 @@
 | [linked_env.py](../src/firered_rl/linked_env.py) | Joint mGBA decisions and episode lifecycle |
 | [showdown_env.py](../src/firered_rl/showdown_env.py) | Persistent local Node worker and simulator episodes |
 | [ppo_features.py](../src/firered_rl/ppo_features.py) | Shared categorical features and numeric preprocessing |
+| [move_slot_shuffle.py](../src/firered_rl/move_slot_shuffle.py) | Optional learner move permutations, action translation and terminal-observation handling |
 | [linked_reward.py](../src/firered_rl/linked_reward.py) | Shared reward points, turn costs and damage budgets |
 | [mgba/adapter.lua](../mgba/adapter.lua) | Local JSON transport and input ownership |
 | [mgba/profiles](../mgba/profiles/README.md) | Revision-specific memory and menu decoding |

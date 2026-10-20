@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 03 train 023",
+  "party": [
+    {
+      "species": "Seviper",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Poison Tail",
+        "Body Slam",
+        "Poison Fang"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Dunsparce",
+      "level": 50,
+      "moves": [
+        "Take Down",
+        "Double Edge",
+        "Facade",
+        "Strength"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Aerodactyl",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Secret Power",
+        "Wing Attack",
+        "Aerial Ace"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

@@ -170,7 +170,11 @@ def main():
     parser.add_argument("--peer-port", type=int,
                         help="Partner's adapter port for a complete paired link-battle inspection")
     parser.add_argument("--json", action="store_true", help="Print complete named JSON diagnostics")
+    parser.add_argument("--observation-version", choices=("v1", "v2"), default="v1",
+                        help="Validate and include v2 policy fields; v2 requires --peer-port and adapter 0.19.0")
     args = parser.parse_args()
+    if args.observation_version == "v2" and args.peer_port is None:
+        parser.error("--observation-version v2 requires --peer-port")
     bridge = MGBABridgeBackend(args.host, args.port)
     peer = MGBABridgeBackend(args.host, args.peer_port) if args.peer_port is not None else None
     try:
@@ -189,11 +193,23 @@ def main():
                                       [args.port, args.peer_port])[0]
         else:
             report = bridge.inspect()
+        if args.observation_version == "v2":
+            from firered_rl.linked_env import linked_observation
+            observation = linked_observation(report, observation_version="v2")
+            report["observation_v2"] = {key: value.tolist() for key, value in observation.items()
+                                        if key.startswith("v2_")}
         report = decorate(report)
         if args.json:
             print(json.dumps(report, indent=2))
         else:
             display(report)
+            if args.observation_version == "v2":
+                fields = report["observation_v2"]
+                print(f"V2 fields validated | weather [kind, turns, permanent]={fields['v2_weather']}")
+                for side, name in enumerate(("Player", "Opponent")):
+                    print(f"  {name}: [HP, max HP, item, ability]={fields['v2_active'][side]} | "
+                          f"stats [Atk, Def, SpA, SpD, Spe]={fields['v2_active_stats'][side]} | "
+                          f"boosts={fields['v2_boosts'][side]}")
     except (OSError, ValueError, RuntimeError) as error:
         parser.exit(1, f"inspect_state: {error}\n")
     finally:

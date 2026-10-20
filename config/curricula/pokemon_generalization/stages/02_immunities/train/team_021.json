@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 02 train 021",
+  "party": [
+    {
+      "species": "Ampharos",
+      "level": 50,
+      "moves": [
+        "Shock Wave",
+        "Thunder Punch",
+        "Thunder",
+        "Thunder Shock"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Golduck",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Secret Power",
+        "Surf",
+        "Hydro Pump"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Marowak",
+      "level": 50,
+      "moves": [
+        "Bonemerang",
+        "Double Edge",
+        "Secret Power",
+        "Body Slam"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

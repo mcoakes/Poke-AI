@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 007",
+  "party": [
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Baton Pass",
+        "Thunder Wave",
+        "Substitute",
+        "Thunderbolt"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Claydol",
+      "level": 50,
+      "moves": [
+        "Rapid Spin",
+        "Explosion",
+        "Psychic",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Swampert",
+      "level": 50,
+      "moves": [
+        "Earthquake",
+        "Surf",
+        "Ice Beam",
+        "Protect"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Weezing",
+      "level": 50,
+      "moves": [
+        "Sludge Bomb",
+        "Flamethrower",
+        "Haze",
+        "Will O Wisp"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Clefable",
+      "level": 50,
+      "moves": [
+        "Soft Boiled",
+        "Ice Beam",
+        "Seismic Toss",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Calm",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Heracross",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Swords Dance",
+        "Rock Slide",
+        "Megahorn"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -69,6 +69,7 @@ def main():
            root / ".local/run" / datetime.now().strftime("human-%Y%m%d-%H%M%S-%f"))
     run.mkdir(parents=True)
     config = dict(checkpoint=str(checkpoint), checkpoint_sha256=hashlib.sha256(checkpoint_bytes).hexdigest(),
+                  observation_version=opponent.observation_version,
                   training_timesteps=model.num_timesteps, human_player=args.human_player,
                   states=[str(p) for p in states], state_source=selection.describe(), ports=args.ports,
                   speed=args.speed, setup_speed=args.setup_speed, stochastic=args.stochastic, seed=args.seed, max_steps=args.max_steps)
@@ -88,7 +89,8 @@ def main():
             runtime.set_speed(args.speed)
         return runtime
 
-    session = LinkedBattleSession(launch, human_player=args.human_player-1, max_steps=args.max_steps)
+    session = LinkedBattleSession(launch, human_player=args.human_player-1, max_steps=args.max_steps,
+                                 observation_version=opponent.observation_version)
     print(f"Human versus PPO: {run}\nCheckpoint training timesteps: {model.num_timesteps}\n"
           "Connecting both games automatically. Wait for READY before using the controls.", flush=True)
     try:

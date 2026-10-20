@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 023",
+  "party": [
+    {
+      "species": "Blastoise",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Surf",
+        "Rapid Spin",
+        "Toxic"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Golem",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Rock Slide",
+        "Earthquake",
+        "Explosion"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Metagross",
+      "level": 50,
+      "moves": [
+        "Explosion",
+        "Earthquake",
+        "Rock Slide",
+        "Meteor Mash"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Blaziken",
+      "level": 50,
+      "moves": [
+        "Fire Blast",
+        "Rock Slide",
+        "Sky Uppercut",
+        "Swords Dance"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Salamence",
+      "level": 50,
+      "moves": [
+        "Dragon Claw",
+        "Rock Slide",
+        "Flamethrower",
+        "Brick Break"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Rash",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Crobat",
+      "level": 50,
+      "moves": [
+        "Sludge Bomb",
+        "Steel Wing",
+        "Aerial Ace",
+        "Shadow Ball"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

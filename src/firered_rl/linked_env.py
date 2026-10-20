@@ -33,7 +33,7 @@ def actions_submitted(states, reports, payloads):
                for s, r, p in zip(states, reports, payloads))
 
 
-def linked_observation(report, terminal=False):
+def linked_observation(report, terminal=False, observation_version="v1"):
     source = deepcopy(report)
     # A fainted local battler still has a replacement decision in singles.
     for mon in source["battle"].get("battlers", []):
@@ -44,6 +44,9 @@ def linked_observation(report, terminal=False):
     if not terminal and local_menu(source).get("state") == "busy_or_unknown":
         obs["action_mask"][:] = 0
         obs["action_mask"][10] = 1
+    if observation_version == "v2":
+        from .observation_v2 import encode_v2
+        return encode_v2(source, obs)
     return obs
 
 
@@ -109,7 +112,11 @@ class PairedCalls:
 class LinkedBattleSession:
     """Reset both cores through a supplied lifecycle factory; submit joint actions."""
     def __init__(self, launch_episode, *, timeout=120, reset_timeout=420, max_steps=200,
-                 cancel=None, release_episode=None, human_player=None, reward_config=None, readable_log=None, battle_log=None):
+                 cancel=None, release_episode=None, human_player=None, reward_config=None, readable_log=None, battle_log=None,
+                 observation_version="v1"):
+        from .observation_v2 import versioned_raw_space
+        self.observation_version = observation_version
+        self.observation_space = versioned_raw_space(observation_version)
         self.battle_journal = BattleJournal(battle_log) if battle_log is not None else None
         self.readable_log = readable_log
         self.reward_config = reward_config or LinkedRewardConfig()
@@ -203,6 +210,8 @@ class LinkedBattleSession:
         self.runtime = self.launch_episode()
         self.bridges = [MGBABridgeBackend("127.0.0.1", port) for port in self.runtime.ports]
         statuses = self.request("status")
+        if self.observation_version == "v2" and any(s.get("native_observation_v2") != 1 for s in statuses):
+            raise RuntimeError("v2 requires adapter 0.19.0 on both players; extract the update and restart")
         if self.battle_journal is not None and any(not s.get("battle_events_supported") for s in statuses):
             raise RuntimeError("compact battle logs require adapter 0.16.0; restart with the updated scripts")
         if any(not s.get("link_move_supported") or not s.get("link_peer_simulation_supported")
@@ -223,7 +232,7 @@ class LinkedBattleSession:
         self.steps, self.done = 0, False
         self.reward_state = EpisodeRewardState(self.reports)
         self.record("reset", reports=self.reports, seeds=seeds, seed_applied=False)
-        return [(linked_observation(r), dict(player=i+1, seed_applied=False))
+        return [(linked_observation(r, observation_version=self.observation_version), dict(player=i+1, seed_applied=False))
                 for i, r in enumerate(self.reports)]
 
     def _step(self, actions):
@@ -361,7 +370,7 @@ class LinkedBattleSession:
                         reward_components=components[i])
             # A time limit is not a game terminal. Keep the real final observation
             # and mask so PPO can bootstrap the time-limit transition's value.
-            results.append((linked_observation(report, terminal), reward, terminal, truncated, info))
+            results.append((linked_observation(report, terminal, self.observation_version), reward, terminal, truncated, info))
         self.record("completed", decision=self.steps, terminated=terminal, truncated=truncated,
                     rewards=rewards, reward_components=components, reports=self.reports,
                     battle_turns=self.reward_state.turns)
@@ -382,7 +391,7 @@ class LinkedPlayerEnv(gym.Env):
         super().__init__()
         self.session, self.player = session, player
         self.action_space = gym.spaces.Discrete(11)
-        self.observation_space = observation_space()
+        self.observation_space = getattr(session, "observation_space", None) or observation_space()
 
     def reset(self, *, seed=None, options=None):
         super().reset(seed=seed)

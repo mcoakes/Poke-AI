@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 02 validation 007",
+  "party": [
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Tackle",
+        "Hydro Pump",
+        "Waterfall",
+        "Water Pulse"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Primeape",
+      "level": 50,
+      "moves": [
+        "Cross Chop",
+        "Scratch",
+        "Karate Chop",
+        "Body Slam"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Rapidash",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Double Edge",
+        "Secret Power",
+        "Body Slam"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

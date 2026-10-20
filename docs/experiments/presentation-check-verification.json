@@ -1,0 +1,82 @@
+{
+  "scope": "Real Showdown operational smoke with tiny test models, not user-model learning or presentation performance",
+  "jobs": 2,
+  "checks": [
+    {
+      "label": "official-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "official-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "greedy-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "greedy-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "rules-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "rules-reversed",
+      "battles": 8,
+      "truncated": 0
+    }
+  ],
+  "requested_battles": 48,
+  "truncated": 0,
+  "source_preserved": true,
+  "selected_model_predeclared": true,
+  "no_training": true,
+  "three_exports_hash_verified": true,
+  "fresh_compositions_and_semantics_excluded": true,
+  "bench_reversal_preserves_lead_and_opponent": true,
+  "all_saved_episode_and_audit_evidence_verified": true,
+  "completed_continuation_no_checks_restarted": true,
+  "completed_continuation_inputs_models_demo_checks_logs_unchanged": true,
+  "team_inspector_verified": true,
+  "reports_and_archive_present": true,
+  "memory_recorded": true,
+  "unit_tests": {
+    "passed": 27,
+    "command": "python -m pytest -q tests/test_presentation_check.py"
+  },
+  "production_generation_verified": {
+    "new_compositions": 64,
+    "excluded_source_compositions": 41,
+    "excluded_source_semantic_teams": 41,
+    "attempts": 105,
+    "species_pool": [
+      "Typhlosion",
+      "Blastoise",
+      "Sceptile",
+      "Arcanine",
+      "Vaporeon",
+      "Venusaur",
+      "Raichu",
+      "Golem",
+      "Machamp",
+      "Alakazam",
+      "Dodrio",
+      "Lapras"
+    ],
+    "no_overlap": true,
+    "source": "Actual uploaded bench-order source teams and suites; no user models loaded or scored"
+  },
+  "recovery_observation": {
+    "source_fixture_required_continuation": true,
+    "presentation_smoke_required_continuation": true,
+    "handling": "Strict saved-evidence gates detected incomplete saved evaluation files. Normal continuation preserved and retried them; no acceptance gates relaxed. Subsequent completed continuation reused every accepted check unchanged."
+  },
+  "gui_scope": "Showdown tested locally. Actual FireRed ROM, battery save, native emulator and user desktop were not available for a live GUI test."
+}

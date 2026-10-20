@@ -8,7 +8,7 @@ import re
 from .team_profiles import add_profile_arguments, profile_files, profile_location, validate_profile
 
 
-def add_state_arguments(parser, *, include_teams=False, required=True):
+def add_state_arguments(parser, *, include_teams=False, include_mixture=False, required=True):
     selection = parser.add_mutually_exclusive_group(required=required)
     selection.add_argument("--states", nargs=2, type=Path, help="Two fixed counter states, in player order")
     selection.add_argument("--state-dir", type=Path, help="Draw two random .ssN counter states from this directory")
@@ -16,6 +16,9 @@ def add_state_arguments(parser, *, include_teams=False, required=True):
         selection.add_argument("--teams", nargs=2, type=Path, help="Showdown: two fixed team JSON files, in player order")
         selection.add_argument("--team-dir", type=Path, help="Showdown: draw random team JSON files from this directory")
         selection.add_argument("--training-profile", help="Showdown: named team directory under config/training_profiles/NAME/teams")
+        if include_mixture:
+            selection.add_argument("--team-mixture", type=Path,
+                                   help="Showdown training: weighted JSON groups of team directories/fixed pairs, sampled per episode")
     add_profile_arguments(parser, selection)
     parser.add_argument("--mirror-teams", action="store_true",
                         help="Draw one random team/state per battle and give it to both players")

@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 04 train 013",
+  "party": [
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Double Edge",
+        "Tackle",
+        "Water Gun"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Meganium",
+      "level": 50,
+      "moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Strength",
+        "Razor Leaf"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Farfetchd",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Gust",
+        "Aerial Ace",
+        "Iron Tail"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Azumarill",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Bubble Beam",
+        "Mega Punch",
+        "Water Pulse"
+      ],
+      "held_item": "None",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

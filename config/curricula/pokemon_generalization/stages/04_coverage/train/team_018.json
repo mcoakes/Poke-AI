@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 04 train 018",
+  "party": [
+    {
+      "species": "Slowbro",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Water Pulse",
+        "Surf",
+        "Confusion"
+      ],
+      "held_item": "None",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Flareon",
+      "level": 50,
+      "moves": [
+        "Bite",
+        "Flamethrower",
+        "Fire Blast",
+        "Quick Attack"
+      ],
+      "held_item": "None",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ampharos",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Thunder",
+        "Thunder Shock",
+        "Strength"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

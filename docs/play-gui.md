@@ -39,7 +39,12 @@ existing Python dependencies and bundled images; no frontend build or Node.js
 installation is needed for this workflow. Both Showdown-trained and mGBA-trained
 models use the existing human-play inference interface.
 
-The model picker always includes every checkpoint ZIP in `models/` and its
+V2 checkpoints are supported with adapter 0.19.0 on both linked cores. Restart
+this server and its emulator sessions after updating; select the model normally.
+See [native v2 verification](mgba-observation-v2.md). No additional CMake build
+is required for the v2 Python/Lua update.
+
+Without `--model-list`, the model picker includes every checkpoint ZIP in `models/` and its
 subfolders. **Smart v10** is the default when available: `smart_v10.zip` and
 `smartv10.zip` are recognized regardless of case, spaces, or hyphens. If several
 copies exist, the closest to `models/` wins, then alphabetical path order. If it
@@ -51,6 +56,74 @@ The picker also lists up to 200 recent ZIPs from `.local/run`; use
 default. **Refresh** updates the model list while keeping your current selection
 when it still exists. The selected model is copied at match confirmation and
 stays fixed throughout the battle.
+
+## Classroom: two opponents and a clear default
+
+For the October 20 student session, use this small menu:
+
+| Student-facing name | Saved model | What students can explore |
+|---|---|---|
+| **Coached AI (default)** | Teacher-training validation-selected model | Practised decisions from the Rules bot, then learned through battles |
+| **Rewards-only AI** | Teacher-training PPO-only best | Continued learning through battle rewards without that teacher practice |
+
+These two shared the starting model, architecture, teams and allotted PPO
+training budget. Their selected checkpoints occur at different timesteps.
+The coached model is the recommended default: it scored 51.37% validation,
+46.50% then-unseen-team wins and 93.7% fixed-mirror wins against Rules.
+Rewards-only scored 47.41%, 44.80% and 62.7%, respectively. The broader advantage
+is modest and uncertain; these are two learning approaches, not guaranteed
+hard/easy difficulty levels. Neither uses live Rules assistance during play.
+
+Keep the 400k reference and fixed-team specialist as instructor examples outside
+this menu. The 400k comparison changes several factors at once, and the specialist's
+high score applies to its narrow fixed matchup. Do not list every seed, best/final
+snapshot or intermediate checkpoint for students.
+
+Save the two classroom copies from the completed experiment:
+
+```bash
+mkdir -p models/classroom
+cp -n .local/run/teacher-training-01/models/selected.zip \
+  models/classroom/coached-ai.zip
+cp -n .local/run/teacher-training-01/models/ppo-only-best.zip \
+  models/classroom/rewards-only-ai.zip
+```
+
+Launch the restricted menu:
+
+```bash
+python mgba/play_gui.py \
+  --rom "$PWD/FireRed.gba" --source "$PWD/FireRed.sav" \
+  --model-list config/play/classroom.json \
+  --workers 2 --speed 1
+```
+
+Open `http://127.0.0.1:8080`. The only choices are the two above, with Coached AI
+selected on page load. **Refresh** keeps a student's current choice when it
+remains listed. This mode does not scan other model folders or offer `latest`,
+so a background training checkpoint cannot unexpectedly enter the menu.
+
+`config/play/classroom.json` sets the names, paths and default. Relative model
+paths resolve from the project root. Each entry needs a unique `id`, a `label`
+and an existing checkpoint ZIP; `default` must identify one of those entries.
+Missing models or invalid lists produce an explicit error. Do not combine
+`--model-list` with `--checkpoint`; `--checkpoint-dir` has no effect in list mode.
+Without `--model-list`, the usual research-oriented discovery still works.
+
+Start with familiar three-Pokémon teams and leave **Vary AI choices** off.
+Play the same matchup against both models and ask what changed in move choices,
+voluntary switches and replacements. Human games are illustrative: these models
+were trained on a restricted 12-species, two-damaging-move task, not arbitrary
+competitive six-Pokémon teams. The current training run can continue independently.
+
+To use a later winner, first save it under a new permanent filename, update the
+appropriate entry in this list, and refresh the menu. Keep the current copies
+as fallbacks. In-progress training results do not automatically replace them.
+
+The classroom menu passed 49 focused play-service tests, including the default,
+restricted model list, invalid configuration, and rejecting unlisted models at
+match launch. Frontend JavaScript syntax also passed. The new menu was not used
+to run a ROM battle here; use the launch command above for the local play check.
 
 ## Choose each party
 
@@ -111,7 +184,7 @@ save editor as the existing JSON pipeline.
 
 ## Confirm and play
 
-1. Select the AI checkpoint. Under **Match settings**, choose battle speed,
+1. Select the AI opponent. Under **Match settings**, choose battle speed,
    save workers, and whether the AI samples its actions.
 2. Click **Review matchup** to check both parties and the selected model.
 3. Click **Generate saves & start battle**. The source template is prepared once,

@@ -45,15 +45,23 @@ def run_lock(run):
             fcntl.flock(stream, fcntl.LOCK_UN)
 
 
-def validate_model(path):
+def validate_model(path, *, backend="showdown"):
     from sb3_contrib import MaskablePPO
-    from firered_rl.ppo_features import policy_space
+    from firered_rl.evaluation import validate_observation_backend
+    from firered_rl.ppo_features import observation_version
     try:
         model = MaskablePPO.load(path, device="cpu")
     except Exception as error:
         raise ValueError(f"cannot load PPO model {path}: {error}") from error
-    if model.observation_space != policy_space() or getattr(model.action_space, "n", None) != 11:
+    try:
+        version = observation_version(model.observation_space)
+        validate_observation_backend(version, backend)
+    except ValueError as error:
+        raise ValueError(f"cannot evaluate model {path}: {error}") from error
+    if getattr(model.action_space, "n", None) != 11:
         raise ValueError(f"model does not match the battle observation/action schema: {path}")
+    return dict(observation_version=version,
+                supported_backends=["showdown", "mgba"])
 
 
 def run_evaluator(command, log_path, output):
@@ -237,10 +245,27 @@ def main():
         torch.set_num_threads(execution["torch_threads"])
         run.mkdir(parents=True, exist_ok=True)
         with run_lock(run):
+            schemas = {}
+
+            def preflight(path):
+                schemas[str(path)] = validate_model(path)
+
             if not existing:
                 if (run / "tournament.json").exists():
                     raise ValueError("another command initialized this tournament; rerun using --run-dir only")
-                save_plan(run, plan, suites, validate_model=validate_model)
+                save_plan(run, plan, suites, validate_model=preflight)
+            else:
+                for model in plan["models"]:
+                    if model["kind"] == "checkpoint":
+                        preflight(run / model["path"])
+            model_info = {}
+            for model in plan["models"]:
+                info = dict(kind=model["kind"])
+                if model["kind"] == "checkpoint":
+                    path = run / model["path"] if existing else Path(model["source"])
+                    info.update(sha256=model["sha256"], **schemas[str(path)])
+                model_info[model["id"]] = info
+            write_json(run / "model-schemas.json", dict(backend="showdown", models=model_info))
             write_json(run / "execution.json", execution)
             run_tournament(run, plan, execution)
         return 0

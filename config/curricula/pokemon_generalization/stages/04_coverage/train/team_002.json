@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 04 train 002",
+  "party": [
+    {
+      "species": "Shedinja",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Giga Drain",
+        "Silver Wind",
+        "Faint Attack"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Rapidash",
+      "level": 50,
+      "moves": [
+        "Overheat",
+        "Take Down",
+        "Stomp",
+        "Double Edge"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ariados",
+      "level": 50,
+      "moves": [
+        "Sludge Bomb",
+        "Psybeam",
+        "Psychic",
+        "Facade"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

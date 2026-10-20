@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 recombination 001",
+  "party": [
+    {
+      "species": "Squirtle",
+      "level": 50,
+      "moves": [
+        "Toxic",
+        "Double Edge",
+        "Attract",
+        "Bite"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 21,
+        "spa": 29,
+        "spd": 20,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

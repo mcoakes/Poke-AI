@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 03 validation 006",
+  "party": [
+    {
+      "species": "Butterfree",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Silver Wind",
+        "Tackle",
+        "Double Edge"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Vaporeon",
+      "level": 50,
+      "moves": [
+        "Water Gun",
+        "Surf",
+        "Quick Attack",
+        "Water Pulse"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Sceptile",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Leaf Blade",
+        "Quick Attack",
+        "Mega Punch"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

@@ -87,8 +87,12 @@ def encode(report, terminal=False):
             mon["volatile_status_raw"] if i == 0 else 0]
         if i == 0:
             player = mon
+            slot = mon["party_slot"]-1
+            # Active moves replace the whole party copy, including empty slots
+            # after Transform copies a Pokemon with fewer moves.
+            result["moves"][slot] = 0
             for move in mon["moves"]:
-                result["moves"][mon["party_slot"]-1, move["slot"]-1] = [move["move_id"],
+                result["moves"][slot, move["slot"]-1] = [move["move_id"],
                     move.get("base_type_id", 0), move["current_pp"], move.get("max_pp", 0)]
         else:
             slot = mon["party_slot"]-1

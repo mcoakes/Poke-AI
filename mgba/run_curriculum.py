@@ -15,11 +15,12 @@ import sys
 
 from firered_rl.checkpoints import resolve_checkpoints
 from firered_rl.curriculum import (DEFAULT_RULES, OPPONENT_MODES, digest, evaluation_rates, load_curriculum,
-    promotion_report, read_json, report_markdown, stage_suites, validate_rules, write_json)
+    promotion_report, read_json, report_markdown, stage_suites, validate_rules, write_json, team_groups)
 from firered_rl.linked_reward import LinkedRewardConfig
 from firered_rl.switch_opponent import switch_settings
 from firered_rl.evaluation_pool import (copy_checkpoint, settings as evaluation_settings,
     pool_promotion, prepare_pool, verify_pool)
+from firered_rl.retention import plan_campaign_retention, apply_campaign_retention
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,7 +28,10 @@ DEFAULT_CURRICULUM = ROOT / "config/curricula/type_progression/curriculum.json"
 EXECUTION = dict(environments=48, showdown_workers="process", timesteps=100000,
                  rollout_steps=128, batch_size=128, epochs=None, learning_rate=None, ent_coef=None,
                  device="cpu", torch_threads=1, node="node", command_timeout=120,
-                 readable_log=True, battle_log=True)
+                 readable_log=True, battle_log=True, latest_every_updates=1, checkpoint_every=1024,
+                 keep_checkpoints=2, step_logs=False, log_max_mb=10, log_backups=2,
+                 keep_episode_logs=2, retention="compact", keep_attempts=2, keep_best=2,
+                 keep_debug_attempts=0)
 IMMUTABLE_FLAGS = ("curriculum", "resume", "opponent_checkpoint", "reward_config",
                    "promotion_rules", "eval_episodes", "max_steps", "seed", "opponent_mode", "train_battles",
                    "opponent_switch_chance", "opponent_switch_cooldown")
@@ -37,6 +41,20 @@ def positive_int(value):
     value = int(value)
     if value < 1:
         raise argparse.ArgumentTypeError("must be positive")
+    return value
+
+
+def nonnegative_int(value):
+    value = int(value)
+    if value < 0:
+        raise argparse.ArgumentTypeError("must be a nonnegative integer")
+    return value
+
+
+def retention_count(value):
+    value = int(value)
+    if value < -1:
+        raise argparse.ArgumentTypeError("must be >= -1 (-1 means unlimited)")
     return value
 
 
@@ -160,7 +178,18 @@ class Campaign:
         self.stage_opponent = None
         self.reward = self.run / "inputs/reward.json"
         self.paths = [self.run / path for path in config["teams"]]
+        self.groups = ([[self.run / p for p in group] for group in config["team_groups"]]
+                       if "team_groups" in config else team_groups(self.paths))
+        self.evaluation_groups = ([[self.run / p for p in group] for group in config["validation_groups"]]
+                                  if config.get("validation_groups") else self.groups)
         self.count = len(config["curriculum"]["stages"])
+        if (len(self.groups) != self.count + 1 or len(self.evaluation_groups) != self.count + 1
+                or any(not g for g in self.groups + self.evaluation_groups)
+                or [p for g in self.groups for p in g] != self.paths):
+            raise ValueError("saved campaign team groups disagree with its stages/teams")
+        if any(str(p.relative_to(self.run)) not in config["input_hashes"]
+               for group in self.groups + self.evaluation_groups for p in group):
+            raise ValueError("saved campaign team group references an unverified input")
         for relative, expected in config["input_hashes"].items():
             if sha256(self.run / relative) != expected:
                 raise ValueError(f"saved curriculum input changed: {relative}; start a new --run-dir")
@@ -196,8 +225,10 @@ class Campaign:
         result = ["--reward-config", self.reward]
         if not pooled:
             result += ["--opponent-checkpoint", self.opponent]
-        for key in ("environments", "showdown_workers", "node", "device", "torch_threads", "command_timeout"):
+        for key in ("environments", "showdown_workers", "node", "device", "torch_threads", "command_timeout",
+                    "log_max_mb", "log_backups", "keep_episode_logs"):
             result += ["--" + key.replace("_", "-"), self.execution[key]]
+        result.append("--step-logs" if self.execution["step_logs"] else "--no-step-logs")
         return result
 
     def evaluation(self, parent, label, suite_path, candidate):
@@ -251,7 +282,7 @@ class Campaign:
         saved = (attempt / "evaluation-pool/plan.json").is_file()
         dumb, smart = (None, []) if saved else self.pool_sources(stage, settings)
         index = int(attempt.name.split("-")[1])
-        path, suite = prepare_pool(attempt / "evaluation-pool", self.paths, stage=stage,
+        path, suite = prepare_pool(attempt / "evaluation-pool", self.evaluation_groups, stage=stage,
             episodes=self.config["eval_episodes"], seed=self.config["seed"] + stage*1000003 + index*1009,
             max_steps=self.config["max_steps"], dumb=dumb, smart=smart)
         sizes = {group: sum(c["opponent_group"] == group for c in suite["cases"])
@@ -310,16 +341,17 @@ class Campaign:
         self.opponent, self.stage_opponent = opponent, expected
         pool = directory / "teams"
         pool.mkdir(exist_ok=True)
-        expected_names = {p.name for p in self.paths[:stage]}
+        training = [p for group in self.groups[:stage] for p in group]
+        expected_names = {p.name for p in training}
         if any(p.name not in expected_names for p in pool.glob("*.json")):
             raise ValueError(f"unexpected team in saved stage pool: {pool}")
-        for path in self.paths[:stage]:
+        for path in training:
             target = pool / path.name
             if target.exists() and target.read_bytes() != path.read_bytes():
                 raise ValueError(f"saved stage team changed: {target}")
             if not target.exists():
                 target.write_bytes(path.read_bytes())
-        current, expanded = stage_suites(self.paths, stage=stage,
+        current, expanded = stage_suites(self.evaluation_groups, stage=stage,
             episodes=self.config["eval_episodes"], seed=self.config["seed"] + 100000 + stage,
             max_steps=self.config["max_steps"])
         for name, suite in (("current-suite.json", current), ("expanded-suite.json", expanded)):
@@ -332,10 +364,15 @@ class Campaign:
 
     def run_stage(self, stage):
         directory, pool, anchor = self.prepare_stage(stage)
-        print(f"\nStage {stage}/{self.count}: {stage} training teams.", flush=True)
+        training_count = sum(len(g) for g in self.groups[:stage])
+        validation_count = sum(len(g) for g in self.evaluation_groups[:stage])
+        print(f"\nStage {stage}/{self.count}: {training_count} training teams "
+              f"({len(self.groups[stage-1])} introduced this stage).", flush=True)
+        if self.config.get("validation_groups"):
+            print(f"Promotion uses {validation_count} held-out validation teams; none enter training.", flush=True)
         if not self.config.get("train_battles"):
-            print(f"Next-team validation: {self.paths[stage].stem}.", flush=True)
-        print(self.config["curriculum"]["stages"][stage-1]["focus"], flush=True)
+            print(f"Next-group validation: {len(self.evaluation_groups[stage])} teams.", flush=True)
+        print(self.config["curriculum"]["stages"][stage-1].get("focus", ""), flush=True)
         opponent_label = (f"promoted stage {self.stage_opponent['source_stage']}"
                           if self.stage_opponent["source_stage"] is not None else "initial reference")
         print(f"Frozen opponent: {opponent_label} ({self.opponent_mode}); "
@@ -383,7 +420,8 @@ class Campaign:
             if simple:
                 pos = arguments.index("--total-timesteps")
                 arguments[pos:pos+2] = ["--train-battles", self.config["train_battles"]]
-            for key in ("rollout_steps", "batch_size", "epochs", "learning_rate", "ent_coef"):
+            for key in ("rollout_steps", "batch_size", "epochs", "learning_rate", "ent_coef",
+                        "latest_every_updates", "checkpoint_every", "keep_checkpoints"):
                 if self.execution[key] is not None:
                     arguments += ["--" + key.replace("_", "-"), self.execution[key]]
             for key in ("readable_log", "battle_log"):
@@ -414,6 +452,8 @@ class Campaign:
             report = promotion_report(before, before_expanded, after, expanded, self.config["rules"])
         report.update(stage=stage, candidate=str(candidate), candidate_sha256=sha256(candidate),
             opponent=self.stage_opponent,
+            training_teams=training_count, evaluation_teams=validation_count,
+            held_out_validation=bool(self.config.get("validation_groups")),
             settings_revision=self.config.get("settings_revision", 0), evaluation_settings=settings,
             evaluations=dict(before_current=str(before_dir), before_expanded=str(before_expanded_dir),
                              current=str(after_dir), expanded=str(expanded_dir)))
@@ -502,7 +542,8 @@ def initialize(args, run):
         raise ValueError("a new curriculum run needs --resume and --opponent-checkpoint")
     if any(p.name != ".lock" for p in run.iterdir()):
         raise ValueError("new curriculum output must be empty; choose a new --run-dir")
-    manifest, teams = load_curriculum(args.curriculum or DEFAULT_CURRICULUM)
+    manifest, groups, validation = load_curriculum(args.curriculum or DEFAULT_CURRICULUM, grouped=True)
+    teams = [p for group in groups for p in group]
     opponent_mode = getattr(args, "opponent_mode", None) or manifest.get("opponent_mode", "fixed")
     if opponent_mode not in OPPONENT_MODES:
         raise ValueError("opponent mode must be fixed or previous-stage")
@@ -537,7 +578,18 @@ def initialize(args, run):
         target = inputs / "teams" / f"{i+1:02d}_{source.name}"
         target.write_bytes(source.read_bytes())
         team_names.append(str(target.relative_to(run)))
+    saved_paths = dict(zip(teams, team_names))
+    validation_names = None
+    if validation:
+        (inputs / "validation").mkdir()
+        for source in (p for group in validation for p in group):
+            if source not in saved_paths:
+                target = inputs / "validation" / f"{len(saved_paths)+1:04d}_{source.name}"
+                target.write_bytes(source.read_bytes())
+                saved_paths[source] = str(target.relative_to(run))
+        validation_names = [[saved_paths[p] for p in group] for group in validation]
     config = dict(version=1, curriculum=manifest, teams=team_names, checkpoints=snapshots, opponent_mode=opponent_mode,
+        team_groups=[[saved_paths[p] for p in group] for group in groups], validation_groups=validation_names,
         rules=rules, eval_episodes=episodes, max_steps=max_steps, seed=args.seed if args.seed is not None else 1,
         input_hashes={str(p.relative_to(run)): sha256(p) for p in inputs.rglob("*") if p.is_file()},
         execution=EXECUTION.copy())
@@ -568,7 +620,7 @@ def parse_args():
     parser.add_argument("--run-dir", type=Path, required=True, help="New or existing curriculum directory")
     parser.add_argument("--stage", type=positive_int, help="Run this stage; default: first stage not promoted")
     parser.add_argument("--through-stage", type=positive_int, help="Continue through this stage, stopping at the first HOLD")
-    parser.add_argument("--curriculum", type=Path, help="New run: manifest (default: config/curricula/type_progression/curriculum.json)")
+    parser.add_argument("--curriculum", type=Path, help="New run: manifest with team files/directories per stage (default: config/curricula/type_progression/curriculum.json)")
     parser.add_argument("--resume", type=Path, help="New run: candidate checkpoint path or latest; copied once")
     parser.add_argument("--opponent-checkpoint", "--player2-checkpoint", type=Path, help="New run: initial reference path or latest; copied once")
     parser.add_argument("--opponent-mode", choices=OPPONENT_MODES,
@@ -587,9 +639,29 @@ def parse_args():
         ("rollout_steps", "Steps per learning player (initial default: 128)"),
         ("batch_size", "Optimization minibatch (initial default: 128)"),
         ("epochs", "PPO epochs; omitted keeps checkpoint value"),
+        ("latest_every_updates", "Save latest.zip every N PPO updates, plus first/final (initial default: 1)"),
         ("torch_threads", "PyTorch CPU threads (initial default: 1)")):
         parser.add_argument("--" + key.replace("_", "-"), type=positive_int, help=help_text)
     parser.add_argument("--learning-rate", type=nonnegative, help="Positive PPO learning rate; omitted keeps checkpoint value")
+    parser.add_argument("--checkpoint-every", type=nonnegative_int,
+                        help="Learning transitions between numbered training backups; 0 disables (initial default: 1024)")
+    parser.add_argument("--keep-checkpoints", type=retention_count,
+                        help="Numbered training backups per attempt; 0 disables, -1 unlimited (initial default: 2)")
+    parser.add_argument("--retention", choices=("compact", "off"),
+                        help="Prune completed attempts after reports are saved (new campaigns: compact; legacy: off)")
+    for key, help_text in (("keep_attempts", "Recent candidate attempts per stage (initial default: 2)"),
+                           ("keep_best", "Best candidates per stage/evaluation-rule cohort (initial default: 2)"),
+                           ("keep_debug_attempts", "Recent attempt debug logs to retain per stage (initial default: 0)")):
+        parser.add_argument("--" + key.replace("_", "-"), type=retention_count,
+                            help=help_text + "; -1 retains all; applies with compact retention")
+    parser.add_argument("--step-logs", action=argparse.BooleanOptionalAction, default=None,
+                        help="Full Showdown decision traces in training and evaluation (initial default: off)")
+    parser.add_argument("--log-max-mb", type=nonnegative,
+                        help="Showdown diagnostic log rotation limit in MiB; 0 unlimited (initial default: 10)")
+    parser.add_argument("--log-backups", type=nonnegative_int,
+                        help="Rotated backups per Showdown diagnostic log (initial default: 2)")
+    parser.add_argument("--keep-episode-logs", type=retention_count,
+                        help="Completed trace directories per pair; 0 disables, -1 unlimited (initial default: 2)")
     parser.add_argument("--ent-coef", type=nonnegative, help="PPO entropy coefficient; omitted keeps checkpoint value")
     parser.add_argument("--command-timeout", type=positive_int, help="Seconds per paired decision (initial default: 120)")
     parser.add_argument("--showdown-workers", choices=("thread", "process"), help="Worker mode (initial default: process)")
@@ -613,9 +685,12 @@ def main():
                 config = read_json(run / "campaign.json")
                 if config.get("version") != 1:
                     raise ValueError("unsupported curriculum run version")
+                # Upgrading an existing run must not silently opt it into historical deletion.
+                config["execution"].setdefault("retention", "off")
             else:
                 config = initialize(args, run)
-            execution = {**config["execution"], **{k: getattr(args, k) for k in EXECUTION if getattr(args, k) is not None}}
+            execution = {**EXECUTION, **config["execution"],
+                         **{k: getattr(args, k) for k in EXECUTION if getattr(args, k) is not None}}
             if execution["environments"] < 2 or execution["environments"] % 2:
                 raise ValueError("--environments must be even and at least two")
             if execution["batch_size"] < 2 or execution["rollout_steps"]*(execution["environments"]//2) % execution["batch_size"]:
@@ -641,6 +716,13 @@ def main():
             for selected in range(stage, target + 1):
                 for _ in range(args.attempts_per_stage):
                     report = campaign.run_stage(selected)
+                    if execution["retention"] == "compact":
+                        plan = plan_campaign_retention(run, **{
+                            key: execution[key] for key in ("keep_attempts", "keep_best", "keep_debug_attempts")})
+                        result = apply_campaign_retention(plan, assume_locked=True)
+                        if result["files"]:
+                            print(f"Retention: removed {result['files']} files, "
+                                  f"{result['bytes'] / 1024**3:.3f} GiB; reports and protected models retained.", flush=True)
                     if report["status"] == "promote":
                         break
                 if report["status"] == "hold":

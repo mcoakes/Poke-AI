@@ -1,0 +1,128 @@
+{
+  "description": "Real pinned Showdown and MaskablePPO verification; fresh policies only, not the user 400k weights.",
+  "training": {
+    "seed": 261030,
+    "requested_timesteps": 20000,
+    "actual_timesteps": 20224,
+    "environments": 4,
+    "learning_rate": 0.0001,
+    "epochs": 4,
+    "rollout": 128,
+    "batch": 128,
+    "reward_config": "config/rewards/damage_knockout_win.json",
+    "python": "3.12.14",
+    "torch": "2.8.0+cpu",
+    "sb3": "2.7.1"
+  },
+  "initial_validation": {
+    "move_choice": 0.0,
+    "mirror": 0.02
+  },
+  "final_validation": {
+    "move_choice": 1.0,
+    "mirror": 0.15
+  },
+  "results": {
+    "calibration/mirror-greedy": {
+      "candidate_wins": 102,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.51,
+      "first_surf_rate": 0.0
+    },
+    "calibration/mirror-random": {
+      "candidate_wins": 4,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.02,
+      "first_surf_rate": 0.0
+    },
+    "calibration/mirror-rules": {
+      "candidate_wins": 100,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.5,
+      "first_surf_rate": 0.0
+    },
+    "calibration/move-choice-greedy": {
+      "candidate_wins": 200,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 1.0,
+      "first_surf_rate": 1.0
+    },
+    "calibration/move-choice-random": {
+      "candidate_wins": 104,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.52,
+      "first_surf_rate": 0.26
+    },
+    "calibration/move-choice-rules": {
+      "candidate_wins": 200,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 1.0,
+      "first_surf_rate": 1.0
+    },
+    "checks/mirror-fresh-best-permuted": {
+      "candidate_wins": 32,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.16,
+      "first_surf_rate": 0.0
+    },
+    "checks/mirror-fresh-best-test": {
+      "candidate_wins": 32,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.16,
+      "first_surf_rate": 0.0
+    },
+    "checks/mirror-fresh-final-permuted": {
+      "candidate_wins": 32,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.16,
+      "first_surf_rate": 0.0
+    },
+    "checks/mirror-fresh-final-test": {
+      "candidate_wins": 32,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 0.16,
+      "first_surf_rate": 0.0
+    },
+    "checks/move-choice-fresh-best-permuted": {
+      "candidate_wins": 200,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 1.0,
+      "first_surf_rate": 1.0
+    },
+    "checks/move-choice-fresh-best-test": {
+      "candidate_wins": 200,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 1.0,
+      "first_surf_rate": 1.0
+    },
+    "checks/move-choice-fresh-final-permuted": {
+      "candidate_wins": 200,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 1.0,
+      "first_surf_rate": 1.0
+    },
+    "checks/move-choice-fresh-final-test": {
+      "candidate_wins": 200,
+      "requested_battles": 200,
+      "truncated": 0,
+      "wins_per_requested": 1.0,
+      "first_surf_rate": 1.0
+    }
+  },
+  "tests_passed": 23,
+  "recovery": "Completed training skipped; partial calibration and frozen evaluation recovered without retraining.",
+  "reference_validation": "Reference code path loaded a local shared-moves test checkpoint; user 400k weights unavailable here."
+}

@@ -1,0 +1,209 @@
+{
+  "scope": "Local operational smoke with tiny existing models; not user-model learning evidence",
+  "source_preserved": true,
+  "jobs": 2,
+  "added_training_steps_per_job": 256,
+  "common_initial_checkpoint_and_optimizer": true,
+  "only_training_flag_differs": true,
+  "canonical_teams_and_fixed_mirror_preserved": true,
+  "variant_manifest_verified": true,
+  "balanced_validation_battles": 16,
+  "frozen_checks": 35,
+  "requested_frozen_battles": 320,
+  "frozen_truncated": 0,
+  "all_episode_audit_trace_evidence_verified": true,
+  "completed_continuation_started_no_training": true,
+  "completed_continuation_inputs_runs_checks_logs_unchanged": true,
+  "team_inspection_verified": true,
+  "memory_and_logs_recorded": true,
+  "presentation_report_present": true,
+  "result_archive_excludes_weights": true,
+  "checks": [
+    {
+      "directory": "checks/initial-validation",
+      "requested_battles": 16,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/initial-validation-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/initial-seen-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/initial-seen-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/initial-heldout-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/initial-heldout-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/initial-mirror",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-validation",
+      "requested_battles": 16,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-validation-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-seen-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-seen-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-heldout-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-heldout-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-best-mirror",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-validation-retry-1792371268215026369",
+      "requested_battles": 16,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-validation-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-seen-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-seen-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-heldout-original-retry-1792371272051548503",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-heldout-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/control-final-mirror",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-validation-retry-1792371274767551252",
+      "requested_battles": 16,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-validation-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-seen-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-seen-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-heldout-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-heldout-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-best-mirror",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-validation",
+      "requested_battles": 16,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-validation-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-seen-original",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-seen-reversed-retry-1792371278574660229",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-heldout-original-retry-1792371287659679673",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-heldout-reversed",
+      "requested_battles": 8,
+      "truncated": 0
+    },
+    {
+      "directory": "checks/bench-shuffle-final-mirror",
+      "requested_battles": 8,
+      "truncated": 0
+    }
+  ],
+  "unit_tests": {
+    "passed": 132,
+    "command": "python -m pytest -q tests/test_bench_order.py tests/test_bench_order_ablation.py tests/test_training_run.py tests/test_train_ppo_cli.py tests/test_team_mixture.py tests/test_matchup_ablation.py"
+  },
+  "recovery_observation": {
+    "initial_saved_check_directories_rejected": 5,
+    "additional_retry_during_first_completed_continuation": 1,
+    "reason": "Saved evaluation summaries or episode logs were incomplete despite the evaluator having reported completion. No asynchronous source writer cause was identified.",
+    "handling": "Normal --continue preserved those attempts and retried them. No counts were reconstructed and no acceptance gates were relaxed.",
+    "final_outcome": "All 35 accepted checks independently verified; a subsequent completed continuation reused them and left inputs, training, checks, and console files byte-for-byte unchanged."
+  }
+}

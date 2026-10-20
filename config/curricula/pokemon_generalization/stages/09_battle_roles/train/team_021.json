@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 021",
+  "party": [
+    {
+      "species": "Weezing",
+      "level": 50,
+      "moves": [
+        "Sludge Bomb",
+        "Haze",
+        "Flamethrower",
+        "Will O Wisp"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Swampert",
+      "level": 50,
+      "moves": [
+        "Ice Beam",
+        "Surf",
+        "Protect",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Snorlax",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Shadow Ball",
+        "Curse",
+        "Rest"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Careful",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Claydol",
+      "level": 50,
+      "moves": [
+        "Explosion",
+        "Psychic",
+        "Rapid Spin",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Heracross",
+      "level": 50,
+      "moves": [
+        "Swords Dance",
+        "Megahorn",
+        "Rock Slide",
+        "Brick Break"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Kangaskhan",
+      "level": 50,
+      "moves": [
+        "Shadow Ball",
+        "Earthquake",
+        "Return",
+        "Rock Slide"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "scope": "Real Showdown operational smoke with tiny test models; not user-model learning gains or GUI verification",
+  "jobs": 2,
+  "training_added_steps_per_arm": 256,
+  "checks": [
+    {
+      "label": "checks/imported-start-seen-original",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-seen-reversed",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-heldout-original",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-heldout-reversed",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-mirror",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/control-best-seen-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/control-best-seen-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/control-best-heldout-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/control-best-heldout-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/control-best-mirror",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/switch-features-best-seen-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/switch-features-best-seen-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/switch-features-best-heldout-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/switch-features-best-heldout-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/switch-features-best-mirror",
+      "battles": 8,
+      "imported": false
+    }
+  ],
+  "new_check_battles": 80,
+  "imported_check_battles": 40,
+  "truncated": 0,
+  "source_preserved": true,
+  "initial_predictions_and_optimizer_twins_verified": true,
+  "feature_flags_and_mixture_verified": true,
+  "no_rules_assistance": true,
+  "five_export_hashes_verified": true,
+  "all_saved_episode_and_audit_evidence_verified": true,
+  "completed_continuation_no_training_restarted": true,
+  "completed_continuation_inputs_models_runs_checks_logs_unchanged": true,
+  "team_inspector_verified": true,
+  "reports_and_archive_present": true,
+  "memory_recorded": true,
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": 0,
+      "log": "switch-feature-smoke-run-1.log"
+    }
+  ],
+  "unit_tests": {
+    "passed": 77,
+    "skipped": 1,
+    "seconds": 32.1,
+    "files": [
+      "tests/test_matchup_switch_policy.py",
+      "tests/test_switch_feature_ablation.py",
+      "tests/test_matchup_move_policy.py",
+      "tests/test_shared_move_policy.py"
+    ]
+  },
+  "limitations": [
+    "No real user checkpoint weights were available locally.",
+    "Smoke scores do not estimate learning gains.",
+    "No ROM/save/display was available for GUI rehearsal."
+  ]
+}

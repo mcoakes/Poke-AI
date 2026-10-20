@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "name": "pokemon_generalization",
+  "opponent_mode": "previous-stage",
+  "opponent_switch": {
+    "chance": 0,
+    "cooldown": 2
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "team_dir": "stages/01_basic_types/train",
+      "validation_dir": "stages/01_basic_types/validation",
+      "focus": "Three-member parties: mono-type species, STAB and Normal attacks, no held items."
+    },
+    {
+      "stage": 2,
+      "team_dir": "stages/02_immunities/train",
+      "validation_dir": "stages/02_immunities/validation",
+      "focus": "Three-member parties: more mono-types, including Ground, Ghost and Normal immunities."
+    },
+    {
+      "stage": 3,
+      "team_dir": "stages/03_dual_types/train",
+      "validation_dir": "stages/03_dual_types/validation",
+      "focus": "Three-member parties: dual types, resistances and compounded weaknesses."
+    },
+    {
+      "stage": 4,
+      "team_dir": "stages/04_coverage/train",
+      "validation_dir": "stages/04_coverage/validation",
+      "focus": "Three- and four-member parties: off-type coverage; species alone no longer predicts attacks."
+    },
+    {
+      "stage": 5,
+      "team_dir": "stages/05_status/train",
+      "validation_dir": "stages/05_status/validation",
+      "focus": "Four-member parties: paralysis, poison, burns or sleep alongside damaging moves."
+    },
+    {
+      "stage": 6,
+      "team_dir": "stages/06_recovery/train",
+      "validation_dir": "stages/06_recovery/validation",
+      "focus": "Four-member parties: recovery, Protect, residual damage and HP management."
+    },
+    {
+      "stage": 7,
+      "team_dir": "stages/07_setup/train",
+      "validation_dir": "stages/07_setup/validation",
+      "focus": "Five-member parties: setup, Substitute, Encore, Taunt and stat management."
+    },
+    {
+      "stage": 8,
+      "team_dir": "stages/08_field_control/train",
+      "validation_dir": "stages/08_field_control/validation",
+      "focus": "Five-member parties: weather, hazards, Rapid Spin, phazing and Choice Band."
+    },
+    {
+      "stage": 9,
+      "team_dir": "stages/09_battle_roles/train",
+      "validation_dir": "stages/09_battle_roles/validation",
+      "focus": "Six-member parties: curated attacking, defensive and support sets together."
+    },
+    {
+      "stage": 10,
+      "team_dir": "stages/10_broad_transfer/train",
+      "validation_dir": "stages/10_broad_transfer/validation",
+      "focus": "Parties of one to six: broader species, learnable moves, varied stats and held items."
+    }
+  ],
+  "next_team_dir": "holdout"
+}

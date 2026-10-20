@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 recombination 016",
+  "party": [
+    {
+      "species": "Tropius",
+      "level": 50,
+      "moves": [
+        "Growth",
+        "Hyper Beam",
+        "Razor Leaf",
+        "Leer"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 22,
+        "def": 30,
+        "spa": 29,
+        "spd": 24,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Quilava",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Swift",
+        "Overheat",
+        "Strength"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 23,
+        "def": 30,
+        "spa": 23,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Volbeat",
+      "level": 50,
+      "moves": [
+        "Frustration",
+        "Brick Break",
+        "Focus Punch",
+        "Silver Wind"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 21,
+        "def": 30,
+        "spa": 20,
+        "spd": 27,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Meganium",
+      "level": 50,
+      "moves": [
+        "Ancient Power",
+        "Swords Dance",
+        "Bullet Seed",
+        "Rest"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 24,
+        "def": 28,
+        "spa": 23,
+        "spd": 29,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

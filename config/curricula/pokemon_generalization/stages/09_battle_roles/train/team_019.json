@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 019",
+  "party": [
+    {
+      "species": "Marowak",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Swords Dance",
+        "Earthquake",
+        "Double Edge"
+      ],
+      "held_item": "Thick Club",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Ninetales",
+      "level": 50,
+      "moves": [
+        "Will O Wisp",
+        "Flamethrower",
+        "Substitute",
+        "Confuse Ray"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Swampert",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Protect",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Dragonite",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Ice Beam",
+        "Dragon Claw",
+        "Flamethrower"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Milotic",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Toxic",
+        "Recover",
+        "Ice Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Tauros",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Earthquake",
+        "Iron Tail",
+        "Return"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "source_archive": "transfer-results.zip",
+  "source_sha256": "956258233506289124705619210af50aeb8ab1718d3e829e7aca89c4d1f25efb",
+  "training": {
+    "specialist": {
+      "starting_timesteps": 253952,
+      "ending_timesteps": 1254400,
+      "added_timesteps": 1000448,
+      "max_new_timesteps": 1000000,
+      "elapsed_seconds": 2479.6896476829425,
+      "stop_reason": "timestep_budget"
+    },
+    "fresh": {
+      "starting_timesteps": 0,
+      "ending_timesteps": 1000448,
+      "added_timesteps": 1000448,
+      "max_new_timesteps": 1000000,
+      "elapsed_seconds": 2496.0563005900476,
+      "stop_reason": "timestep_budget"
+    }
+  },
+  "results": [
+    {
+      "policy": "specialist",
+      "checkpoint": "initial",
+      "wins": {
+        "validation": {
+          "wins": 87,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 104,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 117,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 117,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 999,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 7647,
+        "current_target_immune_move_actions": 573,
+        "current_target_type_immune_move_actions": 103,
+        "current_target_ability_immune_move_actions": 470,
+        "current_target_immune_with_nonimmune_alternative": 573
+      }
+    },
+    {
+      "policy": "specialist",
+      "checkpoint": "best",
+      "wins": {
+        "validation": {
+          "wins": 143,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 388,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 271,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 271,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 999,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 9182,
+        "current_target_immune_move_actions": 413,
+        "current_target_type_immune_move_actions": 343,
+        "current_target_ability_immune_move_actions": 70,
+        "current_target_immune_with_nonimmune_alternative": 413
+      }
+    },
+    {
+      "policy": "specialist",
+      "checkpoint": "final",
+      "wins": {
+        "validation": {
+          "wins": 139,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 374,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 260,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 260,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 987,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 9189,
+        "current_target_immune_move_actions": 386,
+        "current_target_type_immune_move_actions": 336,
+        "current_target_ability_immune_move_actions": 50,
+        "current_target_immune_with_nonimmune_alternative": 386
+      }
+    },
+    {
+      "policy": "fresh",
+      "checkpoint": "initial",
+      "wins": {
+        "validation": {
+          "wins": 49,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 110,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 174,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 174,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 2,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 6605,
+        "current_target_immune_move_actions": 863,
+        "current_target_type_immune_move_actions": 250,
+        "current_target_ability_immune_move_actions": 613,
+        "current_target_immune_with_nonimmune_alternative": 863
+      }
+    },
+    {
+      "policy": "fresh",
+      "checkpoint": "best",
+      "wins": {
+        "validation": {
+          "wins": 134,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 404,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 310,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 310,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 627,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 8995,
+        "current_target_immune_move_actions": 521,
+        "current_target_type_immune_move_actions": 343,
+        "current_target_ability_immune_move_actions": 178,
+        "current_target_immune_with_nonimmune_alternative": 521
+      }
+    },
+    {
+      "policy": "fresh",
+      "checkpoint": "final",
+      "wins": {
+        "validation": {
+          "wins": 134,
+          "requested": 512,
+          "truncated": 0
+        },
+        "test": {
+          "wins": 404,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "heldout": {
+          "wins": 310,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "permuted": {
+          "wins": 310,
+          "requested": 1000,
+          "truncated": 0
+        },
+        "mirror": {
+          "wins": 627,
+          "requested": 1000,
+          "truncated": 0
+        }
+      },
+      "heldout_audit": {
+        "matchup_classified_move_actions": 8995,
+        "current_target_immune_move_actions": 521,
+        "current_target_type_immune_move_actions": 343,
+        "current_target_ability_immune_move_actions": 178,
+        "current_target_immune_with_nonimmune_alternative": 521
+      }
+    }
+  ],
+  "baselines": {
+    "random": {
+      "wins": 82,
+      "requested": 1000,
+      "truncated": 0
+    },
+    "greedy": {
+      "wins": 438,
+      "requested": 1000,
+      "truncated": 0
+    },
+    "rules": {
+      "wins": 497,
+      "requested": 1000,
+      "truncated": 0
+    }
+  },
+  "selected_by_validation": "specialist",
+  "memory": {
+    "samples": 1724,
+    "minimum_available_gib": 21.79269790649414,
+    "maximum_swap_used_gib": 0.0
+  },
+  "interpretation": {
+    "plateau": "Fresh validation improves by one win out of 512 from 200704 to 1000448 steps; practical plateau, not mathematical convergence.",
+    "retention": "Specialist best retains 99.9% fixed-mirror wins with 10% rehearsal. No no-rehearsal control, so preservation is observed without attributing causality.",
+    "immunity": "Current-defender diagnostic before opponent action; not a counterfactual estimate of recovered wins.",
+    "next": "Feature-only ablation with identical initial predictions, teams, rewards and PPO settings; same architecture with matchup feature inputs off/on.",
+    "scope": "Single-seed development experiment; reused heldout schedules are not an untouched generalization benchmark."
+  },
+  "validation_history": {
+    "specialist": [
+      {
+        "timesteps": 253952,
+        "wins": 87,
+        "requested": 512
+      },
+      {
+        "timesteps": 304128,
+        "wins": 118,
+        "requested": 512
+      },
+      {
+        "timesteps": 354304,
+        "wins": 115,
+        "requested": 512
+      },
+      {
+        "timesteps": 404480,
+        "wins": 119,
+        "requested": 512
+      },
+      {
+        "timesteps": 454656,
+        "wins": 121,
+        "requested": 512
+      },
+      {
+        "timesteps": 504832,
+        "wins": 126,
+        "requested": 512
+      },
+      {
+        "timesteps": 555008,
+        "wins": 121,
+        "requested": 512
+      },
+      {
+        "timesteps": 605184,
+        "wins": 134,
+        "requested": 512
+      },
+      {
+        "timesteps": 655360,
+        "wins": 127,
+        "requested": 512
+      },
+      {
+        "timesteps": 705536,
+        "wins": 135,
+        "requested": 512
+      },
+      {
+        "timesteps": 755712,
+        "wins": 124,
+        "requested": 512
+      },
+      {
+        "timesteps": 805888,
+        "wins": 126,
+        "requested": 512
+      },
+      {
+        "timesteps": 856064,
+        "wins": 127,
+        "requested": 512
+      },
+      {
+        "timesteps": 906240,
+        "wins": 122,
+        "requested": 512
+      },
+      {
+        "timesteps": 956416,
+        "wins": 138,
+        "requested": 512
+      },
+      {
+        "timesteps": 1006592,
+        "wins": 126,
+        "requested": 512
+      },
+      {
+        "timesteps": 1056768,
+        "wins": 117,
+        "requested": 512
+      },
+      {
+        "timesteps": 1106944,
+        "wins": 125,
+        "requested": 512
+      },
+      {
+        "timesteps": 1157120,
+        "wins": 143,
+        "requested": 512
+      },
+      {
+        "timesteps": 1207296,
+        "wins": 142,
+        "requested": 512
+      },
+      {
+        "timesteps": 1254400,
+        "wins": 139,
+        "requested": 512
+      }
+    ],
+    "fresh": [
+      {
+        "timesteps": 0,
+        "wins": 49,
+        "requested": 512
+      },
+      {
+        "timesteps": 50176,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 100352,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 150528,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 200704,
+        "wins": 133,
+        "requested": 512
+      },
+      {
+        "timesteps": 250880,
+        "wins": 112,
+        "requested": 512
+      },
+      {
+        "timesteps": 301056,
+        "wins": 112,
+        "requested": 512
+      },
+      {
+        "timesteps": 351232,
+        "wins": 110,
+        "requested": 512
+      },
+      {
+        "timesteps": 401408,
+        "wins": 129,
+        "requested": 512
+      },
+      {
+        "timesteps": 451584,
+        "wins": 96,
+        "requested": 512
+      },
+      {
+        "timesteps": 501760,
+        "wins": 124,
+        "requested": 512
+      },
+      {
+        "timesteps": 551936,
+        "wins": 104,
+        "requested": 512
+      },
+      {
+        "timesteps": 602112,
+        "wins": 119,
+        "requested": 512
+      },
+      {
+        "timesteps": 652288,
+        "wins": 121,
+        "requested": 512
+      },
+      {
+        "timesteps": 702464,
+        "wins": 126,
+        "requested": 512
+      },
+      {
+        "timesteps": 752640,
+        "wins": 131,
+        "requested": 512
+      },
+      {
+        "timesteps": 802816,
+        "wins": 119,
+        "requested": 512
+      },
+      {
+        "timesteps": 852992,
+        "wins": 118,
+        "requested": 512
+      },
+      {
+        "timesteps": 903168,
+        "wins": 126,
+        "requested": 512
+      },
+      {
+        "timesteps": 953344,
+        "wins": 126,
+        "requested": 512
+      },
+      {
+        "timesteps": 1000448,
+        "wins": 134,
+        "requested": 512
+      }
+    ]
+  }
+}

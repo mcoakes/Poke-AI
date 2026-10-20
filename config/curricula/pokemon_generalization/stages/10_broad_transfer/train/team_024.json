@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 train 024",
+  "party": [
+    {
+      "species": "Tentacool",
+      "level": 50,
+      "moves": [
+        "Sludge Bomb",
+        "Double Team",
+        "Safeguard",
+        "Dive"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 20,
+        "atk": 28,
+        "def": 31,
+        "spa": 25,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Tyranitar",
+      "level": 50,
+      "moves": [
+        "Taunt",
+        "Rock Slide",
+        "Earthquake",
+        "Dragon Dance"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 29,
+        "def": 26,
+        "spa": 27,
+        "spd": 28,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Salamence",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Twister",
+        "Double Edge",
+        "Hydro Pump"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 31,
+        "def": 25,
+        "spa": 29,
+        "spd": 20,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Meditite",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Recover",
+        "Hi Jump Kick",
+        "Focus Punch"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 31,
+        "def": 21,
+        "spa": 24,
+        "spd": 23,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Meganium",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Flail",
+        "Safeguard",
+        "Facade"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 28,
+        "def": 29,
+        "spa": 21,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Wailmer",
+      "level": 50,
+      "moves": [
+        "Rock Smash",
+        "Thrash",
+        "Splash",
+        "Water Gun"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 26,
+        "spa": 25,
+        "spd": 29,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

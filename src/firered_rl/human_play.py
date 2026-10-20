@@ -6,16 +6,20 @@ from firered_rl.linked_env import linked_observation, local_mon
 
 class PPOOpponent:
     def __init__(self, model, *, stochastic=False):
-        from firered_rl.ppo_features import policy_space
+        from firered_rl.ppo_features import observation_version
+        from firered_rl.evaluation import validate_observation_backend
         import gymnasium as gym
-        if model.observation_space != policy_space() or model.action_space != gym.spaces.Discrete(11):
+        version = observation_version(model.observation_space)
+        validate_observation_backend(version, "mgba")
+        self.observation_version = version
+        if model.action_space != gym.spaces.Discrete(11):
             raise ValueError("checkpoint does not match the linked PPO observation/action spaces")
         self.model, self.stochastic = model, stochastic
         self.model.policy.set_training_mode(False)
 
     def choose(self, report):
         from firered_rl.ppo_features import policy_observation
-        observation = policy_observation(linked_observation(report))
+        observation = policy_observation(linked_observation(report, observation_version=self.observation_version))
         mask = observation["action_mask"].astype(bool)
         if not mask.any():
             raise ValueError("AI has no legal action at this decision boundary")

@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 01 validation 008",
+  "party": [
+    {
+      "species": "Ampharos",
+      "level": 50,
+      "moves": [
+        "Mega Kick",
+        "Thunderbolt",
+        "Strength",
+        "Thunder"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Ninetales",
+      "level": 50,
+      "moves": [
+        "Quick Attack",
+        "Secret Power",
+        "Heat Wave",
+        "Overheat"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Feraligatr",
+      "level": 50,
+      "moves": [
+        "Water Gun",
+        "Hydro Pump",
+        "Mega Kick",
+        "Strength"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

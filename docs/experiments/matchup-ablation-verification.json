@@ -1,0 +1,220 @@
+{
+  "scope": "Local operational smoke; tiny models, not user-model learning evidence",
+  "source_fixture": "matchup-source-smoke-01",
+  "source_preserved": true,
+  "initialization": {
+    "state_tensors_equal": true,
+    "same_parameter_count": true,
+    "parameters": 962025,
+    "relational_enabled": {
+      "control": false,
+      "matchup": true
+    },
+    "initial_timesteps": 0,
+    "optimizers_empty": true,
+    "probes": 3,
+    "max_logit_difference": 0.0,
+    "max_value_difference": 0.0,
+    "max_probability_difference": 0.0,
+    "note": "Same widened architecture and copied original fresh weights; extra input columns start at zero. Only the serialized feature toggle differs."
+  },
+  "jobs": {
+    "control": {
+      "starting_timesteps": 0,
+      "ending_timesteps": 256,
+      "added_timesteps": 256,
+      "max_new_timesteps": 256,
+      "elapsed_seconds": 23.285741148999932,
+      "stop_reason": "timestep_budget"
+    },
+    "matchup": {
+      "starting_timesteps": 0,
+      "ending_timesteps": 256,
+      "added_timesteps": 256,
+      "max_new_timesteps": 256,
+      "elapsed_seconds": 23.098876741999902,
+      "stop_reason": "timestep_budget"
+    }
+  },
+  "checks": 24,
+  "requested_battles": 192,
+  "truncated": 0,
+  "every_episode_verified": true,
+  "completed_continuation_started_no_training": true,
+  "completed_continuation_checks_unchanged": true,
+  "teams_inspected": true,
+  "console_logs_present": true,
+  "memory_recorded": true,
+  "result_archive_valid": true,
+  "preserved_unreferenced_checks": [
+    "checks/matchup-initial-mirror",
+    "checks/control-initial-permuted"
+  ],
+  "recovery_note": "Continuation preserved and retried saved checks that failed complete-record validation. All24 accepted check directories passed episode and summary integrity checks; a subsequent continuation changed neither training files nor frozen checks.",
+  "per_check": [
+    {
+      "name": "baseline-greedy",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "baseline-random",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "baseline-rules",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-best-heldout",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-best-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-best-permuted",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-best-test",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-best-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-initial-heldout",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-initial-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-initial-permuted-retry-1792344786648079024",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-initial-test",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "control-initial-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "foundation-mirror-reference",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-best-heldout",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-best-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-best-permuted",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-best-test",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-best-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-initial-heldout",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-initial-mirror-retry-1792344789487540028",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-initial-permuted",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-initial-test",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "name": "matchup-initial-validation",
+      "battles": 8,
+      "truncated": 0
+    }
+  ],
+  "saved_evidence_gate": {
+    "checked_directories": [
+      "checks/baseline-greedy",
+      "checks/baseline-random",
+      "checks/baseline-rules",
+      "checks/control-best-heldout",
+      "checks/control-best-mirror",
+      "checks/control-best-permuted",
+      "checks/control-best-test",
+      "checks/control-best-validation",
+      "checks/control-initial-heldout",
+      "checks/control-initial-mirror",
+      "checks/control-initial-permuted-retry-1792344786648079024",
+      "checks/control-initial-test",
+      "checks/control-initial-validation",
+      "checks/foundation-mirror-reference",
+      "checks/matchup-best-heldout",
+      "checks/matchup-best-mirror",
+      "checks/matchup-best-permuted",
+      "checks/matchup-best-test",
+      "checks/matchup-best-validation",
+      "checks/matchup-initial-heldout",
+      "checks/matchup-initial-mirror-retry-1792344789487540028",
+      "checks/matchup-initial-permuted",
+      "checks/matchup-initial-test",
+      "checks/matchup-initial-validation"
+    ],
+    "complete_episode_logs": true
+  },
+  "focused_tests": {
+    "passed": 97,
+    "skipped": 2,
+    "skip_reason": "CUDA is unavailable; CPU tests passed.",
+    "files": {
+      "test_matchup_move_policy.py": 17,
+      "test_matchup_audit_consistency.py": 9,
+      "test_matchup_ablation.py": 12,
+      "test_shared_move_policy.py": 12,
+      "test_transfer_lab.py": 12,
+      "test_stage_immunity_audit.py": 19,
+      "test_staged_team_lab.py": 9,
+      "test_curriculum_checks.py": 7
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "default": "coached",
+  "models": [
+    {
+      "id": "coached",
+      "label": "Coached AI (default)",
+      "checkpoint": "models/classroom/coached-ai.zip"
+    },
+    {
+      "id": "rewards-only",
+      "label": "Rewards-only AI",
+      "checkpoint": "models/classroom/rewards-only-ai.zip"
+    }
+  ]
+}

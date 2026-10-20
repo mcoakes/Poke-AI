@@ -1,0 +1,83 @@
+{
+  "name": "04-type-matchups-train-0002",
+  "party": [
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Rock Tomb"
+      ],
+      "nature": "Hardy",
+      "species": "Golem"
+    },
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Swift"
+      ],
+      "nature": "Hardy",
+      "species": "Typhlosion"
+    },
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Water Pulse"
+      ],
+      "nature": "Hardy",
+      "species": "Lapras"
+    }
+  ]
+}

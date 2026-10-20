@@ -126,7 +126,14 @@ def test_pipeline_pins_inputs_and_retries_then_adds_exactly_one_team(tmp_path, o
                     if stage > 1 and opponent_mode == "previous-stage" else b"reference policy")
         assert get("--opponent-checkpoint") == run / f"stage-{stage:02d}/opponent.zip"
         assert get("--opponent-checkpoint").read_bytes() == expected
+        assert "--no-step-logs" in command
+        assert str(get("--log-max-mb")) == "10"
+        assert str(get("--log-backups")) == "2"
+        assert str(get("--keep-episode-logs")) == "2"
         if Path(command[1]).name == "train_ppo.py":
+            assert str(get("--latest-every-updates")) == "10"
+            assert str(get("--checkpoint-every")) == "0"
+            assert str(get("--keep-checkpoints")) == "2"
             assert ("--opponent-switch-chance" in command) == bool(switch_chance)
             if switch_chance:
                 assert float(str(get("--opponent-switch-chance"))) == switch_chance
@@ -137,12 +144,14 @@ def test_pipeline_pins_inputs_and_retries_then_adds_exactly_one_team(tmp_path, o
             (output / "checkpoints/final.zip").write_bytes(resume.read_bytes() + b" updated")
             write_json(output / "summary.json", dict(status="completed"))
         else:
+            assert "--latest-every-updates" not in command and "--checkpoint-every" not in command
             evaluations.append(output)
             assert "--opponent-switch-chance" not in command
             completed_evaluation(output, read_json(get("--suite")), get("--checkpoint"),
                 get("--opponent-checkpoint"), lose_incoming=lose[0] and "attempt-001" in str(output))
 
-    campaign = cli.Campaign(run, config, cli.EXECUTION, execute=execute)
+    execution = dict(cli.EXECUTION, latest_every_updates=10, checkpoint_every=0)
+    campaign = cli.Campaign(run, config, execution, execute=execute)
     assert campaign.next_stage() == 1
     held = campaign.run_stage(1)
     assert held["status"] == "hold" and campaign.next_stage() == 1
@@ -171,7 +180,7 @@ def test_pipeline_pins_inputs_and_retries_then_adds_exactly_one_team(tmp_path, o
     assert second["opponent"]["source_stage"] == (1 if opponent_mode == "previous-stage" else None)
     # A fresh runner instance must keep the stage-2 opponent when resuming a held attempt.
     lose[0] = False
-    campaign = cli.Campaign(run, read_json(run / "campaign.json"), cli.EXECUTION, execute=execute)
+    campaign = cli.Campaign(run, read_json(run / "campaign.json"), execution, execute=execute)
     retried = campaign.run_stage(2)
     assert retried["status"] == "promote"
     assert trained[3][1] == Path(second["candidate"])
@@ -198,6 +207,8 @@ def test_old_fixed_campaign_and_stage_can_resume(tmp_path):
     config = cli.initialize(argparse.Namespace(resume=source, opponent_checkpoint=opponent,
         curriculum=MANIFEST, eval_episodes=4, max_steps=200, promotion_rules=None, reward_config=None, seed=7), run)
     config.pop("opponent_mode")  # v0.22 campaign configuration.
+    config.pop("team_groups")
+    config.pop("validation_groups")
     stage = run / "stage-01"
     stage.mkdir()
     (stage / "anchor.zip").write_bytes(b"start")
@@ -208,6 +219,48 @@ def test_old_fixed_campaign_and_stage_can_resume(tmp_path):
     assert campaign.opponent_mode == "fixed"
     assert campaign.opponent.read_bytes() == b"reference"
     assert (stage / "anchor.zip").read_bytes() == b"start"
+
+
+def test_checkpoint_settings_can_change_on_legacy_campaign_resume(tmp_path, monkeypatch):
+    cli = cli_module()
+    source = tmp_path / "start.zip"
+    source.write_bytes(b"policy")
+    run = tmp_path / "campaign"
+    run.mkdir()
+    config = cli.initialize(argparse.Namespace(resume=source, opponent_checkpoint=source,
+        curriculum=MANIFEST, eval_episodes=4, max_steps=200, promotion_rules=None,
+        reward_config=None, seed=7), run)
+    for name in ("latest_every_updates", "checkpoint_every", "retention"):
+        config["execution"].pop(name)  # Simulate a campaign created before these settings existed.
+    write_json(run / "campaign.json", config)
+    observed = []
+    def held(self, stage):
+        observed.append((self.execution["latest_every_updates"], self.execution["checkpoint_every"]))
+        return dict(status="hold")
+    monkeypatch.setattr(cli.Campaign, "run_stage", held)
+    base = ["run_curriculum", "--run-dir", str(run), "--attempts-per-stage", "1"]
+    for options, expected in (([], (1, 1024)),
+                             (["--latest-every-updates", "10", "--checkpoint-every", "0"], (10, 0)),
+                             ([], (10, 0))):
+        monkeypatch.setattr(sys, "argv", base + options)
+        assert cli.main() == 2
+        assert observed[-1] == expected
+        saved = read_json(run / "campaign.json")
+        assert saved["input_hashes"] == config["input_hashes"]
+        assert saved["execution"]["rollout_steps"] == config["execution"]["rollout_steps"]
+        assert saved["execution"]["retention"] == "off"
+    monkeypatch.setattr(sys, "argv", base + ["--retention", "compact", "--keep-attempts", "1",
+                                          "--keep-best", "1", "--no-step-logs"])
+    assert cli.main() == 2
+    saved = read_json(run / "campaign.json")
+    assert saved["execution"]["retention"] == "compact"
+    assert saved["execution"]["keep_attempts"] == saved["execution"]["keep_best"] == 1
+    assert saved["execution"]["step_logs"] is False
+    for invalid in (["--latest-every-updates", "0"], ["--checkpoint-every", "-1"]):
+        monkeypatch.setattr(sys, "argv", base + invalid)
+        with pytest.raises(SystemExit) as error:
+            cli.parse_args()
+        assert error.value.code == 2
 
 
 def test_manifest_opponent_mode_and_explicit_override(tmp_path):

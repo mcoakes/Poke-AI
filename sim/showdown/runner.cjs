@@ -76,7 +76,9 @@ function status(p) {
 function volatile(p) {
   const v = p.volatiles;
   let raw = 0;
-  for (const [name, shift, limit] of [['confusion',0,7],['uproar',4,7],['bide',8,3],
+  // Confusion counts attempted moves in time, not residual-effect duration.
+  if (v.confusion) raw |= Math.max(1, Math.min(7, v.confusion.time || 1));
+  for (const [name, shift, limit] of [['uproar',4,7],['bide',8,3],
       ['lockedmove',10,3],['partiallytrapped',13,7]]) {
     if (v[name]) raw |= Math.max(1, Math.min(limit, v[name].duration || 1)) << shift;
   }
@@ -107,6 +109,65 @@ function mon(p, active = false) {
     status_raw:status(p), volatile_status_raw:active ? volatile(p) : 0,
     held_item_id:p.item ? (ids.items[key(p.item)] ?? ids.items[key(p.getItem().name)] ?? 0) : 0,
     ability_id:p.getAbility().num || 0, moves:moves(active ? p.moveSlots : p.baseMoveSlots)};
+}
+
+const battleStats = ['atk', 'def', 'spa', 'spd', 'spe'];
+const boostStats = [...battleStats, 'accuracy', 'evasion'];
+const specialTypes = new Set(['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon']);
+function itemId(p) {
+  // Cartridge item numbers differ from modern Showdown item numbers.
+  return p.item ? (ids.items[key(p.item)] ?? ids.items[key(dex.items.get(p.item).name)] ?? 0) : 0;
+}
+function abilityId(p) {
+  // Natural Gen III ability numbers (1–77); zero denotes no ability.
+  return p.ability ? dex.abilities.get(p.ability).num || 0 : 0;
+}
+function moveDetails(p, slots, active) {
+  return Array.from({length:4}, (_, index) => {
+    const slot = slots[index];
+    if (!slot) return [0, 0, 0, 0, 0, 0];
+    const move = dex.moves.get(slot.id);
+    const hiddenPower = move.id === 'hiddenpower';
+    // These are base descriptors, not damage predictions: variable power,
+    // weather-modified accuracy, and other contextual callbacks are not run.
+    const type = hiddenPower ? (active ? p.hpType : p.baseHpType) : move.type;
+    const power = hiddenPower ? (active ? p.hpPower : p.baseHpPower) : move.basePower;
+    const category = hiddenPower ? (specialTypes.has(type) ? 1 : 0) :
+      {Physical:0, Special:1, Status:2}[move.category];
+    return [power, move.accuracy === true ? 0 : move.accuracy,
+      Number(move.accuracy === true), category, move.priority, typeIds([type])[0]];
+  });
+}
+function observationV2(perspective) {
+  // Read native stored facts only. Pokemon getters may trigger battle events
+  // or randomness; neither observations nor audit inspection may advance RNG.
+  const sides = [perspective, 1 - perspective];
+  const party = sides.map(side => Array.from({length:6}, (_, slot) => {
+    const p = original[side][slot];
+    return p ? [1, p.level, p.hp, p.maxhp, ...typeIds(p.baseSpecies.types),
+      itemId(p), abilityId(p), Number(p.fainted), status(p)] : Array(10).fill(0);
+  }));
+  const partyStats = sides.map(side => Array.from({length:6}, (_, slot) => {
+    const p = original[side][slot];
+    return p ? battleStats.map(stat => p.baseStoredStats[stat]) : Array(5).fill(0);
+  }));
+  const active = sides.map(side => battle.sides[side].active[0]);
+  const details = sides.map(side => Array.from({length:6}, (_, slot) => {
+    const p = original[side][slot];
+    // Replace the entire active row after Transform/Mimic, including its empty
+    // slots, so a shorter copied moveset cannot leak the original trailing moves.
+    const isActive = p === battle.sides[side].active[0];
+    return p ? moveDetails(p, isActive ? p.moveSlots : p.baseMoveSlots, isActive) :
+      Array.from({length:4}, () => Array(6).fill(0));
+  }));
+  const weather = {sunnyday:1, raindance:2, sandstorm:3, hail:4}[battle.field.weather] || 0;
+  const duration = weather ? battle.field.weatherState.duration || 0 : 0;
+  return {v2_party:party, v2_stats:partyStats,
+    v2_active_stats:active.map(p => p ? battleStats.map(stat => p.storedStats[stat]) : Array(5).fill(0)),
+    v2_active:active.map(p => p ? [p.hp, p.maxhp, itemId(p), abilityId(p)] : Array(4).fill(0)),
+    v2_boosts:active.map(p => p ? boostStats.map(stat => p.boosts[stat]) : Array(7).fill(0)),
+    v2_move_details:details, v2_weather:[weather, duration, Number(!!weather && !duration)],
+    v2_volatiles:active.map(p => p ? volatile(p) : 0)};
 }
 
 function choices(side) {
@@ -154,6 +215,7 @@ function snapshot() {
     const counts = records => ({valid:true, remaining:records.filter(p => p.current_hp > 0).length,
       fainted:records.filter(p => p.current_hp === 0).length});
     return {ok:true, profile:'firered_us_v1_0', backend:'showdown', frame:0, party, bag:{},
+      observation_v2:observationV2(i),
       action_mask:decisions[i].mask, battle:{active:true, valid:true, turn:Math.max(0, battle.turn-1),
         type_flags:10, outcome, outcome_raw:{ongoing:0, won:1, lost:2, draw:3}[outcome],
         terminal:battle.ended, player_counts:counts(party), opponent_counts:counts(opponent),
@@ -167,17 +229,29 @@ function snapshot() {
   return {ok:true, version, reports, protocol, ended:battle.ended};
 }
 
-function submit(actions) {
+function submit(actions, captureExecution = false) {
   const options = battle.sides.map(choices);
   if (!Array.isArray(actions) || actions.length !== 2 || actions.some((a,i) =>
       !Number.isInteger(a) || !options[i].mask[a])) throw new Error(`Illegal paired actions: ${actions}`);
+  // Optional diagnostic evidence, captured before either side acts. Stored move
+  // slot 1 can still say Rock Slide while the native request offers Struggle.
+  const execution = captureExecution ? battle.sides.map((side, i) => {
+    const command = options[i].commands[actions[i]];
+    const moveIndex = /^move (\d+)$/.exec(command || '');
+    return {action:actions[i], command,
+      requested_move:moveIndex ? side.activeRequest?.active?.[0]?.moves[Number(moveIndex[1])-1]?.id ?? null : null,
+      resolved_move:null};
+  }) : null;
   // Validate and buffer both choices before executing either player's move.
   for (let i = 0; i < 2; i++) {
     const command = options[i].commands[actions[i]];
     if (command && !battle.sides[i].choose(command)) throw new Error(battle.sides[i].choice.error || `Rejected ${command}`);
+    if (execution) execution[i].resolved_move = battle.sides[i].choice.actions.find(
+      a => a.choice === 'move' && a.pokemon === battle.sides[i].active[0])?.moveid ?? null;
   }
   if (!battle.allChoicesDone()) throw new Error('Incomplete simultaneous choices');
   battle.commitChoices();
+  return execution;
 }
 
 function handle(request) {
@@ -202,10 +276,12 @@ function handle(request) {
   }
   if (request.command === 'step') {
     if (!battle || battle.ended) throw new Error('Reset before stepping');
-    submit(request.actions);
+    const execution = submit(request.actions, request.audit_execution === true);
     // No policy choice exists when both sides are recharging/locked/waiting.
     while (!battle.ended && battle.turn < 256 && battle.sides.map(choices).every(c => c.automatic)) submit([10,10]);
-    return snapshot();
+    const response = snapshot();
+    if (execution) response.audit_execution = execution;
+    return response;
   }
   throw new Error(`Unknown command: ${request.command}`);
 }
@@ -218,4 +294,8 @@ if (require.main === module) {
   });
   input.on('close', () => {if (battle) battle.destroy();});
 }
-module.exports = {handle, sets};
+// Private read-only inspection hook for audit_runner.cjs. It deliberately exposes
+// native objects rather than calling the adapter's report or legality helpers.
+// The production NDJSON protocol remains limited to ping/reset/step.
+function auditSource() { return {battle, original, version, logOffset}; }
+module.exports = {handle, sets, auditSource};

@@ -32,6 +32,9 @@ return function()
     -- The follower owns controller/party data, not gBattleMons or this turn count.
     result.simulation_authoritative = (result.type_flags & 2) == 0 or (result.type_flags & 4) ~= 0
     result.simulation_role = result.simulation_authoritative and "master_or_npc" or "link_follower"
+    -- pret/pokefirered: gBattleWeather; gWishFutureKnock.weatherDuration at +0x28.
+    result.weather_raw = emu:read16(0x02023F1C)
+    result.weather_duration = emu:read8(0x02023F20+0x28)
     result.turn = emu:read8(0x03004F90 + 0x13)
     result.controller_exec_flags = emu:read32(0x02023BC8)
     result.callback2 = emu:read32(0x030030F4) & 0xFFFFFFFE
@@ -65,6 +68,9 @@ return function()
             held_item_id=emu:read16(base+0x2E), ability_id=emu:read8(base+0x20),
             status_raw=emu:read32(base+0x4C), volatile_status_raw=emu:read32(base+0x50),
             stat_stages={}, moves={},
+            stats={emu:read16(base+2),emu:read16(base+4),emu:read16(base+8),
+                   emu:read16(base+10),emu:read16(base+6)},
+            ivs_raw=emu:read32(base+0x14) & 0x3FFFFFFF,
         }
         local disable = 0x02023E0C + id*0x1C
         local bs = emu:read32(0x02023FE8)

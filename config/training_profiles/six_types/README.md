@@ -21,11 +21,11 @@ experiment simpler. Arcanine leads on both sides.
 Edit [teams/six_types.json](teams/six_types.json) to change the roster.
 
 ```bash
-fronzen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
+frozen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
 
 python mgba/train_ppo.py --backend showdown --environments 48 \
   --training-profile six_types --resume latest \
-  --opponent-checkpoint "$fronzen_checkpoint" --total-timesteps 100000
+  --opponent-checkpoint "$frozen_checkpoint" --total-timesteps 100000
 ```
 
 Resume keeps saved PPO settings unless you supply explicit hyperparameter flags. Check the `Effective PPO`

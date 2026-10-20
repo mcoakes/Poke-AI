@@ -1,0 +1,186 @@
+{
+  "scope": "Local operational smoke with tiny existing models; not user-model learning evidence",
+  "source_fixture": "matchup-ablation-smoke-01",
+  "source_preserved": true,
+  "no_training": true,
+  "concurrent_evaluation_jobs": 2,
+  "checks": 20,
+  "requested_battles": 160,
+  "truncated": 0,
+  "every_episode_and_audit_verified": true,
+  "candidate_only_bench_reversal_verified": true,
+  "hybrid_traces_labeled": true,
+  "completed_continuation_started_no_jobs": true,
+  "completed_continuation_checks_inputs_logs_unchanged": true,
+  "teams_inspected": true,
+  "console_logs_present": true,
+  "memory_recorded": true,
+  "result_archive_valid": true,
+  "paired_comparisons": 12,
+  "per_check": [
+    {
+      "name": "best-seen-original-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "best-seen-original-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 1
+    },
+    {
+      "name": "best-seen-reversed-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "best-seen-reversed-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 4
+    },
+    {
+      "name": "best-heldout-original-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "best-heldout-original-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 3
+    },
+    {
+      "name": "best-heldout-reversed-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "best-heldout-reversed-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 5
+    },
+    {
+      "name": "final-seen-original-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "final-seen-original-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 1
+    },
+    {
+      "name": "final-seen-reversed-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "final-seen-reversed-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 4
+    },
+    {
+      "name": "final-heldout-original-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "final-heldout-original-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 3
+    },
+    {
+      "name": "final-heldout-reversed-ppo",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "final-heldout-reversed-rules-forced",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 5
+    },
+    {
+      "name": "baseline-greedy-original",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "baseline-greedy-reversed",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "baseline-rules-original",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    },
+    {
+      "name": "baseline-rules-reversed",
+      "battles": 8,
+      "truncated": 0,
+      "eligible": 8,
+      "overrides": 0
+    }
+  ],
+  "focused_tests": {
+    "passed": 70,
+    "command": "pytest -q tests/test_replacement_diagnostics.py tests/test_replacement_diagnostic_runner.py tests/test_staged_team_lab.py tests/test_curriculum_checks.py tests/test_matchup_ablation.py"
+  },
+  "recovery": {
+    "initial_concurrent_jobs": 2,
+    "initial_valid_saved_checks": 18,
+    "affected_checks": [
+      "best-seen-reversed-rules-forced",
+      "final-seen-original-rules-forced"
+    ],
+    "observed_problem": "Two saved summaries and episode logs remained partial despite earlier completion checks; cause not established.",
+    "retry_with_two_jobs": "Same two checks still had inconsistent saved output during independent verification.",
+    "final_retry_jobs": 1,
+    "final_accepted_checks": 20,
+    "partial_directories_preserved": true,
+    "no_checks_relaxed": true
+  },
+  "preserved_unreferenced_checks": [
+    "checks/best-seen-reversed-rules-forced-retry-1792366950185448917",
+    "checks/final-seen-original-rules-forced",
+    "checks/final-seen-original-rules-forced-retry-1792366950362096326",
+    "checks/best-seen-reversed-rules-forced"
+  ]
+}

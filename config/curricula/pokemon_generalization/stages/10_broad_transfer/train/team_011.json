@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 10 train 011",
+  "party": [
+    {
+      "species": "Clefairy",
+      "level": 50,
+      "moves": [
+        "Wish",
+        "Water Pulse",
+        "Cosmic Power",
+        "Metronome"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 29,
+        "spa": 29,
+        "spd": 20,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Aggron",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Endeavor",
+        "Take Down",
+        "Attract"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 21,
+        "spa": 28,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Dugtrio",
+      "level": 50,
+      "moves": [
+        "Toxic",
+        "Frustration",
+        "Fury Swipes",
+        "Uproar"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 31,
+        "def": 25,
+        "spa": 28,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Zubat",
+      "level": 50,
+      "moves": [
+        "Mimic",
+        "Bite",
+        "Double Edge",
+        "Steel Wing"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 23,
+        "def": 24,
+        "spa": 30,
+        "spd": 21,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Seedot",
+      "level": 50,
+      "moves": [
+        "Razor Wind",
+        "Shadow Ball",
+        "Facade",
+        "Giga Drain"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 23,
+        "def": 27,
+        "spa": 29,
+        "spd": 27,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

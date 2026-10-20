@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 04 train 003",
+  "party": [
+    {
+      "species": "Venomoth",
+      "level": 50,
+      "moves": [
+        "Tackle",
+        "Psybeam",
+        "Gust",
+        "Signal Beam"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Lapras",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Waterfall",
+        "Hydro Pump",
+        "Secret Power"
+      ],
+      "held_item": "None",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Volbeat",
+      "level": 50,
+      "moves": [
+        "Mega Punch",
+        "Facade",
+        "Water Pulse",
+        "Silver Wind"
+      ],
+      "held_item": "None",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

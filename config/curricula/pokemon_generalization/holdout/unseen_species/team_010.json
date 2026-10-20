@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 unseen_species 010",
+  "party": [
+    {
+      "species": "Octillery",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Dive",
+        "Mimic",
+        "Double Edge"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 26,
+        "atk": 20,
+        "def": 29,
+        "spa": 28,
+        "spd": 31,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Donphan",
+      "level": 50,
+      "moves": [
+        "Attract",
+        "Rock Slide",
+        "Growl",
+        "Take Down"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 30,
+        "spa": 20,
+        "spd": 21,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sandslash",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Thief",
+        "Rock Tomb",
+        "Sand Tomb"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 23,
+        "spa": 27,
+        "spd": 21,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Mantine",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Facade",
+        "Hail",
+        "Water Pulse"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 26,
+        "spa": 27,
+        "spd": 28,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

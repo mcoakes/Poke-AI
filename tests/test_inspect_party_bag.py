@@ -37,7 +37,10 @@ def test_all_party_orders_and_bag_encryption():
     write(0x08250C04 + 57 * 12 + 2, bytes([11, 100, 15]))
     growth = struct.pack("<HHIBBH", 9, 13, 10000, 1, 100, 0)
     attacks = struct.pack("<4H4B", 57, 0, 0, 0, 12, 0, 0, 0)
-    blocks = [growth, attacks, bytes(12), bytes(12)]
+    misc = bytearray(12)
+    struct.pack_into('<I', misc, 4, 0xBFFFFFFF)
+    write(0x08254784 + 9 * 28 + 22, bytes([67, 44]))
+    blocks = [growth, attacks, bytes(12), bytes(misc)]
     decoder = lua.execute((Path(__file__).parents[1] /
                            "mgba/profiles/firered_us_v1_0_inspect.lua").read_text())
     for pid, order in enumerate(itertools.permutations(range(4))):
@@ -49,11 +52,14 @@ def test_all_party_orders_and_bag_encryption():
         for i, word in enumerate(struct.unpack("<12I", plain)):
             struct.pack_into("<I", raw, 32 + i * 4, word ^ pid ^ 12345)
         struct.pack_into("<IBBHH", raw, 80, 16, 50, 0, 80, 100)
+        struct.pack_into('<5H', raw, 90, 11, 22, 33, 44, 55)
         write(0x02024284, raw)
         report = decoder()
         mon = report.party[1]
         assert mon.valid and mon.checksum_valid and mon.species_id == 9
         assert mon.current_hp == 80 and mon.held_item_id == 13
+        assert mon.ability_id == 44 and mon.ivs_raw == 0x3FFFFFFF
+        assert list(mon.stats.values()) == [11, 22, 44, 55, 33]
         assert mon.moves[1].max_pp == 18 and mon.moves[1].current_pp == 12
         assert report.bag["items"][1].quantity == 5
         assert report.remaining == 1 and report.fainted == 0

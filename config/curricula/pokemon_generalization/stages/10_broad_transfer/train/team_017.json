@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 10 train 017",
+  "party": [
+    {
+      "species": "Shuckle",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Sweet Scent",
+        "Encore",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 24,
+        "def": 25,
+        "spa": 26,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Aerodactyl",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Fly",
+        "Wing Attack",
+        "Bite"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 25,
+        "spa": 31,
+        "spd": 28,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Nuzleaf",
+      "level": 50,
+      "moves": [
+        "Thief",
+        "Solar Beam",
+        "False Swipe",
+        "Amnesia"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 28,
+        "def": 21,
+        "spa": 23,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Wailord",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Waterfall",
+        "Blizzard",
+        "Facade"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 21,
+        "spa": 24,
+        "spd": 21,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Registeel",
+      "level": 50,
+      "moves": [
+        "Mega Punch",
+        "Strength",
+        "Earthquake",
+        "Substitute"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 28,
+        "spa": 22,
+        "spd": 22,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

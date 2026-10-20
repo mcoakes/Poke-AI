@@ -48,6 +48,11 @@ class ProcessShowdownSession:
     def __init__(self, root, run, ports, choose, args, cancel, reward_config):
         self.root, self.run, self.ports = root, run, ports
         self.choose, self.args, self.cancel = choose, args, cancel
+        from .observation_v2 import versioned_raw_space, validate_version
+        self.observation_version = validate_version(
+            getattr(args, "session_observation_version", None)
+            or getattr(args, "observation_version", None) or "v1")
+        self.observation_space = versioned_raw_space(self.observation_version)
         self.states, self.episode = None, 0
         self.calls = PairedCalls(self.reset_pair, self.step_pair, args.command_timeout+40, cancel)
         self.context = mp.get_context("spawn")

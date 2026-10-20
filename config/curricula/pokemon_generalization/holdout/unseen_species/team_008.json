@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 unseen_species 008",
+  "party": [
+    {
+      "species": "Xatu",
+      "level": 50,
+      "moves": [
+        "Feather Dance",
+        "Psych Up",
+        "Giga Drain",
+        "Refresh"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 24,
+        "spa": 20,
+        "spd": 27,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Armaldo",
+      "level": 50,
+      "moves": [
+        "Metal Claw",
+        "Knock Off",
+        "Water Pulse",
+        "Swords Dance"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 23,
+        "def": 20,
+        "spa": 30,
+        "spd": 28,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

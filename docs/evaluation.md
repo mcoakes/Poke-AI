@@ -1,13 +1,34 @@
 # Checkpoint evaluation
 
+To test against a hand-written policy, see the optional
+[rule-based opponent](rule-based-opponent.md).
+For a combined evaluation with per-opponent results, use [opponent pools](opponent-pools.md).
+
+For a checked new-team comparison of two training runs' best checkpoints, see
+[generalization evaluation](generalization-evaluation.md).
+
+For automatic checks while training and a retained `best.zip`, see
+[periodic evaluation](periodic-evaluation.md). Standalone evaluations also save
+the exact loaded candidate as `candidate.zip`, so later training cannot overwrite
+the weights behind an evaluation result.
+
 To compare every model in a directory, use the [round-robin evaluator](model-evaluation.md).
 It includes Random, supports multiple team configurations, and builds shared standings.
+
+To measure what a campaign learned, use the [baseline workflow](baseline.md).
+It compares Starting, Best and Latest on the same schedules, with separate
+training/validation and opponent-category results plus paired uncertainty estimates.
 
 For training and evaluation across progressively larger team pools, see the
 [growing-team curriculum](curriculum.md). It uses this evaluator and saves the
 same replayable suites and per-battle reports.
 
 [Training](ppo-training.md) · [Every evaluation flag](reference/evaluate-ppo.md) · [Checkpoint selection](checkpoints.md)
+
+Showdown evaluations accept v1 and [v2](observation-v2.md) checkpoints together.
+Each model's schema is detected and recorded automatically, including in saved
+opponent pools. Suites pin teams and battle seeds independently of the model
+schema. mGBA evaluations require v1 checkpoints.
 
 `mgba/evaluate_ppo.py` measures a candidate against a fixed reference policy.
 Both policies choose their highest-probability legal action. It never calls
@@ -19,11 +40,11 @@ exploration; evaluation uses the same action-selection rule for both players.
 Run from the project root with the training dependencies installed:
 
 ```bash
-fronzen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
+frozen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
 
 python mgba/evaluate_ppo.py --backend showdown --environments 48 \
-  --checkpoint "$fronzen_checkpoint" \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --checkpoint "$frozen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --training-profile six_types --episodes 1000 --seed 10001 \
   --output-dir .local/run/eval-six-types-baseline
 ```
@@ -40,10 +61,10 @@ score counts a draw as half a win.
 ```bash
 python mgba/train_ppo.py --backend showdown --environments 48 \
   --training-profile six_types --resume latest \
-  --opponent-checkpoint "$fronzen_checkpoint" --total-timesteps 100000
+  --opponent-checkpoint "$frozen_checkpoint" --total-timesteps 100000
 
 python mgba/evaluate_ppo.py --environments 48 \
-  --checkpoint latest --opponent-checkpoint "$fronzen_checkpoint" \
+  --checkpoint latest --opponent-checkpoint "$frozen_checkpoint" \
   --suite .local/run/eval-six-types-baseline/suite.json \
   --output-dir .local/run/eval-six-types-after
 ```
@@ -78,7 +99,7 @@ mean and battles/hour after each finished battle. The run directory contains:
 | `pair-N/` | Simulator or emulator diagnostics; optional spectator/readable logs |
 | `failure.json` | Details if evaluation failed; errors are never counted as draws |
 
-For compact Showdown evaluations, add `--no-step-logs`. It skips large per-turn
+Showdown evaluations default to `--no-step-logs`. It skips large per-turn
 traces and per-episode team copies while keeping suites, model identities and
 `episodes.jsonl` for replay and reporting. Readable/spectator logs have their own
 flags and are already off by default in this evaluator.
@@ -94,12 +115,12 @@ claim a confidence interval or automatically declare one model better.
 
 ```bash
 python mgba/evaluate_ppo.py --backend mgba --rom "$PWD/FireRed.gba" \
-  --checkpoint latest --opponent-checkpoint "$fronzen_checkpoint" \
+  --checkpoint latest --opponent-checkpoint "$frozen_checkpoint" \
   --states states/counter/fire_vs_water.ss1 states/counter/water_vs_fire.ss1 \
   --episodes 20 --environments 4 --speed unlimited --headless
 ```
 
-mGBA runs the same policy schema through native paired Gymnasium battles. Counter
+mGBA runs the v1 policy schema through native paired Gymnasium battles. Counter
 states determine the initial cartridge RNG; suite seeds do not reseed FireRed.
 State paths and hashes must still be available when replaying an mGBA suite.
 An mGBA suite is distinct from a Showdown suite. The emulator and simulation do

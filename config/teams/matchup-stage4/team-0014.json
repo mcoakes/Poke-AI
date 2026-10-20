@@ -1,0 +1,83 @@
+{
+  "name": "04-type-matchups-train-0014",
+  "party": [
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Psybeam",
+        "Body Slam"
+      ],
+      "nature": "Hardy",
+      "species": "Alakazam"
+    },
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Water Pulse",
+        "Double Edge"
+      ],
+      "nature": "Hardy",
+      "species": "Blastoise"
+    },
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Thunderbolt"
+      ],
+      "nature": "Hardy",
+      "species": "Raichu"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 03 train 016",
+  "party": [
+    {
+      "species": "Typhlosion",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Flamethrower",
+        "Cut",
+        "Double Edge"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Yanma",
+      "level": 50,
+      "moves": [
+        "Silver Wind",
+        "Signal Beam",
+        "Aerial Ace",
+        "Secret Power"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Seviper",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Sludge Bomb",
+        "Strength",
+        "Poison Fang"
+      ],
+      "held_item": "None",
+      "nature": "Hardy",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

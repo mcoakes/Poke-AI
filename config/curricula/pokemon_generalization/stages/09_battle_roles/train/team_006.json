@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 006",
+  "party": [
+    {
+      "species": "Alakazam",
+      "level": 50,
+      "moves": [
+        "Fire Punch",
+        "Psychic",
+        "Ice Punch",
+        "Calm Mind"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Machamp",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Cross Chop",
+        "Earthquake",
+        "Facade"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Blaziken",
+      "level": 50,
+      "moves": [
+        "Fire Blast",
+        "Sky Uppercut",
+        "Rock Slide",
+        "Swords Dance"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Skarmory",
+      "level": 50,
+      "moves": [
+        "Spikes",
+        "Roar",
+        "Drill Peck",
+        "Protect"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Impish",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Aerodactyl",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Earthquake",
+        "Rock Slide",
+        "Double Edge"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Weezing",
+      "level": 50,
+      "moves": [
+        "Haze",
+        "Flamethrower",
+        "Will O Wisp",
+        "Sludge Bomb"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

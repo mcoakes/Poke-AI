@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 unseen_species 012",
+  "party": [
+    {
+      "species": "Bellossom",
+      "level": 50,
+      "moves": [
+        "Acid",
+        "Facade",
+        "Sweet Scent",
+        "Substitute"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 27,
+        "def": 28,
+        "spa": 31,
+        "spd": 27,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Cradily",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Solar Beam",
+        "Secret Power",
+        "Substitute"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 25,
+        "def": 21,
+        "spa": 29,
+        "spd": 27,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Delcatty",
+      "level": 50,
+      "moves": [
+        "Shadow Ball",
+        "Facade",
+        "Assist",
+        "Mimic"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 27,
+        "def": 25,
+        "spa": 27,
+        "spd": 21,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Octillery",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Sludge Bomb",
+        "Secret Power",
+        "Thief"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 22,
+        "atk": 24,
+        "def": 31,
+        "spa": 26,
+        "spd": 26,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Masquerain",
+      "level": 50,
+      "moves": [
+        "Mimic",
+        "Quick Attack",
+        "Sunny Day",
+        "Mud Shot"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 21,
+        "def": 23,
+        "spa": 27,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Lanturn",
+      "level": 50,
+      "moves": [
+        "Hydro Pump",
+        "Thunder Wave",
+        "Hyper Beam",
+        "Double Team"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 20,
+        "spa": 24,
+        "spd": 30,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

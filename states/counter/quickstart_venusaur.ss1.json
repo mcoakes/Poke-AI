@@ -1,0 +1,127 @@
+{
+  "ram_fnv1a": "f6eaee36",
+  "state_ready": false,
+  "diagnostics": {
+    "map_group": 5,
+    "tile_transition": 0,
+    "moving": false,
+    "x": 10,
+    "locked": 0,
+    "fading": false,
+    "y": 4,
+    "party_count": 3,
+    "script_status": 2,
+    "facing": 2,
+    "player_active": true,
+    "prevent_step": 0,
+    "map_number": 5,
+    "cb2": 134571444,
+    "cb1": 134571316
+  },
+  "frame": 1821,
+  "ok": true,
+  "profile": "firered_us_v1_0",
+  "reloads_verified": 2,
+  "team": "quickstart_venusaur",
+  "source_sha256": "dc93bf8a84fd8a416c3bd4dfe9c8b0bb0faf0587f732cc37d1c2e4c2db559134",
+  "team_sha256": "a3b7611d42b497d935cdae1afc6f0084224ec14cfbb26551a0862a57b2e5b09a",
+  "save_sha256": "00b3ed783b782ac0b8ed39513fe1465c66b33f1090ce2907d901d1a6a75536a9",
+  "state_sha256": "e49a32db7e2ed14abdaa0ce96fc2eb534628a672b1b92351312e2d82b3025f44",
+  "save": "/home/smatt454/Documents/Code/Projects/Poke-AI/states/generated/quickstart_venusaur.sav",
+  "state": "/home/smatt454/Documents/Code/Projects/Poke-AI/states/counter/quickstart_venusaur.ss1",
+  "verified_party": [
+    {
+      "species_id": 3,
+      "level": 50,
+      "nickname": "VENUSAUR",
+      "held_item_id": 200,
+      "nature": "Sassy",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 6,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        202,
+        188,
+        79,
+        73
+      ],
+      "hp": 187,
+      "max_hp": 187
+    },
+    {
+      "species_id": 9,
+      "level": 50,
+      "nickname": "BLASTOISE",
+      "held_item_id": 200,
+      "nature": "Bold",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 6,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        57,
+        58,
+        229,
+        92
+      ],
+      "hp": 186,
+      "max_hp": 186
+    },
+    {
+      "species_id": 6,
+      "level": 50,
+      "nickname": "CHARIZARD",
+      "held_item_id": 200,
+      "nature": "Naive",
+      "evs": {
+        "hp": 0,
+        "atk": 6,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        126,
+        337,
+        280,
+        164
+      ],
+      "hp": 153,
+      "max_hp": 153
+    }
+  ]
+}

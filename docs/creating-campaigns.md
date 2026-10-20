@@ -10,6 +10,46 @@ A **curriculum** defines the ordered teams and stages. A **campaign** is one run
 of that curriculum, with its own starting checkpoint, opponent progression, settings
 and results. You can run the same curriculum more than once in separate directories.
 
+For a ready-made campaign with groups of teams, use the
+[generalization campaign](generalization-campaign.md): ten stages, 240 training
+teams, 120 validation teams, and a separate final test set.
+
+## Directory-based stages
+
+Each stage accepts either one `team` file or a `team_dir`. A directory adds all
+of its `*.json` team files recursively, in sorted order. It must be nonempty and
+contain valid team JSONs. Subdirectories organize teams within a stage; they do
+not create additional stages. Keep manifests and other JSON metadata outside
+the directories selected for teams.
+
+For example, a stage in the generalization manifest is:
+
+```json
+{
+  "stage": 1,
+  "team_dir": "stages/01_basic_types/train",
+  "validation_dir": "stages/01_basic_types/validation",
+  "focus": "Learn varied mono-type matchups."
+}
+```
+
+Paths are relative to the manifest. Earlier training groups remain in later
+stages, and both players sample uniformly from the cumulative files. At the top
+level, `next_team_dir` selects a final expanded-evaluation probe directory instead
+of the single file specified by `next_team`.
+
+`validation_dir` (or a single `validation_team`) is optional. Supply it for every
+stage or none. When present, all promotion evaluations use cumulative validation
+groups instead of training groups, including mixed-opponent and battle-budget
+evaluations. These files never enter training. The loader rejects duplicate
+training/validation parties even when their names or ordering differ. Without
+validation groups, the original evaluation behavior is preserved.
+
+Files and group membership are copied into the run at initialization. Source
+changes only affect new campaign runs. The [generalization guide](generalization-campaign.md)
+covers final holdouts, generation and flags. The walkthrough below shows the
+smaller, still-supported one-file-per-stage form.
+
 This walkthrough creates a three-stage curriculum using existing team templates.
 It needs four team files: three additions and a final evaluation-only team.
 
@@ -88,14 +128,15 @@ devotes half its battles to matchups involving the newly added team. See
 | `opponent_switch` | Optional: `{"chance": 0.3, "cooldown": 2}` adds probabilistic switching pressure to the training opponent. Defaults to disabled; evaluation remains unmodified. See [switching pressure](switch-pressure.md). |
 | `stages` | Ordered list of stage objects; any positive number of stages is supported. |
 | `stage` | Consecutive stage number starting at 1. |
-| `team` | Team file added at this stage; path relative to the manifest's directory. |
+| `team` / `team_dir` | Exactly one: a team file or recursive directory introduced at this stage. Paths are relative to the manifest. |
+| `validation_team` / `validation_dir` | Optional file or recursive directory used only for promotion evaluation. Specify one for every stage, or omit for all stages. |
 | `focus` | Description printed when the stage starts. |
-| `next_team` | Extra team used only in the last stage's expanded evaluation. |
+| `next_team` / `next_team_dir` | Exactly one: final probe file or directory. Used in the last expanded evaluation in the original mode; battle-budget mode needs a separate final evaluation command. |
 
-For N stages, supply N distinct stage file paths plus one distinct final probe
-path. Previous teams stay in every later pool. Adding a file to `teams/` alone
-does not add a stage; the manifest determines the order. The final probe never
-enters training in this campaign.
+For N stages, supply N stage additions plus a distinct final probe. Previous teams
+stay in every later pool. With `team`, adding an unlisted file has no effect;
+with `team_dir`, it joins that stage in the next new run. The manifest determines
+stage order. The final probe never enters training in this campaign.
 
 To vary opponents between stages, add `"opponent_mode": "previous-stage"` at
 the top level, beside `name`, or pass `--opponent-mode previous-stage` when
@@ -160,7 +201,7 @@ The copied examples have already been checked against the project's catalog.
 Use a new output directory for a new campaign:
 
 ```bash
-fronzen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
+frozen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
 campaign_run=".local/run/my-campaign-01"
 
 python mgba/run_curriculum.py \
@@ -168,7 +209,7 @@ python mgba/run_curriculum.py \
   --curriculum config/curricula/my_campaign/curriculum.json \
   --promotion-rules config/curricula/my_campaign/promotion.json \
   --resume latest \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --environments 48 \
   --showdown-workers process \
   --rollout-steps 128 \

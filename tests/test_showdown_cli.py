@@ -39,6 +39,8 @@ def test_real_training_and_frozen_resume(tmp_path, monkeypatch, worker_mode):
     assert summary["completed_battles"] == 8
     assert summary["ep_rew_mean"] is not None and summary["episodes_per_hour"] > 0
     assert (run / "pair-1/battle.log").is_file() and (run / "pair-1/battle-readable.log").is_file()
+    assert not list(run.glob("pair-*/episode-*"))  # Full reports are opt-in, metrics remain available.
+    assert json.loads((run / "config.json").read_text())["step_logs"] is False
     workers = [json.loads(p.read_text()) for p in run.glob("pair-*/workers.json")]
     assert len(workers) == 2 and len({w["node_pid"] for w in workers}) == 2
     assert len({w["python_pid"] for w in workers}) == (2 if worker_mode == "process" else 1)

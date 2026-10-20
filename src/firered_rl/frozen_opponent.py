@@ -3,11 +3,13 @@ import json
 from pathlib import Path
 import numpy as np
 from stable_baselines3.common.vec_env import VecEnv
+from .ppo_features import observation_version as space_version, policy_for_version, policy_space
 from .switch_opponent import normal_decision
 
 
 class FrozenOpponentVecEnv(VecEnv):
-    def __init__(self, paired, opponent, stochastic=False, switching=None, switch_log=None):
+    def __init__(self, paired, opponent, stochastic=False, switching=None, switch_log=None,
+                 observation_version=None):
         self.paired, self.opponent, self.stochastic = paired, opponent, stochastic
         self.switching, self.switch_log = switching, Path(switch_log) if switch_log else None
         self.switch_counts = {f"{side}_{field}": 0 for side in ("learner", "opponent")
@@ -17,10 +19,16 @@ class FrozenOpponentVecEnv(VecEnv):
         self.full = None
         if paired.num_envs % 2:
             raise ValueError("frozen opponents require complete pairs")
-        if opponent.observation_space != paired.observation_space or opponent.action_space != paired.action_space:
-            raise ValueError("opponent checkpoint does not match the PPO observation/action spaces")
+        paired_version = space_version(paired.observation_space)
+        self.observation_version = observation_version or paired_version
+        learner_space = policy_space(self.observation_version)
+        self.opponent_version = space_version(opponent.observation_space)
+        if paired_version == "v1" and "v2" in (self.observation_version, self.opponent_version):
+            raise ValueError("a v2 learner or opponent requires a paired v2 observation environment")
+        if opponent.action_space != paired.action_space:
+            raise ValueError("opponent checkpoint does not match the PPO action space")
         opponent.policy.set_training_mode(False)
-        super().__init__(paired.num_envs//2, paired.observation_space, paired.action_space)
+        super().__init__(paired.num_envs//2, learner_space, paired.action_space)
 
     @staticmethod
     def select(observations, offset=0):
@@ -32,12 +40,14 @@ class FrozenOpponentVecEnv(VecEnv):
         self.paired._seeds = [value for seed in self._seeds for value in (seed, None)]
         self.full = self.paired.reset()
         self.episodes += 1
+        if hasattr(self.opponent, "reset_episodes"):
+            self.opponent.reset_episodes(range(self.num_envs))
         if self.switching is not None:
             self.switching.reset(slice(None))
         self.reset_infos = self.paired.reset_infos[::2]
         self._reset_seeds()
         self._reset_options()
-        return self.select(self.full)
+        return policy_for_version(self.select(self.full), self.observation_version)
 
     def step_async(self, actions):
         if self.full is None:
@@ -45,7 +55,10 @@ class FrozenOpponentVecEnv(VecEnv):
         actions = np.asarray(actions)
         if actions.shape != (self.num_envs,) or not np.issubdtype(actions.dtype, np.integer):
             raise ValueError("one integer action is required per learning player")
-        other = self.select(self.full, 1)
+        other = policy_for_version(self.select(self.full, 1), self.opponent_version)
+        if hasattr(self.opponent, "set_log_context"):
+            self.opponent.set_log_context([dict(pair=i+1, episode=int(episode), player=2)
+                                           for i, episode in enumerate(self.episodes)])
         chosen, _ = self.opponent.predict(other, action_masks=other["action_mask"].astype(bool),
                                           deterministic=not self.stochastic)
         chosen = np.asarray(chosen)
@@ -76,11 +89,23 @@ class FrozenOpponentVecEnv(VecEnv):
     def step_wait(self):
         self.full, rewards, dones, infos = self.paired.step_wait()
         self.episodes += np.asarray(dones[1::2], dtype=int)
+        if hasattr(self.opponent, "reset_episodes"):
+            ended = np.flatnonzero(dones[1::2])
+            self.opponent.finish_episodes(ended)
+            self.opponent.reset_episodes(ended)
         if self.switching is not None:
             self.switching.reset(np.flatnonzero(dones[1::2]))
         self.reset_infos = self.paired.reset_infos[::2]
         # Opponent actions/returns NEVER enter the learning policy's rollout.
-        return self.select(self.full), rewards[::2], dones[::2], infos[::2]
+        learner_infos = []
+        for info in infos[::2]:
+            info = dict(info)
+            if "terminal_observation" in info:
+                info["terminal_observation"] = policy_for_version(
+                    info["terminal_observation"], self.observation_version)
+            learner_infos.append(info)
+        return (policy_for_version(self.select(self.full), self.observation_version),
+                rewards[::2], dones[::2], learner_infos)
 
     def switching_metrics(self):
         result = self.switch_counts.copy()
@@ -90,6 +115,8 @@ class FrozenOpponentVecEnv(VecEnv):
         return result
 
     def get_attr(self, attr_name, indices=None):
+        if attr_name in ("observation_space", "observation_version"):
+            return [getattr(self, attr_name) for _ in self._get_indices(indices)]
         return self.paired.get_attr(attr_name, [2*i for i in self._get_indices(indices)])
 
     def set_attr(self, attr_name, value, indices=None):

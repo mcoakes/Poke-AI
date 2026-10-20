@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 train 014",
+  "party": [
+    {
+      "species": "Diglett",
+      "level": 50,
+      "moves": [
+        "Rock Smash",
+        "Ancient Power",
+        "Rock Tomb",
+        "Facade"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 21,
+        "def": 21,
+        "spa": 30,
+        "spd": 30,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Aggron",
+      "level": 50,
+      "moves": [
+        "Metal Claw",
+        "Toxic",
+        "Strength",
+        "Sunny Day"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 28,
+        "def": 30,
+        "spa": 20,
+        "spd": 25,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

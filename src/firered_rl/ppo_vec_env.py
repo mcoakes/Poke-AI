@@ -11,12 +11,15 @@ from firered_rl.ppo_features import policy_observation, policy_space
 
 
 class LinkedVecEnv(VecEnv):
-    def __init__(self, sessions, *, cancel=None, aborters=None, on_episode=None, reward_scale=1):
+    def __init__(self, sessions, *, cancel=None, aborters=None, on_episode=None, reward_scale=1,
+                 observation_version="v1"):
         if not sessions:
             raise ValueError("at least one linked pair is required")
         if not np.isfinite(reward_scale) or reward_scale <= 0:
             raise ValueError("reward_scale must be positive and finite")
         self.reward_scale = reward_scale
+        self.observation_version = observation_version
+        space = policy_space(observation_version)
         self.sessions = sessions
         self.envs = [env for session in sessions for env in session.players()]
         self.cancel = cancel or Event()
@@ -30,7 +33,7 @@ class LinkedVecEnv(VecEnv):
         self.lengths = np.zeros(len(sessions), dtype=int)
         self.episode_started = np.zeros(len(sessions))
         self.ready = np.zeros(len(sessions))
-        super().__init__(len(sessions)*2, policy_space(), gym.spaces.Discrete(11))
+        super().__init__(len(sessions)*2, space, gym.spaces.Discrete(11))
 
     @staticmethod
     def stack(observations):
@@ -50,7 +53,7 @@ class LinkedVecEnv(VecEnv):
         self.lengths[pair] = 0
         for player in range(2):
             self.reset_infos[pair*2+player] = result[player][1]
-        return [policy_observation(item[0]) for item in result]
+        return [policy_observation(item[0], version=self.observation_version) for item in result]
 
     def reset(self):
         if self.closed or self.pending is not None:
@@ -84,7 +87,7 @@ class LinkedVecEnv(VecEnv):
             raise RuntimeError("linked players disagree about the end of the battle")
         terminated, truncated = results[0][2:4]
         done = bool(terminated or truncated)
-        observations = [policy_observation(row[0]) for row in results]
+        observations = [policy_observation(row[0], version=self.observation_version) for row in results]
         rewards = [float(row[1]) for row in results]
         infos = [dict(row[4], **{"TimeLimit.truncated": bool(truncated and not terminated)}) for row in results]
         self.returns[pair] += rewards
@@ -123,6 +126,8 @@ class LinkedVecEnv(VecEnv):
             return [lambda i=i: self.env_method("action_masks", indices=[i])[0] for i in indices]
         if attr_name == "observation_space":
             return [self.observation_space for _ in indices]
+        if attr_name == "observation_version":
+            return [self.observation_version for _ in indices]
         return [getattr(self.envs[i], attr_name) for i in indices]
 
     def set_attr(self, attr_name, value, indices=None):

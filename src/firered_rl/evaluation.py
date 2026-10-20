@@ -8,8 +8,13 @@ import time
 
 import numpy as np
 
-from .ppo_features import policy_observation
+from .ppo_features import observation_version, policy_for_version, policy_observation
 from .teams import PokemonSpec
+
+
+def validate_observation_backend(version, backend):
+    if version not in ("v1", "v2") or backend not in ("showdown", "mgba"):
+        raise ValueError("unsupported observation version or backend")
 
 
 def digest(value):
@@ -70,21 +75,36 @@ def validate_suite(suite):
                 or any(key not in assets for key in case["assets"])):
             raise ValueError(f"invalid evaluation case {i+1}")
     opponents = suite.get("opponents")
+    rules = suite.get("rule_opponent")
+    if rules is not None:
+        if (not isinstance(rules, dict) or suite["backend"] != "showdown" or opponents is not None
+                or rules.get("kind") != "rule_based" or rules.get("observation_version") != "v2"
+                or not isinstance(rules.get("version"), str) or not isinstance(rules.get("sha256"), str)
+                or len(rules["sha256"]) != 64 or any(c not in "0123456789abcdef" for c in rules["sha256"])):
+            raise ValueError("invalid rule-based opponent identity in suite")
     if opponents is not None:
         if not isinstance(opponents, dict) or not opponents:
             raise ValueError("suite opponent pool must be a nonempty object")
         for key, entry in opponents.items():
-            if not isinstance(entry, dict) or entry.get("group") not in ("random", "dumb", "smart"):
+            if not isinstance(entry, dict) or entry.get("group") not in ("random", "dumb", "smart", "learned", "rules"):
                 raise ValueError("invalid evaluation opponent group")
             if entry.get("kind") == "random":
                 if entry["group"] != "random":
                     raise ValueError("random policy must belong to random group")
             elif entry.get("kind") == "checkpoint":
                 checksum = entry.get("sha256", "")
-                if (entry["group"] == "random" or not isinstance(entry.get("path"), str)
+                if (entry["group"] not in ("dumb", "smart", "learned") or not isinstance(entry.get("path"), str)
                         or not isinstance(checksum, str) or len(checksum) != 64
                         or any(c not in "0123456789abcdef" for c in checksum)):
                     raise ValueError("invalid opponent checkpoint identity")
+            elif entry.get("kind") == "rule_based":
+                identity = entry.get("identity", {})
+                if (suite["backend"] != "showdown" or entry["group"] != "rules" or
+                        not isinstance(identity, dict) or identity.get("kind") != "rule_based" or
+                        identity.get("observation_version") != "v2" or not isinstance(identity.get("version"), str) or
+                        not isinstance(identity.get("sha256"), str) or len(identity["sha256"]) != 64 or
+                        any(c not in "0123456789abcdef" for c in identity["sha256"])):
+                    raise ValueError("invalid pooled rule opponent identity")
             else:
                 raise ValueError("unsupported opponent policy kind")
         for case in cases:
@@ -145,7 +165,9 @@ def summary(rows, *, requested, elapsed, status, suite_hash):
 
     if any("opponent_group" in row for row in rows):
         result["by_opponent_group"] = {}
-        for group in ("random", "dumb", "smart", "basic"):
+        groups = ("random", "dumb", "smart", "basic") + tuple(
+            group for group in ("learned", "rules") if any(row.get("opponent_group") == group for row in rows))
+        for group in groups:
             subset = [row for row in rows if row.get("opponent_group") == group or
                       (group == "basic" and row.get("opponent_group") in ("random", "dumb"))]
             result["by_opponent_group"][group] = opponent_rates(subset)
@@ -164,7 +186,7 @@ def opponent_rates(rows):
                 win_rate=wins/n if n else None)
 
 
-def evaluate(sessions, selected, suite, paths, models, run, cancel, *, aborters=(), announce=print, opponents=None):
+def evaluate(sessions, selected, suite, paths, models, run, cancel, *, aborters=(), announce=print, opponents=None, decision_observer=None):
     """Central batched inference; each session advances its paired Gymnasium environment.
 
     Cases are assigned by precomputed episode index, never by a worker's RNG.
@@ -172,6 +194,17 @@ def evaluate(sessions, selected, suite, paths, models, run, cancel, *, aborters=
     """
     started = time.monotonic()
     suite_hash = digest(suite)
+    policies = [(True, None, models[0])]
+    policies += ([(False, key, model) for key, model in opponents.items()] if opponents is not None
+                 else [(False, None, models[1])])
+    versions = {}
+    for _, _, model in policies:
+        if model is not None:
+            # Lightweight inference doubles may omit a space; actual checkpoint
+            # models always supply one, which must match a complete known schema.
+            version = observation_version(model.observation_space) if hasattr(model, "observation_space") else "v1"
+            validate_observation_backend(version, suite["backend"])
+            versions[id(model)] = version
     rows, active = [], {}
     next_case = 0
     status = "completed"
@@ -192,9 +225,6 @@ def evaluate(sessions, selected, suite, paths, models, run, cancel, *, aborters=
             for i, future in resetting.items():
                 active[i]["observations"] = [policy_observation(r[0]) for r in future.result()]
             actions = {i: np.zeros(2, dtype=np.int64) for i in active}
-            policies = [(True, None, models[0])]
-            policies += ([(False, key, model) for key, model in opponents.items()] if opponents is not None
-                         else [(False, None, models[1])])
             for is_candidate, key, model in policies:
                 indexes, observations = [], []
                 for i, job in active.items():
@@ -215,15 +245,28 @@ def evaluate(sessions, selected, suite, paths, models, run, cancel, *, aborters=
                         actions[i][side] = active[i]["opponent_rng"].choice(legal.tolist())
                 else:
                     batch = {name: np.stack([obs[name] for obs in observations]) for name in observations[0]}
+                    batch = policy_for_version(batch, versions[id(model)])
+                    if hasattr(model, "set_log_context"):
+                        model.set_log_context([dict(pair=i+1, episode=active[i]["case"]["episode"],
+                                                   player=side+1, opponent_id=key) for i, side in indexes])
                     chosen, _ = model.predict(batch, action_masks=batch["action_mask"].astype(bool), deterministic=True)
                     for (i, side), action in zip(indexes, chosen):
                         actions[i][side] = action
+            if decision_observer is not None:
+                for i, job in active.items():
+                    side = job["case"]["candidate_player"] - 1
+                    decision_observer(dict(job["case"], diagnostic_pair=i+1), job["decisions"] + 1,
+                                      {k: v.copy() for k, v in job["observations"][side].items()},
+                                      int(actions[i][side]))
             stepping = {i: executor.submit(sessions[i].step_pair, action) for i, action in actions.items()}
             for i, future in stepping.items():
                 result = future.result()
                 if result[0][2:4] != result[1][2:4]:
                     raise ValueError("evaluation players disagree about battle completion")
                 job = active[i]
+                if decision_observer is not None and hasattr(decision_observer, "after_step"):
+                    side = job["case"]["candidate_player"] - 1
+                    decision_observer.after_step(job["case"], job["decisions"] + 1, result[side][4])
                 job["rewards"] += [r[1] for r in result]
                 job["decisions"] += 1
                 terminated, truncated = result[0][2:4]

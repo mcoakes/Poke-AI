@@ -1,0 +1,45 @@
+{
+  "scope": "Operational integration only; no user checkpoints are available in this workspace.",
+  "focused_tests": {
+    "passed": 47,
+    "seconds": 3.5,
+    "includes": [
+      "transfer runner",
+      "move immunity diagnostics",
+      "staged scoring",
+      "curriculum checks"
+    ],
+    "log": "transfer-focused-tests.log"
+  },
+  "smoke": {
+    "status": "smoke_completed",
+    "jobs": {
+      "specialist": {
+        "starting_timesteps": 384,
+        "added_timesteps": 256,
+        "completed_battles": 18,
+        "stop_reason": "timestep_budget"
+      },
+      "fresh": {
+        "starting_timesteps": 0,
+        "added_timesteps": 256,
+        "completed_battles": 18,
+        "stop_reason": "timestep_budget"
+      }
+    },
+    "unique_frozen_checks": 33,
+    "frozen_battles": 264,
+    "truncated": 0,
+    "source_inputs_unchanged": true,
+    "fresh_initial_timesteps": 0,
+    "fresh_optimizer_empty": true,
+    "completed_continue_no_new_training_or_checks": true,
+    "team_inspection_passed": true,
+    "all_checks_have_immunity_metrics": true
+  },
+  "limitations": [
+    "Smoke budgets are 256 new steps per arm with 8-battle check schedules, not learning evidence.",
+    "Source foundation is a prior smoke model. Actual user checkpoint learning must run on the user machine.",
+    "Reused stage-4 heldout results are development checks, not untouched final generalization estimates."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 unseen_species 020",
+  "party": [
+    {
+      "species": "Shiftry",
+      "level": 50,
+      "moves": [
+        "Giga Drain",
+        "Double Edge",
+        "Attract",
+        "Thief"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 29,
+        "def": 31,
+        "spa": 23,
+        "spd": 27,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Granbull",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Snore",
+        "Take Down",
+        "Counter"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 30,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

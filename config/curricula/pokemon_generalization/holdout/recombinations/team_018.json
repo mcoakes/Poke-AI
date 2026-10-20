@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 recombination 018",
+  "party": [
+    {
+      "species": "Tangela",
+      "level": 50,
+      "moves": [
+        "Giga Drain",
+        "Confusion",
+        "Attract",
+        "Hyper Beam"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 22,
+        "spa": 22,
+        "spd": 30,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Qwilfish",
+      "level": 50,
+      "moves": [
+        "Swords Dance",
+        "Waterfall",
+        "Rest",
+        "Hydro Pump"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 27,
+        "def": 24,
+        "spa": 20,
+        "spd": 27,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Altaria",
+      "level": 50,
+      "moves": [
+        "Return",
+        "Facade",
+        "Roar",
+        "Fire Blast"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 22,
+        "def": 20,
+        "spa": 29,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Squirtle",
+      "level": 50,
+      "moves": [
+        "Waterfall",
+        "Body Slam",
+        "Frustration",
+        "Flail"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 24,
+        "def": 31,
+        "spa": 22,
+        "spd": 22,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Corphish",
+      "level": 50,
+      "moves": [
+        "Rain Dance",
+        "Attract",
+        "Substitute",
+        "Ancient Power"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 24,
+        "def": 25,
+        "spa": 25,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Poliwrath",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Facade",
+        "Ice Beam",
+        "Brick Break"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 30,
+        "def": 25,
+        "spa": 28,
+        "spd": 23,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

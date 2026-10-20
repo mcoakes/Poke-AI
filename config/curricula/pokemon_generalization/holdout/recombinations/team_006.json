@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 recombination 006",
+  "party": [
+    {
+      "species": "Growlithe",
+      "level": 50,
+      "moves": [
+        "Safeguard",
+        "Secret Power",
+        "Double Edge",
+        "Iron Tail"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 28,
+        "spa": 25,
+        "spd": 27,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Jolteon",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Substitute",
+        "Baton Pass",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 25,
+        "atk": 23,
+        "def": 30,
+        "spa": 25,
+        "spd": 27,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Golduck",
+      "level": 50,
+      "moves": [
+        "Water Pulse",
+        "Brick Break",
+        "Tail Whip",
+        "Hydro Pump"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 21,
+        "def": 31,
+        "spa": 20,
+        "spd": 20,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Nidoran F",
+      "level": 50,
+      "moves": [
+        "Iron Tail",
+        "Thunderbolt",
+        "Strength",
+        "Charm"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 31,
+        "def": 31,
+        "spa": 24,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Manectric",
+      "level": 50,
+      "moves": [
+        "Attract",
+        "Substitute",
+        "Howl",
+        "Headbutt"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 26,
+        "def": 28,
+        "spa": 31,
+        "spd": 27,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Beedrill",
+      "level": 50,
+      "moves": [
+        "Rage",
+        "Protect",
+        "Double Edge",
+        "Solar Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 24,
+        "def": 29,
+        "spa": 21,
+        "spd": 22,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

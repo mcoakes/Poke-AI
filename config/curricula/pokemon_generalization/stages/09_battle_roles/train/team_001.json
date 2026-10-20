@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 09 train 001",
+  "party": [
+    {
+      "species": "Starmie",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Ice Beam",
+        "Surf",
+        "Recover"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Raichu",
+      "level": 50,
+      "moves": [
+        "Substitute",
+        "Thunderbolt",
+        "Focus Punch",
+        "Encore"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Naive",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Cloyster",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Explosion",
+        "Spikes"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Crobat",
+      "level": 50,
+      "moves": [
+        "Aerial Ace",
+        "Shadow Ball",
+        "Sludge Bomb",
+        "Steel Wing"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Gyarados",
+      "level": 50,
+      "moves": [
+        "Dragon Dance",
+        "Taunt",
+        "Earthquake",
+        "Return"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Slowbro",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Psychic",
+        "Calm Mind",
+        "Surf"
+      ],
+      "held_item": "Chesto Berry",
+      "nature": "Bold",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    }
+  ]
+}

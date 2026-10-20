@@ -1,5 +1,11 @@
 # Growing-team training curriculum
 
+For **directories of teams per stage**, start with the
+[generalization campaign](generalization-campaign.md): cumulative training groups,
+separate validation groups and final transfer tests. Existing single-team
+campaigns remain supported; this page describes the original preset and its
+four-evaluation mode. Directory manifests use the same runner and stage ordering.
+
 [Battle-count campaigns, named models and evaluation history](battle-count-campaigns.md)
 
 [Mixed evaluation opponents and editable gates](campaign-evaluation-pools.md)
@@ -24,14 +30,14 @@ or emulator launch is needed for this workflow.
 Run from the project root. Choose a new curriculum directory:
 
 ```bash
-fronzen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
+frozen_checkpoint=".local/run/ppo-20260913-151530-703645/checkpoints/latest.zip"
 curriculum_run=".local/run/curriculum-types-01"
 
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
   --stage 1 \
   --resume latest \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --environments 48 \
   --showdown-workers process \
   --rollout-steps 128 \

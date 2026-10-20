@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 recombination 004",
+  "party": [
+    {
+      "species": "Larvitar",
+      "level": 50,
+      "moves": [
+        "Leer",
+        "Facade",
+        "Dig",
+        "Bite"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 25,
+        "spa": 24,
+        "spd": 24,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Shelgon",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Facade",
+        "Thrash",
+        "Attract"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 25,
+        "def": 29,
+        "spa": 27,
+        "spd": 29,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Torchic",
+      "level": 50,
+      "moves": [
+        "Rock Smash",
+        "Double Edge",
+        "Cut",
+        "Aerial Ace"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 24,
+        "def": 20,
+        "spa": 22,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Seel",
+      "level": 50,
+      "moves": [
+        "Icicle Spear",
+        "Toxic",
+        "Water Pulse",
+        "Protect"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 26,
+        "def": 24,
+        "spa": 24,
+        "spd": 31,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

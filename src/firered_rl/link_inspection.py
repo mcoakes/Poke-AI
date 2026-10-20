@@ -44,6 +44,11 @@ def pair_inspections(reports, ports=None, allow_absent=False):
                              data_source="local_simulation" if i == master else "peer_simulation")
             merged.append(canonical)
         battle["battlers"] = merged
+        if all(r.get("native_v2") == 1 for r in reports):
+            report["backend"] = "mgba"
+            battle["v2_opponent_party"] = deepcopy(reports[1-i]["party"])
+            battle["weather_raw"] = authority.get("weather_raw")
+            battle["weather_duration"] = authority.get("weather_duration")
     if len(set(local_ids)) != 2:
         raise ValueError("paired reports claim the same local battler")
     return output
@@ -74,6 +79,7 @@ def terminal_inspections(snapshot, previous, master, ports):
         report["battle"] = deepcopy(battle)
         b = report["battle"]
         b["opponent_party"] = deepcopy(battle["opponent_party"] if own else snapshot["party"])
+        b["v2_opponent_party"] = deepcopy(b["opponent_party"])
         b["menus"] = []
         b["type_flags"] = previous[i]["battle"]["type_flags"]
         b["simulation_authoritative"] = own

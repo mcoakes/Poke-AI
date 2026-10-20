@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "experiment": "teacher-training",
+  "status": "verified",
+  "scope": "Real Showdown operational smoke with tiny models; not user-model learning gains or GUI verification.",
+  "jobs": 2,
+  "training_added_steps_per_arm": 256,
+  "collection_battles": 40,
+  "collection": [
+    {
+      "trajectory": "student",
+      "battles": 20,
+      "truncated": 0
+    },
+    {
+      "trajectory": "rules",
+      "battles": 20,
+      "truncated": 0
+    }
+  ],
+  "warmstart_max_rows": 1024,
+  "warmstart_rows": 415,
+  "warmstart_epochs": 1,
+  "selected_warmstart_epoch": 1,
+  "dataset_groups_and_both_trajectory_sources_verified": true,
+  "source_soft_mirror_rehearsal_verified": true,
+  "fit_holdout_team_pairs_disjoint": true,
+  "teacher_targets_and_action_masks_verified": true,
+  "serialized_control_parameters_match_parent": true,
+  "both_input_optimizers_empty": true,
+  "teacher_critic_parameter_tensors_unchanged": true,
+  "all_ppo_parameter_gradients_restored": true,
+  "imitation_preserves_ppo_timestep_counters": true,
+  "fresh_pools_disjoint_and_exactly_balanced": true,
+  "fresh_suite_cases_seats_and_pins_verified": true,
+  "legacy_retention_suites_byte_exact": true,
+  "checks": [
+    {
+      "label": "checks/current-selected-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/current-selected-fresh-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/current-selected-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/current-selected-seen-original-retry-1792444504975370185",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/current-selected-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/current-selected-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-fresh-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-seen-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/ppo-only-best-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/prior-feature-final-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/prior-feature-final-fresh-reversed-retry-1792444508188294684",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/prior-feature-final-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/prior-feature-final-seen-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/prior-feature-final-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/prior-feature-final-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/small-pool-best-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/small-pool-best-fresh-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/small-pool-best-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/small-pool-best-seen-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/small-pool-best-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/small-pool-best-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-only-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-only-fresh-reversed-retry-1792444574519712904",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-only-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-only-seen-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-only-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-only-validation",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-best-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-best-fresh-reversed-retry-1792444739563598942",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-best-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-best-seen-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-best-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-final-fresh-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-final-fresh-reversed",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-final-mirror",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-final-seen-original",
+      "battles": 8,
+      "truncated": 0
+    },
+    {
+      "label": "checks/teacher-ppo-final-seen-reversed",
+      "battles": 8,
+      "truncated": 0
+    }
+  ],
+  "frozen_check_battles": 312,
+  "frozen_truncated": 0,
+  "all_saved_episode_and_audit_evidence_verified": true,
+  "no_frozen_rules_assistance": true,
+  "nine_export_hashes_verified": true,
+  "broader_validation_selection_and_tie_order_verified": true,
+  "completed_continuation_no_training_restarted": true,
+  "completed_continuation_inputs_models_runs_checks_logs_and_warmstart_unchanged": true,
+  "team_inspector_verified": true,
+  "reports_and_archive_present": true,
+  "archive_excludes_weights_and_large_arrays": true,
+  "memory_recorded": true,
+  "source_preserved": true,
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": 0,
+      "log": "teacher-training-smoke-run-1.log",
+      "mode": "continue"
+    }
+  ],
+  "focused_tests": {
+    "passed": 48,
+    "seconds": 45.9,
+    "modules": [
+      "tests/test_teacher_warmstart.py",
+      "tests/test_teacher_training_suites.py",
+      "tests/test_teacher_training.py"
+    ]
+  },
+  "recovery_history": {
+    "initial_invocation_runner_exit_codes": [
+      1,
+      1,
+      0
+    ],
+    "initial_postprocess_validation": "Failed because live summary/episodes were earlier partial versions; archive held complete evidence.",
+    "ordinary_continuation_after_observation": "Completed with all live evidence valid; subsequent completed continuation unchanged.",
+    "partial_attempts_preserved": true,
+    "no_diagnostics_reconstructed_or_counts_relaxed": true
+  },
+  "file_observation": {
+    "observed_at_unix_ns": 1792444721550435955,
+    "run": "/workspace/scratch/10f12004f466/teacher-training-smoke-01",
+    "archive": {
+      "path": "/workspace/scratch/10f12004f466/teacher-training-smoke-01/teacher-training-results.zip",
+      "size": 1429016,
+      "mtime_ns": 1792444580910990284,
+      "ctime_ns": 1792444580910990284,
+      "inode": 678200,
+      "sha256": "37c77aca48e6876d34567f885f3e0beb76b1f455ba74bbbf8d4c55997c989bdd"
+    },
+    "observations": [
+      {
+        "directory": "checks/current-selected-seen-original",
+        "live_summary_status": "running",
+        "live_summary_attempted": 7,
+        "requested": 8,
+        "files": {
+          "summary.json": {
+            "live": {
+              "size": 808,
+              "mtime_ns": 1792444461165013075,
+              "ctime_ns": 1792444463676321514,
+              "inode": 794542,
+              "sha256": "5fdd181ae6ed9095ad951b3a27ed74cc2ed2ccfd72ca4036aeecbf18dc6b88ba"
+            },
+            "archive": {
+              "size": 808,
+              "sha256": "5fdd181ae6ed9095ad951b3a27ed74cc2ed2ccfd72ca4036aeecbf18dc6b88ba",
+              "same_as_live": true,
+              "status": "running",
+              "attempted_battles": 7,
+              "requested_battles": 8
+            }
+          },
+          "episodes.jsonl": {
+            "live": {
+              "size": 2685,
+              "mtime_ns": 1792444461160263923,
+              "ctime_ns": 1792444463676321514,
+              "inode": 794540,
+              "sha256": "7a1913497df42f294243fad021f6e442b58c40cfd2b88a5d61e8a95d73608804",
+              "rows": 7
+            },
+            "archive": {
+              "size": 2685,
+              "sha256": "7a1913497df42f294243fad021f6e442b58c40cfd2b88a5d61e8a95d73608804",
+              "same_as_live": true,
+              "rows": 7
+            }
+          },
+          "decision-audit.json": {
+            "live": {
+              "size": 8691,
+              "mtime_ns": 1792444461569281913,
+              "ctime_ns": 1792444461569281913,
+              "inode": 794504,
+              "sha256": "cc3c0085dfe26a90c9938a4c209f3a39b28875372a7e959e2caf75cd2736f2ba",
+              "episode_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+              ]
+            },
+            "archive": {
+              "size": 8691,
+              "sha256": "cc3c0085dfe26a90c9938a4c209f3a39b28875372a7e959e2caf75cd2736f2ba",
+              "same_as_live": true
+            }
+          },
+          "decision-traces.jsonl": {
+            "live": {
+              "size": 118787,
+              "mtime_ns": 1792444461568211556,
+              "ctime_ns": 1792444461568211556,
+              "inode": 794505,
+              "sha256": "69b168e2a4090ca6cce5fd4d3dd6f1100b15e2ab473c37f19c9dabce1aa9005d"
+            },
+            "archive": {
+              "size": 118787,
+              "sha256": "69b168e2a4090ca6cce5fd4d3dd6f1100b15e2ab473c37f19c9dabce1aa9005d",
+              "same_as_live": true
+            }
+          }
+        }
+      },
+      {
+        "directory": "checks/prior-feature-final-fresh-reversed",
+        "live_summary_status": "running",
+        "live_summary_attempted": 6,
+        "requested": 8,
+        "files": {
+          "summary.json": {
+            "live": {
+              "size": 806,
+              "mtime_ns": 1792444496200503853,
+              "ctime_ns": 1792444498969138078,
+              "inode": 786741,
+              "sha256": "08e54f7e6c3f71bfb72548d5091edbd6d746a985d7421c1f7a60be611395f305"
+            },
+            "archive": {
+              "size": 806,
+              "sha256": "08e54f7e6c3f71bfb72548d5091edbd6d746a985d7421c1f7a60be611395f305",
+              "same_as_live": true,
+              "status": "running",
+              "attempted_battles": 6,
+              "requested_battles": 8
+            }
+          },
+          "episodes.jsonl": {
+            "live": {
+              "size": 2298,
+              "mtime_ns": 1792444496197074049,
+              "ctime_ns": 1792444498969138078,
+              "inode": 786739,
+              "sha256": "65b4d7ed014d14df2e0ede924ffbc56c261e191e801407d8cfcfb97b906b4653",
+              "rows": 6
+            },
+            "archive": {
+              "size": 2298,
+              "sha256": "65b4d7ed014d14df2e0ede924ffbc56c261e191e801407d8cfcfb97b906b4653",
+              "same_as_live": true,
+              "rows": 6
+            }
+          },
+          "decision-audit.json": {
+            "live": {
+              "size": 9012,
+              "mtime_ns": 1792444496959986894,
+              "ctime_ns": 1792444496959986894,
+              "inode": 786724,
+              "sha256": "041d72f9df1afc38d23fd8fdfe2fdbb2abd7ea99e70d99e66e6f2bceab470024",
+              "episode_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+              ]
+            },
+            "archive": {
+              "size": 9012,
+              "sha256": "041d72f9df1afc38d23fd8fdfe2fdbb2abd7ea99e70d99e66e6f2bceab470024",
+              "same_as_live": true
+            }
+          },
+          "decision-traces.jsonl": {
+            "live": {
+              "size": 114772,
+              "mtime_ns": 1792444496959410183,
+              "ctime_ns": 1792444496959410183,
+              "inode": 786725,
+              "sha256": "9e30fb46a2ba9ac00a0d42b45349d9ecda5835709b230c7a0768d088b5d086db"
+            },
+            "archive": {
+              "size": 114772,
+              "sha256": "9e30fb46a2ba9ac00a0d42b45349d9ecda5835709b230c7a0768d088b5d086db",
+              "same_as_live": true
+            }
+          }
+        }
+      },
+      {
+        "directory": "checks/teacher-ppo-best-fresh-reversed",
+        "live_summary_status": "running",
+        "live_summary_attempted": 6,
+        "requested": 8,
+        "files": {
+          "summary.json": {
+            "live": {
+              "size": 807,
+              "mtime_ns": 1792444550301375206,
+              "ctime_ns": 1792444552822359251,
+              "inode": 787277,
+              "sha256": "d12ea041f7e9cfff4883c7974ebfb8a44855dc096fccfdb5d1c4877176affef5"
+            },
+            "archive": {
+              "size": 807,
+              "sha256": "d12ea041f7e9cfff4883c7974ebfb8a44855dc096fccfdb5d1c4877176affef5",
+              "same_as_live": true,
+              "status": "running",
+              "attempted_battles": 6,
+              "requested_battles": 8
+            }
+          },
+          "episodes.jsonl": {
+            "live": {
+              "size": 2300,
+              "mtime_ns": 1792444550300919118,
+              "ctime_ns": 1792444552822359251,
+              "inode": 787275,
+              "sha256": "ede0d316857ba16a561ca2736ff95b3f9d7557dd9a4a322942401b01d625ca2a",
+              "rows": 6
+            },
+            "archive": {
+              "size": 2300,
+              "sha256": "ede0d316857ba16a561ca2736ff95b3f9d7557dd9a4a322942401b01d625ca2a",
+              "same_as_live": true,
+              "rows": 6
+            }
+          },
+          "decision-audit.json": {
+            "live": {
+              "size": 8583,
+              "mtime_ns": 1792444550793176727,
+              "ctime_ns": 1792444550793176727,
+              "inode": 787261,
+              "sha256": "66fe54650621b94abc3513e360c9da16cf486ba861b10e974a31884a1d9a9210",
+              "episode_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+              ]
+            },
+            "archive": {
+              "size": 8583,
+              "sha256": "66fe54650621b94abc3513e360c9da16cf486ba861b10e974a31884a1d9a9210",
+              "same_as_live": true
+            }
+          },
+          "decision-traces.jsonl": {
+            "live": {
+              "size": 117854,
+              "mtime_ns": 1792444550792566265,
+              "ctime_ns": 1792444550792566265,
+              "inode": 787262,
+              "sha256": "0f71f7637121f7863d0ef79232d8fd1059b00666f2387d9394b1b4d101d50918"
+            },
+            "archive": {
+              "size": 117854,
+              "sha256": "0f71f7637121f7863d0ef79232d8fd1059b00666f2387d9394b1b4d101d50918",
+              "same_as_live": true
+            }
+          }
+        }
+      },
+      {
+        "directory": "checks/teacher-ppo-best-fresh-reversed-retry-1792444577350766456",
+        "live_summary_status": "running",
+        "live_summary_attempted": 6,
+        "requested": 8,
+        "files": {
+          "summary.json": {
+            "live": {
+              "size": 806,
+              "mtime_ns": 1792444579298463921,
+              "ctime_ns": 1792444581887012437,
+              "inode": 787494,
+              "sha256": "b08cfde6d131a91322aab46a8b8a35c322c7bfd1b22bf0f96be6e76f0c7130f1"
+            },
+            "archive": {
+              "size": 5087,
+              "sha256": "0d4e359ba04acbc7c1f5f46b854a7346fff6b48327f88a772d52c9720f6de283",
+              "same_as_live": false,
+              "status": "completed",
+              "attempted_battles": 8,
+              "requested_battles": 8
+            }
+          },
+          "episodes.jsonl": {
+            "live": {
+              "size": 2300,
+              "mtime_ns": 1792444579298174134,
+              "ctime_ns": 1792444581887012437,
+              "inode": 787492,
+              "sha256": "ede0d316857ba16a561ca2736ff95b3f9d7557dd9a4a322942401b01d625ca2a",
+              "rows": 6
+            },
+            "archive": {
+              "size": 3066,
+              "sha256": "c119fd3bea30c409b6829856ab100b812767007512be8c57aeebc4453f87a896",
+              "same_as_live": false,
+              "rows": 8
+            }
+          },
+          "decision-audit.json": {
+            "live": {
+              "size": 8583,
+              "mtime_ns": 1792444579735163186,
+              "ctime_ns": 1792444579735163186,
+              "inode": 787490,
+              "sha256": "66fe54650621b94abc3513e360c9da16cf486ba861b10e974a31884a1d9a9210",
+              "episode_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+              ]
+            },
+            "archive": {
+              "size": 8583,
+              "sha256": "66fe54650621b94abc3513e360c9da16cf486ba861b10e974a31884a1d9a9210",
+              "same_as_live": true
+            }
+          },
+          "decision-traces.jsonl": {
+            "live": {
+              "size": 117854,
+              "mtime_ns": 1792444579734679766,
+              "ctime_ns": 1792444579734679766,
+              "inode": 787491,
+              "sha256": "0f71f7637121f7863d0ef79232d8fd1059b00666f2387d9394b1b4d101d50918"
+            },
+            "archive": {
+              "size": 117854,
+              "sha256": "0f71f7637121f7863d0ef79232d8fd1059b00666f2387d9394b1b4d101d50918",
+              "same_as_live": true
+            }
+          }
+        }
+      }
+    ],
+    "findings": [
+      "The final results archive contains completed 8/8 summary and eight episode rows for teacher-ppo-best-fresh-reversed-retry-1792444577350766456, while live paths contain running 6/8 summary and six rows.",
+      "Both discrepant live files have the same change time after the final archive modification time, but retain earlier modification times.",
+      "All four currently incomplete checks show equal summary/episode change times later than their preserved modification times; their audits contain all eight episode IDs.",
+      "Review found evaluator summary/episode writes on one inference thread, no writer after final archive collection in the inspected code, and no relevant repository copy2/copystat/utime restore path."
+    ],
+    "limits": [
+      "Exact cause and responsible process are not established.",
+      "This observation does not establish whether the hosting environment, external tooling, or an unobserved process caused the replacements.",
+      "No results were restored from the archive and no failed diagnostics were edited."
+    ]
+  },
+  "production_learning_tested": false,
+  "production_suite_verification": {
+    "validation_teams": 36,
+    "fresh_endpoint_teams": 24,
+    "validation_battles": 2048,
+    "fresh_battles_per_order": 1000,
+    "prior_excluded_compositions": 137,
+    "exact_species_and_slot_balance": true,
+    "max_team_exposure_difference_per_order": 2
+  }
+}

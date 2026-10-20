@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 validation 002",
+  "party": [
+    {
+      "species": "Electrike",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Uproar",
+        "Swift",
+        "Quick Attack"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 29,
+        "def": 28,
+        "spa": 23,
+        "spd": 29,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Quagsire",
+      "level": 50,
+      "moves": [
+        "Mega Kick",
+        "Attract",
+        "Double Team",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 23,
+        "def": 25,
+        "spa": 25,
+        "spd": 24,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

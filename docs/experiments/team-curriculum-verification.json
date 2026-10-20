@@ -1,0 +1,45 @@
+{
+  "verification_date": "2026-10-06",
+  "tests": [
+    {
+      "log": "curriculum-regression-tests.log",
+      "summary": "75 passed in 15.34s"
+    },
+    {
+      "log": "team-mixture-regression.log",
+      "summary": "80 passed in 44.16s"
+    },
+    {
+      "log": "curriculum-cache-integrity-tests.log",
+      "summary": "23 passed in 1.63s",
+      "additional_unique_regressions": 1,
+      "previous_tests_rechecked": 22
+    }
+  ],
+  "focused_tests_passed": 156,
+  "simulator_smoke": {
+    "training_jobs": 14,
+    "frozen_checks": 135,
+    "requested_battles": 1080,
+    "truncated": 0,
+    "status": "smoke_completed",
+    "all_checks_completed": true,
+    "completed_run_continuation_started_new_jobs": false,
+    "team_inspector_verified": true,
+    "recovered_partial_check_directories": 23,
+    "original_partial_directories_preserved": true,
+    "completion_verified_against_episode_rows": true
+  },
+  "configured_training_pool_sizes": {
+    "04-type-matchups": 16,
+    "05-move-coverage": 48,
+    "06-support-moves": 96,
+    "07-varied-builds": 160,
+    "08-four-pokemon": 256,
+    "09-six-pokemon": 384,
+    "10-broad-teams": 1024
+  },
+  "scope": "Operational verification only. Smoke uses tiny pools and budgets with learning gates bypassed; it cannot qualify a normal run. User checkpoints were unavailable locally. Full-size generation and split isolation are covered by tests.",
+  "qualification_fixture_note": "The integration smoke used an earlier generated Golem fixture with Rock Tomb. Delivered fixed-team config restores original Rock Throw; an explicit regression assertion verifies both introductory matchups against the original lab definitions.",
+  "partial_recovery_note": "After the long smoke run, 20 check directories retained stale running summaries and partial episode logs, and three had completed summaries but incomplete episode logs, despite completed in-memory stage results and complete audits. One yielded-session retry later showed the same symptom. No competing summary writer was found; workspace synchronization is suspected but unproven. Exact frozen checks were retried in new directories, originals were preserved, and all 135 logical checks were verified against complete episode logs. The cache now requires complete unique episode IDs and matching outcome/truncation counts before reuse."
+}

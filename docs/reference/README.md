@@ -10,10 +10,18 @@ constraints. Examples run from the project root. Python CLI utilities accept
 
 | Utility | Purpose |
 |---|---|
-| [train_ppo.py](train-ppo.md) | Train one shared masked PPO policy, or train player 1 against a frozen player-2 checkpoint. |
-| [evaluate_ppo.py](evaluate-ppo.md) | Compare frozen checkpoints on reproducible Showdown or mGBA matchups. |
+| [train_ppo.py](train-ppo.md) | Train masked PPO through self-play, against a frozen checkpoint, or against optional Showdown rules. |
+| [evaluate_ppo.py](evaluate-ppo.md) | Compare checkpoints against checkpoints, Random or Showdown rules on reproducible matchups. |
+| [audit_move_order.py](audit-move-order.md) | Probe move-slot sensitivity without training or executing alternative actions. |
+| [review_rule_losses.py](review-rule-losses.md) | Replay loss-containing Rules matchups and review candidate choices. |
+| [combine_eval_suites.py](combine-eval-suites.md) | Combine pinned schedules and bundle opponents for periodic validation. |
+| [evaluate_generalization.py](evaluate-generalization.md) | Check new-team overlap and compare two best models against a shared opponent pool. |
+| [prepare_diversity_experiment.py](prepare-diversity-experiment.md) | Prepare disjoint pools and launch scripts for a controlled broader-data experiment. |
+| [establish_baseline.py](establish-baseline.md) | Compare campaign starting, best and latest checkpoints across training/validation teams and opponent categories. |
+| [audit_training.py](audit-training.md) | Audit information visibility, controlled Showdown observations/actions and the real PPO interface without training. |
 | [evaluate_models.py](evaluate-models.md) | Round-robin rankings for a model directory across several saved team configurations. |
 | [run_curriculum.py](run-curriculum.md) | Train growing team pools, validate transfer and promote successful stages. |
+| [prune_campaign.py](prune-campaign.md) | Preview or remove old campaign debug data and unselected candidate checkpoints. |
 | [play_agent.py](play-agent.md) | Launch one visible FireRed link battle with a human on one side and a saved PPO policy on the other. |
 | [play_gui.py](play-gui.md) | Open the browser party editor, generate both states, and launch a human/AI battle. |
 | [benchmark_pool.py](benchmark-pool.md) | Run scripted mGBA matches and measure completed battles per hour across the pool. |

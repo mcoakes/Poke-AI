@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 train 018",
+  "party": [
+    {
+      "species": "Corphish",
+      "level": 50,
+      "moves": [
+        "Frustration",
+        "Counter",
+        "Blizzard",
+        "Vice Grip"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 20,
+        "def": 29,
+        "spa": 26,
+        "spd": 29,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Parasect",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Bullet Seed",
+        "Light Screen",
+        "Facade"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 21,
+        "atk": 29,
+        "def": 29,
+        "spa": 29,
+        "spd": 21,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Dratini",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Mist",
+        "Dragon Rage",
+        "Iron Tail"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 28,
+        "spa": 31,
+        "spd": 26,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Persian",
+      "level": 50,
+      "moves": [
+        "Roar",
+        "Amnesia",
+        "Body Slam",
+        "Pay Day"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 28,
+        "spa": 26,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Nidorino",
+      "level": 50,
+      "moves": [
+        "Amnesia",
+        "Shock Wave",
+        "Dig",
+        "Thief"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 22,
+        "def": 29,
+        "spa": 23,
+        "spd": 28,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Mega Kick",
+        "Toxic",
+        "Explosion"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 23,
+        "def": 26,
+        "spa": 26,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

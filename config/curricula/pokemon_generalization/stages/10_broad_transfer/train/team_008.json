@@ -1,0 +1,61 @@
+{
+  "name": "Generalization 10 train 008",
+  "party": [
+    {
+      "species": "Abra",
+      "level": 50,
+      "moves": [
+        "Flash",
+        "Thief",
+        "Metronome",
+        "Seismic Toss"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 21,
+        "def": 30,
+        "spa": 20,
+        "spd": 26,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Pinsir",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Swords Dance",
+        "Brick Break",
+        "Earthquake"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Jolly",
+      "ivs": {
+        "hp": 27,
+        "atk": 24,
+        "def": 24,
+        "spa": 21,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

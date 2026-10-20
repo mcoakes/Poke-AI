@@ -158,6 +158,7 @@ class PlaySettings:
     emulator: Path
     checkpoint: Path | None = None
     checkpoint_dir: Path | None = None
+    model_list: Path | None = None
     ports: tuple[int, int] = (55365, 55366)
     workers: int = 2
     speed: float | str = 1.0
@@ -196,9 +197,58 @@ class MatchJobs:
         self.cancelled = threading.Event()
         self.process = None
         self.closed = False
+        if settings.model_list is not None:
+            if settings.checkpoint is not None:
+                raise ValueError("--model-list cannot be combined with --checkpoint")
+            self.models()  # Fail before opening the browser if classroom choices are unavailable.
+
+    def _listed_models(self):
+        cfg = self.settings
+        if cfg.checkpoint is not None:
+            raise ValueError("--model-list cannot be combined with --checkpoint")
+        manifest = cfg.model_list.expanduser()
+        if not manifest.is_absolute():
+            manifest = cfg.project / manifest
+        try:
+            data = json.loads(manifest.read_text(encoding="utf-8"))
+        except (OSError, ValueError) as error:
+            raise ValueError(f"cannot read --model-list {manifest}: {error}") from error
+        if (not isinstance(data, dict) or set(data) != {"version", "default", "models"}
+                or type(data.get("version")) is not int or data["version"] != 1):
+            raise ValueError("--model-list needs exactly version: 1, default, and models")
+        if not isinstance(data["default"], str) or not data["default"].strip():
+            raise ValueError("--model-list default must be a nonempty model id")
+        if not isinstance(data["models"], list) or not data["models"]:
+            raise ValueError("--model-list models must be a nonempty list")
+        found, rows = {}, []
+        for entry in data["models"]:
+            if not isinstance(entry, dict) or set(entry) != {"id", "label", "checkpoint"}:
+                raise ValueError("each --model-list entry needs exactly id, label, and checkpoint")
+            if any(not isinstance(entry[key], str) or not entry[key].strip()
+                   for key in ("id", "label", "checkpoint")):
+                raise ValueError("model id, label, and checkpoint must be nonempty text")
+            key = entry["id"]
+            if key in found:
+                raise ValueError(f"duplicate --model-list id: {key}")
+            path = Path(entry["checkpoint"]).expanduser()
+            if not path.is_absolute():
+                path = cfg.project / path
+            path = path.resolve()
+            if path.suffix.lower() != ".zip" or not path.is_file():
+                raise ValueError(f"model {key!r} checkpoint must be an existing .zip file: {path}")
+            found[key] = path
+            rows.append(dict(id=key, label=entry["label"].strip()))
+        if data["default"] not in found:
+            raise ValueError(f"--model-list default id is not listed: {data['default']}")
+        rows.sort(key=lambda row: row["id"] != data["default"])
+        with self.lock:
+            self.checkpoints = found
+        return rows
 
     def models(self):
         cfg = self.settings
+        if cfg.model_list is not None:
+            return self._listed_models()
         # Named models are always listed, independently of the recent-run limit.
         model_root = cfg.project / "models"
         named = sorted((path for path in model_root.rglob("*.zip") if path.is_file()),

@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 validation 010",
+  "party": [
+    {
+      "species": "Minun",
+      "level": 50,
+      "moves": [
+        "Agility",
+        "Facade",
+        "Helping Hand",
+        "Shock Wave"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 29,
+        "atk": 28,
+        "def": 26,
+        "spa": 21,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Swampert",
+      "level": 50,
+      "moves": [
+        "Surf",
+        "Earthquake",
+        "Ice Beam",
+        "Protect"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Relaxed",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 24,
+        "spa": 30,
+        "spd": 20,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Rayquaza",
+      "level": 50,
+      "moves": [
+        "Roar",
+        "Waterfall",
+        "Shock Wave",
+        "Thunder Wave"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 26,
+        "def": 31,
+        "spa": 28,
+        "spd": 20,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Brick Break",
+        "Dragon Claw",
+        "Substitute",
+        "Flamethrower"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Mild",
+      "ivs": {
+        "hp": 21,
+        "atk": 22,
+        "def": 21,
+        "spa": 23,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

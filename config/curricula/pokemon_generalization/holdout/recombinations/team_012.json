@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 recombination 012",
+  "party": [
+    {
+      "species": "Quagsire",
+      "level": 50,
+      "moves": [
+        "Spit Up",
+        "Dig",
+        "Stockpile",
+        "Rain Dance"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 25,
+        "def": 27,
+        "spa": 20,
+        "spd": 29,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Banette",
+      "level": 50,
+      "moves": [
+        "Flash",
+        "Double Team",
+        "Protect",
+        "Hyper Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 21,
+        "def": 30,
+        "spa": 24,
+        "spd": 24,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Mankey",
+      "level": 50,
+      "moves": [
+        "Secret Power",
+        "Taunt",
+        "Low Kick",
+        "Body Slam"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 28,
+        "def": 21,
+        "spa": 27,
+        "spd": 23,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Gloom",
+      "level": 50,
+      "moves": [
+        "Rest",
+        "Charm",
+        "Synthesis",
+        "Acid"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 26,
+        "spa": 21,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Machop",
+      "level": 50,
+      "moves": [
+        "Dynamic Punch",
+        "Mega Punch",
+        "Mega Kick",
+        "Metronome"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 29,
+        "def": 29,
+        "spa": 22,
+        "spd": 27,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Taillow",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Aerial Ace",
+        "Mimic",
+        "Endeavor"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 29,
+        "def": 30,
+        "spa": 24,
+        "spd": 21,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

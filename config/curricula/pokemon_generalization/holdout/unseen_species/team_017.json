@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 10 unseen_species 017",
+  "party": [
+    {
+      "species": "Sandslash",
+      "level": 50,
+      "moves": [
+        "Frustration",
+        "Earthquake",
+        "Dig",
+        "Return"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 22,
+        "def": 23,
+        "spa": 24,
+        "spd": 22,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Delcatty",
+      "level": 50,
+      "moves": [
+        "Shock Wave",
+        "Strength",
+        "Thunderbolt",
+        "Dream Eater"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 25,
+        "def": 30,
+        "spa": 26,
+        "spd": 25,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Bellossom",
+      "level": 50,
+      "moves": [
+        "Sleep Powder",
+        "Petal Dance",
+        "Poison Powder",
+        "Hyper Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 30,
+        "atk": 27,
+        "def": 23,
+        "spa": 30,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Granbull",
+      "level": 50,
+      "moves": [
+        "Dig",
+        "Taunt",
+        "Attract",
+        "Tackle"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Octillery",
+      "level": 50,
+      "moves": [
+        "Toxic",
+        "Ice Beam",
+        "Dive",
+        "Return"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 28,
+        "spa": 27,
+        "spd": 27,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

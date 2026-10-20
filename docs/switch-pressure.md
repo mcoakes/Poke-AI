@@ -1,5 +1,10 @@
 # Train against an opponent that switches
 
+This is an optional experimental preset. The recommended
+[generalization campaign](generalization-campaign.md) uses diverse team groups
+and learned opponents with the switching override disabled. Increased switch
+frequency alone does not demonstrate better battle decisions.
+
 [Campaign walkthrough](creating-campaigns.md) · [Training flags](reference/train-ppo.md) · [Campaign flags](reference/run-curriculum.md)
 
 The `type_progression_switch_pressure` preset reuses the original ten team
@@ -44,13 +49,13 @@ modified or copied over. This also avoids duplicating its large battle logs.
 ```bash
 old_campaign=".local/run/curriculum-smart-generations-01"
 curriculum_run=".local/run/curriculum-switch-pressure-01"
-fronzen_checkpoint="$old_campaign/inputs/opponent.zip"
+frozen_checkpoint="$old_campaign/inputs/opponent.zip"
 
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
   --curriculum config/curricula/type_progression_switch_pressure/curriculum.json \
   --resume "$old_campaign/inputs/start.zip" \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --reward-config "$old_campaign/inputs/reward.json" \
   --opponent-switch-chance 0.30 --opponent-switch-cooldown 2 \
   --train-battles 1000 --eval-episodes 1000 \

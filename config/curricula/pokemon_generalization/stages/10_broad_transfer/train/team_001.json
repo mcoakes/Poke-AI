@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 train 001",
+  "party": [
+    {
+      "species": "Piloswine",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Rock Tomb",
+        "Mimic",
+        "Blizzard"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 26,
+        "def": 31,
+        "spa": 21,
+        "spd": 29,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

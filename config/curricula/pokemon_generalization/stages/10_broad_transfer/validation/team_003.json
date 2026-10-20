@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 validation 003",
+  "party": [
+    {
+      "species": "Shuppet",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Disable",
+        "Skill Swap",
+        "Double Team"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 25,
+        "def": 28,
+        "spa": 30,
+        "spd": 29,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Alakazam",
+      "level": 50,
+      "moves": [
+        "Iron Tail",
+        "Body Slam",
+        "Confusion",
+        "Secret Power"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 24,
+        "def": 29,
+        "spa": 31,
+        "spd": 30,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Exeggutor",
+      "level": 50,
+      "moves": [
+        "Giga Drain",
+        "Confusion",
+        "Sludge Bomb",
+        "Egg Bomb"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 27,
+        "def": 22,
+        "spa": 28,
+        "spd": 22,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

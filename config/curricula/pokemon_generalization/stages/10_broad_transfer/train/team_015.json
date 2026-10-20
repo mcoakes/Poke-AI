@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 train 015",
+  "party": [
+    {
+      "species": "Banette",
+      "level": 50,
+      "moves": [
+        "Snatch",
+        "Shadow Ball",
+        "Frustration",
+        "Will O Wisp"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 27,
+        "def": 25,
+        "spa": 30,
+        "spd": 23,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Machamp",
+      "level": 50,
+      "moves": [
+        "Earthquake",
+        "Cross Chop",
+        "Facade",
+        "Rock Slide"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 20,
+        "def": 25,
+        "spa": 20,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Miltank",
+      "level": 50,
+      "moves": [
+        "Strength",
+        "Mega Kick",
+        "Blizzard",
+        "Defense Curl"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 21,
+        "def": 30,
+        "spa": 27,
+        "spd": 20,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

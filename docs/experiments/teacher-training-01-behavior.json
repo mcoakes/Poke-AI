@@ -1,0 +1,1141 @@
+{
+  "models": {
+    "current-selected": {
+      "validation": {
+        "wins": 942,
+        "battles": 2048,
+        "win_rate": 0.4599609375,
+        "totals": {
+          "matchup_classified_move_actions": 16743,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 2009,
+          "replacement_actual_lowest_legal": 1788,
+          "replacement_base_lowest_legal": 1788,
+          "replacement_base_rules_disagreements": 976,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24278,
+          "choices": 18980,
+          "voluntary_decisions": 16985,
+          "move_actions": 16743,
+          "automatic": 5298,
+          "forced_replacement_decisions": 3759,
+          "forced_switches": 3759,
+          "voluntary_switches": 242
+        },
+        "lowest_rate": 0.8899950223992036,
+        "rules_disagreement": 0.485813837730214,
+        "voluntary_switch_rate": 0.014247865763909332,
+        "first_switch_rate": 0.060546875
+      },
+      "seen": {
+        "wins": 854,
+        "battles": 2000,
+        "win_rate": 0.427,
+        "totals": {
+          "matchup_classified_move_actions": 17697,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1982,
+          "replacement_actual_lowest_legal": 1801,
+          "replacement_base_lowest_legal": 1801,
+          "replacement_base_rules_disagreements": 959,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 25213,
+          "choices": 19863,
+          "voluntary_decisions": 17890,
+          "move_actions": 17697,
+          "automatic": 5350,
+          "forced_replacement_decisions": 3727,
+          "forced_switches": 3727,
+          "voluntary_switches": 193
+        },
+        "lowest_rate": 0.908678102926337,
+        "rules_disagreement": 0.48385469223007066,
+        "voluntary_switch_rate": 0.010788149804359978,
+        "first_switch_rate": 0.028
+      },
+      "fresh": {
+        "wins": 857,
+        "battles": 2000,
+        "win_rate": 0.4285,
+        "totals": {
+          "matchup_classified_move_actions": 16852,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1978,
+          "replacement_actual_lowest_legal": 1798,
+          "replacement_base_lowest_legal": 1798,
+          "replacement_base_rules_disagreements": 968,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24313,
+          "choices": 19008,
+          "voluntary_decisions": 17040,
+          "move_actions": 16852,
+          "voluntary_switches": 188,
+          "automatic": 5305,
+          "forced_replacement_decisions": 3712,
+          "forced_switches": 3712
+        },
+        "lowest_rate": 0.9089989888776542,
+        "rules_disagreement": 0.48938321536905965,
+        "voluntary_switch_rate": 0.011032863849765259,
+        "first_switch_rate": 0.055
+      },
+      "mirror": {
+        "wins": 616,
+        "battles": 1000,
+        "win_rate": 0.616,
+        "totals": {
+          "matchup_classified_move_actions": 8750,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 0,
+          "replacement_base_lowest_legal": 0,
+          "replacement_base_rules_disagreements": 724,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 13223,
+          "choices": 10750,
+          "voluntary_decisions": 9750,
+          "voluntary_switches": 1000,
+          "move_actions": 8750,
+          "automatic": 2473,
+          "forced_replacement_decisions": 1851,
+          "forced_switches": 1851
+        },
+        "lowest_rate": 0.0,
+        "rules_disagreement": 0.724,
+        "voluntary_switch_rate": 0.10256410256410256,
+        "first_switch_rate": 1.0
+      }
+    },
+    "small-pool-best": {
+      "validation": {
+        "wins": 908,
+        "battles": 2048,
+        "win_rate": 0.443359375,
+        "totals": {
+          "matchup_classified_move_actions": 16562,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 2015,
+          "replacement_actual_lowest_legal": 1640,
+          "replacement_base_lowest_legal": 1640,
+          "replacement_base_rules_disagreements": 965,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24191,
+          "choices": 18958,
+          "voluntary_decisions": 16952,
+          "move_actions": 16562,
+          "automatic": 5233,
+          "forced_replacement_decisions": 3756,
+          "forced_switches": 3756,
+          "voluntary_switches": 390
+        },
+        "lowest_rate": 0.8138957816377171,
+        "rules_disagreement": 0.47890818858560796,
+        "voluntary_switch_rate": 0.023006134969325152,
+        "first_switch_rate": 0.1181640625
+      },
+      "seen": {
+        "wins": 998,
+        "battles": 2000,
+        "win_rate": 0.499,
+        "totals": {
+          "matchup_classified_move_actions": 17184,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1983,
+          "replacement_actual_lowest_legal": 1292,
+          "replacement_base_lowest_legal": 1292,
+          "replacement_base_rules_disagreements": 933,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 25233,
+          "choices": 19857,
+          "voluntary_decisions": 17883,
+          "move_actions": 17184,
+          "automatic": 5376,
+          "forced_replacement_decisions": 3704,
+          "forced_switches": 3704,
+          "voluntary_switches": 699
+        },
+        "lowest_rate": 0.6515380736258195,
+        "rules_disagreement": 0.47049924357034795,
+        "voluntary_switch_rate": 0.03908740144271095,
+        "first_switch_rate": 0.2165
+      },
+      "fresh": {
+        "wins": 885,
+        "battles": 2000,
+        "win_rate": 0.4425,
+        "totals": {
+          "matchup_classified_move_actions": 16688,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1974,
+          "replacement_actual_lowest_legal": 1552,
+          "replacement_base_lowest_legal": 1552,
+          "replacement_base_rules_disagreements": 958,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24405,
+          "choices": 19092,
+          "voluntary_decisions": 17124,
+          "move_actions": 16688,
+          "voluntary_switches": 436,
+          "automatic": 5313,
+          "forced_replacement_decisions": 3694,
+          "forced_switches": 3694
+        },
+        "lowest_rate": 0.7862208713272543,
+        "rules_disagreement": 0.48530901722391084,
+        "voluntary_switch_rate": 0.025461340808222377,
+        "first_switch_rate": 0.1355
+      },
+      "mirror": {
+        "wins": 610,
+        "battles": 1000,
+        "win_rate": 0.61,
+        "totals": {
+          "matchup_classified_move_actions": 8757,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 0,
+          "replacement_base_lowest_legal": 0,
+          "replacement_base_rules_disagreements": 724,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 13236,
+          "choices": 10757,
+          "voluntary_decisions": 9757,
+          "voluntary_switches": 1000,
+          "move_actions": 8757,
+          "automatic": 2479,
+          "forced_replacement_decisions": 1858,
+          "forced_switches": 1858
+        },
+        "lowest_rate": 0.0,
+        "rules_disagreement": 0.724,
+        "voluntary_switch_rate": 0.1024905196269345,
+        "first_switch_rate": 1.0
+      }
+    },
+    "prior-feature-final": {
+      "validation": {
+        "wins": 898,
+        "battles": 2048,
+        "win_rate": 0.4384765625,
+        "totals": {
+          "matchup_classified_move_actions": 16678,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 2009,
+          "replacement_actual_lowest_legal": 1600,
+          "replacement_base_lowest_legal": 1600,
+          "replacement_base_rules_disagreements": 926,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24348,
+          "choices": 19106,
+          "voluntary_decisions": 17104,
+          "move_actions": 16678,
+          "automatic": 5242,
+          "forced_replacement_decisions": 3758,
+          "forced_switches": 3758,
+          "voluntary_switches": 426
+        },
+        "lowest_rate": 0.7964161274265804,
+        "rules_disagreement": 0.4609258337481334,
+        "voluntary_switch_rate": 0.02490645463049579,
+        "first_switch_rate": 0.14111328125
+      },
+      "seen": {
+        "wins": 1010,
+        "battles": 2000,
+        "win_rate": 0.505,
+        "totals": {
+          "matchup_classified_move_actions": 17074,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1985,
+          "replacement_actual_lowest_legal": 1231,
+          "replacement_base_lowest_legal": 1231,
+          "replacement_base_rules_disagreements": 859,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 25337,
+          "choices": 19907,
+          "voluntary_decisions": 17932,
+          "move_actions": 17074,
+          "automatic": 5430,
+          "forced_replacement_decisions": 3710,
+          "forced_switches": 3710,
+          "voluntary_switches": 858
+        },
+        "lowest_rate": 0.6201511335012595,
+        "rules_disagreement": 0.4327455919395466,
+        "voluntary_switch_rate": 0.047847423600267676,
+        "first_switch_rate": 0.282
+      },
+      "fresh": {
+        "wins": 865,
+        "battles": 2000,
+        "win_rate": 0.4325,
+        "totals": {
+          "matchup_classified_move_actions": 16751,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1978,
+          "replacement_actual_lowest_legal": 1618,
+          "replacement_base_lowest_legal": 1618,
+          "replacement_base_rules_disagreements": 914,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24427,
+          "choices": 19089,
+          "voluntary_decisions": 17119,
+          "move_actions": 16751,
+          "voluntary_switches": 368,
+          "automatic": 5338,
+          "forced_replacement_decisions": 3709,
+          "forced_switches": 3709
+        },
+        "lowest_rate": 0.8179979777553084,
+        "rules_disagreement": 0.4620829120323559,
+        "voluntary_switch_rate": 0.021496582744319176,
+        "first_switch_rate": 0.1055
+      },
+      "mirror": {
+        "wins": 611,
+        "battles": 1000,
+        "win_rate": 0.611,
+        "totals": {
+          "matchup_classified_move_actions": 8750,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 0,
+          "replacement_base_lowest_legal": 0,
+          "replacement_base_rules_disagreements": 724,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 13223,
+          "choices": 10750,
+          "voluntary_decisions": 9750,
+          "voluntary_switches": 1000,
+          "move_actions": 8750,
+          "automatic": 2473,
+          "forced_replacement_decisions": 1851,
+          "forced_switches": 1851
+        },
+        "lowest_rate": 0.0,
+        "rules_disagreement": 0.724,
+        "voluntary_switch_rate": 0.10256410256410256,
+        "first_switch_rate": 1.0
+      }
+    },
+    "teacher-only": {
+      "validation": {
+        "wins": 921,
+        "battles": 2048,
+        "win_rate": 0.44970703125,
+        "totals": {
+          "matchup_classified_move_actions": 16456,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 2022,
+          "replacement_actual_lowest_legal": 834,
+          "replacement_base_lowest_legal": 834,
+          "replacement_base_rules_disagreements": 730,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 23915,
+          "choices": 18656,
+          "voluntary_decisions": 16634,
+          "move_actions": 16456,
+          "automatic": 5259,
+          "forced_replacement_decisions": 3797,
+          "forced_switches": 3797,
+          "voluntary_switches": 178
+        },
+        "lowest_rate": 0.4124629080118694,
+        "rules_disagreement": 0.361028684470821,
+        "voluntary_switch_rate": 0.010700973908861369,
+        "first_switch_rate": 0.01806640625
+      },
+      "seen": {
+        "wins": 853,
+        "battles": 2000,
+        "win_rate": 0.4265,
+        "totals": {
+          "matchup_classified_move_actions": 17462,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1984,
+          "replacement_actual_lowest_legal": 924,
+          "replacement_base_lowest_legal": 924,
+          "replacement_base_rules_disagreements": 794,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24951,
+          "choices": 19603,
+          "voluntary_decisions": 17626,
+          "move_actions": 17462,
+          "automatic": 5348,
+          "forced_replacement_decisions": 3739,
+          "forced_switches": 3739,
+          "voluntary_switches": 164
+        },
+        "lowest_rate": 0.4657258064516129,
+        "rules_disagreement": 0.4002016129032258,
+        "voluntary_switch_rate": 0.009304436627709066,
+        "first_switch_rate": 0.0385
+      },
+      "fresh": {
+        "wins": 865,
+        "battles": 2000,
+        "win_rate": 0.4325,
+        "totals": {
+          "matchup_classified_move_actions": 16611,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1982,
+          "replacement_actual_lowest_legal": 735,
+          "replacement_base_lowest_legal": 735,
+          "replacement_base_rules_disagreements": 760,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24115,
+          "choices": 18796,
+          "voluntary_decisions": 16816,
+          "move_actions": 16611,
+          "automatic": 5319,
+          "forced_replacement_decisions": 3746,
+          "forced_switches": 3746,
+          "voluntary_switches": 205
+        },
+        "lowest_rate": 0.3708375378405651,
+        "rules_disagreement": 0.3834510595358224,
+        "voluntary_switch_rate": 0.012190770694576594,
+        "first_switch_rate": 0.0215
+      },
+      "mirror": {
+        "wins": 617,
+        "battles": 1000,
+        "win_rate": 0.617,
+        "totals": {
+          "matchup_classified_move_actions": 8750,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 0,
+          "replacement_base_lowest_legal": 0,
+          "replacement_base_rules_disagreements": 724,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 13223,
+          "choices": 10750,
+          "voluntary_decisions": 9750,
+          "voluntary_switches": 1000,
+          "move_actions": 8750,
+          "automatic": 2473,
+          "forced_replacement_decisions": 1851,
+          "forced_switches": 1851
+        },
+        "lowest_rate": 0.0,
+        "rules_disagreement": 0.724,
+        "voluntary_switch_rate": 0.10256410256410256,
+        "first_switch_rate": 1.0
+      }
+    },
+    "ppo-only-best": {
+      "seen": {
+        "wins": 907,
+        "battles": 2000,
+        "win_rate": 0.4535,
+        "totals": {
+          "matchup_classified_move_actions": 16701,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1979,
+          "replacement_actual_lowest_legal": 1006,
+          "replacement_base_lowest_legal": 1006,
+          "replacement_base_rules_disagreements": 846,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24977,
+          "choices": 19681,
+          "voluntary_decisions": 17706,
+          "move_actions": 16701,
+          "automatic": 5296,
+          "forced_replacement_decisions": 3723,
+          "forced_switches": 3723,
+          "voluntary_switches": 1005
+        },
+        "lowest_rate": 0.5083375442142496,
+        "rules_disagreement": 0.42748863062152603,
+        "voluntary_switch_rate": 0.056760420196543544,
+        "first_switch_rate": 0.366
+      },
+      "fresh": {
+        "wins": 896,
+        "battles": 2000,
+        "win_rate": 0.448,
+        "totals": {
+          "matchup_classified_move_actions": 16576,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1968,
+          "replacement_actual_lowest_legal": 1211,
+          "replacement_base_lowest_legal": 1211,
+          "replacement_base_rules_disagreements": 886,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24647,
+          "choices": 19354,
+          "voluntary_decisions": 17397,
+          "move_actions": 16576,
+          "voluntary_switches": 821,
+          "automatic": 5293,
+          "forced_replacement_decisions": 3671,
+          "forced_switches": 3671
+        },
+        "lowest_rate": 0.6153455284552846,
+        "rules_disagreement": 0.4502032520325203,
+        "voluntary_switch_rate": 0.04719204460539173,
+        "first_switch_rate": 0.2635
+      },
+      "mirror": {
+        "wins": 627,
+        "battles": 1000,
+        "win_rate": 0.627,
+        "totals": {
+          "matchup_classified_move_actions": 8780,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 0,
+          "replacement_base_lowest_legal": 0,
+          "replacement_base_rules_disagreements": 724,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 13291,
+          "choices": 10780,
+          "voluntary_decisions": 9780,
+          "voluntary_switches": 1000,
+          "move_actions": 8780,
+          "automatic": 2511,
+          "forced_replacement_decisions": 1851,
+          "forced_switches": 1851
+        },
+        "lowest_rate": 0.0,
+        "rules_disagreement": 0.724,
+        "voluntary_switch_rate": 0.10224948875255624,
+        "first_switch_rate": 1.0
+      }
+    },
+    "ppo-only-final": {
+      "seen": {
+        "wins": 947,
+        "battles": 2000,
+        "win_rate": 0.4735,
+        "totals": {
+          "matchup_classified_move_actions": 16863,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1985,
+          "replacement_actual_lowest_legal": 1204,
+          "replacement_base_lowest_legal": 1204,
+          "replacement_base_rules_disagreements": 858,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 25097,
+          "choices": 19732,
+          "voluntary_decisions": 17762,
+          "move_actions": 16863,
+          "automatic": 5365,
+          "forced_replacement_decisions": 3719,
+          "forced_switches": 3719,
+          "voluntary_switches": 899
+        },
+        "lowest_rate": 0.6065491183879094,
+        "rules_disagreement": 0.43224181360201513,
+        "voluntary_switch_rate": 0.05061366963179822,
+        "first_switch_rate": 0.2835
+      },
+      "fresh": {
+        "wins": 901,
+        "battles": 2000,
+        "win_rate": 0.4505,
+        "totals": {
+          "matchup_classified_move_actions": 16485,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1978,
+          "replacement_actual_lowest_legal": 1555,
+          "replacement_base_lowest_legal": 1555,
+          "replacement_base_rules_disagreements": 966,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24206,
+          "choices": 18899,
+          "voluntary_decisions": 16933,
+          "move_actions": 16485,
+          "automatic": 5307,
+          "forced_replacement_decisions": 3705,
+          "forced_switches": 3705,
+          "voluntary_switches": 448
+        },
+        "lowest_rate": 0.7861476238624874,
+        "rules_disagreement": 0.4883720930232558,
+        "voluntary_switch_rate": 0.02645721372467962,
+        "first_switch_rate": 0.136
+      },
+      "mirror": {
+        "wins": 620,
+        "battles": 1000,
+        "win_rate": 0.62,
+        "totals": {
+          "matchup_classified_move_actions": 8785,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 0,
+          "replacement_base_lowest_legal": 0,
+          "replacement_base_rules_disagreements": 724,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 13299,
+          "choices": 10785,
+          "voluntary_decisions": 9785,
+          "voluntary_switches": 1000,
+          "move_actions": 8785,
+          "automatic": 2514,
+          "forced_replacement_decisions": 1855,
+          "forced_switches": 1855
+        },
+        "lowest_rate": 0.0,
+        "rules_disagreement": 0.724,
+        "voluntary_switch_rate": 0.10219724067450178,
+        "first_switch_rate": 1.0
+      }
+    },
+    "teacher-ppo-best": {
+      "seen": {
+        "wins": 1000,
+        "battles": 2000,
+        "win_rate": 0.5,
+        "totals": {
+          "matchup_classified_move_actions": 17337,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1977,
+          "replacement_actual_lowest_legal": 994,
+          "replacement_base_lowest_legal": 994,
+          "replacement_base_rules_disagreements": 511,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 25076,
+          "choices": 19737,
+          "voluntary_decisions": 17771,
+          "move_actions": 17337,
+          "forced_replacement_decisions": 3658,
+          "forced_switches": 3658,
+          "automatic": 5339,
+          "voluntary_switches": 434
+        },
+        "lowest_rate": 0.5027819929185635,
+        "rules_disagreement": 0.25847243297926153,
+        "voluntary_switch_rate": 0.02442181081537336,
+        "first_switch_rate": 0.105
+      },
+      "fresh": {
+        "wins": 930,
+        "battles": 2000,
+        "win_rate": 0.465,
+        "totals": {
+          "matchup_classified_move_actions": 16825,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1980,
+          "replacement_actual_lowest_legal": 1012,
+          "replacement_base_lowest_legal": 1012,
+          "replacement_base_rules_disagreements": 505,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24336,
+          "choices": 19043,
+          "voluntary_decisions": 17073,
+          "move_actions": 16825,
+          "voluntary_switches": 248,
+          "automatic": 5293,
+          "forced_replacement_decisions": 3663,
+          "forced_switches": 3663
+        },
+        "lowest_rate": 0.5111111111111111,
+        "rules_disagreement": 0.255050505050505,
+        "voluntary_switch_rate": 0.01452585954430973,
+        "first_switch_rate": 0.061
+      },
+      "mirror": {
+        "wins": 937,
+        "battles": 1000,
+        "win_rate": 0.937,
+        "totals": {
+          "matchup_classified_move_actions": 5737,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 926,
+          "replacement_base_lowest_legal": 926,
+          "replacement_base_rules_disagreements": 0,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 14378,
+          "choices": 12077,
+          "voluntary_decisions": 11077,
+          "voluntary_switches": 5340,
+          "move_actions": 5737,
+          "automatic": 2301,
+          "forced_replacement_decisions": 1352,
+          "forced_switches": 1352
+        },
+        "lowest_rate": 0.926,
+        "rules_disagreement": 0.0,
+        "voluntary_switch_rate": 0.48207998555565584,
+        "first_switch_rate": 1.0
+      }
+    },
+    "teacher-ppo-final": {
+      "seen": {
+        "wins": 957,
+        "battles": 2000,
+        "win_rate": 0.4785,
+        "totals": {
+          "matchup_classified_move_actions": 17383,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1979,
+          "replacement_actual_lowest_legal": 863,
+          "replacement_base_lowest_legal": 863,
+          "replacement_base_rules_disagreements": 508,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 25416,
+          "choices": 20064,
+          "voluntary_decisions": 18099,
+          "move_actions": 17383,
+          "automatic": 5352,
+          "forced_replacement_decisions": 3686,
+          "forced_switches": 3686,
+          "voluntary_switches": 716
+        },
+        "lowest_rate": 0.4360788276907529,
+        "rules_disagreement": 0.25669530065689744,
+        "voluntary_switch_rate": 0.03956019669595005,
+        "first_switch_rate": 0.117
+      },
+      "fresh": {
+        "wins": 950,
+        "battles": 2000,
+        "win_rate": 0.475,
+        "totals": {
+          "matchup_classified_move_actions": 16717,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1982,
+          "replacement_actual_lowest_legal": 954,
+          "replacement_base_lowest_legal": 954,
+          "replacement_base_rules_disagreements": 475,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 24562,
+          "choices": 19230,
+          "voluntary_decisions": 17264,
+          "move_actions": 16717,
+          "voluntary_switches": 547,
+          "automatic": 5332,
+          "forced_replacement_decisions": 3663,
+          "forced_switches": 3663
+        },
+        "lowest_rate": 0.48133198789101916,
+        "rules_disagreement": 0.239656912209889,
+        "voluntary_switch_rate": 0.03168443002780352,
+        "first_switch_rate": 0.0995
+      },
+      "mirror": {
+        "wins": 988,
+        "battles": 1000,
+        "win_rate": 0.988,
+        "totals": {
+          "matchup_classified_move_actions": 6591,
+          "matchup_unclassified_move_actions": 0,
+          "current_target_immune_move_actions": 0,
+          "current_target_type_immune_move_actions": 0,
+          "current_target_ability_immune_move_actions": 0,
+          "current_target_immune_with_nonimmune_alternative": 0,
+          "replacement_eligible": 1000,
+          "replacement_actual_lowest_legal": 926,
+          "replacement_base_lowest_legal": 926,
+          "replacement_base_rules_disagreements": 0,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0,
+          "decisions": 12652,
+          "choices": 10549,
+          "voluntary_decisions": 9549,
+          "voluntary_switches": 2958,
+          "move_actions": 6591,
+          "automatic": 2103,
+          "forced_replacement_decisions": 1104,
+          "forced_switches": 1104
+        },
+        "lowest_rate": 0.926,
+        "rules_disagreement": 0.0,
+        "voluntary_switch_rate": 0.3097706566132579,
+        "first_switch_rate": 1.0
+      }
+    }
+  },
+  "integrity": {
+    "checks": 44,
+    "episodes": 48192,
+    "traces": 8616,
+    "errors": [],
+    "counts": {
+      "matchup_classified_move_actions": 402545,
+      "matchup_unclassified_move_actions": 0,
+      "current_target_immune_move_actions": 0,
+      "current_target_type_immune_move_actions": 0,
+      "current_target_ability_immune_move_actions": 0,
+      "current_target_immune_with_nonimmune_alternative": 0,
+      "replacement_eligible": 47729,
+      "replacement_actual_lowest_legal": 27464,
+      "replacement_base_lowest_legal": 27464,
+      "replacement_base_rules_disagreements": 20641,
+      "replacement_override_eligible": 0,
+      "replacement_overrides_changed": 0,
+      "decisions": 599568,
+      "choices": 473853,
+      "voluntary_decisions": 426308,
+      "move_actions": 402545,
+      "voluntary_switches": 23763,
+      "automatic": 125715,
+      "forced_replacement_decisions": 87872,
+      "forced_switches": 87872
+    }
+  },
+  "memory": {
+    "min_available_gib": 21.900550842285156,
+    "max_swap_gib": 0.0,
+    "total_minutes": 78.660426624616
+  },
+  "warmstart": {
+    "selected_epoch": 6,
+    "initial_metrics": {
+      "fit": {
+        "loss": 1.0114256251553249,
+        "rehearsal_rows": 2261,
+        "rehearsal_soft_ce": 0.12983431472339654,
+        "rules_tie_aware_agreement": {
+          "all": {
+            "correct": 10163,
+            "rate": 0.7613304367368342,
+            "rows": 13349
+          },
+          "forced": {
+            "correct": 693,
+            "rate": 0.5,
+            "rows": 1386
+          },
+          "mixed": {
+            "correct": 0,
+            "rate": null,
+            "rows": 0
+          },
+          "move": {
+            "correct": 9461,
+            "rate": 0.805534269902086,
+            "rows": 11745
+          },
+          "ordinary": {
+            "correct": 9470,
+            "rate": 0.7916074563236646,
+            "rows": 11963
+          },
+          "switch": {
+            "correct": 702,
+            "rate": 0.4376558603491272,
+            "rows": 1604
+          }
+        }
+      },
+      "holdout": {
+        "loss": 1.2188646645881556,
+        "rehearsal_rows": 0,
+        "rehearsal_soft_ce": null,
+        "rules_tie_aware_agreement": {
+          "all": {
+            "correct": 2724,
+            "rate": 0.7547797173732336,
+            "rows": 3609
+          },
+          "forced": {
+            "correct": 175,
+            "rate": 0.4557291666666667,
+            "rows": 384
+          },
+          "mixed": {
+            "correct": 0,
+            "rate": null,
+            "rows": 0
+          },
+          "move": {
+            "correct": 2547,
+            "rate": 0.8060126582278481,
+            "rows": 3160
+          },
+          "ordinary": {
+            "correct": 2549,
+            "rate": 0.7903875968992248,
+            "rows": 3225
+          },
+          "switch": {
+            "correct": 177,
+            "rate": 0.39420935412026725,
+            "rows": 449
+          }
+        }
+      }
+    },
+    "selected_metrics": {
+      "fit": {
+        "loss": 0.22891551432970011,
+        "rehearsal_rows": 2261,
+        "rehearsal_soft_ce": 0.13262595934237278,
+        "rules_tie_aware_agreement": {
+          "all": {
+            "correct": 12101,
+            "rate": 0.9065098509251629,
+            "rows": 13349
+          },
+          "forced": {
+            "correct": 1112,
+            "rate": 0.8023088023088023,
+            "rows": 1386
+          },
+          "mixed": {
+            "correct": 0,
+            "rate": null,
+            "rows": 0
+          },
+          "move": {
+            "correct": 10859,
+            "rate": 0.924563644103874,
+            "rows": 11745
+          },
+          "ordinary": {
+            "correct": 10989,
+            "rate": 0.9185822954108501,
+            "rows": 11963
+          },
+          "switch": {
+            "correct": 1242,
+            "rate": 0.7743142144638404,
+            "rows": 1604
+          }
+        }
+      },
+      "holdout": {
+        "loss": 0.42852065872827305,
+        "rehearsal_rows": 0,
+        "rehearsal_soft_ce": null,
+        "rules_tie_aware_agreement": {
+          "all": {
+            "correct": 3086,
+            "rate": 0.85508451094486,
+            "rows": 3609
+          },
+          "forced": {
+            "correct": 247,
+            "rate": 0.6432291666666666,
+            "rows": 384
+          },
+          "mixed": {
+            "correct": 0,
+            "rate": null,
+            "rows": 0
+          },
+          "move": {
+            "correct": 2835,
+            "rate": 0.8971518987341772,
+            "rows": 3160
+          },
+          "ordinary": {
+            "correct": 2839,
+            "rate": 0.8803100775193798,
+            "rows": 3225
+          },
+          "switch": {
+            "correct": 251,
+            "rate": 0.5590200445434298,
+            "rows": 449
+          }
+        }
+      }
+    },
+    "dataset": {
+      "capacity": 50000,
+      "collection_limits": {
+        "batch_size": 256,
+        "battles": 2000,
+        "decisions_per_battle": 24,
+        "epochs": 8,
+        "learning_rate": 0.0001,
+        "max_rows": 50000,
+        "seed": 261140,
+        "validation_fraction": 0.2
+      },
+      "counts": {
+        "decision/forced": 1969,
+        "decision/ordinary": 17250,
+        "executed/move": 16956,
+        "executed/switch": 2263,
+        "group/mirror": 2261,
+        "group/new": 12169,
+        "group/old": 4789,
+        "observed_decisions": 24392,
+        "skipped_single_legal": 5173,
+        "target/rules_tied_best": 16958,
+        "target/source_soft": 2261,
+        "tied_best_rows": 1639,
+        "trajectory/rules": 9568,
+        "trajectory/student": 9651
+      },
+      "files": "disk-backed .npy arrays; only first rows entries are used",
+      "rows": 19219
+    },
+    "available_artifacts": 7,
+    "omitted_artifacts": 32,
+    "mismatches": []
+  },
+  "trace_summary": {
+    "nonmirror_episodes_per_comparison": 64,
+    "source_to_teacher_only": {
+      "first_divergences": 53,
+      "forced": 18,
+      "ordinary": 35
+    },
+    "teacher_only_to_teacher_best": {
+      "first_divergences": 47,
+      "forced": 9,
+      "ordinary": 38
+    },
+    "teacher_only_to_teacher_final": {
+      "first_divergences": 49,
+      "forced": 7,
+      "ordinary": 42
+    },
+    "control_best_to_teacher_best": {
+      "first_divergences": 47,
+      "forced": 9,
+      "ordinary": 38
+    },
+    "forced_confidence_medians": {
+      "source": 0.999921,
+      "teacher_only": 0.672206,
+      "teacher_best": 0.975422,
+      "teacher_final": 0.985786,
+      "control_best": 0.999964
+    },
+    "coverage": "First16episodes percheck;8side-swappedmatchups, original/reversedoverlap; notrandom"
+  }
+}

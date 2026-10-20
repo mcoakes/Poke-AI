@@ -6,9 +6,15 @@ Compose the existing Showdown trainer and frozen-policy evaluator into a growing
 team-pool curriculum. This runner uses a POSIX file lock (Linux/macOS) to prevent
 two commands from modifying the same run concurrently.
 
+Stages accept a single `team` or recursive `team_dir`. Optional `validation_dir`
+groups replace training teams in promotion evaluations. See the
+[manifest schema](../creating-campaigns.md#directory-based-stages) and the
+[ten-stage generalization plan](../generalization-campaign.md). All teams and group
+membership are snapshotted for a run; old campaigns do not change.
+
 ```bash
 python mgba/run_curriculum.py --run-dir .local/run/curriculum-types-01 \
-  --resume latest --opponent-checkpoint "$fronzen_checkpoint" \
+  --resume latest --opponent-checkpoint "$frozen_checkpoint" \
   --environments 48 --rollout-steps 128 --batch-size 128 --timesteps 100000
 ```
 
@@ -28,7 +34,7 @@ snapshots in the run directory; omit these flags when continuing.
 
 | Flag | Initial default | Meaning |
 |---|---|---|
-| `--curriculum` | `config/curricula/type_progression/curriculum.json` | Ordered stage manifest and final next-team probe. |
+| `--curriculum` | `config/curricula/type_progression/curriculum.json` | Ordered manifest: `team` or `team_dir` per stage, optional validation groups, and final probe. Select `config/curricula/pokemon_generalization/curriculum.json` for the directory-based preset. |
 | `--resume` | Required | Starting candidate path or `latest` (`later` alias accepted). Copies model and optimizer state once. |
 | `--opponent-checkpoint`, `--player2-checkpoint` | Required | Initial frozen reference path or `latest`. Used for every stage in fixed mode, or stage 1 in previous-stage mode; its original copy is retained. |
 | `--opponent-mode` | Manifest's `opponent_mode`, otherwise `fixed` | `fixed` keeps the initial reference; `previous-stage` freezes each promoted model as the next stage's opponent. Explicit flag overrides the manifest. Immutable within a campaign. |
@@ -54,6 +60,9 @@ headlessly and unthrottled; there is no emulator speed setting here.
 | `--rollout-steps` | `128` | Decisions per learner before an update; explicitly overrides the resumed checkpoint. |
 | `--batch-size` | `128` | Minibatch size, at least 2; must divide rollout steps × learning players. |
 | `--epochs` | Checkpoint value | Passes through each rollout; explicit override persists. |
+| `--latest-every-updates` | `1` | Save training `latest.zip` every N updates, plus the first update and successful completion. Can change when continuing a campaign. |
+| `--checkpoint-every` | `1024` | Learning-player transitions between numbered training backups, rounded up to an update; `0` disables them. Can change when continuing a campaign. |
+| `--keep-checkpoints` | `2` | Retained numbered backups per training attempt; `0` keeps none, `-1` keeps all. Does not remove its `latest.zip` or `final.zip`. |
 | `--learning-rate` | Checkpoint value | Positive finite optimizer learning rate; explicit override persists. |
 | `--ent-coef` | Checkpoint value | Nonnegative finite entropy coefficient; explicit override persists. |
 | `--device` | `cpu` | PyTorch training/inference device. Does not move the simulation to the GPU. |
@@ -62,6 +71,38 @@ headlessly and unthrottled; there is no emulator speed setting here.
 | `--command-timeout` | `120` | Wall-clock seconds per paired battle decision. |
 | `--readable-log`, `--no-readable-log` | On | Training diagnostic observation/action logs. |
 | `--battle-log`, `--no-battle-log` | On | Training spectator battle logs. Evaluations use the evaluator's quiet logging defaults. |
+| `--step-logs`, `--no-step-logs` | Off | Showdown per-decision simulation/protocol traces; forwarded to training and evaluation. |
+| `--log-max-mb` | `10` | Showdown limit per rotating log in MiB; `0` means unlimited. Forwarded to training and evaluation. |
+| `--log-backups` | `2` | Rotated copies retained per log; `0` keeps only the current file. |
+| `--keep-episode-logs` | `2` | Recent completed Showdown episode debug directories per pair, plus active/failed episodes; `0` disables them, `-1` keeps all. Applies to training and evaluation. |
+
+## Storage settings
+
+Explicit values persist when continuing a campaign, like the execution settings
+above. New campaigns enable compact retention. Existing campaigns without saved
+retention settings retain their previous behavior until explicitly changed.
+
+| Flag | Initial default | Meaning |
+|---|---|---|
+| `--retention` | New: `compact`; existing: `off` | `compact` prunes selected heavy data after completed attempts; `off` disables automatic cleanup. |
+| `--keep-attempts` | `2` | Keep candidates from this many recent attempts per stage; `0` keeps only other selected/protected candidates, `-1` keeps all. |
+| `--keep-best` | `2` | Keep best evaluated candidates per stage and evaluation-rule cohort; `0` disables score-based retention, `-1` keeps all. |
+| `--keep-debug-attempts` | `0` | Keep pair debug data and detailed training traces for this many recent attempts per stage; `-1` keeps all. |
+
+The candidate sets are combined; protected inputs, frozen opponents, promoted
+candidates and required resume models are always retained. Reports, configurations,
+suites, evaluation episode results and PPO progress CSVs also remain. These limits
+do not impose a hard total disk quota, and pruning candidate weights prevents
+reevaluating that candidate unless a separate copy exists.
+
+The training process keeps `latest.zip` and `final.zip` outside its numbered-backup
+limit. Subsequent compact campaign cleanup retains selected completed candidates
+as `final.zip` and can remove their redundant `latest.zip` copies. The newest
+unfinished attempt retains recovery checkpoints.
+
+Use [the cleanup utility](prune-campaign.md) to preview and clean an existing
+campaign while it is stopped. The [storage guide](../storage.md) provides exact
+cleanup and restart commands.
 
 ## Outputs and exit status
 
@@ -70,8 +111,12 @@ records exact child command arguments. Each `stage-NN` contains the cumulative
 team pool, saved suites, fixed baseline, numbered attempts, `result.json` and a
 human-readable `report.md`. Each stage snapshots its opponent in `opponent.zip`
 and records its source stage/checksum in `stage.json`, attempt metadata and
-reports. See [opponent progression](../curriculum-opponents.md). Training saves after every PPO update; its normal
-numbered-checkpoint interval remains 1,024 learning transitions.
+reports. See [opponent progression](../curriculum-opponents.md). Training defaults
+to saving after every PPO update, with numbered backups every 1,024 learning
+transitions, retaining two numbered backups by default. The save interval flags
+above change those intervals without changing PPO
+updates or evaluation/promotion saves. Settings persist for later attempts; each
+training process starts a fresh update interval. See [checkpoint timing](../ppo-training.md#progress-and-saving).
 
 | Exit code | Meaning |
 |---:|---|

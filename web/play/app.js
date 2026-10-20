@@ -325,7 +325,7 @@ function review() {
   }
   showError("connection-error", ""); showError("confirm-error", "");
   $("confirm-teams").replaceChildren(teamMini(sides[0], playerName ? `You · ${playerName}` : "You · Player 1"), teamMini(sides[1], "AI · Player 2"));
-  $("confirm-checkpoint").textContent = `Checkpoint: ${$("checkpoint").selectedOptions[0].textContent}`;
+  $("confirm-checkpoint").textContent = `Opponent: ${$("checkpoint").selectedOptions[0].textContent}`;
   $("confirm-workers").textContent = `2 team saves · ${$("workers").value} worker(s) · ${speed === "unlimited" ? "Unlimited" : `${speed}×`} battle speed`;
   $("confirm").showModal();
 }

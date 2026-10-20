@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 train 021",
+  "party": [
+    {
+      "species": "Natu",
+      "level": 50,
+      "moves": [
+        "Reflect",
+        "Double Team",
+        "Calm Mind",
+        "Giga Drain"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 27,
+        "def": 28,
+        "spa": 31,
+        "spd": 25,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Kingler",
+      "level": 50,
+      "moves": [
+        "Swords Dance",
+        "Slam",
+        "Dive",
+        "Crabhammer"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 30,
+        "spa": 22,
+        "spd": 28,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Meowth",
+      "level": 50,
+      "moves": [
+        "Thunder",
+        "Thief",
+        "Double Edge",
+        "Protect"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 29,
+        "def": 21,
+        "spa": 30,
+        "spd": 21,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

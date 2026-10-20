@@ -9,7 +9,7 @@ in FireRed, then starts a campaign with a single evaluation history.
 1. [Install dependencies](#1-install-dependencies).
 2. [Set up the initial save](#2-set-up-the-initial-save-file).
 3. [Build and customize teams](#3-build-and-customize-teams).
-4. [Train with Showdown or mGBA](#4-train-an-agent).
+4. [Train with Showdown or mGBA](#4-train-an-agent), including [pause and continue](#monitor-pause-and-continue-training).
 5. [Play against the agent](#5-play-against-the-agent).
 6. [Run a campaign](#6-run-a-campaign).
 7. [View campaign results](#7-view-campaign-results).
@@ -262,6 +262,58 @@ cp --backup=numbered "$mgba_run/checkpoints/final.zip" models/quickstart_agent.z
 Both engines simulate battles on the CPU. Start with the small pool above and
 measure throughput before adding environments. [All training flags](reference/train-ppo.md).
 
+### Monitor, pause, and continue training
+
+You can stop a standalone PPO run and continue it later. In the **training
+terminal**, press **Ctrl+C once**, then wait for cleanup and the shell prompt
+before closing the terminal or restarting the run. The interruption message
+reports the last saved checkpoint. Progress since that save is not preserved;
+Ctrl+C does not save an unfinished rollout or update. If you stop before the
+first checkpoint is saved, there is no trained checkpoint to recover.
+
+To continue the Showdown example, run this from the project root with the virtual
+environment active (set the path again in a new terminal):
+
+```bash
+training_run=".local/run/quickstart-showdown-01"
+python mgba/train_ppo.py \
+  --output-dir "$training_run" \
+  --if-exists continue \
+  --total-timesteps 10000
+```
+
+This requests **10,000 additional transitions**, rounded up to a full rollout;
+it does not automatically finish the original remaining budget. Choose the new
+budget you want. Use your actual run directory, such as
+`.local/run/quickstart-mgba-01`, to continue a different standalone run.
+
+Continuation restores the saved settings and latest recoverable checkpoint,
+including weights, optimizer state, counters, logging and periodic validation
+settings. It starts fresh battles; it does not resume a battle mid-turn. No
+`--resume` flag is needed. `best.zip` is for selecting a validated model and may
+be older than the checkpoint used to continue training. Keep the run directory
+and its saved inputs. This also works after a completed run when you want more
+training. See [continuation details](ppo-training.md#continue-an-existing-run).
+
+**For runs configured with periodic evaluation**, open another terminal and
+monitor the validation history:
+
+```bash
+training_run=".local/run/YOUR_RUN"
+watch -n 5 "cat '$training_run/evaluations.md'"
+```
+
+Replace `YOUR_RUN` with the actual directory. The table appears after a completed
+evaluation and refreshes every five seconds. The basic quickstart training
+commands above do not enable periodic evaluation, so they do not produce this
+table; monitor their training terminal instead. See
+[periodic evaluation setup](periodic-evaluation.md) to enable validation.
+Use `watch` because the table is replaced atomically. **Ctrl+C in the watch
+terminal only stops the viewer**; Ctrl+C in the training terminal stops training.
+
+For campaigns, use the [campaign continuation command](#6-run-a-campaign)
+instead of continuing an individual attempt with `train_ppo.py`.
+
 ## 5. Play against the agent
 
 Both play methods run a real FireRed link battle. Only the **human's emulator
@@ -325,9 +377,11 @@ match or use Ctrl+C. [CLI guide and flags](reference/play-agent.md).
 
 ## 6. Run a campaign
 
-Campaigns use **Showdown** and the bundled cumulative team pools. Stage 1 trains
-on the six-type team; later stages add one team at a time. They use their own
-team files, independently of the starter pair used above.
+Campaigns use **Showdown** and cumulative team pools. This example selects the
+[generalization campaign](generalization-campaign.md): stage 1 has 24 training
+teams, and every later stage adds another directory of 24 teams. Promotion uses
+separate validation teams. Switching overrides are disabled; the policy can
+choose normal switch actions. These teams are independent of the starter pair above.
 
 The example below starts from your final quickstart model and freezes the earlier
 1,024-step model as the first opponent. Earlier does not guarantee weaker; replace
@@ -336,13 +390,14 @@ a serious campaign. For your saved Smart v1 and Dumb models, see
 [the named-model walkthrough](battle-count-campaigns.md).
 
 ```bash
-curriculum_run=".local/run/quickstart-campaign-01"
-fronzen_checkpoint="models/quickstart_reference.zip"
+curriculum_run=".local/run/quickstart-generalization-01"
+frozen_checkpoint="models/quickstart_reference.zip"
 
 python mgba/run_curriculum.py \
   --run-dir "$curriculum_run" \
+  --curriculum config/curricula/pokemon_generalization/curriculum.json \
   --resume models/quickstart_agent.zip \
-  --opponent-checkpoint "$fronzen_checkpoint" \
+  --opponent-checkpoint "$frozen_checkpoint" \
   --opponent-mode previous-stage \
   --train-battles 1000 --eval-episodes 1000 \
   --promotion-win-rate 0.75 \
@@ -386,7 +441,7 @@ To define different teams/stages, follow [Create a campaign](creating-campaigns.
 In another terminal, point to the campaign above:
 
 ```bash
-curriculum_run=".local/run/quickstart-campaign-01"
+curriculum_run=".local/run/quickstart-generalization-01"
 cat "$curriculum_run/evaluations.md"
 ```
 

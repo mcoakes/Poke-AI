@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 unseen_species 009",
+  "party": [
+    {
+      "species": "Lanturn",
+      "level": 50,
+      "moves": [
+        "Amnesia",
+        "Screech",
+        "Water Pulse",
+        "Charge"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 30,
+        "atk": 30,
+        "def": 22,
+        "spa": 20,
+        "spd": 22,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Cradily",
+      "level": 50,
+      "moves": [
+        "Toxic",
+        "Double Team",
+        "Rock Smash",
+        "Facade"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 27,
+        "def": 31,
+        "spa": 23,
+        "spd": 26,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Bellossom",
+      "level": 50,
+      "moves": [
+        "Facade",
+        "Sweet Scent",
+        "Petal Dance",
+        "Return"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 27,
+        "def": 22,
+        "spa": 29,
+        "spd": 20,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

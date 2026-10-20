@@ -10,8 +10,8 @@ local pockets = {
     {"tm_hm",0x464,58},{"berries",0x54C,43},
 }
 local function byte(s, offset) return s:byte(offset + 1) end
-local function word(s, offset) return string.unpack("<I2", s, offset + 1) end
-local function dword(s, offset) return string.unpack("<I4", s, offset + 1) end
+local function word(s, offset) return (string.unpack("<I2", s, offset + 1)) end
+local function dword(s, offset) return (string.unpack("<I4", s, offset + 1)) end
 local function pointer(address, size)
     local value = emu:read32(address)
     assert(value >= 0x02000000 and value + size <= 0x02040000 and value % 4 == 0,
@@ -22,7 +22,7 @@ end
 local function decode_party(address, count, scan_slots)
     local party = emu:readRange(address, 600)
     local report = {ok=true, profile="firered_us_v1_0", state_ready=false,
-        frame=emu:currentFrame(), party_count=count, party={}, bag={}, warnings={},
+        frame=emu:currentFrame(), native_v2=1, party_count=count, party={}, bag={}, warnings={},
         remaining=0, fainted=0, counts_valid=true}
     if count < 1 or count > 6 then
         report.counts_valid = false
@@ -71,6 +71,9 @@ local function decode_party(address, count, scan_slots)
                 else
                     local base = 0x08254784 + mon.species_id*28
                     mon.base_type_ids = {emu:read8(base+6), emu:read8(base+7)}
+                    mon.ivs_raw = dword(data,misc+4) & 0x3FFFFFFF
+                    mon.ability_id = emu:read8(base+22+((dword(data,misc+4) >> 31) & 1))
+                    mon.stats = {word(raw,90),word(raw,92),word(raw,96),word(raw,98),word(raw,94)}
                     mon.moves = {}
                     for move_slot=0,3 do
                         local id = word(data,attacks+move_slot*2)

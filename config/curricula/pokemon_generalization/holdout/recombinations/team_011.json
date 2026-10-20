@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 10 recombination 011",
+  "party": [
+    {
+      "species": "Loudred",
+      "level": 50,
+      "moves": [
+        "Water Pulse",
+        "Blizzard",
+        "Smelling Salt",
+        "Fire Blast"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 27,
+        "atk": 20,
+        "def": 26,
+        "spa": 24,
+        "spd": 30,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Vigoroth",
+      "level": 50,
+      "moves": [
+        "Cut",
+        "Curse",
+        "Flamethrower",
+        "Earthquake"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 21,
+        "def": 26,
+        "spa": 22,
+        "spd": 22,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Charizard",
+      "level": 50,
+      "moves": [
+        "Flamethrower",
+        "Substitute",
+        "Dragon Claw",
+        "Brick Break"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Mild",
+      "ivs": {
+        "hp": 24,
+        "atk": 27,
+        "def": 24,
+        "spa": 24,
+        "spd": 29,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Shellder",
+      "level": 50,
+      "moves": [
+        "Supersonic",
+        "Surf",
+        "Clamp",
+        "Icicle Spear"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 22,
+        "spa": 29,
+        "spd": 25,
+        "spe": 24
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Gulpin",
+      "level": 50,
+      "moves": [
+        "Yawn",
+        "Shock Wave",
+        "Giga Drain",
+        "Body Slam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 20,
+        "def": 31,
+        "spa": 23,
+        "spd": 23,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 validation 009",
+  "party": [
+    {
+      "species": "Koffing",
+      "level": 50,
+      "moves": [
+        "Mimic",
+        "Facade",
+        "Protect",
+        "Thunderbolt"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 26,
+        "spa": 29,
+        "spd": 25,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Banette",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Mimic",
+        "Grudge",
+        "Hyper Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 25,
+        "spa": 28,
+        "spd": 21,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Glalie",
+      "level": 50,
+      "moves": [
+        "Substitute",
+        "Body Slam",
+        "Icy Wind",
+        "Ice Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 26,
+        "def": 22,
+        "spa": 31,
+        "spd": 30,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

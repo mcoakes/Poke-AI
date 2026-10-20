@@ -1,6 +1,6 @@
 # Reports and battle logs
 
-[Training](ppo-training.md) · [Rewards](training-rewards.md) · [Troubleshooting](troubleshooting.md)
+[Training](ppo-training.md) · [Rewards](training-rewards.md) · [Storage and cleanup](storage.md) · [Troubleshooting](troubleshooting.md)
 
 Each training run prints its output directory. Reports update as play progresses;
 episode reward means appear after the first battle ends.
@@ -45,17 +45,41 @@ and training timesteps; both participants still count toward throughput.
 | `episodes.jsonl` | One record per ended battle and its metrics |
 | `updates.jsonl` | PPO update records |
 | `ppo/progress.csv` | Optimizer metrics in CSV form |
-| `checkpoints/latest.zip` | Latest completed PPO update |
-| `checkpoints/ppo_*.zip` | Periodic numbered checkpoints |
+| `checkpoints/latest.zip` | Most recently saved completed PPO update; may lag training when saves are spaced out |
+| `checkpoints/ppo_*.zip` | Periodic numbered checkpoints; newest two retained by default |
 | `checkpoints/final.zip` | Model at successful completion |
-| `pair-N/battle.log` | Compact spectator transcript |
-| `pair-N/battle-readable.log` | Detailed observations, action masks, choices and rewards |
-| `pair-N/episode-NNNNNN/gym-steps.jsonl` | Structured per-decision reports |
+| `checkpoints/best.zip` | Strongest model from optional fixed-suite periodic validation |
+| `evaluations.md`, `evaluations.csv` | Periodic validation scores, categories and best-model history |
+| `pair-N/battle.log` | Rotating spectator transcript |
+| `pair-N/battle-readable.log` | Rotating observations, action masks, choices and rewards |
+| `pair-N/episode-NNNNNN/gym-steps.jsonl` | Structured per-decision reports; optional in Showdown |
 
 Checkpoints save after updates; see [checkpoint timing](ppo-training.md#progress-and-saving).
-The two text logs span all episodes for their pair and are enabled by default.
-Use `--no-battle-log` or `--no-readable-log` to disable either one. Structured
-reports remain available.
+When [periodic evaluation](periodic-evaluation.md) is enabled, training rates
+include the validation pauses but count only training battles. Validation results
+have their own history; final summaries record the session's validation wall time.
+`time/checkpoint_seconds` and `time/checkpoint_fraction` in update records and
+`ppo/progress.csv` show write overhead. The final `summary.json` includes a
+`checkpointing` object with configured intervals, latest saved timesteps, total
+write seconds and their fraction of total run time, including final saves.
+The two text logs span episodes for their pair and are enabled by default during
+training. In Showdown, each rotates at `--log-max-mb 10`, with
+`--log-backups 2` retained copies.
+Use `--no-battle-log` or `--no-readable-log` to disable either one. Evaluation
+defaults to both off. Showdown per-decision traces are also off by default; enable
+them with `--step-logs`. `--keep-episode-logs 2` retains recent completed episode
+debug directories per pair, plus active or failed episodes. These runtime limits
+apply to Showdown; mGBA keeps its separate diagnostics. Aggregate results and evaluation per-battle records remain
+available with these detailed logs disabled.
+
+After an attempt completes, compact campaign retention may remove its debug logs
+and older training episode/update records. Its summaries, PPO progress CSV,
+evaluation results and campaign history remain. See [storage and retention](storage.md)
+before choosing how much history to preserve.
+
+Compact campaign cleanup keeps selected completed candidates as `final.zip`; it
+may remove the same attempt's redundant `latest.zip` and numbered backups. Recovery
+checkpoints for the newest unfinished attempt remain protected.
 
 Follow a live battle, substituting the run directory printed by training:
 
@@ -82,9 +106,12 @@ HP changes are not guessed from the policy's chosen action. Substitute damage
 can produce text without reducing the Pokémon's HP. The sampler can miss messages
 between frames, and reports gaps if its bounded event buffer overflows.
 
-Showdown renders simulator protocol events into its spectator log. Its raw
-`showdown-protocol.log` and `teams.json` are kept in each episode directory;
-Node diagnostics go to `pair-N/showdown-stderr.log`.
+Showdown renders simulator protocol events into its spectator log. When step logs
+are enabled, its raw `showdown-protocol.log` and `teams.json` are kept in retained
+episode directories. Node diagnostics go to `pair-N/showdown-stderr.log`. These
+logs use the same file rotation settings. Oversized records are replaced by a
+marked text tail or JSON omission marker rather than exceeding the size limit;
+the [storage guide](storage.md) explains the tradeoff.
 
 For mGBA, each episode also has `connection.jsonl`, `mgba.log` and
 `playerN/adapter.log` for connection, process and Lua diagnostics. Preserve these

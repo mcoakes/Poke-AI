@@ -1,0 +1,89 @@
+{
+  "name": "Generalization 10 recombination 015",
+  "party": [
+    {
+      "species": "Numel",
+      "level": 50,
+      "moves": [
+        "Double Team",
+        "Overheat",
+        "Frustration",
+        "Substitute"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 26,
+        "def": 28,
+        "spa": 20,
+        "spd": 26,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Dusclops",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Faint Attack",
+        "Snatch",
+        "Rest"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 26,
+        "def": 26,
+        "spa": 20,
+        "spd": 26,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Latias",
+      "level": 50,
+      "moves": [
+        "Protect",
+        "Return",
+        "Hyper Beam",
+        "Psywave"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 28,
+        "spa": 27,
+        "spd": 27,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

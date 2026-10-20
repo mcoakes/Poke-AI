@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 recombination 019",
+  "party": [
+    {
+      "species": "Hitmonchan",
+      "level": 50,
+      "moves": [
+        "Hi Jump Kick",
+        "Brick Break",
+        "Rock Tomb",
+        "Helping Hand"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 28,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "version": 1,
+  "seed": 261060,
+  "catalog": "config/generation/firered_us_v1_0.json",
+  "curated_sets": "config/generation/competitive_gen3.json",
+  "description": "Team compositions belong to one split globally, including across curriculum stages. Move legality means individually present in the bundled Gen III learnset; no tournament or event-combination certification. Abilities use the simulator natural default for each species.",
+  "fixed_stages": {
+    "move-choice": {
+      "teams": [
+        {
+          "name": "starmie-move-choice",
+          "party": [
+            {
+              "species": "Starmie",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Thunderbolt",
+                "Swift",
+                "Surf",
+                "Harden"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            }
+          ]
+        },
+        {
+          "name": "golem-rules",
+          "party": [
+            {
+              "species": "Golem",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Earthquake",
+                "Rock Throw",
+                "Tackle",
+                "Defense Curl"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "mirror": {
+      "teams": [
+        {
+          "name": "fixed-fire-water-grass",
+          "party": [
+            {
+              "species": "Typhlosion",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Strength",
+                "Flamethrower"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            },
+            {
+              "species": "Blastoise",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Strength",
+                "Surf"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            },
+            {
+              "species": "Sceptile",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Strength",
+                "Leaf Blade"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            }
+          ]
+        },
+        {
+          "name": "fixed-fire-water-grass",
+          "party": [
+            {
+              "species": "Typhlosion",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Strength",
+                "Flamethrower"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            },
+            {
+              "species": "Blastoise",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Strength",
+                "Surf"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            },
+            {
+              "species": "Sceptile",
+              "level": 50,
+              "nature": "Hardy",
+              "held_item": "None",
+              "moves": [
+                "Strength",
+                "Leaf Blade"
+              ],
+              "evs": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
+              },
+              "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spa": 31,
+                "spd": 31,
+                "spe": 31
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "species_pools": {
+    "intro": [
+      "Typhlosion",
+      "Blastoise",
+      "Sceptile",
+      "Arcanine",
+      "Vaporeon",
+      "Venusaur",
+      "Raichu",
+      "Golem",
+      "Machamp",
+      "Alakazam",
+      "Dodrio",
+      "Lapras"
+    ],
+    "coverage": [
+      "Typhlosion",
+      "Blastoise",
+      "Sceptile",
+      "Arcanine",
+      "Vaporeon",
+      "Venusaur",
+      "Raichu",
+      "Golem",
+      "Machamp",
+      "Alakazam",
+      "Dodrio",
+      "Lapras",
+      "Charizard",
+      "Starmie",
+      "Nidoking",
+      "Slowbro",
+      "Magneton",
+      "Gengar",
+      "Cloyster",
+      "Exeggutor",
+      "Gyarados",
+      "Jolteon",
+      "Snorlax",
+      "Dragonite"
+    ],
+    "support": [
+      "Typhlosion",
+      "Blastoise",
+      "Sceptile",
+      "Arcanine",
+      "Vaporeon",
+      "Venusaur",
+      "Raichu",
+      "Golem",
+      "Machamp",
+      "Alakazam",
+      "Dodrio",
+      "Lapras",
+      "Charizard",
+      "Starmie",
+      "Nidoking",
+      "Slowbro",
+      "Magneton",
+      "Gengar",
+      "Cloyster",
+      "Exeggutor",
+      "Gyarados",
+      "Jolteon",
+      "Snorlax",
+      "Dragonite",
+      "Crobat",
+      "Heracross",
+      "Scizor",
+      "Tyranitar",
+      "Blaziken",
+      "Swampert",
+      "Gardevoir",
+      "Skarmory",
+      "Metagross",
+      "Salamence",
+      "Milotic",
+      "Ludicolo",
+      "Walrein",
+      "Medicham",
+      "Claydol",
+      "Weezing"
+    ],
+    "broad": [
+      "Typhlosion",
+      "Blastoise",
+      "Sceptile",
+      "Arcanine",
+      "Vaporeon",
+      "Venusaur",
+      "Raichu",
+      "Golem",
+      "Machamp",
+      "Alakazam",
+      "Dodrio",
+      "Lapras",
+      "Charizard",
+      "Starmie",
+      "Nidoking",
+      "Slowbro",
+      "Magneton",
+      "Gengar",
+      "Cloyster",
+      "Exeggutor",
+      "Gyarados",
+      "Jolteon",
+      "Snorlax",
+      "Dragonite",
+      "Crobat",
+      "Heracross",
+      "Scizor",
+      "Tyranitar",
+      "Blaziken",
+      "Swampert",
+      "Gardevoir",
+      "Skarmory",
+      "Metagross",
+      "Salamence",
+      "Milotic",
+      "Ludicolo",
+      "Walrein",
+      "Medicham",
+      "Claydol",
+      "Weezing",
+      "Ninetales",
+      "Clefable",
+      "Marowak",
+      "Kangaskhan",
+      "Scyther",
+      "Tauros",
+      "Aerodactyl",
+      "Umbreon",
+      "Espeon",
+      "Lanturn",
+      "Kingdra",
+      "Donphan",
+      "Miltank",
+      "Breloom",
+      "Flygon",
+      "Camerupt",
+      "Tentacruel",
+      "Sandslash",
+      "Ampharos",
+      "Aggron",
+      "Manectric",
+      "Houndoom",
+      "Cradily",
+      "Armaldo"
+    ]
+  },
+  "move_pools": {
+    "attacks": [
+      "Strength",
+      "Swift",
+      "Body Slam",
+      "Double Edge",
+      "Flamethrower",
+      "Fire Blast",
+      "Fire Punch",
+      "Surf",
+      "Hydro Pump",
+      "Waterfall",
+      "Water Pulse",
+      "Razor Leaf",
+      "Leaf Blade",
+      "Giga Drain",
+      "Magical Leaf",
+      "Thunderbolt",
+      "Thunder",
+      "Thunder Punch",
+      "Spark",
+      "Ice Beam",
+      "Blizzard",
+      "Ice Punch",
+      "Earthquake",
+      "Dig",
+      "Bone Club",
+      "Bonemerang",
+      "Rock Slide",
+      "Rock Tomb",
+      "Ancient Power",
+      "Psychic",
+      "Psybeam",
+      "Brick Break",
+      "Cross Chop",
+      "Sky Uppercut",
+      "Mach Punch",
+      "Superpower",
+      "Sludge Bomb",
+      "Aerial Ace",
+      "Drill Peck",
+      "Wing Attack",
+      "Air Cutter",
+      "Shadow Ball",
+      "Shadow Punch",
+      "Crunch",
+      "Bite",
+      "Faint Attack",
+      "Dragon Claw",
+      "Dragon Breath",
+      "Steel Wing",
+      "Metal Claw",
+      "Iron Tail",
+      "Meteor Mash",
+      "Signal Beam",
+      "Silver Wind",
+      "Megahorn",
+      "Twineedle"
+    ],
+    "support": [
+      "Toxic",
+      "Thunder Wave",
+      "Sleep Powder",
+      "Will O Wisp",
+      "Leech Seed",
+      "Recover",
+      "Rest",
+      "Synthesis",
+      "Soft Boiled",
+      "Moonlight",
+      "Morning Sun",
+      "Slack Off",
+      "Calm Mind",
+      "Swords Dance",
+      "Bulk Up",
+      "Agility",
+      "Dragon Dance",
+      "Curse",
+      "Growth",
+      "Iron Defense",
+      "Amnesia",
+      "Light Screen",
+      "Reflect",
+      "Substitute",
+      "Protect",
+      "Spikes",
+      "Roar",
+      "Whirlwind",
+      "Haze",
+      "Encore"
+    ]
+  },
+  "builds": {
+    "simple": {
+      "natures": [
+        "Hardy"
+      ],
+      "items": [
+        "None"
+      ],
+      "ev_spreads": [
+        {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        }
+      ]
+    },
+    "varied": {
+      "natures": [
+        "Adamant",
+        "Modest",
+        "Jolly",
+        "Timid",
+        "Bold",
+        "Calm",
+        "Careful",
+        "Impish"
+      ],
+      "items": [
+        "Leftovers",
+        "Lum Berry",
+        "Sitrus Berry",
+        "Chesto Berry"
+      ],
+      "ev_spreads": [
+        {
+          "hp": 4,
+          "atk": 252,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 252
+        },
+        {
+          "hp": 4,
+          "atk": 0,
+          "def": 0,
+          "spa": 252,
+          "spd": 0,
+          "spe": 252
+        },
+        {
+          "hp": 252,
+          "atk": 0,
+          "def": 252,
+          "spa": 0,
+          "spd": 4,
+          "spe": 0
+        },
+        {
+          "hp": 252,
+          "atk": 0,
+          "def": 4,
+          "spa": 0,
+          "spd": 252,
+          "spe": 0
+        }
+      ]
+    }
+  },
+  "split_fractions": {
+    "train": 0.55,
+    "validation": 0.15,
+    "heldout": 0.2,
+    "benchmark": 0.1
+  },
+  "training": {
+    "environments": 16,
+    "learning_rates": [
+      0.0001,
+      2e-05
+    ],
+    "ent_coef": 0.01,
+    "eval_every": 25000,
+    "validation_battles": 512,
+    "test_battles": 1000,
+    "calibration_battles": 200,
+    "early_stop_consecutive": 2,
+    "retention_max_drop": 0.1,
+    "max_truncation_rate": 0.01,
+    "rehearsal_weights": {
+      "current": 0.8,
+      "previous": 0.1,
+      "mirror": 0.1
+    }
+  },
+  "stages": [
+    {
+      "id": "04-type-matchups",
+      "species_pool": "intro",
+      "team_size": 3,
+      "counts": {
+        "train": 16,
+        "validation": 8,
+        "heldout": 16,
+        "benchmark": 0
+      },
+      "moves": {
+        "count": 2,
+        "attacks": 2,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": true
+      },
+      "build_mode": "simple",
+      "curated_fraction": 0.0,
+      "training": {
+        "timesteps": 200000,
+        "validation_win_rate": 0.65,
+        "heldout_win_rate": 0.6,
+        "max_steps": 100
+      }
+    },
+    {
+      "id": "05-move-coverage",
+      "species_pool": "coverage",
+      "team_size": 3,
+      "counts": {
+        "train": 48,
+        "validation": 16,
+        "heldout": 32,
+        "benchmark": 0
+      },
+      "moves": {
+        "count": 3,
+        "attacks": 3,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": false
+      },
+      "build_mode": "simple",
+      "curated_fraction": 0.0,
+      "training": {
+        "timesteps": 300000,
+        "validation_win_rate": 0.62,
+        "heldout_win_rate": 0.58,
+        "max_steps": 100
+      }
+    },
+    {
+      "id": "06-support-moves",
+      "species_pool": "support",
+      "team_size": 3,
+      "counts": {
+        "train": 96,
+        "validation": 24,
+        "heldout": 48,
+        "benchmark": 0
+      },
+      "moves": {
+        "count": 4,
+        "attacks": 2,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": false
+      },
+      "build_mode": "simple",
+      "curated_fraction": 0.0,
+      "training": {
+        "timesteps": 400000,
+        "validation_win_rate": 0.6,
+        "heldout_win_rate": 0.57,
+        "max_steps": 150
+      }
+    },
+    {
+      "id": "07-varied-builds",
+      "species_pool": "support",
+      "team_size": 3,
+      "counts": {
+        "train": 160,
+        "validation": 32,
+        "heldout": 64,
+        "benchmark": 0
+      },
+      "moves": {
+        "count": 4,
+        "attacks": 2,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": false
+      },
+      "build_mode": "varied",
+      "curated_fraction": 0.0,
+      "training": {
+        "timesteps": 500000,
+        "validation_win_rate": 0.58,
+        "heldout_win_rate": 0.55,
+        "max_steps": 150
+      }
+    },
+    {
+      "id": "08-four-pokemon",
+      "species_pool": "broad",
+      "team_size": 4,
+      "counts": {
+        "train": 256,
+        "validation": 48,
+        "heldout": 96,
+        "benchmark": 0
+      },
+      "moves": {
+        "count": 4,
+        "attacks": 2,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": false
+      },
+      "build_mode": "varied",
+      "curated_fraction": 0.0,
+      "training": {
+        "timesteps": 600000,
+        "validation_win_rate": 0.58,
+        "heldout_win_rate": 0.55,
+        "max_steps": 200
+      }
+    },
+    {
+      "id": "09-six-pokemon",
+      "species_pool": "broad",
+      "team_size": 6,
+      "counts": {
+        "train": 384,
+        "validation": 64,
+        "heldout": 128,
+        "benchmark": 0
+      },
+      "moves": {
+        "count": 4,
+        "attacks": 2,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": false
+      },
+      "build_mode": "varied",
+      "curated_fraction": 0.0,
+      "training": {
+        "timesteps": 800000,
+        "validation_win_rate": 0.56,
+        "heldout_win_rate": 0.55,
+        "max_steps": 250
+      }
+    },
+    {
+      "id": "10-broad-teams",
+      "species_pool": "broad",
+      "team_size": 6,
+      "counts": {
+        "train": 1024,
+        "validation": 128,
+        "heldout": 256,
+        "benchmark": 128
+      },
+      "moves": {
+        "count": 4,
+        "attacks": 2,
+        "attack_pool": "attacks",
+        "support_pool": "support",
+        "min_stab_power": 40,
+        "simple_stab_normal": false
+      },
+      "build_mode": "varied",
+      "curated_fraction": 0.35,
+      "training": {
+        "timesteps": 1000000,
+        "validation_win_rate": 0.55,
+        "heldout_win_rate": 0.55,
+        "max_steps": 300
+      }
+    }
+  ]
+}

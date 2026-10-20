@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 train 007",
+  "party": [
+    {
+      "species": "Alakazam",
+      "level": 50,
+      "moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Calm Mind",
+        "Psychic"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Timid",
+      "ivs": {
+        "hp": 20,
+        "atk": 27,
+        "def": 23,
+        "spa": 25,
+        "spd": 31,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    }
+  ]
+}

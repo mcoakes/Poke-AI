@@ -1,0 +1,302 @@
+{
+  "source_upload": "replacement-results.zip",
+  "source_sha256": "89c1347f9db7dca16bd1a2b42142cabe1a6f26837f9ca32586b420d5e53a35ce",
+  "verified_checks": 20,
+  "requested_battles": 20000,
+  "truncated": 0,
+  "all_saved_episode_audit_trace_evidence_verified": true,
+  "candidate_only_bench_reversal_verified": true,
+  "weights_uploaded": false,
+  "models": {
+    "best": {
+      "checkpoint": "inputs/models/matchup-best.zip",
+      "sha256": "7390c23b573dd9a73c8f2ab9c5cff625fbf6226f12e642125019044be45bf5bf",
+      "timesteps": 501760
+    },
+    "final": {
+      "checkpoint": "inputs/models/matchup-final.zip",
+      "sha256": "df5682b1595ebb31f516b0a197b5b1d026050950bafbda7029abcbcef367f573",
+      "timesteps": 1000448
+    }
+  },
+  "comparisons": [
+    {
+      "checkpoint": "best",
+      "pool": "seen",
+      "original_ppo": {
+        "wins": 430,
+        "requested": 1000,
+        "rate": 0.43,
+        "replacement_counts": {
+          "replacement_eligible": 994,
+          "replacement_actual_lowest_legal": 994,
+          "replacement_base_lowest_legal": 994,
+          "replacement_base_rules_disagreements": 503,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "original_rules-forced": {
+        "wins": 446,
+        "requested": 1000,
+        "rate": 0.446,
+        "replacement_counts": {
+          "replacement_eligible": 994,
+          "replacement_actual_lowest_legal": 491,
+          "replacement_base_lowest_legal": 994,
+          "replacement_base_rules_disagreements": 503,
+          "replacement_override_eligible": 994,
+          "replacement_overrides_changed": 503
+        }
+      },
+      "reversed_ppo": {
+        "wins": 376,
+        "requested": 1000,
+        "rate": 0.376,
+        "replacement_counts": {
+          "replacement_eligible": 994,
+          "replacement_actual_lowest_legal": 994,
+          "replacement_base_lowest_legal": 994,
+          "replacement_base_rules_disagreements": 491,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "reversed_rules-forced": {
+        "wins": 442,
+        "requested": 1000,
+        "rate": 0.442,
+        "replacement_counts": {
+          "replacement_eligible": 994,
+          "replacement_actual_lowest_legal": 503,
+          "replacement_base_lowest_legal": 994,
+          "replacement_base_rules_disagreements": 491,
+          "replacement_override_eligible": 994,
+          "replacement_overrides_changed": 491
+        }
+      }
+    },
+    {
+      "checkpoint": "best",
+      "pool": "heldout",
+      "original_ppo": {
+        "wins": 360,
+        "requested": 1000,
+        "rate": 0.36,
+        "replacement_counts": {
+          "replacement_eligible": 991,
+          "replacement_actual_lowest_legal": 991,
+          "replacement_base_lowest_legal": 991,
+          "replacement_base_rules_disagreements": 450,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "original_rules-forced": {
+        "wins": 408,
+        "requested": 1000,
+        "rate": 0.408,
+        "replacement_counts": {
+          "replacement_eligible": 991,
+          "replacement_actual_lowest_legal": 541,
+          "replacement_base_lowest_legal": 991,
+          "replacement_base_rules_disagreements": 450,
+          "replacement_override_eligible": 991,
+          "replacement_overrides_changed": 450
+        }
+      },
+      "reversed_ppo": {
+        "wins": 374,
+        "requested": 1000,
+        "rate": 0.374,
+        "replacement_counts": {
+          "replacement_eligible": 991,
+          "replacement_actual_lowest_legal": 991,
+          "replacement_base_lowest_legal": 991,
+          "replacement_base_rules_disagreements": 531,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "reversed_rules-forced": {
+        "wins": 408,
+        "requested": 1000,
+        "rate": 0.408,
+        "replacement_counts": {
+          "replacement_eligible": 991,
+          "replacement_actual_lowest_legal": 460,
+          "replacement_base_lowest_legal": 991,
+          "replacement_base_rules_disagreements": 531,
+          "replacement_override_eligible": 991,
+          "replacement_overrides_changed": 531
+        }
+      }
+    },
+    {
+      "checkpoint": "final",
+      "pool": "seen",
+      "original_ppo": {
+        "wins": 504,
+        "requested": 1000,
+        "rate": 0.504,
+        "replacement_counts": {
+          "replacement_eligible": 989,
+          "replacement_actual_lowest_legal": 615,
+          "replacement_base_lowest_legal": 615,
+          "replacement_base_rules_disagreements": 434,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "original_rules-forced": {
+        "wins": 533,
+        "requested": 1000,
+        "rate": 0.533,
+        "replacement_counts": {
+          "replacement_eligible": 989,
+          "replacement_actual_lowest_legal": 415,
+          "replacement_base_lowest_legal": 615,
+          "replacement_base_rules_disagreements": 434,
+          "replacement_override_eligible": 989,
+          "replacement_overrides_changed": 434
+        }
+      },
+      "reversed_ppo": {
+        "wins": 470,
+        "requested": 1000,
+        "rate": 0.47,
+        "replacement_counts": {
+          "replacement_eligible": 987,
+          "replacement_actual_lowest_legal": 672,
+          "replacement_base_lowest_legal": 672,
+          "replacement_base_rules_disagreements": 435,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "reversed_rules-forced": {
+        "wins": 514,
+        "requested": 1000,
+        "rate": 0.514,
+        "replacement_counts": {
+          "replacement_eligible": 987,
+          "replacement_actual_lowest_legal": 403,
+          "replacement_base_lowest_legal": 672,
+          "replacement_base_rules_disagreements": 435,
+          "replacement_override_eligible": 987,
+          "replacement_overrides_changed": 435
+        }
+      }
+    },
+    {
+      "checkpoint": "final",
+      "pool": "heldout",
+      "original_ppo": {
+        "wins": 406,
+        "requested": 1000,
+        "rate": 0.406,
+        "replacement_counts": {
+          "replacement_eligible": 973,
+          "replacement_actual_lowest_legal": 834,
+          "replacement_base_lowest_legal": 834,
+          "replacement_base_rules_disagreements": 422,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "original_rules-forced": {
+        "wins": 450,
+        "requested": 1000,
+        "rate": 0.45,
+        "replacement_counts": {
+          "replacement_eligible": 973,
+          "replacement_actual_lowest_legal": 476,
+          "replacement_base_lowest_legal": 834,
+          "replacement_base_rules_disagreements": 422,
+          "replacement_override_eligible": 973,
+          "replacement_overrides_changed": 422
+        }
+      },
+      "reversed_ppo": {
+        "wins": 410,
+        "requested": 1000,
+        "rate": 0.41,
+        "replacement_counts": {
+          "replacement_eligible": 980,
+          "replacement_actual_lowest_legal": 860,
+          "replacement_base_lowest_legal": 860,
+          "replacement_base_rules_disagreements": 497,
+          "replacement_override_eligible": 0,
+          "replacement_overrides_changed": 0
+        }
+      },
+      "reversed_rules-forced": {
+        "wins": 446,
+        "requested": 1000,
+        "rate": 0.446,
+        "replacement_counts": {
+          "replacement_eligible": 980,
+          "replacement_actual_lowest_legal": 453,
+          "replacement_base_lowest_legal": 860,
+          "replacement_base_rules_disagreements": 497,
+          "replacement_override_eligible": 980,
+          "replacement_overrides_changed": 497
+        }
+      }
+    }
+  ],
+  "paired_contrasts": [
+    {
+      "left": "best-seen-original-ppo",
+      "right": "best-seen-original-rules-forced",
+      "difference_pp": 1.6,
+      "paired_bootstrap_95_percent_pp": [
+        -0.7000000000000001,
+        3.9
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261019
+    },
+    {
+      "left": "best-heldout-original-ppo",
+      "right": "best-heldout-original-rules-forced",
+      "difference_pp": 4.8,
+      "paired_bootstrap_95_percent_pp": [
+        2.7,
+        6.902499999999782
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261020
+    },
+    {
+      "left": "final-seen-original-ppo",
+      "right": "final-seen-original-rules-forced",
+      "difference_pp": 2.9000000000000004,
+      "paired_bootstrap_95_percent_pp": [
+        0.7000000000000001,
+        5.0
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261021
+    },
+    {
+      "left": "final-heldout-original-ppo",
+      "right": "final-heldout-original-rules-forced",
+      "difference_pp": 4.3999999999999995,
+      "paired_bootstrap_95_percent_pp": [
+        2.4,
+        6.5
+      ],
+      "clusters": 500,
+      "resamples": 20000,
+      "seed": 20261022
+    }
+  ],
+  "uncertainty_scope": "Conditional on these frozen checkpoints and reused team pools; preserve both candidate seats within original matchup/seed clusters. Not across-training-seed uncertainty.",
+  "minimum_available_ram_gib": 27.71605682373047,
+  "maximum_swap_used_kib": 0,
+  "next_experiment": "Same validation-best initialization+optimizer; ordinary continuation versus randomized candidate bench order. Leads/canonical sampling/reward/PPO/fixed-mirror rehearsal unchanged."
+}

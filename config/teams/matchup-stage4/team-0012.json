@@ -1,0 +1,83 @@
+{
+  "name": "04-type-matchups-train-0012",
+  "party": [
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Blizzard",
+        "Strength"
+      ],
+      "nature": "Hardy",
+      "species": "Lapras"
+    },
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Double Edge"
+      ],
+      "nature": "Hardy",
+      "species": "Dodrio"
+    },
+    {
+      "evs": {
+        "atk": 0,
+        "def": 0,
+        "hp": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "held_item": "None",
+      "ivs": {
+        "atk": 31,
+        "def": 31,
+        "hp": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Fire Blast"
+      ],
+      "nature": "Hardy",
+      "species": "Arcanine"
+    }
+  ]
+}

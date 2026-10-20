@@ -1,0 +1,145 @@
+{
+  "name": "Generalization 10 unseen_species 011",
+  "party": [
+    {
+      "species": "Octillery",
+      "level": 50,
+      "moves": [
+        "Blizzard",
+        "Constrict",
+        "Waterfall",
+        "Bubble Beam"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 22,
+        "atk": 22,
+        "def": 26,
+        "spa": 31,
+        "spd": 29,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Granbull",
+      "level": 50,
+      "moves": [
+        "Solar Beam",
+        "Rock Smash",
+        "Faint Attack",
+        "Take Down"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 27,
+        "def": 29,
+        "spa": 21,
+        "spd": 30,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Armaldo",
+      "level": 50,
+      "moves": [
+        "Body Slam",
+        "Dig",
+        "Slash",
+        "Secret Power"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 29,
+        "def": 20,
+        "spa": 28,
+        "spd": 27,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Xatu",
+      "level": 50,
+      "moves": [
+        "Double Edge",
+        "Leer",
+        "Hyper Beam",
+        "Rest"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 27,
+        "def": 22,
+        "spa": 22,
+        "spd": 23,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Bellossom",
+      "level": 50,
+      "moves": [
+        "Magical Leaf",
+        "Frustration",
+        "Swords Dance",
+        "Flail"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 22,
+        "atk": 23,
+        "def": 31,
+        "spa": 24,
+        "spd": 24,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

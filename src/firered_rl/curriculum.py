@@ -1,5 +1,6 @@
 """Cumulative team pools, repeatable validation, and explicit promotion rules."""
 import copy
+from dataclasses import asdict
 import json
 import math
 from pathlib import Path
@@ -26,7 +27,24 @@ def write_json(path, value):
     temporary.replace(path)
 
 
-def load_curriculum(path):
+def team_groups(paths):
+    """Accept legacy one-file stages as well as explicit groups of team files."""
+    return [[Path(p)] if isinstance(p, (str, Path)) else [Path(q) for q in p] for p in paths]
+
+
+def party_signature(path):
+    """Ignore labels and ordering when detecting train/validation leakage."""
+    members = []
+    for mon in TeamSpec.load(path).party:
+        row = asdict(mon)
+        row["moves"] = sorted(m.lower().replace(" ", "") for m in mon.moves)
+        row["species"] = mon.species.lower().replace(" ", "")
+        row["held_item"] = mon.held_item.lower().replace(" ", "")
+        members.append(json.dumps(row, sort_keys=True))
+    return digest(sorted(members))
+
+
+def load_curriculum(path, *, grouped=False):
     path = Path(path).expanduser().resolve()
     value = read_json(path)
     stages = value.get("stages", [])
@@ -40,13 +58,55 @@ def load_curriculum(path):
     switch_settings(**switches)
     if [s.get("stage") for s in stages] != list(range(1, len(stages) + 1)):
         raise ValueError("curriculum stages must be numbered consecutively from 1")
-    paths = [(path.parent / s["team"]).resolve() for s in stages]
-    paths.append((path.parent / value["next_team"]).resolve())
+    def resolve(entry, file_key, dir_key):
+        if sum(key in entry for key in (file_key, dir_key)) != 1:
+            raise ValueError(f"specify exactly one of {file_key} or {dir_key}")
+        key = file_key if file_key in entry else dir_key
+        source = entry[key]
+        if not isinstance(source, str) or not source.strip():
+            raise ValueError(f"{key} must be a nonempty path relative to the curriculum")
+        source = (path.parent / source).resolve()
+        if key == file_key:
+            files = [source]
+        else:
+            if not source.is_dir():
+                raise ValueError(f"team directory does not exist: {source}")
+            files = sorted(p.resolve() for p in source.rglob("*.json") if p.is_file())
+            if not files:
+                raise ValueError(f"no team JSON files in {source}")
+            if any(not p.is_relative_to(source) for p in files):
+                raise ValueError(f"team directory contains a symlink outside its root: {source}")
+        for team in files:
+            try:
+                spec = TeamSpec.load(team)
+                if any(len(mon.moves) != 4 for mon in spec.party):
+                    raise ValueError("curriculum Pokemon need four moves")
+            except (ValueError, OSError, TypeError, AttributeError) as exc:
+                raise ValueError(f"invalid curriculum team {team}: {exc}") from exc
+        return files
+
+    groups = [resolve(s, "team", "team_dir") for s in stages]
+    groups.append(resolve(value, "next_team", "next_team_dir"))
+    paths = [p for group in groups for p in group]
     if len(set(paths)) != len(paths):
-        raise ValueError("each stage and the final validation team need distinct files")
-    for team in paths:
-        if any(len(mon.moves) != 4 for mon in TeamSpec.load(team).party):
-            raise ValueError(f"curriculum Pokemon need four moves: {team}")
+        raise ValueError("each stage and the final validation group need distinct files")
+    has_validation = ["validation_dir" in s or "validation_team" in s for s in stages]
+    if any(has_validation) and not all(has_validation):
+        raise ValueError("provide validation_dir or validation_team for every stage, or none")
+    validation = None
+    if all(has_validation):
+        validation = [resolve(s, "validation_team", "validation_dir") for s in stages]
+        validation.append(groups[-1])
+        training = {p for group in groups[:-1] for p in group}
+        held_out = [p for group in validation for p in group]
+        if len(set(held_out)) != len(held_out) or training.intersection(held_out):
+            raise ValueError("training and validation groups must use distinct files")
+        signatures = {party_signature(p) for p in training}
+        for team in held_out:
+            if party_signature(team) in signatures:
+                raise ValueError(f"validation duplicates a training party (ignoring names/order): {team}")
+    if grouped:
+        return value, groups, validation
     return value, paths
 
 
@@ -60,18 +120,21 @@ def validate_rules(value):
 
 
 def stage_suites(paths, *, stage, episodes, seed, max_steps):
-    """Expanded suite: half retained matchups, half explicitly involving the new team.
+    """Expanded suite: half retained matchups, half involving the next group.
 
     Retained cases are reused from the current suite. Both candidate seats use
     identical teams and RNG. The incoming team never enters the training pool.
     """
     if episodes < 4 or episodes % 4:
         raise ValueError("--eval-episodes must be a positive multiple of four")
-    if not 1 <= stage < len(paths):
+    groups = team_groups(paths)
+    if not 1 <= stage < len(groups) or any(not g for g in groups[:stage+1]):
         raise ValueError("stage needs its current teams and one next-team probe")
+    current_count = sum(len(g) for g in groups[:stage])
+    paths = [p for group in groups[:stage+1] for p in group]
     assets = {}
     keys = []
-    for path in paths[:stage+1]:
+    for path in paths:
         asset = dict(team=read_json(path))
         key = digest(asset)
         keys.append(key)
@@ -81,10 +144,12 @@ def stage_suites(paths, *, stage, episodes, seed, max_steps):
     def paired_cases(matchups, cohort):
         cases = []
         # Shuffle a balanced cycle of team pairs; extra pairs repeat the cycle.
-        combinations = [(a, b) for a in range(stage) for b in range(stage)]
+        combinations = [(a, b) for a in range(current_count) for b in range(current_count)]
         if cohort == "incoming":
-            combinations = [(i, stage) for i in range(stage)] + [(stage, i) for i in range(stage)]
-            combinations.append((stage, stage))
+            incoming = range(current_count, len(paths))
+            combinations = ([(i, j) for i in range(current_count) for j in incoming]
+                            + [(j, i) for j in incoming for i in range(current_count)]
+                            + [(a, b) for a in incoming for b in incoming])
         for i in range(matchups):
             if i % len(combinations) == 0:
                 rng.shuffle(combinations)
@@ -177,8 +242,13 @@ def promotion_report(before_current, before_expanded, current, expanded, rules):
 
 
 def report_markdown(report):
+    teams = ""
+    if "training_teams" in report:
+        kind = "held-out validation" if report.get("held_out_validation") else "evaluation"
+        teams = f"Teams: {report['training_teams']} training; {report['evaluation_teams']} {kind}."
     if report.get("mode") == "mixed-evaluation":
         lines = [f"# Stage {report['stage']} — {report['status'].upper()}", "",
+                 teams, "",
                  f"Rules revision: {report.get('settings_revision', 0)}; promotion requires **{report['promotion_require']}** groups.", "",
                  "| Opponent group | Wins / attempts | Win rate |", "|---|---:|---:|"]
         for group in ("random", "dumb", "basic", "smart"):
@@ -194,10 +264,11 @@ def report_markdown(report):
     if report.get("mode") == "battle-budget":
         rates = report["current"]["all"]
         return (f"# Stage {report['stage']} — {report['status'].upper()}\n\n"
+                f"{teams}\n\n"
                 f"Wins: {rates['wins']} / {rates['attempts']} ({report['win_rate']:.1%}).\n\n"
                 f"Candidate: `{report['candidate']}`\n\nFrozen opponent: `{report['opponent']['path']}`\n\n"
                 "Draws and truncations count as non-wins. See campaign evaluations.md for all attempts.\n")
-    lines = [f"# Stage {report['stage']} — {report['status'].upper()}", "",
+    lines = [f"# Stage {report['stage']} — {report['status'].upper()}", "", teams, "",
              f"Candidate: `{report['candidate']}`", ""]
     if opponent := report.get("opponent"):
         source = (f"promoted stage {opponent['source_stage']}" if opponent["source_stage"] is not None

@@ -1,0 +1,33 @@
+{
+  "name": "Generalization 10 validation 001",
+  "party": [
+    {
+      "species": "Rapidash",
+      "level": 50,
+      "moves": [
+        "Growl",
+        "Facade",
+        "Solar Beam",
+        "Attract"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 21,
+        "def": 20,
+        "spa": 30,
+        "spd": 24,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    }
+  ]
+}

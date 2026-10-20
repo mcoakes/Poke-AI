@@ -19,9 +19,12 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--rom", required=True, type=Path, help="Supported FireRed v1.0 ROM")
     parser.add_argument("--source", required=True, type=Path, help="Existing battery .sav with Oak's Parcel delivered")
-    parser.add_argument("--checkpoint", type=Path, help="Preselect a checkpoint path or latest; otherwise prefer Smart v10 from models/")
+    models = parser.add_mutually_exclusive_group()
+    models.add_argument("--checkpoint", type=Path, help="Preselect a checkpoint path or latest; otherwise prefer Smart v10 from models/")
+    models.add_argument("--model-list", type=Path,
+                        help="Classroom model-list JSON; replaces model autodiscovery with its choices and default")
     parser.add_argument("--checkpoint-dir", type=Path, default=root / ".local/run",
-                        help="List up to 200 recent checkpoint ZIPs here, plus all models/ ZIPs (default: .local/run)")
+                        help="List up to 200 recent checkpoint ZIPs here, plus all models/ ZIPs (default: .local/run); ignored with --model-list")
     parser.add_argument("--emulator", type=Path, default=root / ".local/mgba/bin/mgba-qt")
     parser.add_argument("--port", type=int, default=8080, help="Local web port (default: 8080)")
     parser.add_argument("--ports", type=int, nargs=2, default=[55365, 55366], help="mGBA adapter ports (default: 55365 55366)")
@@ -37,7 +40,7 @@ def main():
     parser.add_argument("--no-browser", action="store_true", help="Print the local URL without opening the browser")
     args = parser.parse_args()
     try:
-        for name in ("rom", "source", "emulator", "checkpoint", "checkpoint_dir"):
+        for name in ("rom", "source", "emulator", "checkpoint", "checkpoint_dir", "model_list"):
             value = getattr(args, name)
             if value is not None and not (name == "checkpoint" and is_latest(value)):
                 setattr(args, name, value.expanduser().resolve())

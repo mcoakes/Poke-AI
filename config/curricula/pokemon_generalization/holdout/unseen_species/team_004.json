@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 unseen_species 004",
+  "party": [
+    {
+      "species": "Octillery",
+      "level": 50,
+      "moves": [
+        "Aurora Beam",
+        "Secret Power",
+        "Blizzard",
+        "Surf"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Modest",
+      "ivs": {
+        "hp": 23,
+        "atk": 29,
+        "def": 27,
+        "spa": 26,
+        "spd": 30,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Cradily",
+      "level": 50,
+      "moves": [
+        "Amnesia",
+        "Hyper Beam",
+        "Spit Up",
+        "Double Edge"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 22,
+        "spa": 20,
+        "spd": 23,
+        "spe": 22
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Granbull",
+      "level": 50,
+      "moves": [
+        "Seismic Toss",
+        "Scary Face",
+        "Rain Dance",
+        "Faint Attack"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 24,
+        "def": 31,
+        "spa": 27,
+        "spd": 21,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Donphan",
+      "level": 50,
+      "moves": [
+        "Rock Tomb",
+        "Double Edge",
+        "Sandstorm",
+        "Secret Power"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 21,
+        "atk": 23,
+        "def": 28,
+        "spa": 20,
+        "spd": 31,
+        "spe": 21
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

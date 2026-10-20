@@ -1,0 +1,117 @@
+{
+  "name": "Generalization 10 validation 004",
+  "party": [
+    {
+      "species": "Dusclops",
+      "level": 50,
+      "moves": [
+        "Foresight",
+        "Mean Look",
+        "Frustration",
+        "Thief"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 31,
+        "def": 22,
+        "spa": 24,
+        "spd": 30,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Golem",
+      "level": 50,
+      "moves": [
+        "Rock Slide",
+        "Double Edge",
+        "Earthquake",
+        "Explosion"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 27,
+        "def": 29,
+        "spa": 28,
+        "spd": 25,
+        "spe": 20
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Metang",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Sunny Day",
+        "Rock Tomb",
+        "Double Edge"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 24,
+        "atk": 29,
+        "def": 25,
+        "spa": 28,
+        "spd": 31,
+        "spe": 23
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Dunsparce",
+      "level": 50,
+      "moves": [
+        "Headbutt",
+        "Mimic",
+        "Fire Blast",
+        "Glare"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 23,
+        "atk": 31,
+        "def": 29,
+        "spa": 23,
+        "spd": 27,
+        "spe": 25
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

@@ -21,6 +21,11 @@ with mGBA's keyboard/gamepad bindings; a saved PPO policy controls the other.
 The policy loads once and never learns or overwrites its checkpoint during play.
 A model trained with either backend uses this same inference interface.
 
+Both v1 and v2 checkpoints are accepted. V2 requires adapter 0.19.0 on both
+linked players; restart the emulators after extracting the update. See
+[native v2 fields and verification](mgba-observation-v2.md). This Python/Lua
+update requires no additional emulator rebuild.
+
 ```bash
 python mgba/play_agent.py --rom "$PWD/FireRed.gba" \
   --checkpoint checkpoints/latest.zip \

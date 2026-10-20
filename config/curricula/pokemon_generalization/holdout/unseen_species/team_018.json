@@ -1,0 +1,173 @@
+{
+  "name": "Generalization 10 unseen_species 018",
+  "party": [
+    {
+      "species": "Bellossom",
+      "level": 50,
+      "moves": [
+        "Hyper Beam",
+        "Cut",
+        "Rest",
+        "Solar Beam"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 26,
+        "def": 25,
+        "spa": 29,
+        "spd": 27,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Armaldo",
+      "level": 50,
+      "moves": [
+        "Slash",
+        "Seismic Toss",
+        "Double Edge",
+        "Dig"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 28,
+        "atk": 23,
+        "def": 25,
+        "spa": 23,
+        "spd": 29,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Lanturn",
+      "level": 50,
+      "moves": [
+        "Thunderbolt",
+        "Secret Power",
+        "Double Team",
+        "Attract"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 26,
+        "atk": 25,
+        "def": 30,
+        "spa": 24,
+        "spd": 31,
+        "spe": 26
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Sandslash",
+      "level": 50,
+      "moves": [
+        "Thief",
+        "Rest",
+        "Rapid Spin",
+        "Sunny Day"
+      ],
+      "held_item": "Choice Band",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 31,
+        "atk": 24,
+        "def": 24,
+        "spa": 29,
+        "spd": 27,
+        "spe": 27
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "Xatu",
+      "level": 50,
+      "moves": [
+        "Psychic",
+        "Night Shade",
+        "Confuse Ray",
+        "Return"
+      ],
+      "held_item": "Lum Berry",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 20,
+        "atk": 30,
+        "def": 21,
+        "spa": 30,
+        "spd": 27,
+        "spe": 29
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      }
+    },
+    {
+      "species": "Donphan",
+      "level": 50,
+      "moves": [
+        "Tackle",
+        "Odor Sleuth",
+        "Ancient Power",
+        "Facade"
+      ],
+      "held_item": "Leftovers",
+      "nature": "Adamant",
+      "ivs": {
+        "hp": 25,
+        "atk": 22,
+        "def": 25,
+        "spa": 30,
+        "spd": 20,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    }
+  ]
+}

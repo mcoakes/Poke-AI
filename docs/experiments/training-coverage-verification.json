@@ -1,0 +1,236 @@
+{
+  "scope": "Real Showdown operational smoke with tiny models; not user-model learning gains or GUI verification",
+  "jobs": 2,
+  "training_added_steps_per_arm": 256,
+  "checks": [
+    {
+      "label": "checks/imported-start-seen-original",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-seen-reversed",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-heldout-original",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-heldout-reversed",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/imported-start-mirror",
+      "battles": 8,
+      "imported": true
+    },
+    {
+      "label": "checks/small-pool-best-seen-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-best-seen-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-best-heldout-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-best-heldout-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-best-mirror",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-final-seen-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-final-seen-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-final-heldout-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-final-heldout-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/small-pool-final-mirror",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-best-seen-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-best-seen-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-best-heldout-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-best-heldout-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-best-mirror",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-final-seen-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-final-seen-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-final-heldout-original",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-final-heldout-reversed",
+      "battles": 8,
+      "imported": false
+    },
+    {
+      "label": "checks/balanced-pool-final-mirror",
+      "battles": 8,
+      "imported": false
+    }
+  ],
+  "new_check_battles": 160,
+  "imported_check_battles": 40,
+  "truncated": 0,
+  "source_preserved": true,
+  "identical_initial_checkpoint_bytes": true,
+  "feature_flags_and_actual_group_mixtures_verified": true,
+  "exact_species_and_position_balance": true,
+  "source_compositions_excluded": true,
+  "unchanged_selection_with_fallback_guard": true,
+  "no_rules_assistance": true,
+  "seven_export_hashes_verified": true,
+  "all_saved_episode_and_audit_evidence_verified": true,
+  "completed_continuation_no_training_restarted": true,
+  "completed_continuation_inputs_models_runs_checks_logs_unchanged": true,
+  "team_inspector_verified": true,
+  "reports_and_archive_present": true,
+  "memory_recorded": true,
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": 0,
+      "log": "training-coverage-smoke-run-1.log"
+    }
+  ],
+  "unit_tests": {
+    "passed": 49,
+    "seconds": 20.02,
+    "files": [
+      "tests/test_balanced_training_pool.py",
+      "tests/test_training_coverage.py"
+    ]
+  },
+  "actual_uploaded_pool_generation": {
+    "teams": 96,
+    "species_counts": {
+      "Alakazam": 24,
+      "Arcanine": 24,
+      "Blastoise": 24,
+      "Dodrio": 24,
+      "Golem": 24,
+      "Lapras": 24,
+      "Machamp": 24,
+      "Raichu": 24,
+      "Sceptile": 24,
+      "Typhlosion": 24,
+      "Vaporeon": 24,
+      "Venusaur": 24
+    },
+    "slot_counts": {
+      "0": {
+        "Alakazam": 8,
+        "Arcanine": 8,
+        "Blastoise": 8,
+        "Dodrio": 8,
+        "Golem": 8,
+        "Lapras": 8,
+        "Machamp": 8,
+        "Raichu": 8,
+        "Sceptile": 8,
+        "Typhlosion": 8,
+        "Vaporeon": 8,
+        "Venusaur": 8
+      },
+      "1": {
+        "Alakazam": 8,
+        "Arcanine": 8,
+        "Blastoise": 8,
+        "Dodrio": 8,
+        "Golem": 8,
+        "Lapras": 8,
+        "Machamp": 8,
+        "Raichu": 8,
+        "Sceptile": 8,
+        "Typhlosion": 8,
+        "Vaporeon": 8,
+        "Venusaur": 8
+      },
+      "2": {
+        "Alakazam": 8,
+        "Arcanine": 8,
+        "Blastoise": 8,
+        "Dodrio": 8,
+        "Golem": 8,
+        "Lapras": 8,
+        "Machamp": 8,
+        "Raichu": 8,
+        "Sceptile": 8,
+        "Typhlosion": 8,
+        "Vaporeon": 8,
+        "Venusaur": 8
+      }
+    },
+    "eligible_compositions": 179,
+    "composition_search": {
+      "restart": 0,
+      "swaps": 7
+    },
+    "excluded_compositions": 41
+  },
+  "limitations": [
+    "Uploaded model weights absent; next runner rehashes actual models on the user machine.",
+    "Smoke is operational verification, not a claimed learning gain.",
+    "ROM, save and GUI require rehearsal on the event machine."
+  ]
+}
